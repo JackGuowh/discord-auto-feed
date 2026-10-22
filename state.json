@@ -155,7 +155,8 @@
   "wscn:3183109",
   "wscn:3183161",
   "wscn:3183167",
-  "wscn:3183166"
+  "wscn:3183166",
+  "wscn:3183171"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -238,9 +239,9 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792642474.0619566,
+ "congress_last_check": 1792644292.3189857,
  "scheduler": [],
- "earnings_last_check": 1792644097.387419,
+ "earnings_last_check": 1792644952.6567557,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -295,7 +296,7 @@
   "er:2026-10-21:TRST",
   "er:2026-10-21:UNB"
  ],
- "gas_last_check": 1792642972.0218303,
+ "gas_last_check": 1792644173.402044,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -366,5 +367,6 @@
   "SPIE Advanced Lithography + Patterning 2027|180",
   "SPIE Photonics West 2027|180",
   "Space Symposium 2027|180"
- ]
+ ],
+ "shows_v2": 1
 }
