@@ -20,25 +20,20 @@ TRUMP_FEED = "https://www.trumpstruth.org/feed"
 TRUMP_INCLUDE_REPOSTS = False   # 是否推送转帖
 WHITEHOUSE_FEED = "https://www.whitehouse.gov/news/feed/"
 
-# ===== 📈 市场指标（收盘后推送）=====
-# (Yahoo 代码, 显示名称)
-MARKET_SYMBOLS = [
-    ("^GSPC", "标普500"),
-    ("^IXIC", "纳斯达克"),
-    ("^DJI", "道琼斯"),
-    ("^RUT", "罗素2000"),
-    ("^VIX", "VIX 恐慌指数"),
-    ("^TNX", "10年期美债收益率"),
-    ("DX-Y.NYB", "美元指数"),
-    ("GC=F", "黄金"),
-    ("CL=F", "WTI 原油"),
-    ("BTC-USD", "比特币"),
-]
-# 重点个股（可自行增删）
-WATCHLIST = ["NVDA", "AAPL", "MSFT", "TSLA", "AMZN", "META", "GOOGL"]
+# ===== 📈 市场指标 =====
+# 盘前推一次恐惧贪婪指数；收盘后推恐惧贪婪指数 + Reddit 24H 热度榜
+REDDIT_TOP_N = 20                    # 热度榜显示前几名
 
-# ===== 📅 每周预告 =====
-CAL_COUNTRIES = ["USD"]              # 经济数据国家，例如加上 "CNY"
-CAL_IMPACTS = ["High", "Medium"]     # High=高影响, Medium=中等
-EARNINGS_MIN_MARKET_CAP = 50e9       # 只列市值 ≥ 500 亿美元的公司财报
-EARNINGS_MAX_PER_DAY = 12
+# ===== 📅 每周预告（周日推送两条：下周财报 + 下周财经日历）=====
+WEEKLY_MENTION_EVERYONE = False      # 推送时是否 @everyone
+# 财经日历时区（成员主要在国内就用北京时间；想用美东时间改成 America/New_York）
+CAL_TZ = "Asia/Shanghai"
+CAL_TZ_LABEL = "北京时间"
+# 数据来源：华尔街见闻财经日历。重要度 1=低 2=中 3=高 4=极高
+CAL_DATA_COUNTRIES = ["US"]          # 这些国家的经济数据，重要度 ≥ 2 就列出
+CAL_DATA_MIN_IMPORTANCE = 2
+CAL_OTHER_MIN_IMPORTANCE = 3         # 其他国家的数据 / 各类事件，重要度 ≥ 3 才列出
+CAL_HIGHLIGHT_IMPORTANCE = 3         # 重要度 ≥ 3 的高亮显示
+CAL_EARNINGS_PER_DAY = 8             # 日历图里每天列出的热门财报数量
+# 财报来源：Earnings Whispers「Most Anticipated Earnings Releases」
+EARNINGS_MAX_TICKERS = 60            # 财报帖里最多列出多少个代码

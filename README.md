@@ -7,8 +7,8 @@
 | 突发新闻（中文快讯） | ⚡突发新闻 | 约每 1 分钟 | 华尔街见闻 7x24、FT中文网 | `WEBHOOK_NEWS` |
 | 川普 Truth Social（机翻） | 🦅川普专区 | 约每 1 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
 | 白宫新闻稿（机翻） | 🏛️白宫内幕 | 约每 1 分钟 | whitehouse.gov | `WEBHOOK_WHITEHOUSE`（可选，不填则发到川普频道） |
-| 收盘市场指标 | 📈市场指标 | 交易日收盘后 | Yahoo Finance、CNN 恐贪指数 | `WEBHOOK_MARKET` |
-| 每周预告 | 📅每周预告 | 每周日傍晚 | Forex Factory、Nasdaq | `WEBHOOK_CALENDAR` |
+| 恐惧贪婪指数 + Reddit 24H 热度榜 | 📈市场指标 | 交易日盘前 / 收盘后 | CNN、ApeWisdom | `WEBHOOK_MARKET` |
+| 下周财报 + 下周财经日历（图片） | 📅每周预告 | 每周日傍晚（美东） | Earnings Whispers、华尔街见闻 | `WEBHOOK_CALENDAR` |
 
 ## 部署步骤
 
@@ -36,8 +36,9 @@
 - `NEWS_KEYWORDS`：只推含关键词的新闻，如 `["美联储", "英伟达"]`
 - `NEWS_RSS`：增删中文 RSS 新闻源
 - `TRUMP_INCLUDE_REPOSTS`：是否推送川普转帖
-- `MARKET_SYMBOLS` / `WATCHLIST`：指标和重点个股
-- `CAL_COUNTRIES` / `CAL_IMPACTS` / `EARNINGS_MIN_MARKET_CAP`：日历过滤条件
+- `REDDIT_TOP_N`：热度榜显示前几名
+- `CAL_TZ` / `CAL_DATA_COUNTRIES` / `CAL_*_IMPORTANCE`：财经日历的时区和筛选条件
+- `WEEKLY_MENTION_EVERYONE`：每周预告是否 @everyone
 
 ## 注意
 - GitHub 定时任务高峰期可能延迟 5–20 分钟，不是秒级推送。

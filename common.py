@@ -95,9 +95,11 @@ def now_et():
 
 
 # ---------------- Discord 推送 ----------------
-def post(webhook_env, content=None, embeds=None, username=None, avatar_url=None):
-    """往 Discord Webhook 发一条消息。webhook_env 是存放 Webhook 链接的环境变量名。"""
-    payload = {"allowed_mentions": {"parse": []}}
+def post(webhook_env, content=None, embeds=None, username=None, avatar_url=None,
+         files=None, mention_everyone=False):
+    """往 Discord Webhook 发一条消息。webhook_env 是存放 Webhook 链接的环境变量名。
+    files: [(文件名, bytes)]，embed 里可用 attachment://文件名 引用图片。"""
+    payload = {"allowed_mentions": {"parse": ["everyone"] if mention_everyone else []}}
     if content:
         payload["content"] = clip(content, 2000)
     if embeds:
@@ -113,10 +115,20 @@ def post(webhook_env, content=None, embeds=None, username=None, avatar_url=None)
             print(f"[warn] 环境变量 {webhook_env} 未设置，改为只打印")
         print(f"----- [{webhook_env}] -----")
         print(json.dumps(payload, ensure_ascii=False, indent=1))
+        for name, data in files or []:
+            out = ROOT / "dry_run_output"
+            out.mkdir(exist_ok=True)
+            (out / name).write_bytes(data)
+            print(f"[dry-run] 图片已保存到 {out / name}")
         return True
 
     for attempt in range(5):
-        r = requests.post(url, json=payload, timeout=20)
+        if files:
+            r = requests.post(
+                url, data={"payload_json": json.dumps(payload)}, timeout=60,
+                files={f"files[{i}]": (n, d, "image/png") for i, (n, d) in enumerate(files)})
+        else:
+            r = requests.post(url, json=payload, timeout=20)
         if r.status_code == 429:  # 频率限制：按 Discord 要求等待
             wait = float(r.json().get("retry_after", 2))
             time.sleep(wait + 0.5)
