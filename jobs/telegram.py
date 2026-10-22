@@ -82,7 +82,9 @@ def to_chinese(text):
 
 
 def run_telegram(state):
-    for ch, label in C.TELEGRAM_CHANNELS:
+    for entry in C.TELEGRAM_CHANNELS:
+        ch, label = entry[0], entry[1]
+        hook = entry[2] if len(entry) > 2 else WEBHOOK
         try:
             items = parse_channel(get(f"https://t.me/s/{ch}").text)
         except Exception as e:  # noqa: BLE001
@@ -102,7 +104,7 @@ def run_telegram(state):
                     ts = datetime.fromisoformat(it["time"]).isoformat()
                 except ValueError:
                     pass
-            post(WEBHOOK, embeds=[embed(
+            post(hook, embeds=[embed(
                 description=zh[:3900] or "（图片）", color=0x2B2D31,
                 image=it["img"], timestamp=ts,
                 footer=f"来源：{label}" + (" · 机器翻译" if ok else ""),

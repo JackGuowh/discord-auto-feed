@@ -88,7 +88,8 @@ def main():
     state = load_state()
     try:
         run_trump(state)
-        run_whitehouse(state)
+        if C.WHITEHOUSE_PRESS:
+            run_whitehouse(state)
     finally:
         save_state(state)
 
