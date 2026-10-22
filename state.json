@@ -392,7 +392,10 @@
   "wscn:3183988",
   "wscn:3183987",
   "wscn:3183991",
-  "wscn:3183990"
+  "wscn:3183990",
+  "wscn:3183994",
+  "wscn:3183993",
+  "wscn:3183992"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -545,7 +548,8 @@
   "uw:meta-deal-zuckerberg-stay-california-wealth-tax",
   "uw:musk-retaliate-democrats-investigate-him",
   "uw:banks-detect-unauthorized-ai-agents-customer-accounts",
-  "uw:iran-strike-oil-cables-ai-facilities-gulf-threat"
+  "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
+  "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
  "congress_last_check": 1792704870.3355184,
  "scheduler": [
@@ -554,7 +558,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792705729.7348247,
+ "earnings_last_check": 1792706585.9415529,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
