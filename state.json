@@ -171,7 +171,11 @@
   "wscn:3183353",
   "wscn:3183351",
   "wscn:3183377",
-  "wscn:3183444"
+  "wscn:3183444",
+  "wscn:3183565",
+  "wscn:3183549",
+  "wscn:3183543",
+  "wscn:3183548"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -193,7 +197,9 @@
   "tg:WalterBloomberg/37216",
   "tg:WalterBloomberg/37215",
   "tg:WalterBloomberg/37214",
-  "tg:WalterBloomberg/37213"
+  "tg:WalterBloomberg/37213",
+  "tg:WalterBloomberg/37234",
+  "tg:WalterBloomberg/37233"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -257,7 +263,7 @@
  ],
  "congress_last_check": 1792662699.699962,
  "scheduler": [],
- "earnings_last_check": 1792663300.6674948,
+ "earnings_last_check": 1792664109.4856777,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -316,9 +322,10 @@
   "er:2026-10-22:DOW",
   "er:2026-10-22:PCG",
   "er:2026-10-22:HON",
-  "er:2026-10-22:ALLE"
+  "er:2026-10-22:ALLE",
+  "er:2026-10-22:SPOT"
  ],
- "gas_last_check": 1792662579.1387966,
+ "gas_last_check": 1792663805.1969624,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
