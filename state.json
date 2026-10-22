@@ -301,7 +301,15 @@
   "wscn:3183886",
   "wscn:3183885",
   "wscn:3183883",
-  "wscn:3183882"
+  "wscn:3183882",
+  "wscn:3183896",
+  "wscn:3183895",
+  "wscn:3183893",
+  "wscn:3183892",
+  "wscn:3183891",
+  "wscn:3183890",
+  "wscn:3183889",
+  "wscn:3183888"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -364,7 +372,9 @@
   "tg:WalterBloomberg/37270",
   "tg:WalterBloomberg/37272",
   "tg:WalterBloomberg/37271",
-  "tg:WalterBloomberg/37273"
+  "tg:WalterBloomberg/37273",
+  "tg:WalterBloomberg/37275",
+  "tg:WalterBloomberg/37274"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -441,14 +451,16 @@
   "uw:electricity-prices-up-38-percent-since-2020",
   "uw:musk-combine-tesla-spacex-3-7-trillion-deal",
   "uw:trump-us-not-negotiating-iran-something-soon",
-  "uw:meta-deal-zuckerberg-stay-california-wealth-tax"
+  "uw:meta-deal-zuckerberg-stay-california-wealth-tax",
+  "uw:musk-retaliate-democrats-investigate-him",
+  "uw:banks-detect-unauthorized-ai-agents-customer-accounts"
  ],
- "congress_last_check": 1792686550.4000115,
+ "congress_last_check": 1792688354.7786298,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792688098.1385455,
+ "earnings_last_check": 1792688956.0932531,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -531,7 +543,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792687172.1796396,
+ "gas_last_check": 1792688419.4819214,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
