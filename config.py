@@ -1,6 +1,6 @@
 """所有可调整的设置都在这里。改完提交到 GitHub 即生效。"""
 
-# ===== 🔥 突发新闻 =====
+# ===== ⚡ 突发新闻 =====
 # 华尔街见闻 7x24 快讯频道：global-channel(要闻) / us-stock-channel(美股) /
 # forex-channel(外汇) / commodity-channel(商品) / a-stock-channel(A股)
 WSCN_CHANNELS = ["global-channel"]
@@ -15,12 +15,12 @@ NEWS_RSS = [
 # 首次运行时每个来源只补发最新几条，避免刷屏
 FIRST_RUN_BACKFILL = 3
 
-# ===== 🚩 川普 / 🏛️ 白宫 =====
+# ===== 🇺🇸 川普 / 🏛️ 白宫 =====
 TRUMP_FEED = "https://www.trumpstruth.org/feed"
 TRUMP_INCLUDE_REPOSTS = False   # 是否推送转帖
 WHITEHOUSE_FEED = "https://www.whitehouse.gov/news/feed/"
 
-# ===== 🧭 市场指标（收盘后推送）=====
+# ===== 📈 市场指标（收盘后推送）=====
 # (Yahoo 代码, 显示名称)
 MARKET_SYMBOLS = [
     ("^GSPC", "标普500"),
@@ -37,7 +37,7 @@ MARKET_SYMBOLS = [
 # 重点个股（可自行增删）
 WATCHLIST = ["NVDA", "AAPL", "MSFT", "TSLA", "AMZN", "META", "GOOGL"]
 
-# ===== 🔔 每周预告 =====
+# ===== 📅 每周预告 =====
 CAL_COUNTRIES = ["USD"]              # 经济数据国家，例如加上 "CNY"
 CAL_IMPACTS = ["High", "Medium"]     # High=高影响, Medium=中等
 EARNINGS_MIN_MARKET_CAP = 50e9       # 只列市值 ≥ 500 亿美元的公司财报

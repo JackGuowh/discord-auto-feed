@@ -4,11 +4,11 @@
 
 | 功能 | 频道建议 | 频率 | 数据来源 | 需要的 Secret |
 |---|---|---|---|---|
-| 突发新闻（中文快讯） | 🔥突发新闻 | 每 10 分钟 | 华尔街见闻 7x24、FT中文网 | `WEBHOOK_NEWS` |
-| 川普 Truth Social（机翻） | 🚩川普专区 | 每 10 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
+| 突发新闻（中文快讯） | ⚡突发新闻 | 每 10 分钟 | 华尔街见闻 7x24、FT中文网 | `WEBHOOK_NEWS` |
+| 川普 Truth Social（机翻） | 🇺🇸川普专区 | 每 10 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
 | 白宫新闻稿（机翻） | 🏛️白宫内幕 | 每 10 分钟 | whitehouse.gov | `WEBHOOK_WHITEHOUSE`（可选，不填则发到川普频道） |
-| 收盘市场指标 | 🧭市场指标 | 交易日收盘后 | Yahoo Finance、CNN 恐贪指数 | `WEBHOOK_MARKET` |
-| 每周预告 | 🔔每周预告 | 每周日傍晚 | Forex Factory、Nasdaq | `WEBHOOK_CALENDAR` |
+| 收盘市场指标 | 📈市场指标 | 交易日收盘后 | Yahoo Finance、CNN 恐贪指数 | `WEBHOOK_MARKET` |
+| 每周预告 | 📅每周预告 | 每周日傍晚 | Forex Factory、Nasdaq | `WEBHOOK_CALENDAR` |
 
 ## 部署步骤
 
