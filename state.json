@@ -130,7 +130,13 @@
   "truth:https://www.trumpstruth.org/statuses/42586",
   "truth:https://www.trumpstruth.org/statuses/42591",
   "truth:https://www.trumpstruth.org/statuses/42592",
-  "truth:https://www.trumpstruth.org/statuses/42594"
+  "truth:https://www.trumpstruth.org/statuses/42594",
+  "truth:https://www.trumpstruth.org/statuses/42612",
+  "truth:https://www.trumpstruth.org/statuses/42610",
+  "truth:https://www.trumpstruth.org/statuses/42611",
+  "truth:https://www.trumpstruth.org/statuses/42607",
+  "truth:https://www.trumpstruth.org/statuses/42608",
+  "truth:https://www.trumpstruth.org/statuses/42609"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -309,7 +315,11 @@
   "wscn:3183891",
   "wscn:3183890",
   "wscn:3183889",
-  "wscn:3183888"
+  "wscn:3183888",
+  "wscn:3183901",
+  "wscn:3183900",
+  "wscn:3183899",
+  "wscn:3183897"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -460,7 +470,7 @@
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792688956.0932531,
+ "earnings_last_check": 1792689758.3966491,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -543,7 +553,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792688419.4819214,
+ "gas_last_check": 1792689640.1075485,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
