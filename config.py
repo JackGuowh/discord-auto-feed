@@ -10,6 +10,14 @@ WSCN_MIN_SCORE = 1
 NEWS_KEYWORDS = []
 # 额外的中文 RSS 新闻源（名称, 链接）。不需要可以清空列表
 NEWS_RSS = []   # 例如 [("FT中文网", "https://www.ftchinese.com/rss/news")]
+# X(推特)新闻账号 —— 通过它们的 Telegram 公开镜像频道免费抓取 (频道名, 显示名称)
+# 在浏览器打开 https://t.me/s/频道名 能看到消息列表的才能用
+TELEGRAM_CHANNELS = [
+    ("WalterBloomberg", "Walter Bloomberg"),   # 美股/宏观快讯
+    ("WatcherGuru", "Watcher Guru"),           # JUST IN 类突发新闻
+    ("disclosetv", "Disclose.tv"),             # 全球突发事件
+]
+TELEGRAM_KEYWORDS = []   # 只推含这些英文关键词的（留空 = 全推）
 # 首次运行时每个来源只补发最新几条，避免刷屏
 FIRST_RUN_BACKFILL = 3
 

@@ -4,7 +4,7 @@
 
 | 功能 | 频道建议 | 频率 | 数据来源 | 需要的 Secret |
 |---|---|---|---|---|
-| 突发新闻（中文快讯） | ⚡突发新闻 | 约每 1 分钟 | 华尔街见闻 7x24、FT中文网 | `WEBHOOK_NEWS` |
+| 突发新闻（中文快讯 + X 新闻账号机翻） | ⚡突发新闻 | 约每 1 分钟 | 华尔街见闻美股快讯；Walter Bloomberg、Watcher Guru、Disclose.tv（经 Telegram 镜像） | `WEBHOOK_NEWS` |
 | 川普 Truth Social（机翻） | 🦅川普专区 | 约每 1 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
 | 白宫新闻稿（机翻） | 🏛️白宫内幕 | 约每 1 分钟 | whitehouse.gov | `WEBHOOK_WHITEHOUSE`（可选，不填则发到川普频道） |
 | 恐惧贪婪指数 + Reddit 24H 热度榜 | 📈市场指标 | 交易日盘前 / 收盘后 | CNN、ApeWisdom | `WEBHOOK_MARKET` |
@@ -35,6 +35,7 @@
 - `WSCN_MIN_SCORE`：`2` 只推红色重要快讯，`1` 推全部（量很大）
 - `NEWS_KEYWORDS`：只推含关键词的新闻，如 `["美联储", "英伟达"]`
 - `NEWS_RSS`：增删中文 RSS 新闻源
+- `TELEGRAM_CHANNELS`：增删 X 新闻账号的 Telegram 镜像频道
 - `TRUMP_INCLUDE_REPOSTS`：是否推送川普转帖
 - `REDDIT_TOP_N`：热度榜显示前几名
 - `CAL_TZ` / `CAL_DATA_COUNTRIES` / `CAL_*_IMPORTANCE`：财经日历的时区和筛选条件
