@@ -167,7 +167,9 @@
   "wscn:3183293",
   "wscn:3183286",
   "wscn:3183299",
-  "wscn:3183307"
+  "wscn:3183307",
+  "wscn:3183353",
+  "wscn:3183351"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -251,9 +253,9 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792655323.1511576,
+ "congress_last_check": 1792657179.0519753,
  "scheduler": [],
- "earnings_last_check": 1792656860.767957,
+ "earnings_last_check": 1792657658.7784128,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -309,7 +311,7 @@
   "er:2026-10-21:UNB",
   "er:2026-10-22:ARGX"
  ],
- "gas_last_check": 1792656440.8790224,
+ "gas_last_check": 1792657659.2695184,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -373,7 +375,8 @@
   "gas:CBMizgFBVV95cUxQaWtRYmJUSjZkVlFJcmRnZjg3eVVVWElfenpudG5LcGFTVnFjMFNsVWU5ZU00dy12aTJvRW4zQjVQNUFnWkt4bzktZDBRcl9yQlRqSWxMSGRQU0kybC1NbGtSMG8xZnBuZGlxaENMMUh4SGR4RTJtb3lfNnBzZlphMkF6c0RETGlFRnBsMC16QlJUekVmLTVrOExoLXFoZ0hRb2xPa0hfR0F3bFNVRUwybUhkVnhiSUkwV2cyM3d5QUl0SzNVeXkyS19jbnluZw",
   "gas:CBMiuwFBVV95cUxNR0VkT1QtaERaWm5fd0w0cHlQOUw1OWtQUkZDd09qdVJhR0pCUDhtaVBvOGs1UjFOSDZ6RkhHeHVKRHRfMkZFelc1bk4tMDVPdGl3eHdTcHdQaXBxT2pCU2hnMFpxNmtWTDU0WFlHSE9JWVB1cUdxM3RoVEdlN3NQNXp5alBNdzJPdVJiZVo4eFRNTWM2SEkwT3dwblZHbFhOMTlCbDFGQnpDSVBob21EdTgwQ3AxZWtKUXo4",
   "gas:CBMixgFBVV95cUxNVU9oRTktME5qcjdFSVdyazdGeHpJVGxkNlB4bUhiSTNtclFpS3FfdDA5YWU0OWFwcENYN1hJZ3JhZkxRbGlCQXJWejF5NW45UXVwQjhBS18xWWctWmU2M1VoMjRqaWVQekRXdHVZaE1HekFZYmo1bGQ0eEpwVzkyeU92VjNITnFMQnlWT290OGpGdWE3bG94YlI1QllvZG9YWEdoQkVEbXlaU2pMUmV2TkhpZnVYdnc3OWFpbm1ac1pTMmlDR1E",
-  "gas:CBMiZEFVX3lxTFBRYWtSQU5weU1RcEZFbElVX0xScEFHTGc5dlE4c2pJekw3bmQydGtrSzlRajFhcW54Tmd0Q1FTLS1HNHhHZnhMSVFkbU5HY2VRUTczeG1SdEVoenBqd0lHbVBZeEQ"
+  "gas:CBMiZEFVX3lxTFBRYWtSQU5weU1RcEZFbElVX0xScEFHTGc5dlE4c2pJekw3bmQydGtrSzlRajFhcW54Tmd0Q1FTLS1HNHhHZnhMSVFkbU5HY2VRUTczeG1SdEVoenBqd0lHbVBZeEQ",
+  "gas:CBMijgFBVV95cUxQbDdTOEtzblJPSkdEbzUyUTM5eUFKS1JGdWs5d3R6eHQxV3NMT0pyMjU1UHB4U3BIZEVRLUdDNWVYZ3hJZXVOWU05M3dfYndHV1NIVkZleWRBWVJzZ1J2UEc5WjNaUmViN0V1MEloNEdtUFRuQmdibXlsN0RkUmVPWjV1TGhWRUNQWWk5VC1R"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
