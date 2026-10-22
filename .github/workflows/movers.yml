@@ -1,0 +1,30 @@
+name: 异动榜（盘前 / 盘后）
+
+# 由 scheduler.py（在新闻循环里）按美东时间自动触发，也可以手动运行
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "只打印不发送（1=是）"
+        default: "0"
+      mode:
+        description: "pre=盘前；post=盘后；留空=按当前时间自动判断"
+        default: ""
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install requests feedparser beautifulsoup4
+      - run: python -m jobs.movers
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          FORCE: "0"
+          MOVERS_MODE: ${{ github.event.inputs.mode }}
+          WEBHOOK_MOVERS: ${{ secrets.WEBHOOK_MOVERS }}

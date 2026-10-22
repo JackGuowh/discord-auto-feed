@@ -1,11 +1,7 @@
 name: 市场指标（恐惧贪婪指数 + Reddit 热度榜）
 
+# 由 scheduler.py（在新闻循环里）按美东时间自动触发，也可以手动运行
 on:
-  schedule:
-    # 盘前：13:35 UTC = 美东 9:35（夏令时）/ 8:35（冬令时），只发恐惧贪婪指数
-    - cron: "35 13 * * 1-5"
-    # 收盘后：21:25 UTC = 美东 17:25（夏令时）/ 16:25（冬令时），恐惧贪婪指数 + 热度榜
-    - cron: "25 21 * * 1-5"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -33,6 +29,6 @@ jobs:
       - run: python -m jobs.market
         env:
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
-          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
-          MARKET_MODE: ${{ github.event.inputs.mode || (github.event.schedule == '35 13 * * 1-5' && 'fg' || 'close') }}
+          FORCE: "0"
+          MARKET_MODE: ${{ github.event.inputs.mode || 'close' }}
           WEBHOOK_MARKET: ${{ secrets.WEBHOOK_MARKET }}

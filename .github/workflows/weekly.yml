@@ -1,9 +1,7 @@
 name: 每周预告（下周财报 + 财经日历）
 
+# 由 scheduler.py（在新闻循环里）按美东时间自动触发，也可以手动运行
 on:
-  schedule:
-    # 22:00 UTC 周日 = 美东周日 18:00（夏令时）/ 17:00（冬令时）= 北京时间周一早上
-    - cron: "0 22 * * 0"
   workflow_dispatch:
     inputs:
       dry_run:

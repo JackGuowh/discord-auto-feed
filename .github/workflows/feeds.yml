@@ -1,10 +1,10 @@
 name: 新闻与川普动态（约每分钟）
 
+# 每次运行内部循环约 14 分钟、每 60 秒检查一次；结束时自动触发下一次运行（接力），
+# 所以能一直跑下去。cron 只是备用：万一接力中断，GitHub 定时任务会把它重新拉起来。
 on:
   schedule:
-    # 每 10 分钟启动一次；每次运行内部循环约 14 分钟、每 60 秒检查一次，
-    # 运行之间会排队衔接，所以实际约每分钟刷新一次。
-    - cron: "*/10 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -13,9 +13,13 @@ on:
       loop_minutes:
         description: "本次循环几分钟（测试时可填 0，只跑一轮）"
         default: "14"
+      chain:
+        description: "结束后是否自动接力下一次运行（1=是）"
+        default: "1"
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: state-json
@@ -31,20 +35,35 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install -r requirements.txt
-      - name: 循环检查突发新闻 / 川普 / 白宫
-        run: python run_feeds.py
+      - run: pip install requests feedparser beautifulsoup4
+      - name: 循环检查各类资讯（并按时触发其他定时任务）
+        run: python -u run_feeds.py
         env:
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
           LOOP_MINUTES: ${{ github.event.inputs.loop_minutes || '14' }}
           INTERVAL: "60"
+          GH_TOKEN: ${{ github.token }}
           WEBHOOK_NEWS: ${{ secrets.WEBHOOK_NEWS }}
           WEBHOOK_TRUMP: ${{ secrets.WEBHOOK_TRUMP }}
           WEBHOOK_WHITEHOUSE: ${{ secrets.WEBHOOK_WHITEHOUSE }}
-      - name: 保存去重记录
+          WEBHOOK_EARNINGS: ${{ secrets.WEBHOOK_EARNINGS }}
+      - name: 保存去重记录（自动合并并发冲突）
         if: ${{ always() && github.event.inputs.dry_run != '1' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state.json
-          git diff --cached --quiet || (git commit -m "update state [skip ci]" && git pull --rebase && git push)
+          cp state.json "$RUNNER_TEMP/mine.json"
+          for i in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python merge_state.py "$RUNNER_TEMP/mine.json" state.json
+            git add state.json
+            git diff --cached --quiet && break
+            git commit -q -m "update state [skip ci]"
+            git push -q origin HEAD:main && break
+            sleep $((RANDOM % 5 + 2))
+          done
+      - name: 接力：触发下一次运行
+        if: ${{ always() && github.event.inputs.dry_run != '1' && github.event.inputs.chain != '0' && github.event.inputs.loop_minutes != '0' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run feeds.yml --ref main
