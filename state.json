@@ -297,7 +297,11 @@
   "wscn:3183878",
   "wscn:3183877",
   "wscn:3183876",
-  "wscn:3183855"
+  "wscn:3183855",
+  "wscn:3183886",
+  "wscn:3183885",
+  "wscn:3183883",
+  "wscn:3183882"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -431,14 +435,20 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo",
   "uw:anthropic-publicly-file-ipo-friday",
-  "uw:screwworm-detected-us-wildlife-texas-usda"
+  "uw:screwworm-detected-us-wildlife-texas-usda",
+  "uw:23-8-million-millionaires-us-ubs",
+  "uw:california-top-1-percent-pay-nearly-half-income-taxes",
+  "uw:electricity-prices-up-38-percent-since-2020",
+  "uw:musk-combine-tesla-spacex-3-7-trillion-deal",
+  "uw:trump-us-not-negotiating-iran-something-soon",
+  "uw:meta-deal-zuckerberg-stay-california-wealth-tax"
  ],
  "congress_last_check": 1792686550.4000115,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792687234.6476922,
+ "earnings_last_check": 1792688098.1385455,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
