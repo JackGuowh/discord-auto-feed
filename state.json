@@ -255,9 +255,9 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792660849.9316416,
+ "congress_last_check": 1792662699.699962,
  "scheduler": [],
- "earnings_last_check": 1792662503.3799362,
+ "earnings_last_check": 1792663300.6674948,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -312,9 +312,13 @@
   "er:2026-10-21:TRST",
   "er:2026-10-21:UNB",
   "er:2026-10-22:ARGX",
-  "er:2026-10-22:NOK"
+  "er:2026-10-22:NOK",
+  "er:2026-10-22:DOW",
+  "er:2026-10-22:PCG",
+  "er:2026-10-22:HON",
+  "er:2026-10-22:ALLE"
  ],
- "gas_last_check": 1792661345.2871242,
+ "gas_last_check": 1792662579.1387966,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
