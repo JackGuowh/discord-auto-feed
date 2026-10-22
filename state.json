@@ -179,7 +179,9 @@
   "wscn:3183593",
   "wscn:3183656",
   "wscn:3183630",
-  "wscn:3183672"
+  "wscn:3183672",
+  "wscn:3183690",
+  "wscn:3183688"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -207,7 +209,9 @@
   "tg:WalterBloomberg/37235",
   "tg:WalterBloomberg/37238",
   "tg:WalterBloomberg/37237",
-  "tg:WalterBloomberg/37236"
+  "tg:WalterBloomberg/37236",
+  "tg:WalterBloomberg/37240",
+  "tg:WalterBloomberg/37239"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -271,7 +275,7 @@
  ],
  "congress_last_check": 1792666356.0808213,
  "scheduler": [],
- "earnings_last_check": 1792666416.1603477,
+ "earnings_last_check": 1792667159.216446,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -338,7 +342,17 @@
   "er:2026-10-22:PHM",
   "er:2026-10-22:BFH",
   "er:2026-10-22:DGX",
-  "er:2026-10-22:SNA"
+  "er:2026-10-22:SNA",
+  "er:2026-10-22:TSCO",
+  "er:2026-10-22:AAL",
+  "er:2026-10-22:CMCSA",
+  "er:2026-10-22:PG",
+  "er:2026-10-22:NDAQ",
+  "er:2026-10-22:CBRE",
+  "er:2026-10-22:DOV",
+  "er:2026-10-22:ORI",
+  "er:2026-10-22:ROP",
+  "er:2026-10-22:POOL"
  ],
  "gas_last_check": 1792666236.694468,
  "gas:GAWDA Media": [
