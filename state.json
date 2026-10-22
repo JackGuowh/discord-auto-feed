@@ -291,7 +291,13 @@
   "wscn:3183875",
   "wscn:3183874",
   "wscn:3183872",
-  "wscn:3183871"
+  "wscn:3183871",
+  "wscn:3183880",
+  "wscn:3183879",
+  "wscn:3183878",
+  "wscn:3183877",
+  "wscn:3183876",
+  "wscn:3183855"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -380,7 +386,8 @@
   "tg:WatcherGuru/15597",
   "tg:WatcherGuru/15598",
   "tg:WatcherGuru/15600",
-  "tg:WatcherGuru/15604"
+  "tg:WatcherGuru/15604",
+  "tg:WatcherGuru/15606"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -422,14 +429,16 @@
   "uw:musk-ordered-slowdown-military-starlink-ukraine-wsj",
   "uw:trump-anti-fraud-program-1-percent-commission-whistleblowers",
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
-  "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
+  "uw:national-security-officials-advising-states-trump-midterm-interference-wapo",
+  "uw:anthropic-publicly-file-ipo-friday",
+  "uw:screwworm-detected-us-wildlife-texas-usda"
  ],
  "congress_last_check": 1792686550.4000115,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792686430.3635087,
+ "earnings_last_check": 1792687234.6476922,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -512,7 +521,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792685950.3858817,
+ "gas_last_check": 1792687172.1796396,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -584,7 +593,8 @@
   "gas:CBMiUkFVX3lxTFA3aDFPOHRYaHI0ZTBJN0ZHQmdUVkVaclY0REF4Rlp3NURDUW1OTlhackxjcWVVQS14UTF1MXdSSjZtcVUtRDNDY1pZUk1SS1RiTXc",
   "gas:CBMiigFBVV95cUxOVVZ1M0lNWXZPWHktUmV0VVFjN2pFQ0VleHlVMjNZVG0xSGZubUNZRklpZUg1dGpveng4b005OFpRZmRpU0pHVlRvMGFBNWpIUWJWbGMzNjJGUGtnNmVEWllQYk8tcV8yMlVFSFVlSzF5OGI4N2dzYldDOGJzSW9SN0NWbjRKNEZoV1E",
   "gas:CBMiuAJBVV95cUxOdnNaYjhWMW9yYmh0SkRpLUVtR3FlZWlqczRuZ0VwazB2a2ZCT3FjcE1RT0I5dDVDTHRSM25TdUpsWWMxNHJud3Q4SkQ2Sk9VOEw2V0hrdW4wQmtXclY2QldhOFNPMVI0dTA3VFA2dEZaTWxoNG1PZGdrWEtPVlFWejBVT2l3aS0tR01iSWtRUDNOU29uZ2YxVngwTkZQa2ZnLVlzRVRWRGQ5XzdZRkZ3dHVRZGRKUFNJZ3dBcXFaMDBTSVJSMENnaUQ1QzBUa2RMNGo5bjlLby14ckZNdFlQWDRPVmN3aHlLc2MtbEVWeGtlZEYxVi11b3BCRFI1ZVFCVVVYdE5GNnNfYlNGdUF6UDVJOVc3b3l4akZ2XzZscG90YWxsOVV6cHBVZlVSdXFveHVfdmJJaU4",
-  "gas:CBMikgJBVV95cUxOSnNBaHE5OEpTZ0dTZFYya1ZKLXJ3MENKd2xoaXBNdTh2c2hhaW5jTHNRVWhoR2ZfUkltdU04aVB6X010d2l3VnlSbUlrdzMwSkotNUoxUWdRS01wLXBIblQ4cGJGVHUwQW1wVll5VkpRSEsxdUJURWtNQXI2dzVQZU1xV2lxNXhJUGdURm5NNmJ4SlJDNVhTSmpONzNGNmVSNkdCekkwTmRXWFNXMExuMHJCNUdqbzVtSDcyTkY1Z0dZTVZOMmM2VGt2ZVdraW03OU84RURmNF9IWmNmdlpUWkxmNlBoYVRkMW1FNzRXVWZSQ08xM054X0NRZ1NNdk1zSkdoS05ObzM0d3BXTy1aUUxn"
+  "gas:CBMikgJBVV95cUxOSnNBaHE5OEpTZ0dTZFYya1ZKLXJ3MENKd2xoaXBNdTh2c2hhaW5jTHNRVWhoR2ZfUkltdU04aVB6X010d2l3VnlSbUlrdzMwSkotNUoxUWdRS01wLXBIblQ4cGJGVHUwQW1wVll5VkpRSEsxdUJURWtNQXI2dzVQZU1xV2lxNXhJUGdURm5NNmJ4SlJDNVhTSmpONzNGNmVSNkdCekkwTmRXWFNXMExuMHJCNUdqbzVtSDcyTkY1Z0dZTVZOMmM2VGt2ZVdraW03OU84RURmNF9IWmNmdlpUWkxmNlBoYVRkMW1FNzRXVWZSQ08xM054X0NRZ1NNdk1zSkdoS05ObzM0d3BXTy1aUUxn",
+  "gas:CBMid0FVX3lxTE1ES3k5M2hXeUNEVUZNajludVhqb3FheTR1YzZ5ZmwwcmpyVXY1bXp1aEdvWUVYQlFQR0lsYTNLeFl2c2JjSm5zSnlTUHJVX0JVY0JpdEVkbmppRTJ3a0lqRUlhY0VzMmsxUG91bmdwMkYzcEpzOGVB"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
