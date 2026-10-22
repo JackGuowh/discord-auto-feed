@@ -1,8 +1,8 @@
-name: 每周预告（周日晚）
+name: 每周预告（下周财报 + 财经日历）
 
 on:
   schedule:
-    # 22:00 UTC 周日 = 美东周日 18:00（夏令时）/ 17:00（冬令时）
+    # 22:00 UTC 周日 = 美东周日 18:00（夏令时）/ 17:00（冬令时）= 北京时间周一早上
     - cron: "0 22 * * 0"
   workflow_dispatch:
     inputs:
@@ -13,7 +13,7 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,6 +21,10 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: 安装浏览器和中文字体（用于截图和生成日历图）
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+          python -m playwright install --with-deps chromium
       - run: python -m jobs.weekly
         env:
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
