@@ -53,12 +53,25 @@ def run_trump(state):
         if videos:
             fields.append(("视频", videos[0]))
         label = {"repost": "转帖", "quote": "引用帖"}.get(ptype, "新帖")
-        post(WEBHOOK_TRUMP, embeds=[embed(
+        files, card = [], None
+        if text:  # 原帖做成一张截图样式的卡片
+            try:
+                from jobs.truthcard import render
+                ts = parsedate_to_datetime(e.get("published"))
+                files = [("truth.png", render(text, ts.strftime("%b %d, %Y %H:%M UTC")))]
+                card = "attachment://truth.png"
+                fields = [f for f in fields if f[0] != "原文"]  # 卡片里已经有英文原文
+            except Exception as ex:  # noqa: BLE001
+                print(f"[trump] 卡片生成失败: {ex}")
+        embeds = [embed(
             title=f"🦅 川普 Truth Social {label}",
             url=link, description=clip(desc, 3800), fields=fields,
             color=0xC62828, footer="机器翻译仅供参考 · 来源：Truth Social",
-            timestamp=iso(e), image=images[0] if images else None,
-        )])
+            timestamp=iso(e), image=card or (images[0] if images else None),
+        )]
+        if card and images:  # 帖子本身带的图片单独再放一张
+            embeds.append(embed(url=link, image=images[0], color=0xC62828))
+        post(WEBHOOK_TRUMP, embeds=embeds, files=files or None)
 
 
 def run_whitehouse(state):

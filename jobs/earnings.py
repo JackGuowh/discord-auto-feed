@@ -17,6 +17,41 @@ def caldata(day):
     return rows
 
 
+_US_CACHE = {}
+
+
+def us_listed(day):
+    """当天在美国主板（NYSE/Nasdaq/AMEX）发布财报、且市值达标的公司代码。
+    数据来自 Nasdaq 财报日历（只含美国上市股票，自带市值）。失败时返回 None。"""
+    key = day.isoformat()
+    hit = _US_CACHE.get(key)
+    if hit and time.time() - hit[0] < 3600:
+        return hit[1]
+    try:
+        rows = get("https://api.nasdaq.com/api/calendar/earnings", params={"date": key},
+                   headers={"Origin": "https://www.nasdaq.com", "Referer": "https://www.nasdaq.com/"}).json()
+        rows = (rows.get("data") or {}).get("rows") or []
+    except Exception as e:  # noqa: BLE001
+        print(f"[earnings] Nasdaq 日历获取失败: {e}")
+        return None
+
+    def cap(r):
+        try:
+            return float(str(r.get("marketCap", "0")).replace("$", "").replace(",", "") or 0)
+        except ValueError:
+            return 0.0
+    ok = {r["symbol"].upper() for r in rows if cap(r) >= C.EARNINGS_MIN_MARKET_CAP}
+    if rows:
+        _US_CACHE[key] = (time.time(), ok)
+    print(f"[earnings] Nasdaq 日历 {len(rows)} 家，达标 {len(ok)} 家")
+    return ok if rows else None
+
+
+def looks_otc(t):
+    # 场外交易的外国公司 ADR 一般是 5 个字母、以 Y 或 F 结尾（如 DNBBY、SVNLY）
+    return len(t) == 5 and t[-1] in "YF"
+
+
 def money(v):
     if v is None:
         return "—"
@@ -69,6 +104,11 @@ def run(state):
         print(f"[earnings] 财报日历获取失败: {e}")
         return
     reported = [r for r in rows if r.get("eps") is not None]
+    allow = us_listed(today)
+    if allow is not None:
+        reported = [r for r in reported if r["ticker"].upper() in allow]
+    else:
+        reported = [r for r in reported if not looks_otc(r["ticker"])]
     pairs = [(f"er:{today}:{r['ticker']}", r) for r in reported]
     for _, r in pick_new(state, "earnings_posted", pairs):
         t = r["ticker"]

@@ -48,11 +48,12 @@ def post_overview(shows, today, title):
         a, b = s["_start"], s["_end"]
         head = f"{a.year} 年 {a.month} 月"
         if head != cur:
-            lines.append(("\n" if lines else "") + f"**{head}**")
+            lines.append(("\n" if lines else "") + f"**📅 {head}**")
             cur = head
         city = s["city"].split(",")[0]
         lines.append(f"`{a:%m/%d}–{b:%m/%d}` [{s.get('short', s['name'])}]({s['url']})"
                      f" · {city} · {s.get('fee_short', '见官网')}")
+        lines.append(f"　└ 🧪 {s['gases']}｜{s['why']}")
     # embed 描述上限 4096 字，超了就分条
     chunks, buf = [], ""
     for ln in lines:
@@ -73,9 +74,9 @@ def run(state):
     if not DRY_RUN and not os.getenv(WEBHOOK):
         return
     today = now_et().date()
-    if "shows_init" in state and "shows_v2" not in state:  # 换新样式后补发一次总表
+    if "shows_init" in state and "shows_v3" not in state:  # 换新样式后补发一次总表
         post_overview(load_shows(), today, "🗓️ 展会日历总表（未来 12 个月）")
-    state["shows_v2"] = 1
+    state["shows_v3"] = 1
     if state.get("shows_last_day") == today.isoformat():
         return
     if now_et().hour < 9 and "shows_init" in state:  # 美东早上 9 点后再推

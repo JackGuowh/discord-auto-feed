@@ -1,4 +1,7 @@
-"""🏛️ 白宫内幕：美国国会议员股票交易申报（数据来自 Capitol Trades，和 Quiver Quant 推文同源的公开申报）。"""
+"""🏛️ 白宫内幕：美国国会议员股票交易申报。
+主数据源：Quiver Quantitative 官网公开的最新申报（和他们 X 账号推文同源）；备用：Capitol Trades。"""
+import ast
+import re
 import time
 from datetime import datetime
 
@@ -50,6 +53,54 @@ def fetch_trades():
     return out  # 新 → 旧
 
 
+QUIVER_PARTY = {"R": "共和党", "D": "民主党", "I": "无党派"}
+
+
+def fetch_quiver():
+    html = get("https://www.quiverquant.com/congresstrading/").text
+    m = re.search(r"let recentTradesData\s*=\s*(\[.*?\]\s*\])\s*;", html, re.S)
+    if not m:
+        raise ValueError("页面里没找到 recentTradesData")
+    raw = re.sub(r"\bNaN\b|\bnan\b", "None", m.group(1))
+    out = []
+    for r in ast.literal_eval(raw):
+        r = list(r) + [None] * 16
+        out.append({
+            "id": r[11] or f"{r[5]}-{r[0]}-{r[9]}", "ticker": r[0] or "", "issuer": r[1] or "",
+            "type": r[2], "side": "buy" if str(r[3]).startswith("Purchase") else
+            ("sell" if str(r[3]).startswith("Sale") else str(r[3]).lower()),
+            "size": r[4] or "", "name": r[13] or r[5] or "", "chamber": r[6] or "",
+            "party": r[7] or "", "filed": (r[8] or "")[:10], "traded": (r[9] or "")[:10],
+            "ret": r[12] if isinstance(r[12], (int, float)) else None, "photo": r[14],
+        })
+    return out  # 新 → 旧
+
+
+def run_quiver(state):
+    trades = fetch_quiver()
+    print(f"[congress] Quiver 最新申报 {len(trades)} 条")
+    pairs = [(f"qv:{t['id']}", t) for t in trades]
+    for _, t in pick_new(state, "congress_qv", pairs):
+        ticker = t["ticker"]
+        if t["type"] not in ("ST", "Stock") or not ticker or ticker == "-":  # 只要股票
+            continue
+        side_zh, color, dot = SIDE.get(t["side"], (t["side"], 0x6B7280, "⚪"))
+        title = CHAMBER.get(t["chamber"], "议员")
+        party = QUIVER_PARTY.get(t["party"], t["party"])
+        hi = t["size"].split("-")[-1].strip()
+        desc = (f"{title} **{t['name']}**（{party}）刚刚申报了一笔最高 **{hi}** 的 "
+                f"**{t['issuer'].split(' - ')[0].title()}（${ticker}）** 股票 **{side_zh}**。")
+        info = [f"交易日 {t['traded']}", f"申报日 {t['filed']}", f"金额区间 {t['size']}"]
+        if t["ret"] is not None:
+            info.append(f"交易至今 ${ticker} {'上涨' if t['ret'] >= 0 else '下跌'} {abs(t['ret']):.1f}%")
+        post(WEBHOOK, embeds=[embed(
+            title=f"{dot} 突发：国会议员{side_zh} ${ticker}",
+            url=f"https://www.quiverquant.com/congresstrading/politician/{t['name'].replace(' ', '%20')}",
+            description=desc + "\n\n" + "\n".join(info), color=color, image=t["photo"],
+            footer="数据：Quiver Quantitative（国会议员 STOCK Act 公开申报）",
+        )])
+
+
 def fmt_date(s):
     try:
         d = datetime.strptime(s.replace("Sept", "Sep"), "%d %b %Y")
@@ -64,7 +115,12 @@ def run(state):
         return
     state["congress_last_check"] = time.time()
     try:
+        return run_quiver(state)
+    except Exception as e:  # noqa: BLE001
+        print(f"[congress] Quiver 获取失败，改用 Capitol Trades: {e}")
+    try:
         trades = fetch_trades()
+        print(f"[congress] Capitol Trades {len(trades)} 条")
     except Exception as e:  # noqa: BLE001
         print(f"[congress] 获取失败: {e}")
         return
