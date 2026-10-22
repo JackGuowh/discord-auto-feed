@@ -1,0 +1,49 @@
+name: 新闻与川普动态（每10分钟）
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "只打印不发送（1=是）"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: state-json
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 突发新闻
+        run: python -m jobs.news
+        continue-on-error: true
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          WEBHOOK_NEWS: ${{ secrets.WEBHOOK_NEWS }}
+      - name: 川普 / 白宫
+        run: python -m jobs.trump
+        continue-on-error: true
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          WEBHOOK_TRUMP: ${{ secrets.WEBHOOK_TRUMP }}
+          WEBHOOK_WHITEHOUSE: ${{ secrets.WEBHOOK_WHITEHOUSE }}
+      - name: 保存去重记录
+        if: ${{ github.event.inputs.dry_run != '1' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || (git commit -m "update state [skip ci]" && git pull --rebase && git push)

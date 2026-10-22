@@ -1,0 +1,27 @@
+name: 每周预告（周日晚）
+
+on:
+  schedule:
+    # 22:00 UTC 周日 = 美东周日 18:00（夏令时）/ 17:00（冬令时）
+    - cron: "0 22 * * 0"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "只打印不发送（1=是）"
+        default: "0"
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m jobs.weekly
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          WEBHOOK_CALENDAR: ${{ secrets.WEBHOOK_CALENDAR }}
