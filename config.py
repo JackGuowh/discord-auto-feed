@@ -15,9 +15,17 @@ NEWS_RSS = []   # 例如 [("FT中文网", "https://www.ftchinese.com/rss/news")]
 TELEGRAM_CHANNELS = [
     ("WalterBloomberg", "Walter Bloomberg"),   # 美股/宏观快讯
     ("WatcherGuru", "Watcher Guru"),           # JUST IN 类突发新闻
-    ("disclosetv", "Disclose.tv"),             # 全球突发事件
 ]
-TELEGRAM_KEYWORDS = []   # 只推含这些英文关键词的（留空 = 全推）
+# 只推美股相关：包含股票代码（如 $TSLA）或下列任一关键词的才推送
+TELEGRAM_KEYWORDS = [
+    "🇺🇸", "U.S.", "US ", "USA", "AMERICA", "FED", "FOMC", "POWELL", "TREASURY", "YIELD",
+    "S&P", "SPX", "NASDAQ", "DOW", "WALL STREET", "STOCK", "SHARES", "EARNINGS", "REVENUE",
+    "EPS", "GUIDANCE", "IPO", "SEC ", "TRUMP", "WHITE HOUSE", "TARIFF", "CPI", "PCE", "JOBS",
+    "PAYROLL", "UNEMPLOYMENT", "GDP", "INFLATION", "RATE CUT", "RATE HIKE", "BUYBACK",
+]
+# 包含这些词的不推（过滤加密货币等非美股内容）
+TELEGRAM_EXCLUDE = ["BITCOIN", "$BTC", "$ETH", "ETHEREUM", "CRYPTO", "$SOL", "$XRP", "$DOGE",
+                    "MEMECOIN", "STABLECOIN", "BINANCE", "COINBASE WALLET"]
 # 首次运行时每个来源只补发最新几条，避免刷屏
 FIRST_RUN_BACKFILL = 3
 
