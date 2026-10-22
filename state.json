@@ -203,7 +203,15 @@
   "wscn:3183780",
   "wscn:3183779",
   "wscn:3183777",
-  "wscn:3183775"
+  "wscn:3183775",
+  "wscn:3183796",
+  "wscn:3183793",
+  "wscn:3183791",
+  "wscn:3183790",
+  "wscn:3183788",
+  "wscn:3183786",
+  "wscn:3183784",
+  "wscn:3183782"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -248,7 +256,8 @@
   "tg:WalterBloomberg/37254",
   "tg:WalterBloomberg/37253",
   "tg:WalterBloomberg/37252",
-  "tg:WalterBloomberg/37251"
+  "tg:WalterBloomberg/37251",
+  "tg:WalterBloomberg/37256"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -270,7 +279,8 @@
   "tg:WatcherGuru/15592",
   "tg:WatcherGuru/15594",
   "tg:WatcherGuru/15595",
-  "tg:WatcherGuru/15596"
+  "tg:WatcherGuru/15596",
+  "tg:WatcherGuru/15597"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -314,12 +324,12 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792675520.009638,
+ "congress_last_check": 1792677372.0965214,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792676875.0305545,
+ "earnings_last_check": 1792677670.289271,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -402,7 +412,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792676060.4762208,
+ "gas_last_check": 1792677310.0842195,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
