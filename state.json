@@ -198,7 +198,12 @@
   "wscn:3183764",
   "wscn:3183761",
   "wscn:3183760",
-  "wscn:3183773"
+  "wscn:3183773",
+  "wscn:3183781",
+  "wscn:3183780",
+  "wscn:3183779",
+  "wscn:3183777",
+  "wscn:3183775"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -264,7 +269,8 @@
   "tg:WatcherGuru/15590",
   "tg:WatcherGuru/15592",
   "tg:WatcherGuru/15594",
-  "tg:WatcherGuru/15595"
+  "tg:WatcherGuru/15595",
+  "tg:WatcherGuru/15596"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -313,7 +319,7 @@
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792676060.0426319,
+ "earnings_last_check": 1792676875.0305545,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
