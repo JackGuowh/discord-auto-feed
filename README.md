@@ -4,9 +4,9 @@
 
 | 功能 | 频道建议 | 频率 | 数据来源 | 需要的 Secret |
 |---|---|---|---|---|
-| 突发新闻（中文快讯） | ⚡突发新闻 | 每 10 分钟 | 华尔街见闻 7x24、FT中文网 | `WEBHOOK_NEWS` |
-| 川普 Truth Social（机翻） | 🦅川普专区 | 每 10 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
-| 白宫新闻稿（机翻） | 🏛️白宫内幕 | 每 10 分钟 | whitehouse.gov | `WEBHOOK_WHITEHOUSE`（可选，不填则发到川普频道） |
+| 突发新闻（中文快讯） | ⚡突发新闻 | 约每 1 分钟 | 华尔街见闻 7x24、FT中文网 | `WEBHOOK_NEWS` |
+| 川普 Truth Social（机翻） | 🦅川普专区 | 约每 1 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
+| 白宫新闻稿（机翻） | 🏛️白宫内幕 | 约每 1 分钟 | whitehouse.gov | `WEBHOOK_WHITEHOUSE`（可选，不填则发到川普频道） |
 | 收盘市场指标 | 📈市场指标 | 交易日收盘后 | Yahoo Finance、CNN 恐贪指数 | `WEBHOOK_MARKET` |
 | 每周预告 | 📅每周预告 | 每周日傍晚 | Forex Factory、Nasdaq | `WEBHOOK_CALENDAR` |
 
@@ -19,7 +19,7 @@
 
 ### 2. GitHub：建仓库并上传本项目
 - 推荐 **Public（公开）仓库**：GitHub Actions 对公开仓库免费不限时长。Webhook 存在 Secrets 里是加密的，公开仓库也看不到。
-- 如果用 Private（私有）仓库，每月只有 2000 分钟免费额度，需要把 `.github/workflows/feeds.yml` 里的 `*/10` 改成 `*/30`（每 30 分钟一次）。
+- 如果用 Private（私有）仓库，每月只有 2000 分钟免费额度，不够每分钟循环检查；需要把 `feeds.yml` 里的 `LOOP_MINUTES` 默认值改成 `0`、`*/10` 改成 `*/30`（每 30 分钟检查一次）。
 
 ### 3. GitHub：填写 Secrets
 仓库 → Settings → Secrets and variables → Actions → New repository secret，逐个添加上表中的名字，值粘贴对应频道的 Webhook URL。
