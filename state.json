@@ -333,7 +333,11 @@
   "wscn:3183915",
   "wscn:3183919",
   "wscn:3183918",
-  "wscn:3183917"
+  "wscn:3183917",
+  "wscn:3183924",
+  "wscn:3183923",
+  "wscn:3183922",
+  "wscn:3183921"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -401,7 +405,9 @@
   "tg:WalterBloomberg/37274",
   "tg:WalterBloomberg/37277",
   "tg:WalterBloomberg/37276",
-  "tg:WalterBloomberg/37278"
+  "tg:WalterBloomberg/37278",
+  "tg:WalterBloomberg/37280",
+  "tg:WalterBloomberg/37279"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -482,12 +488,12 @@
   "uw:musk-retaliate-democrats-investigate-him",
   "uw:banks-detect-unauthorized-ai-agents-customer-accounts"
  ],
- "congress_last_check": 1792692044.7413483,
+ "congress_last_check": 1792693851.996948,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792693706.8782268,
+ "earnings_last_check": 1792694512.027409,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -570,7 +576,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792693347.1579504,
+ "gas_last_check": 1792694572.0334754,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -645,7 +651,8 @@
   "gas:CBMikgJBVV95cUxOSnNBaHE5OEpTZ0dTZFYya1ZKLXJ3MENKd2xoaXBNdTh2c2hhaW5jTHNRVWhoR2ZfUkltdU04aVB6X010d2l3VnlSbUlrdzMwSkotNUoxUWdRS01wLXBIblQ4cGJGVHUwQW1wVll5VkpRSEsxdUJURWtNQXI2dzVQZU1xV2lxNXhJUGdURm5NNmJ4SlJDNVhTSmpONzNGNmVSNkdCekkwTmRXWFNXMExuMHJCNUdqbzVtSDcyTkY1Z0dZTVZOMmM2VGt2ZVdraW03OU84RURmNF9IWmNmdlpUWkxmNlBoYVRkMW1FNzRXVWZSQ08xM054X0NRZ1NNdk1zSkdoS05ObzM0d3BXTy1aUUxn",
   "gas:CBMid0FVX3lxTE1ES3k5M2hXeUNEVUZNajludVhqb3FheTR1YzZ5ZmwwcmpyVXY1bXp1aEdvWUVYQlFQR0lsYTNLeFl2c2JjSm5zSnlTUHJVX0JVY0JpdEVkbmppRTJ3a0lqRUlhY0VzMmsxUG91bmdwMkYzcEpzOGVB",
   "gas:CBMifkFVX3lxTE5pZU9ybW5ielFORFNMdjEtTnJNOF9OZjdnSEtYSDZxcHh5TkxicXdTZV9RQU1xWlFmYnpQNzVHak02WURINVJ6dThqTkpQMXFnWnBEVWE1bXBKYWdUUDRXcTR2MzhyRlVCRnVTanIxdEpiOEVqdTctWUp4b0hUQQ",
-  "gas:CBMingJBVV95cUxNSnZvb01YWjBIbGgxcUZ0RFh0b1VPcXp2Q1prSHpPQ0NWOGVvelhDWDFGdFJQWXIwX2YwUFFXdXFEdEVRTUhOcGw5Q2VXcnhLZEV3Qlk0aGlqM0p3Mi00WnJ4V3RXUXF2YTE4UTF4QTJvc0hZaFFla0FwZlhWZ1ZHV3BYU2pzang1LWVUdUZPQTVjOWtSSlhiZThxMEZLWDViaDBVSHE1RVNDWEpFUG1jekppMGdLM0Ffb3pWVHd4a2J1aWc3U05yMDI2eUY5T1R4TVlaR2JGS2kyTUpCRXVfNmJRN09WX1dDdVREN0ZCb2pZTEV2U2ZKWTAyQ1htQlJiNS1WRUltNG05QUhybXFKVWhxLVYtYU5LVmRESmtB"
+  "gas:CBMingJBVV95cUxNSnZvb01YWjBIbGgxcUZ0RFh0b1VPcXp2Q1prSHpPQ0NWOGVvelhDWDFGdFJQWXIwX2YwUFFXdXFEdEVRTUhOcGw5Q2VXcnhLZEV3Qlk0aGlqM0p3Mi00WnJ4V3RXUXF2YTE4UTF4QTJvc0hZaFFla0FwZlhWZ1ZHV3BYU2pzang1LWVUdUZPQTVjOWtSSlhiZThxMEZLWDViaDBVSHE1RVNDWEpFUG1jekppMGdLM0Ffb3pWVHd4a2J1aWc3U05yMDI2eUY5T1R4TVlaR2JGS2kyTUpCRXVfNmJRN09WX1dDdVREN0ZCb2pZTEV2U2ZKWTAyQ1htQlJiNS1WRUltNG05QUhybXFKVWhxLVYtYU5LVmRESmtB",
+  "gas:CBMiUkFVX3lxTE9aZXZ2N1A5cmNEQkd4dmgyaG1JcGszSzRMa3QtUlJxbDV6dGVEX01sY0hXSThjbFpLTldjR3ZtWnNDN3lMQ1BERWd4SGRqSWQ2dXc"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
