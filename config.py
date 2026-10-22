@@ -15,7 +15,7 @@ NEWS_RSS = [
 # 首次运行时每个来源只补发最新几条，避免刷屏
 FIRST_RUN_BACKFILL = 3
 
-# ===== 🇺🇸 川普 / 🏛️ 白宫 =====
+# ===== 🦅 川普 / 🏛️ 白宫 =====
 TRUMP_FEED = "https://www.trumpstruth.org/feed"
 TRUMP_INCLUDE_REPOSTS = False   # 是否推送转帖
 WHITEHOUSE_FEED = "https://www.whitehouse.gov/news/feed/"
