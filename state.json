@@ -197,7 +197,8 @@
   "wscn:3183750",
   "wscn:3183764",
   "wscn:3183761",
-  "wscn:3183760"
+  "wscn:3183760",
+  "wscn:3183773"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -237,7 +238,12 @@
   "tg:WalterBloomberg/37247",
   "tg:WalterBloomberg/37248",
   "tg:WalterBloomberg/37250",
-  "tg:WalterBloomberg/37249"
+  "tg:WalterBloomberg/37249",
+  "tg:WalterBloomberg/37255",
+  "tg:WalterBloomberg/37254",
+  "tg:WalterBloomberg/37253",
+  "tg:WalterBloomberg/37252",
+  "tg:WalterBloomberg/37251"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -302,11 +308,12 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792673718.9578304,
+ "congress_last_check": 1792675520.009638,
  "scheduler": [
-  "movers_pre:2026-10-22"
+  "movers_pre:2026-10-22",
+  "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792675137.6996145,
+ "earnings_last_check": 1792676060.0426319,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -389,7 +396,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792674839.3171692,
+ "gas_last_check": 1792676060.4762208,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -456,7 +463,8 @@
   "gas:CBMiZEFVX3lxTFBRYWtSQU5weU1RcEZFbElVX0xScEFHTGc5dlE4c2pJekw3bmQydGtrSzlRajFhcW54Tmd0Q1FTLS1HNHhHZnhMSVFkbU5HY2VRUTczeG1SdEVoenBqd0lHbVBZeEQ",
   "gas:CBMijgFBVV95cUxQbDdTOEtzblJPSkdEbzUyUTM5eUFKS1JGdWs5d3R6eHQxV3NMT0pyMjU1UHB4U3BIZEVRLUdDNWVYZ3hJZXVOWU05M3dfYndHV1NIVkZleWRBWVJzZ1J2UEc5WjNaUmViN0V1MEloNEdtUFRuQmdibXlsN0RkUmVPWjV1TGhWRUNQWWk5VC1R",
   "gas:CBMiVEFVX3lxTE1nblZNREpLNVY1V3pOQ0NCeERwV1RocjRuSE1hemJJT1RLS1ptRDBHVjBNYk5Ga0ZaVm9fTmsxQjVRekFXdmxib2g5elRwSldXYkI2Zw",
-  "gas:CBMirAFBVV95cUxOMGpFZEhoWTFRRnRJbnBYTkZmQ3dScTdPbWJqUDIwbU5CRF9iVGN6NGVIUERJZm9NUHpaeFNERnpka1RnNjFJWE9oVno1NHVSTTBCdTl0bGhIaWUxUG10enNrQUd1aHVBZmk5WjBaRFRuWXpySTd6RlBTcmIwM3ptZWI4UlhZNGJpdXVxaFVyTmFDNVZnaUJIZEUtQU9Za3I5SndqbzJvbkUyaFAz"
+  "gas:CBMirAFBVV95cUxOMGpFZEhoWTFRRnRJbnBYTkZmQ3dScTdPbWJqUDIwbU5CRF9iVGN6NGVIUERJZm9NUHpaeFNERnpka1RnNjFJWE9oVno1NHVSTTBCdTl0bGhIaWUxUG10enNrQUd1aHVBZmk5WjBaRFRuWXpySTd6RlBTcmIwM3ptZWI4UlhZNGJpdXVxaFVyTmFDNVZnaUJIZEUtQU9Za3I5SndqbzJvbkUyaFAz",
+  "gas:CBMiY0FVX3lxTFAxNWhLWkhsM3ZxV0k5X2dwd0VrYVJvNm5BTTdBcHNkeHNnT19mWl9ybnVRazFnbmY5QWFkZjJlbzMxSWgwSTBtX28tTG9mdGloNUNrejdvNFU4LTlPWnV2ZTlsRQ"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
