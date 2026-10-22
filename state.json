@@ -156,7 +156,8 @@
   "wscn:3183161",
   "wscn:3183167",
   "wscn:3183166",
-  "wscn:3183171"
+  "wscn:3183171",
+  "wscn:3183218"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -242,7 +243,7 @@
  ],
  "congress_last_check": 1792647950.5372403,
  "scheduler": [],
- "earnings_last_check": 1792648130.815602,
+ "earnings_last_check": 1792648868.7907386,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
