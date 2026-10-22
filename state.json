@@ -157,7 +157,8 @@
   "wscn:3183167",
   "wscn:3183166",
   "wscn:3183171",
-  "wscn:3183218"
+  "wscn:3183218",
+  "wscn:3183220"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -243,7 +244,7 @@
  ],
  "congress_last_check": 1792647950.5372403,
  "scheduler": [],
- "earnings_last_check": 1792648868.7907386,
+ "earnings_last_check": 1792649724.7616901,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -299,7 +300,7 @@
   "er:2026-10-21:UNB",
   "er:2026-10-22:ARGX"
  ],
- "gas_last_check": 1792647830.5087893,
+ "gas_last_check": 1792649065.3977618,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
