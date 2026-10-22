@@ -270,7 +270,12 @@
   "wscn:3183851",
   "wscn:3183850",
   "wscn:3183849",
-  "wscn:3183848"
+  "wscn:3183848",
+  "wscn:3183857",
+  "wscn:3183856",
+  "wscn:3183854",
+  "wscn:3183853",
+  "wscn:3183852"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -324,7 +329,12 @@
   "tg:WalterBloomberg/37263",
   "tg:WalterBloomberg/37262",
   "tg:WalterBloomberg/37261",
-  "tg:WalterBloomberg/37264"
+  "tg:WalterBloomberg/37264",
+  "tg:WalterBloomberg/37269",
+  "tg:WalterBloomberg/37268",
+  "tg:WalterBloomberg/37267",
+  "tg:WalterBloomberg/37266",
+  "tg:WalterBloomberg/37265"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -398,7 +408,7 @@
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792683295.7420135,
+ "earnings_last_check": 1792684154.646404,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -481,7 +491,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792682257.359561,
+ "gas_last_check": 1792683494.9616623,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -550,7 +560,8 @@
   "gas:CBMiVEFVX3lxTE1nblZNREpLNVY1V3pOQ0NCeERwV1RocjRuSE1hemJJT1RLS1ptRDBHVjBNYk5Ga0ZaVm9fTmsxQjVRekFXdmxib2g5elRwSldXYkI2Zw",
   "gas:CBMirAFBVV95cUxOMGpFZEhoWTFRRnRJbnBYTkZmQ3dScTdPbWJqUDIwbU5CRF9iVGN6NGVIUERJZm9NUHpaeFNERnpka1RnNjFJWE9oVno1NHVSTTBCdTl0bGhIaWUxUG10enNrQUd1aHVBZmk5WjBaRFRuWXpySTd6RlBTcmIwM3ptZWI4UlhZNGJpdXVxaFVyTmFDNVZnaUJIZEUtQU9Za3I5SndqbzJvbkUyaFAz",
   "gas:CBMiY0FVX3lxTFAxNWhLWkhsM3ZxV0k5X2dwd0VrYVJvNm5BTTdBcHNkeHNnT19mWl9ybnVRazFnbmY5QWFkZjJlbzMxSWgwSTBtX28tTG9mdGloNUNrejdvNFU4LTlPWnV2ZTlsRQ",
-  "gas:CBMiUkFVX3lxTFA3aDFPOHRYaHI0ZTBJN0ZHQmdUVkVaclY0REF4Rlp3NURDUW1OTlhackxjcWVVQS14UTF1MXdSSjZtcVUtRDNDY1pZUk1SS1RiTXc"
+  "gas:CBMiUkFVX3lxTFA3aDFPOHRYaHI0ZTBJN0ZHQmdUVkVaclY0REF4Rlp3NURDUW1OTlhackxjcWVVQS14UTF1MXdSSjZtcVUtRDNDY1pZUk1SS1RiTXc",
+  "gas:CBMiigFBVV95cUxOVVZ1M0lNWXZPWHktUmV0VVFjN2pFQ0VleHlVMjNZVG0xSGZubUNZRklpZUg1dGpveng4b005OFpRZmRpU0pHVlRvMGFBNWpIUWJWbGMzNjJGUGtnNmVEWllQYk8tcV8yMlVFSFVlSzF5OGI4N2dzYldDOGJzSW9SN0NWbjRKNEZoV1E"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
