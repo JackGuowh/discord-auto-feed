@@ -83,7 +83,20 @@
   "truth:https://www.trumpstruth.org/statuses/42528",
   "truth:https://www.trumpstruth.org/statuses/42529",
   "truth:https://www.trumpstruth.org/statuses/42530",
-  "truth:https://www.trumpstruth.org/statuses/42531"
+  "truth:https://www.trumpstruth.org/statuses/42531",
+  "truth:https://www.trumpstruth.org/statuses/42566",
+  "truth:https://www.trumpstruth.org/statuses/42567",
+  "truth:https://www.trumpstruth.org/statuses/42557",
+  "truth:https://www.trumpstruth.org/statuses/42558",
+  "truth:https://www.trumpstruth.org/statuses/42559",
+  "truth:https://www.trumpstruth.org/statuses/42560",
+  "truth:https://www.trumpstruth.org/statuses/42561",
+  "truth:https://www.trumpstruth.org/statuses/42562",
+  "truth:https://www.trumpstruth.org/statuses/42563",
+  "truth:https://www.trumpstruth.org/statuses/42564",
+  "truth:https://www.trumpstruth.org/statuses/42565",
+  "truth:https://www.trumpstruth.org/statuses/42568",
+  "truth:https://www.trumpstruth.org/statuses/42569"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -225,7 +238,7 @@
  ],
  "congress_last_check": 1792642474.0619566,
  "scheduler": [],
- "earnings_last_check": 1792642474.1496603,
+ "earnings_last_check": 1792643357.5657375,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -280,7 +293,7 @@
   "er:2026-10-21:TRST",
   "er:2026-10-21:UNB"
  ],
- "gas_last_check": 1792641755.4195316,
+ "gas_last_check": 1792642972.0218303,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -337,7 +350,10 @@
   "gas:CBMiwAFBVV95cUxNb2xrY1EyQUM4dlBLOGRfYndYQjFVQnY1bmZrTWZ1RnEwNG1LYm1heXdTOTJXSjluZE5Ub05zNGthajBzdENaREthblJkS0pxZnVGUS1hMWNWenp3amJwaG9ycGlRbWxfNHpkRERsSUJsVFpYTTJDWERsZXNDczRVZ2stZjNJdkpsa3JuRjNJQnhncGR5Wk9FTTM3a25JWnVMeHN5M3RiWk5iaXo3ZEsweGVKa2hPa0NJT1podGJxRzA",
   "gas:CBMiUkFVX3lxTE1XNnQxdklyTUk4bXdMNG1qd3ZtWDlJc0NmZFoyV2hWSk56SWRwRzItZU9JQjlYTHNpOVFsN1RSYlNITFFoM1ByODUzSzU5dG9zdGc",
   "gas:CBMizgFBVV95cUxQNEVoUnBXWGJ0ZDduZnJRVFoyLUFLNVNDRFViLWh1T1VEOFFnTWV2b25reG05ci1wdHBqSFJ4QlU0SUxWZG9Fc3FzaDNPdjVsOVlWNTlTYjZfMEZkeGFTRVR3MVBVd01FVjJLdmFVdzRqbm5HdDJFbUlkaFlHcGxTZExudEYtOWRWTUMzOWp3cjdtTWdVSGRNeEV0UmlBWDJjVGJHWXhwQzk3eVh6Q2d3cmhlMFZjZF9ZbUxNblc3bUtRX2VWOE1NLUI3aklBdw",
-  "gas:CBMiVEFVX3lxTE1VX1dJUzFaR2U3dFhObmE1NWUzUjdGbUpZQldRQTlReVZKNDRpSUNjNEpxS3lTTXprYUJCMmlFX25xLTVIMVMyTHdzaHVjQmNGQTktYg"
+  "gas:CBMiVEFVX3lxTE1VX1dJUzFaR2U3dFhObmE1NWUzUjdGbUpZQldRQTlReVZKNDRpSUNjNEpxS3lTTXprYUJCMmlFX25xLTVIMVMyTHdzaHVjQmNGQTktYg",
+  "gas:CBMi4wFBVV95cUxQY0pmZmtMTU1UYUV4TjJkX0w3cWFtYVNuVi1nYzh1SW42d1ZBa2E3SlN1NlIzM3A2Z29DZFo3UUFhRGtHcU9jMThSTU1VeDFTZlhBamxSOWlOM2V4NzM3dDdCTHBEOXR2Ml9kcjB2S1o0V1JWNk9fMkU2RVF4eHV4ZmQzdG55TE9ibVFGVF9rZUQ2LU96Qmh4VTRUWFVUWGhxSFJXQ3FaM2FmeXVXVTA2WnlUMnVvclBiVnlWODVqQU9ZSy1Qai1mVzdpeTJSMGNnTjA2cVlxbmt0Z0hrbGhmc1FvWQ",
+  "gas:CBMiX0FVX3lxTE9JTlNfYVpNeEtjbTBod1VvQzRsZ1dxWHBOUVRWV3FUS2QweWJGeWgyb05HWXZZVjdubUNWZ2lfcHJ3NGNvRERQNlk2M3VyVzNqblhUMDV3ZmltODMwMkVr",
+  "gas:CBMisAFBVV95cUxPc0lSUlFvN1RVM1h5OFRwaFhWZG5tS051Q3M0bjREZU1Kay1XbkpaVWF0a2RJZDBXbzhqbWV2NmFlNXpBYnZZVXViWUlQU2dDZnlhb3RVLWsyTUlHSFZXNWQ2TU0tbUpDalBJZE8wZXFEcVRKRDl0ckRrV0J1R2l5TTJXX2pqUkJlOE15WVA2S0RnZUVxX21FaGxMQWxqbC1UMVhIMzlyNXl4ZWRoc0ZRQQ"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
