@@ -70,6 +70,7 @@ GAS_HIGHLIGHT = ["Helium", "Neon", "Krypton", "Xenon", "Argon", "WF6", "SF6", "N
 
 # ===== 📊 财报速递 =====
 EARNINGS_TOP_N = 40             # 只推当天关注度最高的前 40 家公司
+EARNINGS_MIN_MARKET_CAP = 2e9    # 只推美国上市、市值 ≥ 20 亿美元的公司（排除场外 ADR 和小银行）
 EARNINGS_CHECK_MINUTES = 3      # 每 3 分钟检查一次是否有新财报发布
 
 # ===== 🚀 异动榜 =====
