@@ -8,7 +8,7 @@ import time
 import traceback
 
 import scheduler
-from jobs import congress, earnings, gas, news, telegram, trump, uw
+from jobs import congress, earnings, gas, news, shows, telegram, trump, uw
 
 LOOP_MINUTES = float(os.getenv("LOOP_MINUTES", "14"))
 INTERVAL = int(os.getenv("INTERVAL", "60"))
@@ -20,7 +20,7 @@ def main():
     while True:
         start = time.time()
         rounds += 1
-        for job in (news.main, telegram.main, uw.main, trump.main, congress.main, earnings.main, gas.main,
+        for job in (news.main, telegram.main, uw.main, trump.main, congress.main, earnings.main, gas.main, shows.main,
                     scheduler.main):
             try:
                 job()

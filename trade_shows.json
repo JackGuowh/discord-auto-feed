@@ -1,0 +1,225 @@
+{
+  "_说明": "展会清单（人工核实）。fee 为每人参会费用（不含差旅、展位）。verified 为核实日期。有新展会或信息变化，直接改这个文件即可。",
+  "shows": [
+    {
+      "name": "SPIE Photonics West 2027",
+      "category": "激光 / 光电",
+      "gases": "Kr、Xe、Ne（准分子/气体激光器）、He",
+      "why": "全球最大的激光光电展，激光器厂商是 Ne/Kr/Xe 的主要终端用户",
+      "start": "2027-01-30", "end": "2027-02-04",
+      "city": "San Francisco, CA", "venue": "Moscone Center",
+      "fee": "展区通常可免费登记参观；会议注册另收费，2027 价格待官网公布",
+      "url": "https://spie.org/conferences-and-exhibitions/photonics-west",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "SPIE Advanced Lithography + Patterning 2027",
+      "category": "半导体 / 光刻",
+      "gases": "Ne（ArF/KrF 光刻光源）、Kr、He",
+      "why": "光刻光源（Cymer、Gigaphoton）和晶圆厂工艺人员集中，氖气最对口",
+      "start": "2027-02-21", "end": "2027-02-25",
+      "city": "San Jose, CA", "venue": "San Jose McEnery Convention Center",
+      "fee": "2027 价格待官网公布",
+      "url": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "GAWDA Southeast Regional Meeting 2027",
+      "category": "气体分销（GAWDA）",
+      "gases": "全部",
+      "why": "GAWDA 区域会，面对东南部独立气体分销商",
+      "start": "2027-03-14", "end": "2027-03-16",
+      "city": "Isle of Palms, SC", "venue": "",
+      "fee": "GAWDA 会员价，见 gawda.org 注册页",
+      "url": "https://www.gawda.org/events/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "SEMICON West 2027",
+      "category": "半导体",
+      "gases": "Ne、Kr、Xe、He（光刻、刻蚀、沉积、检测）",
+      "why": "北美最大半导体展，2027 起永久搬到凤凰城并改为春季举办；晶圆厂、设备商、特气采购集中",
+      "start": "2027-03-30", "end": "2027-04-01",
+      "city": "Phoenix, AZ", "venue": "Phoenix Convention Center",
+      "fee": "参考上届（2026 标准价）：Expo Plus $340（SEMI 会员）/ $440（非会员）；Thought Leadership $945 / $1,245；All-In $1,230 / $1,625。早鸟更便宜",
+      "url": "https://semiconwest.org/about/pricing-and-register",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "GAWDA Spring Management Conference 2027",
+      "category": "气体分销（GAWDA）",
+      "gases": "全部",
+      "why": "GAWDA 春季管理大会，分销商老板和供应商见面",
+      "start": "2027-04-02", "end": "2027-04-04",
+      "city": "Chicago, IL", "venue": "Hyatt Regency Chicago",
+      "fee": "GAWDA 会员价，见 gawda.org 注册页",
+      "url": "https://www.gawda.org/spring-management-conference/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "Space Symposium 2027",
+      "category": "航天",
+      "gases": "Xe、Kr（电推进工质）",
+      "why": "美国航天业最大会议，卫星/推进系统厂商和政府采购集中",
+      "start": "2027-04-12", "end": "2027-04-15",
+      "city": "Colorado Springs, CO", "venue": "The Broadmoor",
+      "fee": "参考上届（2026 产业标准注册）：早鸟 $2,960 / 中期 $3,260 / 现场 $3,560",
+      "url": "https://www.spacesymposium.org/fees-tickets-and-policies/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "Pittcon 2027",
+      "category": "分析仪器 / 实验室",
+      "gases": "He（GC/GC-MS 载气）、高纯载气",
+      "why": "分析仪器和实验室大展，离 Aesir 仓库（宾州）近",
+      "start": "2027-04-24", "end": "2027-04-28",
+      "city": "Pittsburgh, PA", "venue": "David L. Lawrence Convention Center",
+      "fee": "展区 Expo Only $100；全程 $450（2027-03-18 前）/ $600（之后）",
+      "url": "https://pittcon.org/register/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "CGA Annual Meeting 2027",
+      "category": "气体行业协会",
+      "gases": "全部",
+      "why": "压缩气体协会年会，气体生产商和分销商高层",
+      "start": "2027-04-25", "end": "2027-04-28",
+      "city": "San Antonio, TX", "venue": "",
+      "fee": "见 cganet.com",
+      "url": "https://www.cganet.com/events",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "ASMS 2027（美国质谱学会年会）",
+      "category": "分析仪器 / 实验室",
+      "gases": "He（质谱/GC-MS）、Xe（FAB 离子源）",
+      "why": "质谱用户和实验室负责人集中，对应实验室开发信的目标客户",
+      "start": "2027-06-06", "end": "2027-06-10",
+      "city": "Houston, TX", "venue": "George R. Brown Convention Center",
+      "fee": "2027 价格待官网公布",
+      "url": "https://www.asms.org/conferences/annual-conference",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "IWDC Sales & Purchasing Convention 2027",
+      "category": "气体分销",
+      "gases": "全部",
+      "why": "独立焊接/气体分销商联盟的采购大会，直接面对分销商采购",
+      "start": "2027-06-07", "end": "2027-06-10",
+      "city": "Indianapolis, IN", "venue": "",
+      "fee": "见 IWDC 官网",
+      "url": "https://www.gawda.org/events/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "CEC/ICMC 2027（低温工程大会）",
+      "category": "低温 / 超导",
+      "gases": "He（液氦、低温冷却）、Ne",
+      "why": "低温和超导领域的主要会议，液氦用户集中",
+      "start": "2027-06-13", "end": "2027-06-17",
+      "city": "Knoxville, TN", "venue": "Knoxville Convention Center",
+      "fee": "2027 价格待官网公布",
+      "url": "https://www.cec-icmc.org/2027/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "GAWDA East/Midwest Regional Meeting 2027",
+      "category": "气体分销（GAWDA）",
+      "gases": "全部",
+      "why": "GAWDA 区域会，离 Aesir 仓库（宾州）近",
+      "start": "2027-06-22", "end": "2027-06-23",
+      "city": "Seven Springs, PA", "venue": "",
+      "fee": "GAWDA 会员价，见 gawda.org 注册页",
+      "url": "https://www.gawda.org/events/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "LASER World of PHOTONICS 2027（国际）",
+      "category": "激光 / 光电（国际）",
+      "gases": "Kr、Xe、Ne、He",
+      "why": "全球最大的激光展之一（两年一届），欧洲激光器厂商集中",
+      "start": "2027-06-22", "end": "2027-06-25",
+      "city": "Munich, Germany", "venue": "Messe München",
+      "fee": "2027 价格待官网公布",
+      "url": "https://world-of-photonics.com",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "Space Tech Expo USA 2027",
+      "category": "航天",
+      "gases": "Xe、Kr（电推进）、He（增压/检漏）",
+      "why": "航天器和卫星制造供应链展会，偏工程师和采购",
+      "start": "2027-06-29", "end": "2027-07-01",
+      "city": "Anaheim, CA", "venue": "Anaheim Convention Center, Hall A",
+      "fee": "提前在线登记可免费参观",
+      "url": "https://www.spacetechexpo.com",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "GAWDA Northwest Regional Meeting 2027",
+      "category": "气体分销（GAWDA）",
+      "gases": "全部",
+      "why": "GAWDA 区域会，面对西北部分销商",
+      "start": "2027-07-21", "end": "2027-07-23",
+      "city": "Sunriver, OR", "venue": "",
+      "fee": "GAWDA 会员价，见 gawda.org 注册页",
+      "url": "https://www.gawda.org/events/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "Small Satellite Conference 2027（SmallSat）",
+      "category": "航天",
+      "gases": "Xe、Kr（电推进）",
+      "why": "小卫星行业最重要的会议，推进系统厂商集中（你今年已参加）",
+      "start": "2027-08-15", "end": "2027-08-18",
+      "city": "Salt Lake City, UT", "venue": "Salt Palace Convention Center（2026 场馆）",
+      "fee": "参考上届（2026）：早鸟 $775 / 标准 $875 / 现场 $1,000",
+      "url": "https://smallsat.org/conference/registration",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "SEMICON Taiwan 2027（国际）",
+      "category": "半导体（国际）",
+      "gases": "Ne、Kr、Xe、He",
+      "why": "台积电等晶圆厂所在地，亚洲最重要的半导体展之一",
+      "start": "2027-08-18", "end": "2027-08-20",
+      "city": "Taipei, Taiwan", "venue": "TaiNEX Nangang",
+      "fee": "2027 价格待官网公布",
+      "url": "https://www.semicontaiwan.org",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "FABTECH 2027",
+      "category": "焊接 / 金属加工",
+      "gases": "He（焊接保护气）",
+      "why": "北美最大焊接和金属加工展，GAWDA 分销商大量参加",
+      "start": "2027-09-13", "end": "2027-09-16",
+      "city": "Chicago, IL", "venue": "McCormick Place",
+      "fee": "2027 价格待官网公布（展区通常提前登记免费）",
+      "url": "https://www.fabtechexpo.com",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "GAWDA Annual Convention 2027",
+      "category": "气体分销（GAWDA）",
+      "gases": "全部",
+      "why": "GAWDA 年会，美国气体分销行业最核心的聚会（你今年已参加）",
+      "start": "2027-09-27", "end": "2027-09-30",
+      "city": "Palm Desert, CA", "venue": "JW Marriott Desert Springs Resort & Spa",
+      "fee": "GAWDA 会员价，见 gawda.org 注册页",
+      "url": "https://www.gawda.org/gawda-annual-convention/",
+      "verified": "2026-10-22"
+    },
+    {
+      "name": "SEMICON West 2028",
+      "category": "半导体",
+      "gases": "Ne、Kr、Xe、He",
+      "why": "北美最大半导体展（凤凰城长期主场）",
+      "start": "2028-05-09", "end": "2028-05-11",
+      "city": "Phoenix, AZ", "venue": "Phoenix Convention Center",
+      "fee": "待公布",
+      "url": "https://semiconwest.org",
+      "verified": "2026-10-22"
+    }
+  ]
+}
