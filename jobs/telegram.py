@@ -47,7 +47,7 @@ def parse_channel(html):
 
 def clean(text, channel):
     text = re.sub(r"\s*@" + re.escape(channel) + r"\s*$", "", text, flags=re.I)
-    text = re.sub(r"\s*@\w+\s*$", "", text)          # 结尾的 @账号
+    text = re.sub(r"\s*\(?@\w+\)?\s*$", "", text)    # 结尾的 @账号 / (@账号)
     text = re.sub(r"^\*+\s*", "", text)                 # Walter Bloomberg 的 * 开头
     return text.strip()
 
@@ -63,7 +63,16 @@ def us_related(text):
     tickers = set(re.findall(r"\$([A-Z]{1,5})\b", text))
     if tickers - CRYPTO_TICKERS:
         return True
-    return any(k.upper() in up for k in C.TELEGRAM_KEYWORDS)
+    for k in C.TELEGRAM_KEYWORDS:
+        k = k.strip().upper()
+        if not k:
+            continue
+        if k[0].isalpha():  # 英文关键词按整词匹配，避免 FUTURES 里的 US 被误判
+            if re.search(r"(?<![A-Z])" + re.escape(k) + r"(?![A-Z])", up):
+                return True
+        elif k in up:
+            return True
+    return False
 
 
 def to_chinese(text):
