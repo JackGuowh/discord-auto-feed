@@ -131,10 +131,9 @@ def fetch_calendar(monday):
         imp = x.get("importance") or 1
         is_data = x.get("calendar_type") == "FD"
         title = (x.get("title") or "").strip()
-        if is_data and x.get("country_id") in C.CAL_DATA_COUNTRIES:
-            ok = imp >= C.CAL_DATA_MIN_IMPORTANCE
-        else:
-            ok = imp >= C.CAL_OTHER_MIN_IMPORTANCE
+        if x.get("country_id") not in C.CAL_COUNTRIES:
+            continue
+        ok = imp >= (C.CAL_DATA_MIN_IMPORTANCE if is_data else C.CAL_EVENT_MIN_IMPORTANCE)
         if not ok or not title:
             continue
         # FOMC 利率上下限只保留一条
@@ -143,8 +142,6 @@ def fetch_calendar(monday):
         title = title.replace("FOMC利率决策(上限)", "美联储FOMC利率决议（上限）")
         dt = datetime.fromtimestamp(x["public_date"], timezone.utc).astimezone(tz)
         tbd = not is_data and dt.minute % 15 != 0  # 事件的时间不规整 = 时间待定
-        if is_data and x.get("country_id") not in ("US",):
-            title = f"{x.get('country', '')} {title}"
         unit = x.get("unit") or ""
         unit = unit if unit == "%" else ""
         extra = []

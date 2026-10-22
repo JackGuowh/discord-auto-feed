@@ -79,6 +79,31 @@ body{{margin:0;background:#fff;font-family:'Noto Sans CJK SC','Noto Sans SC',san
 </div></body></html>"""
 
 
+def cnn_gauge_screenshot():
+    """直接截取 CNN 官网的恐惧贪婪指数仪表盘（和 CNN 网页上一模一样）。"""
+    from playwright.sync_api import sync_playwright
+    from common import UA
+    from jobs.weekly import launch
+    with sync_playwright() as p:
+        b = launch(p)
+        try:
+            page = b.new_page(viewport={"width": 1280, "height": 1400},
+                              device_scale_factor=2, user_agent=UA)
+            page.goto("https://www.cnn.com/markets/fear-and-greed",
+                      wait_until="domcontentloaded", timeout=60000)
+            sel = ".market-tabbed-container .market-fng-gauge"
+            page.wait_for_selector(sel + " .market-fng-gauge__dial-number-value", timeout=30000)
+            page.add_style_tag(content=(
+                ".market-fng-gauge__historical{display:none!important}"
+                "#onetrust-consent-sdk,[id*=onetrust],[class*=ad-slot],[class*=ad-feedback]{display:none!important}"))
+            page.wait_for_timeout(2500)  # 等指针动画结束
+            el = page.locator(sel).first
+            el.scroll_into_view_if_needed()
+            return el.screenshot(type="png")
+        finally:
+            b.close()
+
+
 def render_gauge(score, rating_zh, updated):
     from playwright.sync_api import sync_playwright
     from jobs.weekly import launch
@@ -117,12 +142,15 @@ def post_fear_greed():
     score, rating, text = fear_greed_text(d)
     ts = datetime.fromisoformat(d["fear_and_greed"]["timestamp"]).astimezone(ET)
     updated = ts.strftime("%m/%d %H:%M ET")
+    files = None
     try:
-        png = render_gauge(score, rating, updated)
-        files = [("fear_greed.png", png)]
+        files = [("fear_greed.png", cnn_gauge_screenshot())]
     except Exception as e:  # noqa: BLE001
-        print(f"[market] 仪表盘图生成失败，只发文字: {e}")
-        files = None
+        print(f"[market] CNN 截图失败，改用自绘仪表盘: {e}")
+        try:
+            files = [("fear_greed.png", render_gauge(score, rating, updated))]
+        except Exception as e2:  # noqa: BLE001
+            print(f"[market] 仪表盘图生成失败，只发文字: {e2}")
     post(WEBHOOK, files=files, embeds=[embed(
         title="😱 恐惧贪婪指数", description=text, color=0xEA580C,
         image="attachment://fear_greed.png" if files else None,
