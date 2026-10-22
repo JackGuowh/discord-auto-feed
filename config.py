@@ -3,15 +3,13 @@
 # ===== ⚡ 突发新闻 =====
 # 华尔街见闻 7x24 快讯频道：global-channel(要闻) / us-stock-channel(美股) /
 # forex-channel(外汇) / commodity-channel(商品) / a-stock-channel(A股)
-WSCN_CHANNELS = ["global-channel"]
-# 快讯重要度：1 = 全部快讯（量很大，每天数百条）；2 = 只推红色重要快讯（推荐）
-WSCN_MIN_SCORE = 2
+WSCN_CHANNELS = ["us-stock-channel"]   # 只要美股相关
+# 快讯重要度：1 = 该频道全部快讯；2 = 只推红色重要快讯
+WSCN_MIN_SCORE = 1
 # 只推含这些关键词的快讯（留空 = 不过滤）。例如 ["美联储", "特朗普", "英伟达"]
 NEWS_KEYWORDS = []
 # 额外的中文 RSS 新闻源（名称, 链接）。不需要可以清空列表
-NEWS_RSS = [
-    ("FT中文网", "https://www.ftchinese.com/rss/news"),
-]
+NEWS_RSS = []   # 例如 [("FT中文网", "https://www.ftchinese.com/rss/news")]
 # 首次运行时每个来源只补发最新几条，避免刷屏
 FIRST_RUN_BACKFILL = 3
 
@@ -30,9 +28,9 @@ WEEKLY_MENTION_EVERYONE = False      # 推送时是否 @everyone
 CAL_TZ = "Asia/Shanghai"
 CAL_TZ_LABEL = "北京时间"
 # 数据来源：华尔街见闻财经日历。重要度 1=低 2=中 3=高 4=极高
-CAL_DATA_COUNTRIES = ["US"]          # 这些国家的经济数据，重要度 ≥ 2 就列出
-CAL_DATA_MIN_IMPORTANCE = 2
-CAL_OTHER_MIN_IMPORTANCE = 3         # 其他国家的数据 / 各类事件，重要度 ≥ 3 才列出
+CAL_COUNTRIES = ["US"]               # 只列这些国家（只要美股相关 = 只留美国）
+CAL_DATA_MIN_IMPORTANCE = 2          # 经济数据：重要度 ≥ 2 列出
+CAL_EVENT_MIN_IMPORTANCE = 3         # 事件（发布会、讲话等）：重要度 ≥ 3 列出
 CAL_HIGHLIGHT_IMPORTANCE = 3         # 重要度 ≥ 3 的高亮显示
 CAL_EARNINGS_PER_DAY = 8             # 日历图里每天列出的热门财报数量
 # 财报来源：Earnings Whispers「Most Anticipated Earnings Releases」
