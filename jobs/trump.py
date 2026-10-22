@@ -1,4 +1,4 @@
-"""🇺🇸 川普 Truth Social 帖子（机器翻译）+ 🏛️ 白宫新闻稿。"""
+"""🦅 川普 Truth Social 帖子（机器翻译）+ 🏛️ 白宫新闻稿。"""
 import re
 from email.utils import parsedate_to_datetime
 
@@ -54,7 +54,7 @@ def run_trump(state):
             fields.append(("视频", videos[0]))
         label = {"repost": "转帖", "quote": "引用帖"}.get(ptype, "新帖")
         post(WEBHOOK_TRUMP, embeds=[embed(
-            title=f"🇺🇸 川普 Truth Social {label}",
+            title=f"🦅 川普 Truth Social {label}",
             url=link, description=clip(desc, 3800), fields=fields,
             color=0xC62828, footer="机器翻译仅供参考 · 来源：Truth Social",
             timestamp=iso(e), image=images[0] if images else None,
