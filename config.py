@@ -21,7 +21,7 @@ TELEGRAM_CHANNELS = [
 UNUSUAL_WHALES = True   # Unusual Whales 新闻（官网抓取，没有 Telegram 频道）
 # 只推美股相关的关键词（Telegram 和 Unusual Whales 共用）
 TELEGRAM_KEYWORDS = [
-    "🇺🇸", "U.S.", "US ", "USA", "AMERICA", "FED", "FOMC", "POWELL", "TREASURY", "YIELD",
+    "🇺🇸", "U.S.", "US", "USA", "AMERICA", "FED", "FOMC", "POWELL", "TREASURY", "YIELD",
     "S&P", "SPX", "NASDAQ", "DOW", "WALL STREET", "STOCK", "SHARES", "EARNINGS", "REVENUE",
     "EPS", "GUIDANCE", "IPO", "SEC ", "TRUMP", "WHITE HOUSE", "TARIFF", "CPI", "PCE", "JOBS",
     "PAYROLL", "UNEMPLOYMENT", "GDP", "INFLATION", "RATE CUT", "RATE HIKE", "BUYBACK",
