@@ -137,7 +137,9 @@
   "wscn:3182990",
   "wscn:3182989",
   "wscn:3182988",
-  "wscn:3182987"
+  "wscn:3182987",
+  "wscn:3183119",
+  "wscn:3183109"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -177,5 +179,49 @@
   "tg:WatcherGuru/15574",
   "tg:WatcherGuru/15572",
   "tg:WatcherGuru/15570"
- ]
+ ],
+ "tg:QuiverQuant": [
+  "tg:Quiverquant/309",
+  "tg:Quiverquant/307",
+  "tg:Quiverquant/306",
+  "tg:Quiverquant/305",
+  "tg:Quiverquant/304",
+  "tg:Quiverquant/303",
+  "tg:Quiverquant/302",
+  "tg:Quiverquant/301",
+  "tg:Quiverquant/300",
+  "tg:Quiverquant/296",
+  "tg:Quiverquant/295",
+  "tg:Quiverquant/294",
+  "tg:Quiverquant/293",
+  "tg:Quiverquant/292",
+  "tg:Quiverquant/291",
+  "tg:Quiverquant/290",
+  "tg:Quiverquant/289",
+  "tg:Quiverquant/288"
+ ],
+ "unusualwhales": [
+  "uw:meta-first-negative-free-cash-flow-in-over-a-decade",
+  "uw:zuckerberg-considering-leaving-california-billionaire-tax",
+  "uw:us-embassy-staff-families-ordered-leave-saudi-arabia-afp",
+  "uw:meta-new-non-voting-share-class-fund-ai-zuckerberg-control",
+  "uw:trump-5000-republican-house-senate-november-3",
+  "uw:persian-gulf-oil-output-above-pre-iran-war-levels",
+  "uw:ai-found-critical-php-flaws-governments-websites-offline",
+  "uw:americans-want-factory-jobs-only-third-work-there-cato",
+  "uw:home-sellers-outnumber-buyers-560000-record-gap-redfin",
+  "uw:ai-need-3-5-trillion-revenue-2032-data-center-buildout-brookings",
+  "uw:speculative-data-center-debt-repackaged-pension-funds-subprime",
+  "uw:venezuelan-billionaire-pardoned-trump-habba-50-million-deal",
+  "uw:trump-administration-pursue-wages-benefits-defaulted-student-loans",
+  "uw:fema-chief-states-prepare-handle-disasters-on-their-own",
+  "uw:trump-floated-replacing-white-house-briefing-room-pool",
+  "uw:microsoft-next-xbox-cost-1800-targeting-2028",
+  "uw:musk-ordered-slowdown-military-starlink-ukraine-wsj",
+  "uw:trump-anti-fraud-program-1-percent-commission-whistleblowers",
+  "uw:jd-vance-vote-solutions-lower-cost-of-gas",
+  "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
+ ],
+ "congress_last_check": 1792636988.0236208,
+ "scheduler": []
 }
