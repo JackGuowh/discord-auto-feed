@@ -27,4 +27,5 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
           FORCE: "0"
           MOVERS_MODE: ${{ github.event.inputs.mode }}
-          WEBHOOK_MOVERS: ${{ secrets.WEBHOOK_MOVERS }}
+          # 异动榜合并进「市场指标&异动榜」频道，用市场指标的 Webhook
+          WEBHOOK_MOVERS: ${{ secrets.WEBHOOK_MARKET }}

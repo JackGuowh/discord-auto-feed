@@ -46,7 +46,8 @@ jobs:
           WEBHOOK_NEWS: ${{ secrets.WEBHOOK_NEWS }}
           WEBHOOK_TRUMP: ${{ secrets.WEBHOOK_TRUMP }}
           WEBHOOK_WHITEHOUSE: ${{ secrets.WEBHOOK_WHITEHOUSE }}
-          WEBHOOK_EARNINGS: ${{ secrets.WEBHOOK_EARNINGS }}
+          # 财报速递合并进「每周预告＆财报速递」频道，用每周预告的 Webhook
+          WEBHOOK_EARNINGS: ${{ secrets.WEBHOOK_CALENDAR }}
       - name: 保存去重记录（自动合并并发冲突）
         if: ${{ always() && github.event.inputs.dry_run != '1' }}
         run: |
