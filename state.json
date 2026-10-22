@@ -96,7 +96,8 @@
   "truth:https://www.trumpstruth.org/statuses/42564",
   "truth:https://www.trumpstruth.org/statuses/42565",
   "truth:https://www.trumpstruth.org/statuses/42568",
-  "truth:https://www.trumpstruth.org/statuses/42569"
+  "truth:https://www.trumpstruth.org/statuses/42569",
+  "truth:https://www.trumpstruth.org/statuses/42570"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -242,9 +243,9 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792647950.5372403,
+ "congress_last_check": 1792649800.8167393,
  "scheduler": [],
- "earnings_last_check": 1792649724.7616901,
+ "earnings_last_check": 1792650400.5735645,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -300,7 +301,7 @@
   "er:2026-10-21:UNB",
   "er:2026-10-22:ARGX"
  ],
- "gas_last_check": 1792649065.3977618,
+ "gas_last_check": 1792650280.8391023,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
