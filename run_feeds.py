@@ -7,7 +7,7 @@ import os
 import time
 import traceback
 
-from jobs import news, telegram, trump
+from jobs import congress, news, telegram, trump, uw
 
 LOOP_MINUTES = float(os.getenv("LOOP_MINUTES", "14"))
 INTERVAL = int(os.getenv("INTERVAL", "60"))
@@ -19,7 +19,7 @@ def main():
     while True:
         start = time.time()
         rounds += 1
-        for job in (news.main, telegram.main, trump.main):
+        for job in (news.main, telegram.main, uw.main, trump.main, congress.main):
             try:
                 job()
             except Exception:  # noqa: BLE001

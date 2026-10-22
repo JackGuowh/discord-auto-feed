@@ -4,9 +4,9 @@
 
 | 功能 | 频道建议 | 频率 | 数据来源 | 需要的 Secret |
 |---|---|---|---|---|
-| 突发新闻（中文快讯 + X 新闻账号机翻） | ⚡突发新闻 | 约每 1 分钟 | 华尔街见闻美股快讯；Walter Bloomberg、Watcher Guru（经 Telegram 镜像，只推美股相关） | `WEBHOOK_NEWS` |
+| 突发新闻（中文快讯 + X 新闻账号机翻） | ⚡突发新闻 | 约每 1 分钟 | 华尔街见闻美股快讯；Walter Bloomberg、Watcher Guru（Telegram 镜像）、Unusual Whales（官网），只推美股相关 | `WEBHOOK_NEWS` |
 | 川普 Truth Social（机翻） | 🦅川普专区 | 约每 1 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
-| 白宫新闻稿（机翻） | 🏛️白宫内幕 | 约每 1 分钟 | whitehouse.gov | `WEBHOOK_WHITEHOUSE`（可选，不填则发到川普频道） |
+| 国会议员股票交易 + Quiver Quant 动态 | 🏛️白宫内幕 | 每 30 分钟 / 约每 1 分钟 | Capitol Trades、Quiver Quantitative（Telegram 镜像） | `WEBHOOK_WHITEHOUSE` |
 | 恐惧贪婪指数 + Reddit 24H 热度榜 | 📈市场指标 | 交易日盘前 / 收盘后 | CNN、ApeWisdom | `WEBHOOK_MARKET` |
 | 下周财报 + 下周财经日历（图片） | 📅每周预告 | 每周日傍晚（美东） | Earnings Whispers、华尔街见闻 | `WEBHOOK_CALENDAR` |
 

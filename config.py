@@ -10,18 +10,22 @@ WSCN_MIN_SCORE = 1
 NEWS_KEYWORDS = []
 # 额外的中文 RSS 新闻源（名称, 链接）。不需要可以清空列表
 NEWS_RSS = []   # 例如 [("FT中文网", "https://www.ftchinese.com/rss/news")]
-# X(推特)新闻账号 —— 通过它们的 Telegram 公开镜像频道免费抓取 (频道名, 显示名称)
+# X(推特)新闻账号 —— 通过它们的 Telegram 公开镜像频道免费抓取 (频道名, 显示名称[, 推送到哪个频道])
 # 在浏览器打开 https://t.me/s/频道名 能看到消息列表的才能用
 TELEGRAM_CHANNELS = [
     ("WalterBloomberg", "Walter Bloomberg"),   # 美股/宏观快讯
     ("WatcherGuru", "Watcher Guru"),           # JUST IN 类突发新闻
+    ("QuiverQuant", "Quiver Quantitative", "WEBHOOK_WHITEHOUSE"),  # 国会交易/政策数据 → 白宫内幕
 ]
 # 只推美股相关：包含股票代码（如 $TSLA）或下列任一关键词的才推送
+UNUSUAL_WHALES = True   # Unusual Whales 新闻（官网抓取，没有 Telegram 频道）
+# 只推美股相关的关键词（Telegram 和 Unusual Whales 共用）
 TELEGRAM_KEYWORDS = [
     "🇺🇸", "U.S.", "US ", "USA", "AMERICA", "FED", "FOMC", "POWELL", "TREASURY", "YIELD",
     "S&P", "SPX", "NASDAQ", "DOW", "WALL STREET", "STOCK", "SHARES", "EARNINGS", "REVENUE",
     "EPS", "GUIDANCE", "IPO", "SEC ", "TRUMP", "WHITE HOUSE", "TARIFF", "CPI", "PCE", "JOBS",
     "PAYROLL", "UNEMPLOYMENT", "GDP", "INFLATION", "RATE CUT", "RATE HIKE", "BUYBACK",
+    "MARKETS", "CONGRESS",
 ]
 # 包含这些词的不推（过滤加密货币等非美股内容）
 TELEGRAM_EXCLUDE = ["BITCOIN", "$BTC", "$ETH", "ETHEREUM", "CRYPTO", "$SOL", "$XRP", "$DOGE",
@@ -33,6 +37,11 @@ FIRST_RUN_BACKFILL = 3
 TRUMP_FEED = "https://www.trumpstruth.org/feed"
 TRUMP_INCLUDE_REPOSTS = False   # 是否推送转帖
 WHITEHOUSE_FEED = "https://www.whitehouse.gov/news/feed/"
+WHITEHOUSE_PRESS = False        # 是否推送白宫官网新闻稿（非美股内容，默认关闭）
+
+# ===== 🏛️ 白宫内幕：国会议员股票交易 =====
+CONGRESS_CHECK_MINUTES = 30     # 每 30 分钟检查一次 Capitol Trades（申报一天更新几次）
+CONGRESS_SKIP_SMALL = False     # True = 跳过 $1K–15K 的小额交易
 
 # ===== 📈 市场指标 =====
 # 盘前推一次恐惧贪婪指数；收盘后推恐惧贪婪指数 + Reddit 24H 热度榜
