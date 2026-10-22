@@ -7,10 +7,10 @@
 | 突发新闻（中文快讯 + X 新闻账号机翻） | ⚡突发新闻 | 约每 1 分钟 | 华尔街见闻美股快讯；Walter Bloomberg、Watcher Guru（Telegram 镜像）、Unusual Whales（官网），只推美股相关 | `WEBHOOK_NEWS` |
 | 川普 Truth Social（机翻） | 🦅川普专区 | 约每 1 分钟 | trumpstruth.org 存档 | `WEBHOOK_TRUMP` |
 | 国会议员股票交易 + Quiver Quant 动态 | 🏛️白宫内幕 | 每 30 分钟 / 约每 1 分钟 | Capitol Trades、Quiver Quantitative（Telegram 镜像） | `WEBHOOK_WHITEHOUSE` |
-| 恐惧贪婪指数 + Reddit 24H 热度榜 | 📈市场指标 | 交易日盘前 / 收盘后 | CNN、ApeWisdom | `WEBHOOK_MARKET` |
-| 财报速递（EPS/营收 vs 预期 + 盘前盘后反应） | 📊财报速递 | 约每 3 分钟 | Earnings Whispers、Yahoo Finance | `WEBHOOK_EARNINGS` |
-| 盘前 / 盘后异动榜 | 🚀异动榜 | 交易日盘前、收盘后 | Yahoo Finance | `WEBHOOK_MOVERS` |
-| 下周财报 + 下周财经日历（图片） | 📅每周预告 | 每周日傍晚（美东） | Earnings Whispers、华尔街见闻 | `WEBHOOK_CALENDAR` |
+| 恐惧贪婪指数 + Reddit 24H 热度榜 | 📈市场指标＆异动榜 | 交易日盘前 / 收盘后 | CNN、ApeWisdom | `WEBHOOK_MARKET` |
+| 财报速递（EPS/营收 vs 预期 + 盘前盘后反应） | 📅每周预告＆财报速递 | 约每 3 分钟 | Earnings Whispers、Yahoo Finance | `WEBHOOK_CALENDAR`（与每周预告共用） |
+| 盘前 / 盘后异动榜 | 📈市场指标＆异动榜 | 交易日盘前、收盘后 | Yahoo Finance | `WEBHOOK_MARKET`（与市场指标共用） |
+| 下周财报 + 下周财经日历（图片） | 📅每周预告＆财报速递 | 每周日傍晚（美东） | Earnings Whispers、华尔街见闻 | `WEBHOOK_CALENDAR` |
 
 ## 部署步骤
 
