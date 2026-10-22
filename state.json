@@ -139,7 +139,8 @@
   "wscn:3182988",
   "wscn:3182987",
   "wscn:3183119",
-  "wscn:3183109"
+  "wscn:3183109",
+  "wscn:3183161"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -222,9 +223,9 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792640640.999377,
+ "congress_last_check": 1792642474.0619566,
  "scheduler": [],
- "earnings_last_check": 1792641677.795258,
+ "earnings_last_check": 1792642474.1496603,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -278,5 +279,74 @@
   "er:2026-10-21:STC",
   "er:2026-10-21:TRST",
   "er:2026-10-21:UNB"
+ ],
+ "gas_last_check": 1792641755.4195316,
+ "gas:GAWDA Media": [
+  "gas:https://gawdamedia.com/?p=25066",
+  "gas:https://gawdamedia.com/?p=25063",
+  "gas:https://gawdamedia.com/?p=25061",
+  "gas:https://gawdamedia.com/?p=25059",
+  "gas:https://gawdamedia.com/?p=25055",
+  "gas:https://gawdamedia.com/?p=25053",
+  "gas:https://gawdamedia.com/?p=24107",
+  "gas:https://gawdamedia.com/?p=24271",
+  "gas:https://gawdamedia.com/?p=24748",
+  "gas:https://gawdamedia.com/?p=24056"
+ ],
+ "gas:GAWDA": [
+  "gas:https://www.gawda.org/?p=13304",
+  "gas:https://www.gawda.org/?p=13140",
+  "gas:https://www.gawda.org/?p=12984",
+  "gas:https://www.gawda.org/?p=12981",
+  "gas:https://www.gawda.org/?p=12446",
+  "gas:https://www.gawda.org/?p=12296",
+  "gas:https://www.gawda.org/?p=12040",
+  "gas:https://www.gawda.org/?p=11982",
+  "gas:https://www.gawda.org/?p=11918",
+  "gas:https://www.gawda.org/?p=11530"
+ ],
+ "gas:CGA 压缩气体协会": [
+  "gas:https://www.cganet.com/dont-be-scared-be-safe-simple-tips-for-compressed-gas-safety/",
+  "gas:https://www.cganet.com/tech26-is-bringing-together-an-impressive-crowd-two-important-deadlines-are-almost-here/",
+  "gas:https://www.cganet.com/publication-spotlight-cga-g-5-5/",
+  "gas:https://www.cganet.com/introducing-yep-liaisons/",
+  "gas:https://www.cganet.com/voices-of-cga-krista-lee-reflects-on-27-years-of-publishing-for-safety/",
+  "gas:https://www.cganet.com/vision-2030-if-youâre-not-at-the-table-youâre-on-the-menu/",
+  "gas:https://www.cganet.com/the-gases-behind-the-chips-why-compressed-gases-are-critical-to-semiconductor-manufacturing/",
+  "gas:https://www.cganet.com/before-the-storm-el-niÃ±o-severe-weather-and-cga-safety-resources/",
+  "gas:https://www.cganet.com/canada-annual-meeting-keynote-speaker-announced/",
+  "gas:https://www.cganet.com/cga-releases-p-98-guideline-for-pressure-testing-of-field-installed-piping-and-equipment/"
+ ],
+ "gas:Google 新闻": [
+  "gas:CBMiUkFVX3lxTE8yMnp4VzR1UU8yWUhHdDJoQzhYV2FhUFlxTVVjd0JEdzl5cnp6MGV5Nkl5X2lPVGIyZ0prV2FhVlVxdHQ3dkRjSEJHSE5jaG92VkE",
+  "gas:CBMiwwFBVV95cUxNZW5YRGVqdFk2YTdueHpyQTRYOW5qRndrM3N0M2FWV2w0YWNaOUlZZWRKZnZiXzFhSHNkRHVZQm9lVm4wVHFOUXp1Qzc0R1ZKWHp2OEdTSkhBbXZqcEtDRkRpakJRYXlkSXN5OHBRZG0tdVpHTFVNVHB1QjZ2ODY0Y1ZNQ0tnYkRqX1o0Rlp3NTJtdGl2YnhZbmdQUnp5RF91U29aWV9hTi0wLXhkTmI1dXJhR25TQ0F3Z2N1cjdhd2FTOFU",
+  "gas:CBMihwJBVV95cUxPMkU4ajFkbkQ5U1BoU2NrWHZjVkJ2aWFrQzY3SjhFLTFNcHZxeHNiMHFTa0k4dzBVZTdYNW9od2VEaVJPb0NXT21HRUxZd0RkbzZfM25LdjNWdEMtM1BUVXVEclZqTzVrcFIzNnd3Q1pUMWVvWkZySjUtaDdoS2RyTzZ3QTVObm9NUW14NmJwRURydkM4dEZBbWg5VWREbG4xTkdvNm9XRW1ia20zSkZCY2dVUkxJUS1yczZkcHdQWjVzQS0tLU4tcVFPQ3VUQU9PY1FPZEVGN05mVldYOFZxNGdfVmNKanB5WFVsMlJvckFpdC1mUFhvMkk5dzltWkFzSmkzSFdfaw",
+  "gas:CBMirwFBVV95cUxPdUh3Wm02RExHSXlIblA3bXd0Y1lBVnBBaDNHc19WNERxX0pfXzJEaEM2VkppMGZLZEJ6YmtfT1dkUlh2Yk8xbV9tVThWYVYwWnRsNkYtLUxneHU2aUtPSmo1cTllYmkwY19valZMbklHSGZVUHBRTU85cmlmc0hBMlRHbUkxc0RyQXVRR3VMOGc0cHo0TWRsU1lydDlkbVMwMnNHRHFvcWJYMlRWRm93",
+  "gas:CBMib0FVX3lxTE9obnNoR0lFaWJLYmZPa0ZKdWFab0FhRTJQLWt6OXBTV3RqNFoySTJ2OG9OdjYwWklram5IMUlVQ29wRnZUVDRJLVFPamVYRm5Tb1N5ZlNQakl1UXJfUUoxZm50dW9LMGVVRjY0ZWxvUQ",
+  "gas:CBMiygFBVV95cUxOQVBLeXpnZDA1dUpEb0tKcnFqV3RhZGQ2d25WcERvV3AzYzdveUdaSDVMM29ZbGVsSXk4ZEVucmxrbHkyOHg1VkpDT2lpbjREMWhybkhZbHdhNjhQX1hiYk5LZUwtM1VuV2dsTG13dGpsRTZxX0RFdEZqOGQ0OEFoSjN6UWNXRk1paXVnUFF0TXdkU01vaGJHU2RqM3ZiQm85YlJ2cEtzY01GVjBEcEoxZ0l5WTR2d0RISTdmeVZZSWtFUnNZZEw0LWt3",
+  "gas:CBMibkFVX3lxTE04bk16eHJrXzg1WmI4QnRwUzhGQ01aQlQwc1ItWDgxSjgxRHdvZDUtalBudnRQaGF6R2xQOTM1ek5BdWo3ZHptbFFjT1pyU2M5N1NYSjlWUGhnVDlkc2FiVFMzNTRoaEdWNlBNM3pn",
+  "gas:CBMi5wFBVV95cUxQejlndmpKZzB2UEIzSEZwZjNnT184NU94X251YWlCZVJJUmpTUlc2am1EbWg3Nm1ySzI3RVREZThLQzg0VEJ4SkU2cVNpekdyLTE2blUwZWdlejhjbnduVlVrbTlRTThqOUFEUy1BRzI4aGN5QVhQOXFNUFlWR1BuLWtTU0kyUWktbWM4eXJjN1pRQlFEbVMzajB1N2pRQ0pXZEhIZ3lrR2hucWQ1NzNyNlN5ZEl5RnR0MGtTbU5aR0pkanhpSjdIMkY5ai1rMVB6cnV4MGRIQWtrdXJuMHNjd0ktOXprRVE",
+  "gas:CBMi5wFBVV95cUxNNVI5eUFmdzFsREU5NXh0R0xOUUw1NjN0X3llOXlYTVlpY05OUWpMNjNaLUVIdzB2M0h0VnVnOURFOG8tWU9FX05DZkk4VmdRRE9WQVBOcFNJYmZQTGpWeDFDVDA0dEZpMW4tR0REOEhRcHplNDRYWTNqYlZPRzZzUXpDUi00Q0NEbnVTR2xDZnIwZG5sNFFFOEVrSmpjZ0ZhdjlCcU9oRVZWeFRTd090ZFRoUFhaZUFyN3F4czlMTVk3bmtrdENkaExoU2VaY1NadzR2YTFoR3VSQ1o0MThBMnJNdHUycjA",
+  "gas:CBMitAFBVV95cUxQMi1WbDdnd1N4S0EwTFNvV0RFWTg4ZVgwbWNjVEREVWJhY254eUROczkzcnpzMGswY180anF2VUVTS2VfUTlnU0hFODI5QVpRZnY5ejhlMmw3Z2VrUXp0ZmxyekFWTjF6bklIMFZPTFBfdjRxYU9ubmF2N0dacnZGQnZUSGhsZFYzUTVsVUFQZHdkVHFfOE91MTh2YXlBb2lnTXl4VnRUUW5yQ05PUU9NdU13MlE",
+  "gas:CBMiU0FVX3lxTE96dDFkakJtSjJsXzIzMVowRmtJV1BOY2o0Q0RtUVpHZEdKNVlxVjVXM1RUR212dU9EcGxjamxwQ2pCNzlvREd2aU5OQnJnbDZ0NjFr",
+  "gas:CBMimgFBVV95cUxPYzNsNjhaWGpFeUhsTjlZTXZsY1ZnS05TZHdZem9MM3JFTU1RQlVsd1JtYVZOT18zYXlTSzNyZ0dTb0VKazdlOTU5WGtZc3pGWWlNYmFjbWhwZUhhWGRucTNOZEZQeTlFUXlpcnI4cmNFVXJXaFFzOUQwVl8xbDY2d3JqN3VWMXl2dlFCMGtoVWR2Vml3b2tPR0Z3",
+  "gas:CBMitAFBVV95cUxOWFRUNGxGdUhodDRGLU55eGJXMUtaUzk2elFndGZJa1pKLTJydFVidWFDTTJFbEN5dnM1NHN3d2pETmlUUmpTd0pTWE8wM0JxZ3VFTUhUTlVaNlFWWnRPVS1yY3VKQTctMi1YaWdPZkRZMzNoTEpES2RHeW1iUjQzSk1VVGxadkNfWkRHOGxUQlZQS0FRb09saWpMWkI5c1hxZzZBckRodDNNMWwtRFNmRVRBSEs",
+  "gas:CBMiUkFVX3lxTE4tWTY4UnZTeVdFdWJSRW1XUG1RSWVua09RNEZpYUNJOUR0MklQSjZINnVORDFHTnQtbVpLdVBlcjd0UGNSUnJmMVllTEJLYVZUeHc",
+  "gas:CBMiqgFBVV95cUxOU1loeTdFQUFSQlNEQTlkUEJ6WE9GSGRGLXVoSzNXTHg4ZktWcl8zMlRZYWVvQk1aWFliTkNNdWp0R2RRNUdoeW1KMjUzcUlUb3UxaXN3Ykk5VmFmcVJLM21PN3dOQS1qaEZoS0RmWDdhOXh4amtQcTMxcVhBT0VST2Q4UUpycEc2SDVobXJDeXBKZ0RQU25TeFYxc1Vjblg3blE3c2k5LU0yZw",
+  "gas:CBMiVEFVX3lxTE1vcFlCSDE2N0tiX21OOGh4MGk5bzZ3cmpOZUlFRHZ0cnBYSUZhOHpQSlJ0Y090bDFUMHNEUWNSZ0lCQ3lPaU0yUm9GejNWLXNlenpLbw",
+  "gas:CBMiwAFBVV95cUxNb2xrY1EyQUM4dlBLOGRfYndYQjFVQnY1bmZrTWZ1RnEwNG1LYm1heXdTOTJXSjluZE5Ub05zNGthajBzdENaREthblJkS0pxZnVGUS1hMWNWenp3amJwaG9ycGlRbWxfNHpkRERsSUJsVFpYTTJDWERsZXNDczRVZ2stZjNJdkpsa3JuRjNJQnhncGR5Wk9FTTM3a25JWnVMeHN5M3RiWk5iaXo3ZEsweGVKa2hPa0NJT1podGJxRzA",
+  "gas:CBMiUkFVX3lxTE1XNnQxdklyTUk4bXdMNG1qd3ZtWDlJc0NmZFoyV2hWSk56SWRwRzItZU9JQjlYTHNpOVFsN1RSYlNITFFoM1ByODUzSzU5dG9zdGc",
+  "gas:CBMizgFBVV95cUxQNEVoUnBXWGJ0ZDduZnJRVFoyLUFLNVNDRFViLWh1T1VEOFFnTWV2b25reG05ci1wdHBqSFJ4QlU0SUxWZG9Fc3FzaDNPdjVsOVlWNTlTYjZfMEZkeGFTRVR3MVBVd01FVjJLdmFVdzRqbm5HdDJFbUlkaFlHcGxTZExudEYtOWRWTUMzOWp3cjdtTWdVSGRNeEV0UmlBWDJjVGJHWXhwQzk3eVh6Q2d3cmhlMFZjZF9ZbUxNblc3bUtRX2VWOE1NLUI3aklBdw",
+  "gas:CBMiVEFVX3lxTE1VX1dJUzFaR2U3dFhObmE1NWUzUjdGbUpZQldRQTlReVZKNDRpSUNjNEpxS3lTTXprYUJCMmlFX25xLTVIMVMyTHdzaHVjQmNGQTktYg"
+ ],
+ "shows_last_day": "2026-10-22",
+ "shows_init": "2026-10-22",
+ "shows_sent": [
+  "GAWDA Southeast Regional Meeting 2027|180",
+  "GAWDA Spring Management Conference 2027|180",
+  "SEMICON West 2027|180",
+  "SPIE Advanced Lithography + Patterning 2027|180",
+  "SPIE Photonics West 2027|180",
+  "Space Symposium 2027|180"
  ]
 }
