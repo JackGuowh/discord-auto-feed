@@ -165,7 +165,8 @@
   "wscn:3183272",
   "wscn:3183277",
   "wscn:3183293",
-  "wscn:3183286"
+  "wscn:3183286",
+  "wscn:3183299"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -249,9 +250,9 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792653480.065904,
+ "congress_last_check": 1792655323.1511576,
  "scheduler": [],
- "earnings_last_check": 1792654403.0301285,
+ "earnings_last_check": 1792655263.3979564,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -307,7 +308,7 @@
   "er:2026-10-21:UNB",
   "er:2026-10-22:ARGX"
  ],
- "gas_last_check": 1792653981.8124135,
+ "gas_last_check": 1792655203.1855733,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
