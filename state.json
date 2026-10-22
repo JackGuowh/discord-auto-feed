@@ -221,7 +221,8 @@
   "tg:WalterBloomberg/37239",
   "tg:WalterBloomberg/37242",
   "tg:WalterBloomberg/37241",
-  "tg:WalterBloomberg/37243"
+  "tg:WalterBloomberg/37243",
+  "tg:WalterBloomberg/37244"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -287,7 +288,7 @@
  ],
  "congress_last_check": 1792670043.1161602,
  "scheduler": [],
- "earnings_last_check": 1792670466.2996576,
+ "earnings_last_check": 1792671201.016385,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -368,7 +369,7 @@
   "er:2026-10-22:BX",
   "er:2026-10-22:UNP"
  ],
- "gas_last_check": 1792669923.1148522,
+ "gas_last_check": 1792671140.5301328,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
