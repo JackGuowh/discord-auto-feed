@@ -330,7 +330,10 @@
   "wscn:3183910",
   "wscn:3183909",
   "wscn:3183916",
-  "wscn:3183915"
+  "wscn:3183915",
+  "wscn:3183919",
+  "wscn:3183918",
+  "wscn:3183917"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -484,7 +487,7 @@
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792692903.997699,
+ "earnings_last_check": 1792693706.8782268,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -567,7 +570,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792692102.5881548,
+ "gas_last_check": 1792693347.1579504,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
