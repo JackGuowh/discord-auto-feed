@@ -39,19 +39,32 @@ def detail(s, days):
 
 
 def post_overview(shows, today, title):
-    rows = [(s, (s["_start"] - today).days) for s in shows if 0 <= (s["_start"] - today).days <= 400]
+    """按月分组，一行一个展会；详细信息留给单独的提醒。"""
+    rows = [s for s in shows if 0 <= (s["_start"] - today).days <= 400]
     if not rows:
         return
-    chunks = [rows[i:i + 6] for i in range(0, len(rows), 6)]
-    for n, chunk in enumerate(chunks, 1):
-        fields = []
-        for s, d in chunk:
-            urgent = " ⚠️ 不足半年" if d < 180 else ""
-            fields.append((f"{s['name']}｜{s['category']}{urgent}", detail(s, d)))
+    lines, cur = [], None
+    for s in rows:
+        a, b = s["_start"], s["_end"]
+        head = f"{a.year} 年 {a.month} 月"
+        if head != cur:
+            lines.append(("\n" if lines else "") + f"**{head}**")
+            cur = head
+        city = s["city"].split(",")[0]
+        lines.append(f"`{a:%m/%d}–{b:%m/%d}` [{s.get('short', s['name'])}]({s['url']})"
+                     f" · {city} · {s.get('fee_short', '见官网')}")
+    # embed 描述上限 4096 字，超了就分条
+    chunks, buf = [], ""
+    for ln in lines:
+        if len(buf) + len(ln) > 3800:
+            chunks.append(buf); buf = ""
+        buf += ln + "\n"
+    chunks.append(buf)
+    for n, desc in enumerate(chunks, 1):
         post(WEBHOOK, embeds=[embed(
             title=f"{title}（{n}/{len(chunks)}）" if len(chunks) > 1 else title,
-            fields=fields, color=0x7C3AED,
-            footer=f"信息核实于 {chunks[0][0][0].get('verified', '')} · 费用为每人参会费，不含差旅和展位 · 以官网为准",
+            description=desc, color=0x7C3AED,
+            footer=f"核实于 {rows[0].get('verified', '')} · 费用为每人参会费（不含差旅、展位）· 点名称看官网",
         )])
 
 
@@ -60,6 +73,9 @@ def run(state):
     if not DRY_RUN and not os.getenv(WEBHOOK):
         return
     today = now_et().date()
+    if "shows_init" in state and "shows_v2" not in state:  # 换新样式后补发一次总表
+        post_overview(load_shows(), today, "🗓️ 展会日历总表（未来 12 个月）")
+    state["shows_v2"] = 1
     if state.get("shows_last_day") == today.isoformat():
         return
     if now_et().hour < 9 and "shows_init" in state:  # 美东早上 9 点后再推
