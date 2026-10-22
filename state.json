@@ -420,7 +420,9 @@
   "wscn:3184003",
   "wscn:3184006",
   "wscn:3184011",
-  "wscn:3184020"
+  "wscn:3184020",
+  "wscn:3184026",
+  "wscn:3184025"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -576,14 +578,14 @@
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
   "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
- "congress_last_check": 1792709837.3719769,
+ "congress_last_check": 1792711657.3016427,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792711401.9537601,
+ "earnings_last_check": 1792712077.2183347,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
