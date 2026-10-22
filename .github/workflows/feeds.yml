@@ -35,7 +35,7 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install requests feedparser beautifulsoup4
+      - run: pip install requests feedparser beautifulsoup4 pillow
       - name: 循环检查各类资讯（并按时触发其他定时任务）
         run: python -u run_feeds.py
         env:
