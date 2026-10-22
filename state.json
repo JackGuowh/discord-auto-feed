@@ -139,7 +139,25 @@
   "truth:https://www.trumpstruth.org/statuses/42609",
   "truth:https://www.trumpstruth.org/statuses/42615",
   "truth:https://www.trumpstruth.org/statuses/42613",
-  "truth:https://www.trumpstruth.org/statuses/42614"
+  "truth:https://www.trumpstruth.org/statuses/42614",
+  "truth:https://www.trumpstruth.org/statuses/42632",
+  "truth:https://www.trumpstruth.org/statuses/42633",
+  "truth:https://www.trumpstruth.org/statuses/42630",
+  "truth:https://www.trumpstruth.org/statuses/42626",
+  "truth:https://www.trumpstruth.org/statuses/42627",
+  "truth:https://www.trumpstruth.org/statuses/42628",
+  "truth:https://www.trumpstruth.org/statuses/42629",
+  "truth:https://www.trumpstruth.org/statuses/42624",
+  "truth:https://www.trumpstruth.org/statuses/42625",
+  "truth:https://www.trumpstruth.org/statuses/42631",
+  "truth:https://www.trumpstruth.org/statuses/42621",
+  "truth:https://www.trumpstruth.org/statuses/42622",
+  "truth:https://www.trumpstruth.org/statuses/42623",
+  "truth:https://www.trumpstruth.org/statuses/42620",
+  "truth:https://www.trumpstruth.org/statuses/42616",
+  "truth:https://www.trumpstruth.org/statuses/42617",
+  "truth:https://www.trumpstruth.org/statuses/42618",
+  "truth:https://www.trumpstruth.org/statuses/42619"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -401,7 +419,8 @@
   "wscn:3184000",
   "wscn:3184003",
   "wscn:3184006",
-  "wscn:3184011"
+  "wscn:3184011",
+  "wscn:3184020"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -564,7 +583,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792710479.3837705,
+ "earnings_last_check": 1792711401.9537601,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -661,7 +680,7 @@
   "er:2026-10-22:SLM",
   "er:2026-10-22:APPF"
  ],
- "gas_last_check": 1792709846.381919,
+ "gas_last_check": 1792711099.8396375,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1068,5 +1087,16 @@
   "qv:House-H001082-1006",
   "qv:House-H001082-1007"
  ],
- "shows_v3": 1
+ "shows_v3": 1,
+ "gas:SEMI": [
+  "gas:https://www.semi.org/en/semi-press-release/semi-forecasts-11.8-percent-growth-in-silicon-wafer-shipments-in-2026-with-record-highs-expected-through-2029",
+  "gas:https://www.semi.org/en/semi-press-release/semi-honors-2026-north-america-standards-award-winners-at-semicon-west",
+  "gas:https://www.semi.org/en/semi-press-release/semi-announces-updates-to-its-international-board-of-directors",
+  "gas:https://www.semi.org/en/semi-press-release/electronic-system-design-industry-posts-%245.7-billion-in-revenue-in-q2-2026-esd-alliance-reports",
+  "gas:https://www.semi.org/en/semi-press-release/nordson-sonoflex-acoustic-system-wins-2026-best-of-west-award",
+  "gas:https://www.semi.org/en/semi-press-release/kulicke-and-soffa-earns-2026-semi-award-for-north-america-at-semicon-west",
+  "gas:https://www.semi.org/en/semi-press-release/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates-semi-projects",
+  "gas:https://www.semi.org/en/semi-press-release/semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists",
+  "gas:https://www.semi.org/en/semi-press-release/semi-joins-the-eu-steam-executive-panel-to-advance-semiconductor-workforce-priorities"
+ ]
 }
