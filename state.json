@@ -266,7 +266,11 @@
   "wscn:3183844",
   "wscn:3183842",
   "wscn:3183841",
-  "wscn:3183840"
+  "wscn:3183840",
+  "wscn:3183851",
+  "wscn:3183850",
+  "wscn:3183849",
+  "wscn:3183848"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -389,12 +393,12 @@
   "uw:jd-vance-vote-solutions-lower-cost-of-gas",
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
- "congress_last_check": 1792681026.214897,
+ "congress_last_check": 1792682875.8784173,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792682437.3520005,
+ "earnings_last_check": 1792683295.7420135,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
