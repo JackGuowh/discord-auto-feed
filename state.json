@@ -341,7 +341,9 @@
   "wscn:3183930",
   "wscn:3183929",
   "wscn:3183928",
-  "wscn:3183926"
+  "wscn:3183926",
+  "wscn:3183934",
+  "wscn:3183932"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -492,12 +494,12 @@
   "uw:musk-retaliate-democrats-investigate-him",
   "uw:banks-detect-unauthorized-ai-agents-customer-accounts"
  ],
- "congress_last_check": 1792693851.996948,
+ "congress_last_check": 1792695654.7519357,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22"
  ],
- "earnings_last_check": 1792695330.279523,
+ "earnings_last_check": 1792696194.898278,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -580,7 +582,7 @@
   "er:2026-10-22:NSC",
   "er:2026-10-22:BMI"
  ],
- "gas_last_check": 1792694572.0334754,
+ "gas_last_check": 1792695777.1891844,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -656,7 +658,8 @@
   "gas:CBMid0FVX3lxTE1ES3k5M2hXeUNEVUZNajludVhqb3FheTR1YzZ5ZmwwcmpyVXY1bXp1aEdvWUVYQlFQR0lsYTNLeFl2c2JjSm5zSnlTUHJVX0JVY0JpdEVkbmppRTJ3a0lqRUlhY0VzMmsxUG91bmdwMkYzcEpzOGVB",
   "gas:CBMifkFVX3lxTE5pZU9ybW5ielFORFNMdjEtTnJNOF9OZjdnSEtYSDZxcHh5TkxicXdTZV9RQU1xWlFmYnpQNzVHak02WURINVJ6dThqTkpQMXFnWnBEVWE1bXBKYWdUUDRXcTR2MzhyRlVCRnVTanIxdEpiOEVqdTctWUp4b0hUQQ",
   "gas:CBMingJBVV95cUxNSnZvb01YWjBIbGgxcUZ0RFh0b1VPcXp2Q1prSHpPQ0NWOGVvelhDWDFGdFJQWXIwX2YwUFFXdXFEdEVRTUhOcGw5Q2VXcnhLZEV3Qlk0aGlqM0p3Mi00WnJ4V3RXUXF2YTE4UTF4QTJvc0hZaFFla0FwZlhWZ1ZHV3BYU2pzang1LWVUdUZPQTVjOWtSSlhiZThxMEZLWDViaDBVSHE1RVNDWEpFUG1jekppMGdLM0Ffb3pWVHd4a2J1aWc3U05yMDI2eUY5T1R4TVlaR2JGS2kyTUpCRXVfNmJRN09WX1dDdVREN0ZCb2pZTEV2U2ZKWTAyQ1htQlJiNS1WRUltNG05QUhybXFKVWhxLVYtYU5LVmRESmtB",
-  "gas:CBMiUkFVX3lxTE9aZXZ2N1A5cmNEQkd4dmgyaG1JcGszSzRMa3QtUlJxbDV6dGVEX01sY0hXSThjbFpLTldjR3ZtWnNDN3lMQ1BERWd4SGRqSWQ2dXc"
+  "gas:CBMiUkFVX3lxTE9aZXZ2N1A5cmNEQkd4dmgyaG1JcGszSzRMa3QtUlJxbDV6dGVEX01sY0hXSThjbFpLTldjR3ZtWnNDN3lMQ1BERWd4SGRqSWQ2dXc",
+  "gas:CBMipAJBVV95cUxPM0JwUWM0cjkta0loMUtJZTMyaVhyMlhEbjlFUTJzc0R5Z2N2bnVpcHYzc1lqa0VwMGZFbHRCSGNjQXRWUUFFbVpGaFQ5d3FQOWZLTTd3dTlhcjlkN1BnNHFfSGVTVVd0RlBGSmZRSWVCb2ctcFV4NFVuNmFJX0FBQWc5aEVTSXFZVWNueGdyMjJIeGFfRURfc2tnTDNVeTNJME9fTk5maHM1OGNMZU5GQVVyNkEzcHEwdTQ0TlNZYkZDX3ZLWjRqdnBEemQ5Z2k2TmhIT0pVWi1zOVpuMF84VkJMUGVobVU1QnJnaG1yTnBUbGxGdkRza3NyNEJaYWluSXZwenM2ei1LaWJPYnA4NVlKdU9zZGJBRE5id25QV0lWbVVB"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
