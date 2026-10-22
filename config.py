@@ -47,6 +47,14 @@ CONGRESS_SKIP_SMALL = False     # True = 跳过 $1K–15K 的小额交易
 # 盘前推一次恐惧贪婪指数；收盘后推恐惧贪婪指数 + Reddit 24H 热度榜
 REDDIT_TOP_N = 20                    # 热度榜显示前几名
 
+# ===== 📊 财报速递 =====
+EARNINGS_TOP_N = 40             # 只推当天关注度最高的前 40 家公司
+EARNINGS_CHECK_MINUTES = 3      # 每 3 分钟检查一次是否有新财报发布
+
+# ===== 🚀 异动榜 =====
+MOVERS_TOP_N = 10               # 涨幅榜、跌幅榜各显示前 10
+MOVERS_MIN_MARKET_CAP = 2e9     # 只看市值 ≥ 20 亿美元的公司
+
 # ===== 📅 每周预告（周日推送两条：下周财报 + 下周财经日历）=====
 WEEKLY_MENTION_EVERYONE = False      # 推送时是否 @everyone
 # 财经日历时区（成员主要在国内就用北京时间；想用美东时间改成 America/New_York）
