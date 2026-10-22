@@ -97,6 +97,17 @@ def cnn_gauge_screenshot():
                 ".market-fng-gauge__historical{display:none!important}"
                 "#onetrust-consent-sdk,[id*=onetrust],[class*=ad-slot],[class*=ad-feedback]{display:none!important}"))
             page.wait_for_timeout(2500)  # 等指针动画结束
+            # 隐藏隐私同意弹窗、悬浮广告等所有浮层（fixed / sticky 元素和 iframe）
+            page.evaluate("""() => {
+              for (const el of document.querySelectorAll('body *')) {
+                const cs = getComputedStyle(el);
+                if (cs.position === 'fixed' || cs.position === 'sticky' || el.tagName === 'IFRAME')
+                  el.style.setProperty('display', 'none', 'important');
+              }
+              document.documentElement.style.overflow = 'auto';
+              document.body.style.overflow = 'auto';
+            }""")
+            page.wait_for_timeout(300)
             el = page.locator(sel).first
             el.scroll_into_view_if_needed()
             return el.screenshot(type="png")

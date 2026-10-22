@@ -157,7 +157,9 @@ def fetch_calendar(monday):
 
 CSS = """
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Noto Sans CJK SC','Noto Sans SC','Microsoft YaHei',sans-serif;background:#eef2f7;padding:24px;width:860px;color:#1f2937}
+body{font-family:'Noto Sans CJK SC','Noto Sans SC','Microsoft YaHei',sans-serif;background:#eef2f7;padding:24px;width:1500px;color:#1f2937}
+.days{display:grid;grid-template-columns:1fr 1fr;gap:0 0}
+.days .day:nth-child(odd){border-right:1px solid #e5e7eb}
 .card{background:#fff;border-radius:18px;overflow:hidden;box-shadow:0 4px 18px rgba(15,23,42,.08)}
 .hd{background:linear-gradient(120deg,#1d4ed8,#2563eb 55%,#3b82f6);color:#fff;padding:26px 30px 22px}
 .hd h1{font-size:34px;font-weight:900;letter-spacing:2px}
@@ -213,11 +215,11 @@ def render_calendar(browser, monday, rows, ew):
 <div class="card" id="cal">
  <div class="hd"><h1>下周财经日历</h1>
   <div class="sub"><span>{monday:%Y.%m.%d} – {sunday:%Y.%m.%d}</span><span>时间：{e(C.CAL_TZ_LABEL)}</span></div></div>
- {''.join(days_html) or '<div class="day"><div class="list">暂无数据</div></div>'}
+ <div class="days">{''.join(days_html) or '<div class="day"><div class="list">暂无数据</div></div>'}</div>
  <div class="ft"><span>数据：华尔街见闻 · Earnings Whispers</span>
   <span class="lg"><i style="background:#fdba74"></i>重点<i style="background:#bfdbfe"></i>热门财报（美东日期）</span></div>
 </div></body></html>"""
-    page = browser.new_page(viewport={"width": 908, "height": 1200}, device_scale_factor=2)
+    page = browser.new_page(viewport={"width": 1548, "height": 1200}, device_scale_factor=1.5)
     try:
         page.set_content(doc, wait_until="load")
         page.wait_for_timeout(300)
