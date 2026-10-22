@@ -95,7 +95,8 @@ def fetch_nasdaq(monday):
 def ordered_tickers(ew):
     seen, out = set(), []
     for t in ew["top"] + [t for _, _, ts in ew["sessions"] for t in ts]:
-        if t not in seen:
+        # 跳过场外交易的外国公司 ADR（5 个字母、以 Y/F 结尾，如 CAJPY），只留美股
+        if t not in seen and not (len(t) == 5 and t[-1] in "YF"):
             seen.add(t)
             out.append(t)
     return out
