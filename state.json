@@ -373,7 +373,11 @@
   "wscn:3183966",
   "wscn:3183965",
   "wscn:3183964",
-  "wscn:3183963"
+  "wscn:3183963",
+  "wscn:3183970",
+  "wscn:3183969",
+  "wscn:3183968",
+  "wscn:3183967"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -443,7 +447,9 @@
   "tg:WalterBloomberg/37276",
   "tg:WalterBloomberg/37278",
   "tg:WalterBloomberg/37280",
-  "tg:WalterBloomberg/37279"
+  "tg:WalterBloomberg/37279",
+  "tg:WalterBloomberg/37282",
+  "tg:WalterBloomberg/37281"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -524,13 +530,13 @@
   "uw:musk-retaliate-democrats-investigate-him",
   "uw:banks-detect-unauthorized-ai-agents-customer-accounts"
  ],
- "congress_last_check": 1792699337.763071,
+ "congress_last_check": 1792701193.8609562,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22"
  ],
- "earnings_last_check": 1792700993.8200538,
+ "earnings_last_check": 1792701616.3334758,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
