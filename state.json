@@ -395,7 +395,8 @@
   "wscn:3183990",
   "wscn:3183994",
   "wscn:3183993",
-  "wscn:3183992"
+  "wscn:3183992",
+  "wscn:3183995"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -551,14 +552,14 @@
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
   "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
- "congress_last_check": 1792704870.3355184,
+ "congress_last_check": 1792706724.544761,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792706585.9415529,
+ "earnings_last_check": 1792707204.7403762,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -654,7 +655,7 @@
   "er:2026-10-22:RHI",
   "er:2026-10-22:SLM"
  ],
- "gas_last_check": 1792705607.181078,
+ "gas_last_check": 1792706844.5298872,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -739,7 +740,9 @@
   "gas:CBMinwFBVV95cUxNeGFaeWsyaHh5bXVsRWtQOFhrLWFpSlpnX05SV3BZYUp1eFBHQnNfSnVLZHJ5S05sX3g5X2R2d216WE90dFgzdy1YckZNVFViR1k4cy1iZ25ZWjdIV0pKOXNrYlNvY2FReFlRT3dLOWx5a2tXUDJQYldLXzNtV0stUmZBYWdZRVRJUVNfeFBOQ01lN0dQQmdFdWU4VWY2SlU",
   "gas:CBMidkFVX3lxTE85LXJwbmZadE9LYXRKSXliZHNFb2xXcUl0a3RKSXgtWXpKWUQtbE1ibi1fMHQ0TTF3bWR5WHMtYmpSVi1UTWlqQUR5S3dXeTFaRTlyNUlpbE5SUUdPRzNkckRReVAxRXQ5N1RaUzd6emZuZjhoU0E",
   "gas:CBMinAFBVV95cUxQYTBxQmxmeVI2dGlvTzg0eGdHY09mN0VxTVJFSldKUEZLRkFMUzNKdi1ZUGtXMFI5bkEwTldzZVlsTHJTOE1NemVYU3llMUFLcWFzUXBlQnVFMl9iaFQyazlBZWEtcnVwdkVNRFJBSmQ0TERzTjdjamE0RVlpMDE2R3hTcGZ2NXY1Wjk3NnVTZjRPQnIzV2lCN2lld2k",
-  "gas:CBMikwFBVV95cUxNdFhJdWxvTlJua1g3eGJ5dUJmOGxrbFQyTDgyd3pTbksxeXVQdlVKRjNXVmd2RTNhSDhDWFpFRWlQa3pNLXctMHRxbkR0MGtyZ29FVk9IT0pRRTJob09VYzdBX0ZDVEFTbmpldkRHZWxPTW1PaEJGVk94dXhhZXNSWER5cVFaUnVuSzZKYlBrLUZ3VEU"
+  "gas:CBMikwFBVV95cUxNdFhJdWxvTlJua1g3eGJ5dUJmOGxrbFQyTDgyd3pTbksxeXVQdlVKRjNXVmd2RTNhSDhDWFpFRWlQa3pNLXctMHRxbkR0MGtyZ29FVk9IT0pRRTJob09VYzdBX0ZDVEFTbmpldkRHZWxPTW1PaEJGVk94dXhhZXNSWER5cVFaUnVuSzZKYlBrLUZ3VEU",
+  "gas:CBMioAFBVV95cUxOZkFkYUVSSEFYUjljMnlyZzRUSkc5dGdTUTlrcFZ3Z0NFbGZfX0FkY3RnMUxISnRFTXJmdlF3a3lFUWdfVVN4Tl81Qml4bzI3R0VRaDFXajltTzNQVkg2d19xTFlKbWlDZXhiZEwxR19QX0ZSSU4zaVo3LThOcFZaSTUtMHNBVTFEMXdSQkxMT185Z09tRHFKZEtubUlHQk95",
+  "gas:CBMikgJBVV95cUxOSFJVSFY2VDRuY1JGR0dxMTFxWUdNUU41UWEtRFB2dXkzbDJYX2hKcHh3eGt3dlA4SFk3bHoxMGJmcWxOYWl2bnptZ196VHF0dWhzYmZTYUdoTHNiVGZIMlNISlJFcDI2MzVqdWdrMGRnb2xHZkoyRG9naGNzelNwVTVfTDBCWHZtVDMyWUJoMVRXN1luWFVBaGxhZWNUMjBlSjdZbGFmLVhWSUR0T0hWaVo0R29iTlNOU3M4a25kazRLeVhmTmFSbnp3Nk5NdTlVVU11MkZTNk9UN3JRQy1hR29XWWVIeWhGLUplazM4WXB3dVRUZ0NZNHQtZ0ZDMU1QX0VsUWdVc1FRbm9GaXBwVjR3"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
