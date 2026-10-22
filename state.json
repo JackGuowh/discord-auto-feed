@@ -232,7 +232,8 @@
   "tg:WalterBloomberg/37244",
   "tg:WalterBloomberg/37245",
   "tg:WalterBloomberg/37246",
-  "tg:WalterBloomberg/37247"
+  "tg:WalterBloomberg/37247",
+  "tg:WalterBloomberg/37248"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -298,8 +299,10 @@
   "uw:national-security-officials-advising-states-trump-midterm-interference-wapo"
  ],
  "congress_last_check": 1792673718.9578304,
- "scheduler": [],
- "earnings_last_check": 1792673659.239682,
+ "scheduler": [
+  "movers_pre:2026-10-22"
+ ],
+ "earnings_last_check": 1792674457.1486576,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
