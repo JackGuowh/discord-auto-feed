@@ -47,6 +47,27 @@ CONGRESS_SKIP_SMALL = False     # True = 跳过 $1K–15K 的小额交易
 # 盘前推一次恐惧贪婪指数；收盘后推恐惧贪婪指数 + Reddit 24H 热度榜
 REDDIT_TOP_N = 20                    # 热度榜显示前几名
 
+# ===== 🧪 稀有 & 特种气体行业新闻 =====
+GAS_CHECK_MINUTES = 20          # 每 20 分钟检查一次（这些网站更新不频繁）
+# (显示名称, 抓取方式, 地址)
+GAS_SOURCES = [
+    ("gasworld", "gasworld", "https://www.gasworld.com/"),
+    ("GAWDA Media", "rss", "https://gawdamedia.com/feed/"),
+    ("GAWDA", "rss", "https://www.gawda.org/feed/"),
+    ("CGA 压缩气体协会", "cga", "https://www.cganet.com/resources/news/"),
+    ("SEMI", "semi", "https://www.semi.org/en/news-media-press/semi-press-releases"),
+    # Google 新闻关键词：补充其他媒体上的稀有/特种气体新闻（不需要可以删掉这一行）
+    ("Google 新闻", "google",
+     '"helium" OR "neon gas" OR "xenon" OR "krypton" OR "specialty gases" OR "electronic gases" '
+     'OR "industrial gases" OR "tungsten hexafluoride" OR "sulfur hexafluoride" OR "nitrogen trifluoride"'),
+]
+GAS_GOOGLE_STRICT = True        # Google 新闻只推标题里明确提到下面这些气体的
+# 标题/摘要里出现这些词会标红并注明「🔥 涉及」
+GAS_HIGHLIGHT = ["Helium", "Neon", "Krypton", "Xenon", "Argon", "WF6", "SF6", "NF3",
+                 "Tungsten hexafluoride", "Sulfur hexafluoride", "Nitrogen trifluoride",
+                 "HFC-227ea", "Electronic gases", "Specialty gases", "Rare gases", "Noble gases",
+                 "Hydrogen fluoride", "Germane", "Silane", "Diborane", "Phosphine", "Arsine"]
+
 # ===== 📊 财报速递 =====
 EARNINGS_TOP_N = 40             # 只推当天关注度最高的前 40 家公司
 EARNINGS_CHECK_MINUTES = 3      # 每 3 分钟检查一次是否有新财报发布

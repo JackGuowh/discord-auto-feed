@@ -10,6 +10,7 @@
 | 恐惧贪婪指数 + Reddit 24H 热度榜 | 📈市场指标＆异动榜 | 交易日盘前 / 收盘后 | CNN、ApeWisdom | `WEBHOOK_MARKET` |
 | 财报速递（EPS/营收 vs 预期 + 盘前盘后反应） | 📅每周预告＆财报速递 | 约每 3 分钟 | Earnings Whispers、Yahoo Finance | `WEBHOOK_CALENDAR`（与每周预告共用） |
 | 盘前 / 盘后异动榜 | 📈市场指标＆异动榜 | 交易日盘前、收盘后 | Yahoo Finance | `WEBHOOK_MARKET`（与市场指标共用） |
+| 稀有 & 特种气体行业新闻（中英对照） | 🧪特种气体新闻 | 每 20 分钟 | gasworld、GAWDA Media、GAWDA、CGA、SEMI、Google 新闻关键词 | `WEBHOOK_GAS` |
 | 下周财报 + 下周财经日历（图片） | 📅每周预告＆财报速递 | 每周日傍晚（美东） | Earnings Whispers、华尔街见闻 | `WEBHOOK_CALENDAR` |
 
 ## 部署步骤
