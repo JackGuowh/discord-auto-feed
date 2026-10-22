@@ -224,7 +224,7 @@
  ],
  "congress_last_check": 1792638806.785363,
  "scheduler": [],
- "earnings_last_check": 1792639226.778653,
+ "earnings_last_check": 1792640026.0461462,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -265,6 +265,18 @@
   "er:2026-10-21:KALU",
   "er:2026-10-21:NTST",
   "er:2026-10-21:PNFP",
-  "er:2026-10-21:RS"
+  "er:2026-10-21:RS",
+  "er:2026-10-21:DNBBY",
+  "er:2026-10-21:FDBC",
+  "er:2026-10-21:PKBK",
+  "er:2026-10-21:SVNLY",
+  "er:2026-10-21:FNLC",
+  "er:2026-10-21:LSBK",
+  "er:2026-10-21:MMLP",
+  "er:2026-10-21:NVEC",
+  "er:2026-10-21:OVLY",
+  "er:2026-10-21:STC",
+  "er:2026-10-21:TRST",
+  "er:2026-10-21:UNB"
  ]
 }
