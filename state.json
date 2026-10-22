@@ -97,7 +97,10 @@
   "truth:https://www.trumpstruth.org/statuses/42565",
   "truth:https://www.trumpstruth.org/statuses/42568",
   "truth:https://www.trumpstruth.org/statuses/42569",
-  "truth:https://www.trumpstruth.org/statuses/42570"
+  "truth:https://www.trumpstruth.org/statuses/42570",
+  "truth:https://www.trumpstruth.org/statuses/42571",
+  "truth:https://www.trumpstruth.org/statuses/42572",
+  "truth:https://www.trumpstruth.org/statuses/42573"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -211,7 +214,9 @@
   "tg:WalterBloomberg/37237",
   "tg:WalterBloomberg/37236",
   "tg:WalterBloomberg/37240",
-  "tg:WalterBloomberg/37239"
+  "tg:WalterBloomberg/37239",
+  "tg:WalterBloomberg/37242",
+  "tg:WalterBloomberg/37241"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -229,7 +234,8 @@
   "tg:WatcherGuru/15574",
   "tg:WatcherGuru/15572",
   "tg:WatcherGuru/15570",
-  "tg:WatcherGuru/15590"
+  "tg:WatcherGuru/15590",
+  "tg:WatcherGuru/15592"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -275,7 +281,7 @@
  ],
  "congress_last_check": 1792666356.0808213,
  "scheduler": [],
- "earnings_last_check": 1792667159.216446,
+ "earnings_last_check": 1792667954.9510412,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -352,9 +358,10 @@
   "er:2026-10-22:DOV",
   "er:2026-10-22:ORI",
   "er:2026-10-22:ROP",
-  "er:2026-10-22:POOL"
+  "er:2026-10-22:POOL",
+  "er:2026-10-22:BX"
  ],
- "gas_last_check": 1792666236.694468,
+ "gas_last_check": 1792667472.7854986,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
