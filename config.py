@@ -95,3 +95,17 @@ CAL_HIGHLIGHT_IMPORTANCE = 3         # 重要度 ≥ 3 的高亮显示
 CAL_EARNINGS_PER_DAY = 8             # 日历图里每天列出的热门财报数量
 # 财报来源：Earnings Whispers「Most Anticipated Earnings Releases」
 EARNINGS_MAX_TICKERS = 60            # 财报帖里最多列出多少个代码
+
+# ===== 🎯 期权 =====
+# 扫描异常期权大单 / 统计每日最活跃期权的股票池
+OPTIONS_WATCHLIST = ["SPY", "QQQ", "IWM", "NVDA", "TSLA", "AAPL", "MSFT", "AMZN", "META", "GOOGL",
+                     "AMD", "AVGO", "PLTR", "MU", "NFLX", "COIN", "MSTR", "HOOD", "SMCI", "ORCL",
+                     "UNH", "JPM", "BA", "INTC", "SOFI", "MARA", "ARM", "TSM", "LLY", "XLF"]
+OPTIONS_FLOW_MINUTES = 30          # 盘中每 30 分钟扫描一次
+OPTIONS_FLOW_MIN_PREMIUM = 1_000_000   # 成交额至少 100 万美元
+OPTIONS_FLOW_MIN_VOLUME = 2000     # 成交至少 2000 张
+OPTIONS_FLOW_VOL_OI = 2            # 成交量至少是原有未平仓量的 2 倍（说明是新开仓位）
+OPTIONS_FLOW_MIN_DAYS = 3          # 跳过 3 天内到期的末日期权（噪音太多）
+OPTIONS_FLOW_MAX_DAYS = 180        # 只看半年内到期的
+OPTIONS_FLOW_MAX_POSTS = 5         # 每次最多推 5 条
+OPTIONS_EM_TOP_N = 25              # 每周一列出本周最受关注的 25 家财报公司的预期波动

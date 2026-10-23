@@ -8,7 +8,7 @@ import time
 import traceback
 
 import scheduler
-from jobs import congress, earnings, gas, news, shows, telegram, trump, uw
+from jobs import congress, earnings, gas, news, options, shows, telegram, trump, uw
 
 RESET_PREFIXES = ("wscn:", "rss:", "truth", "tg:", "unusualwhales", "congress", "earnings_",
                   "gas", "shows_")
@@ -43,7 +43,7 @@ def main():
     while True:
         start = time.time()
         rounds += 1
-        for job in (news.main, telegram.main, uw.main, trump.main, congress.main, earnings.main, gas.main, shows.main,
+        for job in (news.main, telegram.main, uw.main, trump.main, congress.main, earnings.main, gas.main, shows.main, options.main,
                     scheduler.main):
             try:
                 job()
