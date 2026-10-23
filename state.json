@@ -611,7 +611,12 @@
   "wscn:3185010",
   "wscn:3185009",
   "wscn:3185008",
-  "wscn:3185006"
+  "wscn:3185006",
+  "wscn:3185017",
+  "wscn:3185016",
+  "wscn:3185015",
+  "wscn:3185014",
+  "wscn:3185013"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -720,7 +725,9 @@
   "tg:WalterBloomberg/37316",
   "tg:WalterBloomberg/37317",
   "tg:WalterBloomberg/37319",
-  "tg:WalterBloomberg/37318"
+  "tg:WalterBloomberg/37318",
+  "tg:WalterBloomberg/37321",
+  "tg:WalterBloomberg/37320"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -816,7 +823,7 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792783342.5578265,
+ "congress_last_check": 1792785176.516624,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -825,7 +832,7 @@
   "movers_pre:2026-10-23",
   "market_fg:2026-10-23"
  ],
- "earnings_last_check": 1792784800.0535173,
+ "earnings_last_check": 1792785659.9119263,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1496,7 +1503,8 @@
   "tg:insiderpaper/45482",
   "tg:insiderpaper/45483",
   "tg:insiderpaper/45484",
-  "tg:insiderpaper/45485"
+  "tg:insiderpaper/45485",
+  "tg:insiderpaper/45486"
  ],
  "opt_daily": "2026-10-22",
  "opt_flow_last": 1792784198.6762974,
