@@ -516,7 +516,10 @@
   "wscn:3184840",
   "wscn:3184838",
   "wscn:3184850",
-  "wscn:3184849"
+  "wscn:3184849",
+  "wscn:3184857",
+  "wscn:3184856",
+  "wscn:3184853"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -693,7 +696,7 @@
   "movers_post:2026-10-22",
   "movers_pre:2026-10-23"
  ],
- "earnings_last_check": 1792761554.508251,
+ "earnings_last_check": 1792762357.1762009,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1286,7 +1289,8 @@
   "tg:insiderpaper/45471",
   "tg:insiderpaper/45472",
   "tg:insiderpaper/45473",
-  "tg:insiderpaper/45474"
+  "tg:insiderpaper/45474",
+  "tg:insiderpaper/45475"
  ],
  "opt_daily": "2026-10-22"
 }
