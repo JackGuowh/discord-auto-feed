@@ -586,7 +586,10 @@
   "wscn:3184975",
   "wscn:3184973",
   "wscn:3184978",
-  "wscn:3184976"
+  "wscn:3184976",
+  "wscn:3184981",
+  "wscn:3184980",
+  "wscn:3184979"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -693,7 +696,9 @@
   "tg:WalterBloomberg/37313",
   "tg:WalterBloomberg/37312",
   "tg:WalterBloomberg/37316",
-  "tg:WalterBloomberg/37317"
+  "tg:WalterBloomberg/37317",
+  "tg:WalterBloomberg/37319",
+  "tg:WalterBloomberg/37318"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -797,7 +802,7 @@
   "movers_pre:2026-10-23",
   "market_fg:2026-10-23"
  ],
- "earnings_last_check": 1792778381.6582835,
+ "earnings_last_check": 1792779182.5153768,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -907,7 +912,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792777463.4074986,
+ "gas_last_check": 1792778704.0971515,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1462,7 +1467,7 @@
   "tg:insiderpaper/45485"
  ],
  "opt_daily": "2026-10-22",
- "opt_flow_last": 1792776886.75422,
+ "opt_flow_last": 1792778710.413186,
  "opt_flow": [
   "2026-10-23:META:2026-10-26:C:647.5",
   "2026-10-23:NVDA:2026-11-20:P:212.5",
@@ -1503,6 +1508,11 @@
   "2026-10-23:QQQ:2026-10-26:P:706.0",
   "2026-10-23:QQQ:2026-10-26:P:708.0",
   "2026-10-23:SPY:2026-10-26:P:761.0",
-  "2026-10-23:SPY:2026-10-26:P:762.0"
+  "2026-10-23:SPY:2026-10-26:P:762.0",
+  "2026-10-23:AAPL:2026-10-30:P:345.0",
+  "2026-10-23:AMZN:2026-10-26:P:260.0",
+  "2026-10-23:MU:2026-10-26:P:885.0",
+  "2026-10-23:NVDA:2026-10-30:C:220.0",
+  "2026-10-23:TSLA:2026-10-26:P:370.0"
  ]
 }
