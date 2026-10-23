@@ -3,9 +3,11 @@
 # ===== ⚡ 突发新闻 =====
 # 华尔街见闻 7x24 快讯频道：global-channel(要闻) / us-stock-channel(美股) /
 # forex-channel(外汇) / commodity-channel(商品) / a-stock-channel(A股)
-WSCN_CHANNELS = ["us-stock-channel"]   # 只要美股相关
-# 快讯重要度：1 = 该频道全部快讯；2 = 只推红色重要快讯
+# (频道, 最低重要度)：1 = 该频道全部快讯；2 = 只推红色重要快讯
+WSCN_CHANNELS = [("global-channel", 2), ("us-stock-channel", 1)]
 WSCN_MIN_SCORE = 1
+# 突发新闻是否只推美股相关（False = 和参考服务器一样，全球要闻、政治、科技都推）
+NEWS_US_ONLY = False
 # 只推含这些关键词的快讯（留空 = 不过滤）。例如 ["美联储", "特朗普", "英伟达"]
 NEWS_KEYWORDS = []
 # 额外的中文 RSS 新闻源（名称, 链接）。不需要可以清空列表
@@ -13,9 +15,12 @@ NEWS_RSS = []   # 例如 [("FT中文网", "https://www.ftchinese.com/rss/news")]
 # X(推特)新闻账号 —— 通过它们的 Telegram 公开镜像频道免费抓取 (频道名, 显示名称[, 推送到哪个频道])
 # 在浏览器打开 https://t.me/s/频道名 能看到消息列表的才能用
 TELEGRAM_CHANNELS = [
-    ("WalterBloomberg", "Walter Bloomberg"),   # 美股/宏观快讯
+    # 第 4 项 True = 这个来源只推美股相关（Walter Bloomberg 量太大，只留美股/宏观）
+    ("WalterBloomberg", "Walter Bloomberg", None, True),
     ("WatcherGuru", "Watcher Guru"),           # JUST IN 类突发新闻
-    ("QuiverQuant", "Quiver Quantitative", "WEBHOOK_WHITEHOUSE"),  # 国会交易/政策数据 → 白宫内幕
+    ("disclosetv", "Disclose.tv"),             # 全球/美国政治突发
+    ("insiderpaper", "Insider Paper"),         # 全球突发、财经
+    ("QuiverQuant", "Quiver Quantitative", "WEBHOOK_WHITEHOUSE", True),  # 国会交易/政策数据 → 白宫内幕
 ]
 # 只推美股相关：包含股票代码（如 $TSLA）或下列任一关键词的才推送
 UNUSUAL_WHALES = True   # Unusual Whales 新闻（官网抓取，没有 Telegram 频道）
