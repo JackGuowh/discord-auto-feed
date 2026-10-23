@@ -423,7 +423,8 @@
   "wscn:3184020",
   "wscn:3184026",
   "wscn:3184025",
-  "wscn:3184034"
+  "wscn:3184034",
+  "wscn:3184040"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -579,14 +580,14 @@
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
   "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
- "congress_last_check": 1792711657.3016427,
+ "congress_last_check": 1792713490.8231835,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792712873.7236776,
+ "earnings_last_check": 1792713674.355386,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -683,7 +684,7 @@
   "er:2026-10-22:SLM",
   "er:2026-10-22:APPF"
  ],
- "gas_last_check": 1792712333.7276218,
+ "gas_last_check": 1792713550.965295,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
