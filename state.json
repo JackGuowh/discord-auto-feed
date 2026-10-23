@@ -628,16 +628,20 @@
   "uw:musk-retaliate-democrats-investigate-him",
   "uw:banks-detect-unauthorized-ai-agents-customer-accounts",
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
-  "uw:trump-musk-reverse-starlink-restrictions-ukraine"
+  "uw:trump-musk-reverse-starlink-restrictions-ukraine",
+  "uw:spacex-80000-cell-sites-wireless-carrier",
+  "uw:trump-world-liberty-financial-sued-uae-crypto",
+  "uw:supreme-court-new-hampshire-student-ids-voting",
+  "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792722700.2920918,
+ "congress_last_check": 1792724540.053599,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792724043.9205396,
+ "earnings_last_check": 1792724900.0573497,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -735,7 +739,7 @@
   "er:2026-10-22:APPF",
   "er:2026-10-22:KNSL"
  ],
- "gas_last_check": 1792723360.715324,
+ "gas_last_check": 1792724600.257275,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1203,5 +1207,6 @@
   "tg:insiderpaper/45449",
   "tg:insiderpaper/45448",
   "tg:insiderpaper/45447"
- ]
+ ],
+ "opt_daily": "2026-10-22"
 }
