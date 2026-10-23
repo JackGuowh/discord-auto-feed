@@ -598,7 +598,8 @@
   "tg:WatcherGuru/15604",
   "tg:WatcherGuru/15606",
   "tg:WatcherGuru/15608",
-  "tg:WatcherGuru/15609"
+  "tg:WatcherGuru/15609",
+  "tg:WatcherGuru/15610"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -665,7 +666,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792740114.724545,
+ "earnings_last_check": 1792740737.5084429,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -763,7 +764,7 @@
   "er:2026-10-22:APPF",
   "er:2026-10-22:KNSL"
  ],
- "gas_last_check": 1792739311.837885,
+ "gas_last_check": 1792740557.3583035,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1233,7 +1234,8 @@
   "tg:insiderpaper/45450",
   "tg:insiderpaper/45449",
   "tg:insiderpaper/45448",
-  "tg:insiderpaper/45447"
+  "tg:insiderpaper/45447",
+  "tg:insiderpaper/45468"
  ],
  "opt_daily": "2026-10-22"
 }
