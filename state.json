@@ -424,7 +424,8 @@
   "wscn:3184026",
   "wscn:3184025",
   "wscn:3184034",
-  "wscn:3184040"
+  "wscn:3184040",
+  "wscn:3184060"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -587,7 +588,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792716179.8968103,
+ "earnings_last_check": 1792716974.4179804,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
