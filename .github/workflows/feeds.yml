@@ -50,6 +50,7 @@ jobs:
           WEBHOOK_EARNINGS: ${{ secrets.WEBHOOK_CALENDAR }}
           WEBHOOK_GAS: ${{ secrets.WEBHOOK_GAS }}
           WEBHOOK_SHOWS: ${{ secrets.WEBHOOK_SHOWS }}
+          WEBHOOK_OPTIONS: ${{ secrets.WEBHOOK_OPTIONS }}
       - name: 保存去重记录（自动合并并发冲突）
         if: ${{ always() && github.event.inputs.dry_run != '1' }}
         run: |
