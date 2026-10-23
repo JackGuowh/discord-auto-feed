@@ -546,7 +546,10 @@
   "wscn:3184919",
   "wscn:3184915",
   "wscn:3184914",
-  "wscn:3184913"
+  "wscn:3184913",
+  "wscn:3184927",
+  "wscn:3184925",
+  "wscn:3184924"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -647,7 +650,11 @@
   "tg:WalterBloomberg/37305",
   "tg:WalterBloomberg/37304",
   "tg:WalterBloomberg/37303",
-  "tg:WalterBloomberg/37302"
+  "tg:WalterBloomberg/37302",
+  "tg:WalterBloomberg/37315",
+  "tg:WalterBloomberg/37314",
+  "tg:WalterBloomberg/37313",
+  "tg:WalterBloomberg/37312"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -680,7 +687,8 @@
   "tg:WatcherGuru/15610",
   "tg:WatcherGuru/15611",
   "tg:WatcherGuru/15612",
-  "tg:WatcherGuru/15613"
+  "tg:WatcherGuru/15613",
+  "tg:WatcherGuru/15614"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -740,7 +748,7 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792766848.3894472,
+ "congress_last_check": 1792768699.1964395,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -749,7 +757,7 @@
   "movers_pre:2026-10-23",
   "market_fg:2026-10-23"
  ],
- "earnings_last_check": 1792767957.9356756,
+ "earnings_last_check": 1792768761.1364443,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -859,7 +867,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792767596.4930184,
+ "gas_last_check": 1792768819.1678019,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -987,7 +995,9 @@
   "gas:CBMiqAFBVV95cUxPNDVMTm40b3Y3VElEMVFxdjV6SXdwdWxGdWllUjJzVW9Gbnd6Yy1OdlB2WUZNZzNubVlLTkJ5cFRlRW9IR1BCZGlDcHd6VTA2TWRsQ2VBVGhXa1hkdENGbjVIZFFhZld5S3RWZ0VSRFZaQmt3dF9PZFFhVVEzQWFiMlJZeFpNTk5OYkZtdFRsemJSdFktWmQxQ3NLUHMwbHVtMjRXYUVvd1U",
   "gas:CBMimwFBVV95cUxQRmRWanNfa3VOOW1DVlZ2U3pWcFdzWEJyc293RDBDRlkwVTFEd3lyV3U1ZHhIb3liN2ROM2p4QmZlQ0cxNUJFVWVHNlJWQXFUSS1lY2lnTnNtTmFtaTlEcENITHdVM0xVcUsxZWo2TE1lR2Exekh2eF9fUzh6R2JZMFJnbzdTWUFTLURldFNwa3p4VDZMc19CUDh4Zw",
   "gas:CBMikgFBVV95cUxOb3JsRWdEWFh3V3NIbFpxeEJHcXduV19aVTdfWUsyNEhEbGhqOVlOWkE3emlOQlRFZjhadkVDMWNmM0htN0NhRDg4c0xidFBwU2dDV25wSUE1OGJTdUlzaUM4UG1haFBxNEdacEcwVWc1TzJDOWRQZWhGaUNaZmEwMmxCQ09iTWJSMERRbjloMXZhQQ",
-  "gas:CBMinAFBVV95cUxNTU0zM0c5NS1DZzFFUFpBeEJoUzM1bjNaWnpESmVDSWloS2M5cGY4Z0dTMW5xa2JqeGNoUGd0cEFpNVpqZXpNbk1yUnN4ME0wLXhPRXV5NXMxc3VBZG5TWW5OdnBvbE5idGlGQWt6T2tsRVFjSC14UTRlall5aEJmRHRxR0ZWLS1TdElhQ0Zxb0cyMzZkd3l4QzBrQy0"
+  "gas:CBMinAFBVV95cUxNTU0zM0c5NS1DZzFFUFpBeEJoUzM1bjNaWnpESmVDSWloS2M5cGY4Z0dTMW5xa2JqeGNoUGd0cEFpNVpqZXpNbk1yUnN4ME0wLXhPRXV5NXMxc3VBZG5TWW5OdnBvbE5idGlGQWt6T2tsRVFjSC14UTRlall5aEJmRHRxR0ZWLS1TdElhQ0Zxb0cyMzZkd3l4QzBrQy0",
+  "gas:CBMijgJBVV95cUxNWUwyM2xwX2VvYVZmRXV2TG9GX0NfcV9TZTJoRlNEaFBGSjk2M3hwYmkxelQzOWpaRF9ueV81YnQyazJFSm9BRDBFTlRmUTRCbm1qVmNaMHBscmd2dF9HM2ZmNmZabFBXSk5kUFU4OFR1ZEUtQVJRVHl4Nnl2bnBjSG9ZWkZSajFNQmFIZ0hCY1l0bndjcm50NEF4d1Q4Qk90eWJMRlhJd280NXVncmdaQTRMWHRwcW9pX2pMdl9qRHNBLVRNM2RVNGROU1lyWTU5YldWRko0NmY3ck5fMUEteFJaaGFaMHJSTVE4VHR0ZUR5Q1BTRXBMcldoWWlxRHBVeGV6dDBIenprNkVWSnc",
+  "gas:CBMimwFBVV95cUxPUWZVMXFWTmVRcld2SzBfNnpFQldadkV0aVBuRWJxNDBpMEhCQWQ5ZmVOQ3UxVDhaOE0xbmpyZlVvbzUyUDV3aWoyeUNIRkRtWkVUWEljWjFPQW9qclJScHlHa1QzQVE5NmxMUU5LYXg5UnEwUkpoSnc1eXRhUGcyUURxOUZUVUl1SUJITHFvbEUtbHlNd2lrN1d1Zw"
  ],
  "shows_last_day": "2026-10-23",
  "shows_init": "2026-10-22",
