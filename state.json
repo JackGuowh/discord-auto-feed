@@ -222,7 +222,8 @@
   "truth:https://www.trumpstruth.org/statuses/42681",
   "truth:https://www.trumpstruth.org/statuses/42682",
   "truth:https://www.trumpstruth.org/statuses/42683",
-  "truth:https://www.trumpstruth.org/statuses/42684"
+  "truth:https://www.trumpstruth.org/statuses/42684",
+  "truth:https://www.trumpstruth.org/statuses/42685"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -573,7 +574,12 @@
   "wscn:3184959",
   "wscn:3184957",
   "wscn:3184956",
-  "wscn:3184955"
+  "wscn:3184955",
+  "wscn:3184968",
+  "wscn:3184967",
+  "wscn:3184966",
+  "wscn:3184964",
+  "wscn:3184963"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -775,7 +781,7 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792774182.345511,
+ "congress_last_check": 1792776023.3700368,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -784,7 +790,7 @@
   "movers_pre:2026-10-23",
   "market_fg:2026-10-23"
  ],
- "earnings_last_check": 1792775284.8937213,
+ "earnings_last_check": 1792776084.7644813,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
