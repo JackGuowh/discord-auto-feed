@@ -592,7 +592,8 @@
   "tg:WatcherGuru/15600",
   "tg:WatcherGuru/15604",
   "tg:WatcherGuru/15606",
-  "tg:WatcherGuru/15608"
+  "tg:WatcherGuru/15608",
+  "tg:WatcherGuru/15609"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -652,14 +653,14 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792735579.5912218,
+ "congress_last_check": 1792737420.2068222,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792736859.4254038,
+ "earnings_last_check": 1792737660.1078854,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
