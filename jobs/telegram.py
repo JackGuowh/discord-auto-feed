@@ -93,7 +93,8 @@ def to_chinese(text):
 def run_telegram(state):
     for entry in C.TELEGRAM_CHANNELS:
         ch, label = entry[0], entry[1]
-        hook = entry[2] if len(entry) > 2 else WEBHOOK
+        hook = (entry[2] if len(entry) > 2 else None) or WEBHOOK
+        us_only = (entry[3] if len(entry) > 3 else False) or C.NEWS_US_ONLY
         try:
             items = parse_channel(get(f"https://t.me/s/{ch}").text)
         except Exception as e:  # noqa: BLE001
@@ -104,7 +105,7 @@ def run_telegram(state):
             text = clean(it["text"], ch)
             if not text and not it["img"]:
                 continue
-            if not us_related(text):
+            if us_only and not us_related(text):
                 continue
             zh, ok = to_chinese(text) if text else ("", False)
             ts = None

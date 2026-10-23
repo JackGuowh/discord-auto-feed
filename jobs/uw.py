@@ -30,7 +30,7 @@ def run(state):
     pairs = [(f"uw:{a['slug']}", a) for a in arts if a.get("slug")]
     for _, a in pick_new(state, "unusualwhales", pairs):
         title = a.get("title", "").strip()
-        if not title or not us_related(title + " " + " ".join(a.get("tags") or [])):
+        if not title or (C.NEWS_US_ONLY and not us_related(title + " " + " ".join(a.get("tags") or []))):
             continue
         zh = translate(title)
         post(WEBHOOK, embeds=[embed(

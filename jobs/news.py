@@ -27,6 +27,7 @@ def keyword_ok(text):
 
 def run_wscn(state):
     for ch in C.WSCN_CHANNELS:
+        ch, min_score = ch if isinstance(ch, (tuple, list)) else (ch, C.WSCN_MIN_SCORE)
         try:
             data = get("https://api-one-wscn.awtmt.com/apiv1/content/lives",
                        params={"channel": ch, "limit": 30}).json()
@@ -36,7 +37,7 @@ def run_wscn(state):
             continue
         items = [(f"wscn:{r['id']}", r) for r in rows]
         for _, r in pick_new(state, f"wscn:{ch}", items):
-            if (r.get("score") or 1) < C.WSCN_MIN_SCORE:
+            if (r.get("score") or 1) < min_score:
                 continue
             text = (r.get("content_text") or strip_html(r.get("content"))).strip()
             title = (r.get("title") or "").strip()
