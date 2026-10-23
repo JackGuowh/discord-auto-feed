@@ -650,14 +650,14 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792733728.15948,
+ "congress_last_check": 1792735579.5912218,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792735202.9432793,
+ "earnings_last_check": 1792735999.509347,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -755,7 +755,7 @@
   "er:2026-10-22:APPF",
   "er:2026-10-22:KNSL"
  ],
- "gas_last_check": 1792734406.5088828,
+ "gas_last_check": 1792735639.4917052,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -850,7 +850,8 @@
   "gas:CBMixwFBVV95cUxPNmJvYUIxSWdlYUJ4LXdnR24tRGRtSHcyd0JlSlVJWEdDbXJJTDVhZzZXTkJMRkQyY2xzYkowNGRLN0ZGM05lUWVyMzFHYVV6Y3FQd2tmYWJxODAyQ2xlWGVLR1k1cjVkSmpZNUF6dWtkZXk0RFNndnROMURhOEJRem9BWUVMc1puM3dZaXJJcUlYV1pleGkxQnhsdGxTbUJIaFhjdTFLd0dsdUFVQ21kbThmVWVhTmNlYWE5OHpYNy1oNFdHQWlr",
   "gas:CBMimgFBVV95cUxQdXp2UUlfdWY0NDJjYTZOdnRnZmUyajhOUHpEMU9pOFQ1SlZhclYzbV9EMDJRNFVnaUVLWV9uSjdrR0ZPSXJjZ1U2WnZyMlhWZ25wam0wUUo4eVVDcFZVOHRtRjVtbmstOHVqZl91Qy12REhxamozbzZlTmV4QUVTZmhSR2dSYjhmdzNMRWNtbkN4RENNWkdBaE1n",
   "gas:CBMihgFBVV95cUxOOWNCTEVHTmtpSlFiQ01HbVM2cTlNS0pobnZ6UmxnN0UzekdyLVk4c3Y3eGdvSkJsTmljMVF6Ml9MbUhSQkt4ODZEcEZFTDlRS2l5ZHFnVlM5MENaRHllZEY0MmFZd0Rtai1RVVF1b0dEZ1BWWS12cnhrb05qQ1ZyaDZlaGRIQQ",
-  "gas:CBMiqAFBVV95cUxOSUxzUk43My1KVE5UeVVDcWt6SnhGSWRlajJsLVViTU5LOXhXckM1LVZqQW95RjZmZmY4QmdTRW5VMlVGdC1xcEFTQlBUSENXd2JoZjJyWlpScF94QXJSODNoWGd0anoxT3c0QnhNempKM0hKY1Fva05ERzgxS2VXbEJjMFF3S1luREhmUmVFdlA5dDJpQjZpajNpZXh5Vlh4UkZad21HTnY"
+  "gas:CBMiqAFBVV95cUxOSUxzUk43My1KVE5UeVVDcWt6SnhGSWRlajJsLVViTU5LOXhXckM1LVZqQW95RjZmZmY4QmdTRW5VMlVGdC1xcEFTQlBUSENXd2JoZjJyWlpScF94QXJSODNoWGd0anoxT3c0QnhNempKM0hKY1Fva05ERzgxS2VXbEJjMFF3S1luREhmUmVFdlA5dDJpQjZpajNpZXh5Vlh4UkZad21HTnY",
+  "gas:CBMiX0FVX3lxTFBRMkN2WnJjUmhLMmNYOUo0NHdNTXJTMWZwaDBtdzQyQ245SGZlQ2RTcFU1bF9fdmZwM1N2ZEZzcVVvWGY1RERZcGRaMDgwVjVFa2RZQUF2RlI4dXUtSjdJ"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
