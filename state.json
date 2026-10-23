@@ -227,7 +227,8 @@
   "truth:https://www.trumpstruth.org/statuses/42689",
   "truth:https://www.trumpstruth.org/statuses/42688",
   "truth:https://www.trumpstruth.org/statuses/42687",
-  "truth:https://www.trumpstruth.org/statuses/42686"
+  "truth:https://www.trumpstruth.org/statuses/42686",
+  "truth:https://www.trumpstruth.org/statuses/42690"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -658,7 +659,8 @@
   "wscn:3185065",
   "wscn:3185066",
   "wscn:3185068",
-  "wscn:3185067"
+  "wscn:3185067",
+  "wscn:3185071"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -878,7 +880,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792796933.782786,
+ "earnings_last_check": 1792797551.5301952,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -988,7 +990,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792795959.1490684,
+ "gas_last_check": 1792797190.152173,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1162,7 +1164,9 @@
   "gas:CBMiswFBVV95cUxOcFhNRXlPTVRWa2s3Yi1mNkJqU3pPRFhYSGhJcC1ZN1EtVlNaTm1KWG43S0piWURuV2M4OWN1RmlTMEdvdnlTYVVZR3ZrUnhldXFjbWpiQ3ZCX1ZJWTAwXzNVV052MEd5QS1tTTZoLVk2WEtCd0dWZnJ6Q2JqQl9TaHNQTERoUUlXdmVRRVlmbktIdExweVZtMHdLVHFCVXRjWUc0eVNybzN4NHloeE1ObmJIcw",
   "gas:CBMieEFVX3lxTE16RTVwNHVFQlctMFdWVmZndE5yV2Jhel9OUEZWMWg1akpNaWJTRXBJMUVrbGloQW1zWlZzc2ZwcUVkY2Fzb3VsclRidWdnYml1Q29rQUV1Tkh1R2pCU0xxNi1MNDhJbzdPdnZFS1VFNkk0TzU3c3JRYQ",
   "gas:CBMitAFBVV95cUxOQVo0YW5TMjhsS3RGakE0cUQ3SlNQWkJORE1MYmdYSE12czkxbmtKRlVYd3V1U2lmNk50NVJmRXVxcFFKR25FTkM1R0VSMzVSay1CUEdwNldnaC1mYWxqV2JmOTBvWl9nWkZJVHUwbnZQZGNBaS1fTnUyS0piMkJRdGM1V0NPc1dnZ21kQzZZbi1wdlJDZmJFY0hwMDl6ZVkxM19MOVl5TFhBcndFQjQ2aGpIUE8",
-  "gas:CBMilgFBVV95cUxPMjVRWWx1cVdLY0t0Qkx1YnR4U2lkVUZ4cmM3Q3JfV1lhTUkyUWJvdU4ycERqUXRaS1BkaG5KSnJva0swUm56MDI0ZFpKUFM0cE4xWmw4R3JHQVZVWk11dVVSdzdOc0ZiZGw2S21EZmxNR0V6dnVYNkRuWDJwblZnWkpod0lmc1JkbFlyMGJGaGZ2Rl9qZnc"
+  "gas:CBMilgFBVV95cUxPMjVRWWx1cVdLY0t0Qkx1YnR4U2lkVUZ4cmM3Q3JfV1lhTUkyUWJvdU4ycERqUXRaS1BkaG5KSnJva0swUm56MDI0ZFpKUFM0cE4xWmw4R3JHQVZVWk11dVVSdzdOc0ZiZGw2S21EZmxNR0V6dnVYNkRuWDJwblZnWkpod0lmc1JkbFlyMGJGaGZ2Rl9qZnc",
+  "gas:CBMihwFBVV95cUxOaElTVHhTLTJ2QUR0WWVsQlNsZkVUQ3puWUtyMUR2algyTmFLbXRDT2Z6em5lbVBNSVhsbDNoOXYzUWhtWC1UNTlacWtKZUZSTUt6eldFbXJqR1lsWWxZdkdMVURJc1NsY0ZSUDhocHRJeHJyN3FxSmtGNXl6NnpoblBBZU5SdTA",
+  "gas:CBMikAFBVV95cUxQYnY5bEEta011OGJ2U05NMF8yV0ZMWDljXzFDN282Z1pwcHhld2Z6WnFDcWxVM2JyN3BlNmgyT090NmtBZjBhX25DeTZmaVo3M0JCWEJTRWFMOGFkdEozLUg0VUxBSWQ0WWpoeDFYemdneTMwRW9oZXAyLTROVjBWM0t0WnlSTzdCTmt5dlV0Mm4"
  ],
  "shows_last_day": "2026-10-23",
  "shows_init": "2026-10-22",
