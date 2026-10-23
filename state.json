@@ -589,7 +589,10 @@
   "wscn:3184976",
   "wscn:3184981",
   "wscn:3184980",
-  "wscn:3184979"
+  "wscn:3184979",
+  "wscn:3184985",
+  "wscn:3184983",
+  "wscn:3184982"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -793,7 +796,7 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792777841.6156662,
+ "congress_last_check": 1792779678.2506344,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -802,7 +805,7 @@
   "movers_pre:2026-10-23",
   "market_fg:2026-10-23"
  ],
- "earnings_last_check": 1792779182.5153768,
+ "earnings_last_check": 1792780099.540346,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -912,7 +915,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792778704.0971515,
+ "gas_last_check": 1792779919.4318397,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1067,7 +1070,8 @@
   "gas:CBMidEFVX3lxTE5jVW5FSDRuUVpfT1dIUUE4aE1xRHJrZGJmV1BuNjRnMzlWbTd3aG5Fend4SkRuaEFlNVhRUXQ0MTdiWFRoNWpMY19iZDc0bHFVMVFfRU9saEZ2SHdRdlg2WnRLNHA5VkpCX0xNNmZFVElOUUF2",
   "gas:CBMif0FVX3lxTE10VGZQQ3l3YVVadjBBemRpNzh0ZVRvOWRBbzczRlQ2NEdUd1UtMG9xM09jQ3c4QVh2aXlPanFGdmRxdDdVS0wtdU1XQ0VqQXVRYzVHUndHRDd1Mk5Rb2RzWXNWVkdmbkdRY1I0TWFQNElySk15bU9JVlJZS2JkMFk",
   "gas:CBMisgFBVV95cUxQWmN5Y0JtQWlqbmVRbnNLS2pwVlBoLVUtV0EwTElZTE1PZE5fcVV2R1BrRFloVHlwNG9CbVJlR2VEQ3dEVTRUNEd1TlZLY1h3Tjc1Q0J2RU5sVU1vSUwybTU2c0QxT0hoSWluMG01YjVXRjY1S0FlV0otZXlNQUhPdGhiZm1qYUV0ZEJvWnhEY2ZqMWFPcFVxQTNrMGdGX2J1bVZQT3FvMnRkS1AySVZRNkdn",
-  "gas:CBMipgFBVV95cUxOYVJ3eEJrQVV0MmRJRnp5ZXM2RFBNaXFULUFnU0ZXWWJvM0lRZXM0TWtxNG5vUGN5MEVJM1d3bHJNWTVUTk1UeUQwSjlNdU10SGxSUnZTdURHY1p1ZEhxM1N3VlNGSUJhamVZeE5MT3V2VW5zUjBrZkdVUnhHaTF6b2JheHNTeHJ2SVpzZFg2MXE3dXRJY2ZLb0JCcU0wT3dFUlliUjd3"
+  "gas:CBMipgFBVV95cUxOYVJ3eEJrQVV0MmRJRnp5ZXM2RFBNaXFULUFnU0ZXWWJvM0lRZXM0TWtxNG5vUGN5MEVJM1d3bHJNWTVUTk1UeUQwSjlNdU10SGxSUnZTdURHY1p1ZEhxM1N3VlNGSUJhamVZeE5MT3V2VW5zUjBrZkdVUnhHaTF6b2JheHNTeHJ2SVpzZFg2MXE3dXRJY2ZLb0JCcU0wT3dFUlliUjd3",
+  "gas:CBMiqAFBVV95cUxQaWgtYzB4Um5XSUp1YndVWXo5SVdra1VSWXZmTGQwRVNCcTBJc2JWZllPQ0hVZmZ1STVici1VSUxhQ0JDNklnN09VYWFhWFItUThrSkpRbXBIODVZWEJldTNXVE1jQm1ZZjQwTzVQbXhEOWxCZUpUMjFDdll3SzJPVV80bjUzMUI1d0FpUERodjRuOEsxV2ZWVk50UTdLNW9YRTE5U1hLcGs"
  ],
  "shows_last_day": "2026-10-23",
  "shows_init": "2026-10-22",
