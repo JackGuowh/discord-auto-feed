@@ -217,7 +217,12 @@
   "truth:https://www.trumpstruth.org/statuses/42658",
   "truth:https://www.trumpstruth.org/statuses/42659",
   "truth:https://www.trumpstruth.org/statuses/42660",
-  "truth:https://www.trumpstruth.org/statuses/42661"
+  "truth:https://www.trumpstruth.org/statuses/42661",
+  "truth:https://www.trumpstruth.org/statuses/42680",
+  "truth:https://www.trumpstruth.org/statuses/42681",
+  "truth:https://www.trumpstruth.org/statuses/42682",
+  "truth:https://www.trumpstruth.org/statuses/42683",
+  "truth:https://www.trumpstruth.org/statuses/42684"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -662,14 +667,14 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792744729.1529548,
+ "congress_last_check": 1792746584.4812965,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792746504.9728358,
+ "earnings_last_check": 1792747305.0951798,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -767,7 +772,7 @@
   "er:2026-10-22:APPF",
   "er:2026-10-22:KNSL"
  ],
- "gas_last_check": 1792745467.9119358,
+ "gas_last_check": 1792746706.0182884,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -866,7 +871,8 @@
   "gas:CBMiX0FVX3lxTFBRMkN2WnJjUmhLMmNYOUo0NHdNTXJTMWZwaDBtdzQyQ245SGZlQ2RTcFU1bF9fdmZwM1N2ZEZzcVVvWGY1RERZcGRaMDgwVjVFa2RZQUF2RlI4dXUtSjdJ",
   "gas:CBMiU0FVX3lxTE1ldTlMNTVJUDVyU1ZwV3BuaDFFUzdKb0NpRGdlajVjNW1ZVHB2bWhBZ28tTzllMzJUWUI5RnNyb0I3dklnY1B5SkVULV9rTWhZeGh3",
   "gas:CBMiU0FVX3lxTE9EY19RaDdGYnl0Y1pFajR0eUJSX0ExMWJDUlI2S2gxcWNtYTE3OWFsZVFKMEJUOFJjVTgzU0FhS05BellNaGl4Q2JtOWNSakFGUXdN",
-  "gas:CBMimAFBVV95cUxPR0RBdEpNT001Wmx3czZGUjVGbk9JbFo2dVBrN0pSTnZNakp0SGg5dGpCUW9XYUNUNGpRT0FOQTNGT0JuNXVkWXFLNHRFaEZJS3JZcGVCeG9VX2FMWllOMzlHU3RsUmVOSGlVVnlJRVpOdS03Tm9sc3RuWjVydk9vcy1LVFJyOTg1YldzeWg1cDFFbWVycDNHRg"
+  "gas:CBMimAFBVV95cUxPR0RBdEpNT001Wmx3czZGUjVGbk9JbFo2dVBrN0pSTnZNakp0SGg5dGpCUW9XYUNUNGpRT0FOQTNGT0JuNXVkWXFLNHRFaEZJS3JZcGVCeG9VX2FMWllOMzlHU3RsUmVOSGlVVnlJRVpOdS03Tm9sc3RuWjVydk9vcy1LVFJyOTg1YldzeWg1cDFFbWVycDNHRg",
+  "gas:CBMivwFBVV95cUxNWWhjZjNPdzIyQ01ST3AySDhfYWQ5MlhvWW5lMEZxRDVoWHZoRUxCdXZoNUt1N2s1aEg4X1lHVHNvalgxRUpNQjJaX2o3dUhJTXpJR3o3a3NTZXpsbUxzQmdBTkVFTUVLNWdOdnhPNG9kYXlybDBTQ1dNNjRCblc5N2lIajBsZGNPSVRjWlN5azdmcElCV2ZqS2lRUFFvVUpZZWp1M2JyMHpIY3lHQ2w3RmVMXzV2TEgzWGRLMHBKbw"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
