@@ -596,14 +596,14 @@
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
   "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
- "congress_last_check": 1792717170.4772263,
+ "congress_last_check": 1792719012.1478848,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792718511.9324155,
+ "earnings_last_check": 1792719370.6367548,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1108,7 +1108,8 @@
   "qv:House-H001082-998",
   "qv:House-H001082-1005",
   "qv:House-H001082-1006",
-  "qv:House-H001082-1007"
+  "qv:House-H001082-1007",
+  "qv:House-H001082-1008"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
