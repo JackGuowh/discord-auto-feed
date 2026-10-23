@@ -157,7 +157,21 @@
   "truth:https://www.trumpstruth.org/statuses/42616",
   "truth:https://www.trumpstruth.org/statuses/42617",
   "truth:https://www.trumpstruth.org/statuses/42618",
-  "truth:https://www.trumpstruth.org/statuses/42619"
+  "truth:https://www.trumpstruth.org/statuses/42619",
+  "truth:https://www.trumpstruth.org/statuses/42639",
+  "truth:https://www.trumpstruth.org/statuses/42636",
+  "truth:https://www.trumpstruth.org/statuses/42634",
+  "truth:https://www.trumpstruth.org/statuses/42635",
+  "truth:https://www.trumpstruth.org/statuses/42637",
+  "truth:https://www.trumpstruth.org/statuses/42638",
+  "truth:https://www.trumpstruth.org/statuses/42640",
+  "truth:https://www.trumpstruth.org/statuses/42641",
+  "truth:https://www.trumpstruth.org/statuses/42642",
+  "truth:https://www.trumpstruth.org/statuses/42643",
+  "truth:https://www.trumpstruth.org/statuses/42644",
+  "truth:https://www.trumpstruth.org/statuses/42645",
+  "truth:https://www.trumpstruth.org/statuses/42646",
+  "truth:https://www.trumpstruth.org/statuses/42647"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -425,7 +439,8 @@
   "wscn:3184025",
   "wscn:3184034",
   "wscn:3184040",
-  "wscn:3184060"
+  "wscn:3184060",
+  "wscn:3184073"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -588,7 +603,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792717590.189719,
+ "earnings_last_check": 1792718511.9324155,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -685,7 +700,7 @@
   "er:2026-10-22:SLM",
   "er:2026-10-22:APPF"
  ],
- "gas_last_check": 1792717231.6666548,
+ "gas_last_check": 1792718451.9667485,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
