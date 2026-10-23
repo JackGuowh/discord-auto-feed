@@ -140,6 +140,11 @@ def run(state):
                     it["title"] = meta["title"]
             title = re.sub(r"\s*[|–-]\s*gasworld\s*$", "", it["title"], flags=re.I).strip()
             summary = clip(it.get("summary") or "", 400)
+            # 跳过 TradingView 之类的财务数据页（市盈率、现金流、负债表……），不是新闻
+            if kind == "google" and re.search(r"TradingView|Investing\.com|MarketBeat|Stock Price|Quote|"
+                                              r"ratio of|cash flow|liabilities|balance sheet|income statement|"
+                                              r"OTC:|ASX:|TSXV?:", title, re.I):
+                continue
             if kind == "google" and C.GAS_GOOGLE_STRICT and not hot_tags(title):
                 continue
             zh_title = translate(title) or title
