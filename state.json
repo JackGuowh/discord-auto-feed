@@ -539,7 +539,8 @@
   "wscn:3184906",
   "wscn:3184902",
   "wscn:3184900",
-  "wscn:3184899"
+  "wscn:3184899",
+  "wscn:3184912"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -627,7 +628,10 @@
   "tg:WalterBloomberg/37293",
   "tg:WalterBloomberg/37292",
   "tg:WalterBloomberg/37297",
-  "tg:WalterBloomberg/37298"
+  "tg:WalterBloomberg/37298",
+  "tg:WalterBloomberg/37301",
+  "tg:WalterBloomberg/37300",
+  "tg:WalterBloomberg/37299"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -659,7 +663,8 @@
   "tg:WatcherGuru/15609",
   "tg:WatcherGuru/15610",
   "tg:WatcherGuru/15611",
-  "tg:WatcherGuru/15612"
+  "tg:WatcherGuru/15612",
+  "tg:WatcherGuru/15613"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -719,7 +724,7 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792765011.544225,
+ "congress_last_check": 1792766848.3894472,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -728,7 +733,7 @@
   "movers_pre:2026-10-23",
   "market_fg:2026-10-23"
  ],
- "earnings_last_check": 1792766413.675026,
+ "earnings_last_check": 1792767270.0224032,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
