@@ -667,14 +667,14 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792750259.4757369,
+ "congress_last_check": 1792752099.3035336,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792751119.4471767,
+ "earnings_last_check": 1792752099.7513702,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -774,7 +774,7 @@
   "er:2026-10-23:FLG",
   "er:2026-10-23:ALV"
  ],
- "gas_last_check": 1792750379.5164669,
+ "gas_last_check": 1792751619.2849283,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1250,7 +1250,8 @@
   "tg:insiderpaper/45447",
   "tg:insiderpaper/45468",
   "tg:insiderpaper/45469",
-  "tg:insiderpaper/45470"
+  "tg:insiderpaper/45470",
+  "tg:insiderpaper/45471"
  ],
  "opt_daily": "2026-10-22"
 }
