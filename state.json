@@ -597,14 +597,14 @@
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
   "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
- "congress_last_check": 1792720844.7027016,
+ "congress_last_check": 1792722700.2920918,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792722501.1403897,
+ "earnings_last_check": 1792723360.1253784,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -702,7 +702,7 @@
   "er:2026-10-22:APPF",
   "er:2026-10-22:KNSL"
  ],
- "gas_last_check": 1792722140.8941214,
+ "gas_last_check": 1792723360.715324,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -796,7 +796,8 @@
   "gas:CBMilgFBVV95cUxNN1RCazNrQVE1MnlrOU9xeks0NnZmbnJrWncyUlBvWktGZzFCYWJoMVlGajNzeTQxSjBKclIyT3FGWHJBZEdpdDFMTVB3dkhhdzFKMW9uMzJWTm1rRnF4S0xSbjg3TEpKaUVXVW9xTDBKTnRWaENHWWN4QkQwTG1iVDcyaVBab0I0S0R3MjU0dUxyODQ3YWc",
   "gas:CBMixwFBVV95cUxPNmJvYUIxSWdlYUJ4LXdnR24tRGRtSHcyd0JlSlVJWEdDbXJJTDVhZzZXTkJMRkQyY2xzYkowNGRLN0ZGM05lUWVyMzFHYVV6Y3FQd2tmYWJxODAyQ2xlWGVLR1k1cjVkSmpZNUF6dWtkZXk0RFNndnROMURhOEJRem9BWUVMc1puM3dZaXJJcUlYV1pleGkxQnhsdGxTbUJIaFhjdTFLd0dsdUFVQ21kbThmVWVhTmNlYWE5OHpYNy1oNFdHQWlr",
   "gas:CBMimgFBVV95cUxQdXp2UUlfdWY0NDJjYTZOdnRnZmUyajhOUHpEMU9pOFQ1SlZhclYzbV9EMDJRNFVnaUVLWV9uSjdrR0ZPSXJjZ1U2WnZyMlhWZ25wam0wUUo4eVVDcFZVOHRtRjVtbmstOHVqZl91Qy12REhxamozbzZlTmV4QUVTZmhSR2dSYjhmdzNMRWNtbkN4RENNWkdBaE1n",
-  "gas:CBMihgFBVV95cUxOOWNCTEVHTmtpSlFiQ01HbVM2cTlNS0pobnZ6UmxnN0UzekdyLVk4c3Y3eGdvSkJsTmljMVF6Ml9MbUhSQkt4ODZEcEZFTDlRS2l5ZHFnVlM5MENaRHllZEY0MmFZd0Rtai1RVVF1b0dEZ1BWWS12cnhrb05qQ1ZyaDZlaGRIQQ"
+  "gas:CBMihgFBVV95cUxOOWNCTEVHTmtpSlFiQ01HbVM2cTlNS0pobnZ6UmxnN0UzekdyLVk4c3Y3eGdvSkJsTmljMVF6Ml9MbUhSQkt4ODZEcEZFTDlRS2l5ZHFnVlM5MENaRHllZEY0MmFZd0Rtai1RVVF1b0dEZ1BWWS12cnhrb05qQ1ZyaDZlaGRIQQ",
+  "gas:CBMiqAFBVV95cUxOSUxzUk43My1KVE5UeVVDcWt6SnhGSWRlajJsLVViTU5LOXhXckM1LVZqQW95RjZmZmY4QmdTRW5VMlVGdC1xcEFTQlBUSENXd2JoZjJyWlpScF94QXJSODNoWGd0anoxT3c0QnhNempKM0hKY1Fva05ERzgxS2VXbEJjMFF3S1luREhmUmVFdlA5dDJpQjZpajNpZXh5Vlh4UkZad21HTnY"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
