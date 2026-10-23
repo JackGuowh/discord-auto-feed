@@ -604,7 +604,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792720845.1421463,
+ "earnings_last_check": 1792721643.86855,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -699,7 +699,8 @@
   "er:2026-10-22:KN",
   "er:2026-10-22:RHI",
   "er:2026-10-22:SLM",
-  "er:2026-10-22:APPF"
+  "er:2026-10-22:APPF",
+  "er:2026-10-22:KNSL"
  ],
  "gas_last_check": 1792720903.4310164,
  "gas:GAWDA Media": [
