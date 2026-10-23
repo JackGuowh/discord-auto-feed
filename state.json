@@ -490,7 +490,9 @@
   "wscn:3184156",
   "wscn:3184155",
   "wscn:3184169",
-  "wscn:3184168"
+  "wscn:3184168",
+  "wscn:3184237",
+  "wscn:3184235"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -657,7 +659,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792735999.509347,
+ "earnings_last_check": 1792736859.4254038,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -755,7 +757,7 @@
   "er:2026-10-22:APPF",
   "er:2026-10-22:KNSL"
  ],
- "gas_last_check": 1792735639.4917052,
+ "gas_last_check": 1792736859.894592,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -851,7 +853,8 @@
   "gas:CBMimgFBVV95cUxQdXp2UUlfdWY0NDJjYTZOdnRnZmUyajhOUHpEMU9pOFQ1SlZhclYzbV9EMDJRNFVnaUVLWV9uSjdrR0ZPSXJjZ1U2WnZyMlhWZ25wam0wUUo4eVVDcFZVOHRtRjVtbmstOHVqZl91Qy12REhxamozbzZlTmV4QUVTZmhSR2dSYjhmdzNMRWNtbkN4RENNWkdBaE1n",
   "gas:CBMihgFBVV95cUxOOWNCTEVHTmtpSlFiQ01HbVM2cTlNS0pobnZ6UmxnN0UzekdyLVk4c3Y3eGdvSkJsTmljMVF6Ml9MbUhSQkt4ODZEcEZFTDlRS2l5ZHFnVlM5MENaRHllZEY0MmFZd0Rtai1RVVF1b0dEZ1BWWS12cnhrb05qQ1ZyaDZlaGRIQQ",
   "gas:CBMiqAFBVV95cUxOSUxzUk43My1KVE5UeVVDcWt6SnhGSWRlajJsLVViTU5LOXhXckM1LVZqQW95RjZmZmY4QmdTRW5VMlVGdC1xcEFTQlBUSENXd2JoZjJyWlpScF94QXJSODNoWGd0anoxT3c0QnhNempKM0hKY1Fva05ERzgxS2VXbEJjMFF3S1luREhmUmVFdlA5dDJpQjZpajNpZXh5Vlh4UkZad21HTnY",
-  "gas:CBMiX0FVX3lxTFBRMkN2WnJjUmhLMmNYOUo0NHdNTXJTMWZwaDBtdzQyQ245SGZlQ2RTcFU1bF9fdmZwM1N2ZEZzcVVvWGY1RERZcGRaMDgwVjVFa2RZQUF2RlI4dXUtSjdJ"
+  "gas:CBMiX0FVX3lxTFBRMkN2WnJjUmhLMmNYOUo0NHdNTXJTMWZwaDBtdzQyQ245SGZlQ2RTcFU1bF9fdmZwM1N2ZEZzcVVvWGY1RERZcGRaMDgwVjVFa2RZQUF2RlI4dXUtSjdJ",
+  "gas:CBMiU0FVX3lxTE1ldTlMNTVJUDVyU1ZwV3BuaDFFUzdKb0NpRGdlajVjNW1ZVHB2bWhBZ28tTzllMzJUWUI5RnNyb0I3dklnY1B5SkVULV9rTWhZeGh3"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
