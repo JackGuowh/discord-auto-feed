@@ -4,10 +4,10 @@
 # 华尔街见闻 7x24 快讯频道：global-channel(要闻) / us-stock-channel(美股) /
 # forex-channel(外汇) / commodity-channel(商品) / a-stock-channel(A股)
 # (频道, 最低重要度)：1 = 该频道全部快讯；2 = 只推红色重要快讯
-WSCN_CHANNELS = [("global-channel", 2), ("us-stock-channel", 1)]
+WSCN_CHANNELS = [("us-stock-channel", 1)]   # 只要美股快讯
 WSCN_MIN_SCORE = 1
 # 突发新闻是否只推美股相关（False = 和参考服务器一样，全球要闻、政治、科技都推）
-NEWS_US_ONLY = False
+NEWS_US_ONLY = True
 # 只推含这些关键词的快讯（留空 = 不过滤）。例如 ["美联储", "特朗普", "英伟达"]
 NEWS_KEYWORDS = []
 # 额外的中文 RSS 新闻源（名称, 链接）。不需要可以清空列表
