@@ -484,7 +484,9 @@
   "wscn:3184097",
   "wscn:3184130",
   "wscn:3184156",
-  "wscn:3184155"
+  "wscn:3184155",
+  "wscn:3184169",
+  "wscn:3184168"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -644,14 +646,14 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792728225.2089188,
+ "congress_last_check": 1792730060.6897461,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792729683.3842218,
+ "earnings_last_check": 1792730361.6321597,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
