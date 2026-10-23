@@ -597,14 +597,14 @@
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
   "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
- "congress_last_check": 1792719012.1478848,
+ "congress_last_check": 1792720844.7027016,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792719986.0255103,
+ "earnings_last_check": 1792720845.1421463,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -701,7 +701,7 @@
   "er:2026-10-22:SLM",
   "er:2026-10-22:APPF"
  ],
- "gas_last_check": 1792719686.0785055,
+ "gas_last_check": 1792720903.4310164,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -794,7 +794,8 @@
   "gas:CBMilAFBVV95cUxPcnM2NFFfT3htemU3R2FfeHZrN1FFZUFwNUdZMmpFSHp5QzhsdHlZRGI0R09PWmNHM2RfSm5DMVRHeXhfYVBHeHhKdm55R1pscmpYbDRLZUo2bFlvb2I5NTBiTTB6THltZjNYZXpZZzk5QWlBZ3pGaE1hakJOZGJoMmNjWHJqdjhNcHRhaGkzUEVsUFI4",
   "gas:CBMilgFBVV95cUxNN1RCazNrQVE1MnlrOU9xeks0NnZmbnJrWncyUlBvWktGZzFCYWJoMVlGajNzeTQxSjBKclIyT3FGWHJBZEdpdDFMTVB3dkhhdzFKMW9uMzJWTm1rRnF4S0xSbjg3TEpKaUVXVW9xTDBKTnRWaENHWWN4QkQwTG1iVDcyaVBab0I0S0R3MjU0dUxyODQ3YWc",
   "gas:CBMixwFBVV95cUxPNmJvYUIxSWdlYUJ4LXdnR24tRGRtSHcyd0JlSlVJWEdDbXJJTDVhZzZXTkJMRkQyY2xzYkowNGRLN0ZGM05lUWVyMzFHYVV6Y3FQd2tmYWJxODAyQ2xlWGVLR1k1cjVkSmpZNUF6dWtkZXk0RFNndnROMURhOEJRem9BWUVMc1puM3dZaXJJcUlYV1pleGkxQnhsdGxTbUJIaFhjdTFLd0dsdUFVQ21kbThmVWVhTmNlYWE5OHpYNy1oNFdHQWlr",
-  "gas:CBMimgFBVV95cUxQdXp2UUlfdWY0NDJjYTZOdnRnZmUyajhOUHpEMU9pOFQ1SlZhclYzbV9EMDJRNFVnaUVLWV9uSjdrR0ZPSXJjZ1U2WnZyMlhWZ25wam0wUUo4eVVDcFZVOHRtRjVtbmstOHVqZl91Qy12REhxamozbzZlTmV4QUVTZmhSR2dSYjhmdzNMRWNtbkN4RENNWkdBaE1n"
+  "gas:CBMimgFBVV95cUxQdXp2UUlfdWY0NDJjYTZOdnRnZmUyajhOUHpEMU9pOFQ1SlZhclYzbV9EMDJRNFVnaUVLWV9uSjdrR0ZPSXJjZ1U2WnZyMlhWZ25wam0wUUo4eVVDcFZVOHRtRjVtbmstOHVqZl91Qy12REhxamozbzZlTmV4QUVTZmhSR2dSYjhmdzNMRWNtbkN4RENNWkdBaE1n",
+  "gas:CBMihgFBVV95cUxOOWNCTEVHTmtpSlFiQ01HbVM2cTlNS0pobnZ6UmxnN0UzekdyLVk4c3Y3eGdvSkJsTmljMVF6Ml9MbUhSQkt4ODZEcEZFTDlRS2l5ZHFnVlM5MENaRHllZEY0MmFZd0Rtai1RVVF1b0dEZ1BWWS12cnhrb05qQ1ZyaDZlaGRIQQ"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
