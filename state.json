@@ -674,7 +674,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792748784.6860068,
+ "earnings_last_check": 1792749645.7158206,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -772,7 +772,7 @@
   "er:2026-10-22:APPF",
   "er:2026-10-22:KNSL"
  ],
- "gas_last_check": 1792747921.0673516,
+ "gas_last_check": 1792749163.369602,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1246,7 +1246,8 @@
   "tg:insiderpaper/45448",
   "tg:insiderpaper/45447",
   "tg:insiderpaper/45468",
-  "tg:insiderpaper/45469"
+  "tg:insiderpaper/45469",
+  "tg:insiderpaper/45470"
  ],
  "opt_daily": "2026-10-22"
 }
