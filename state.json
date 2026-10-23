@@ -581,14 +581,14 @@
   "uw:iran-strike-oil-cables-ai-facilities-gulf-threat",
   "uw:trump-musk-reverse-starlink-restrictions-ukraine"
  ],
- "congress_last_check": 1792715323.8784742,
+ "congress_last_check": 1792717170.4772263,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792716974.4179804,
+ "earnings_last_check": 1792717590.189719,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -685,7 +685,7 @@
   "er:2026-10-22:SLM",
   "er:2026-10-22:APPF"
  ],
- "gas_last_check": 1792715999.899123,
+ "gas_last_check": 1792717231.6666548,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -776,7 +776,9 @@
   "gas:CBMie0FVX3lxTFA2OWxrTnlzT1FkWlJFMm9HaTI1QlpyQXRmTW55LXQ2aEFSSk1rQU1DWUxmeTBpbVZZeTBYOEV1R0NnN1Itd0xQS250dWEtZHp0MkJ2aFlYc1FUeDd3WTltcnFnREZTUkdTOTZBanVRVXpSeUR5ZHlNQzhxWQ",
   "gas:CBMijAFBVV95cUxOdGNKa0loZWxGdFQ4Y2txV2xyb3lZdzdxb2ZmUHJHOHRxUGloLXQ2Vy1JRDFvT3BiZnYxdFV1X01hZ3hNU1VOcDd1bzBZX1B1NFlaVk9qVFlIZUgwSF9zR2FLdFZqekF6WE9mbkpHbzROMVhYWW8wZ2hCdG5sd1Q3WjhKWERCYlFMY1RWUA",
   "gas:CBMilAFBVV95cUxPcnM2NFFfT3htemU3R2FfeHZrN1FFZUFwNUdZMmpFSHp5QzhsdHlZRGI0R09PWmNHM2RfSm5DMVRHeXhfYVBHeHhKdm55R1pscmpYbDRLZUo2bFlvb2I5NTBiTTB6THltZjNYZXpZZzk5QWlBZ3pGaE1hakJOZGJoMmNjWHJqdjhNcHRhaGkzUEVsUFI4",
-  "gas:CBMilgFBVV95cUxNN1RCazNrQVE1MnlrOU9xeks0NnZmbnJrWncyUlBvWktGZzFCYWJoMVlGajNzeTQxSjBKclIyT3FGWHJBZEdpdDFMTVB3dkhhdzFKMW9uMzJWTm1rRnF4S0xSbjg3TEpKaUVXVW9xTDBKTnRWaENHWWN4QkQwTG1iVDcyaVBab0I0S0R3MjU0dUxyODQ3YWc"
+  "gas:CBMilgFBVV95cUxNN1RCazNrQVE1MnlrOU9xeks0NnZmbnJrWncyUlBvWktGZzFCYWJoMVlGajNzeTQxSjBKclIyT3FGWHJBZEdpdDFMTVB3dkhhdzFKMW9uMzJWTm1rRnF4S0xSbjg3TEpKaUVXVW9xTDBKTnRWaENHWWN4QkQwTG1iVDcyaVBab0I0S0R3MjU0dUxyODQ3YWc",
+  "gas:CBMixwFBVV95cUxPNmJvYUIxSWdlYUJ4LXdnR24tRGRtSHcyd0JlSlVJWEdDbXJJTDVhZzZXTkJMRkQyY2xzYkowNGRLN0ZGM05lUWVyMzFHYVV6Y3FQd2tmYWJxODAyQ2xlWGVLR1k1cjVkSmpZNUF6dWtkZXk0RFNndnROMURhOEJRem9BWUVMc1puM3dZaXJJcUlYV1pleGkxQnhsdGxTbUJIaFhjdTFLd0dsdUFVQ21kbThmVWVhTmNlYWE5OHpYNy1oNFdHQWlr",
+  "gas:CBMimgFBVV95cUxQdXp2UUlfdWY0NDJjYTZOdnRnZmUyajhOUHpEMU9pOFQ1SlZhclYzbV9EMDJRNFVnaUVLWV9uSjdrR0ZPSXJjZ1U2WnZyMlhWZ25wam0wUUo4eVVDcFZVOHRtRjVtbmstOHVqZl91Qy12REhxamozbzZlTmV4QUVTZmhSR2dSYjhmdzNMRWNtbkN4RENNWkdBaE1n"
  ],
  "shows_last_day": "2026-10-22",
  "shows_init": "2026-10-22",
