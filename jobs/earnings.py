@@ -131,6 +131,12 @@ def run(state):
         if mv:
             arrow = "🟢" if mv[1] > 0 else ("🔴" if mv[1] < 0 else "⚪")
             lines.append(f"**{session}股价**　{arrow} ${mv[0]:,.2f}（{mv[1]:+.2f}%）")
+        em = (state.get("opt_em") or {}).get(t)
+        if em:
+            note = ""
+            if mv:
+                note = "，实际波动超出预期 🔥" if abs(mv[1]) > em else "，在预期范围内"
+            lines.append(f"**期权预期波动**　±{em}%{note}")
         good = [x for x in (eps_pct, rev_pct) if x is not None]
         color = 0x16A34A if good and all(x > 0 for x in good) else (
             0xDC2626 if good and all(x < 0 for x in good) else 0xF59E0B)
