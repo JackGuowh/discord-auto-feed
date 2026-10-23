@@ -211,7 +211,11 @@
   "truth:https://www.trumpstruth.org/statuses/42652",
   "truth:https://www.trumpstruth.org/statuses/42653",
   "truth:https://www.trumpstruth.org/statuses/42654",
-  "truth:https://www.trumpstruth.org/statuses/42655"
+  "truth:https://www.trumpstruth.org/statuses/42655",
+  "truth:https://www.trumpstruth.org/statuses/42656",
+  "truth:https://www.trumpstruth.org/statuses/42657",
+  "truth:https://www.trumpstruth.org/statuses/42658",
+  "truth:https://www.trumpstruth.org/statuses/42659"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -653,7 +657,7 @@
   "market_close:2026-10-22",
   "movers_post:2026-10-22"
  ],
- "earnings_last_check": 1792732135.1959414,
+ "earnings_last_check": 1792732812.1565375,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
