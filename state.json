@@ -582,7 +582,9 @@
   "wscn:3184963",
   "wscn:3184972",
   "wscn:3184971",
-  "wscn:3184970"
+  "wscn:3184970",
+  "wscn:3184975",
+  "wscn:3184973"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -793,7 +795,7 @@
   "movers_pre:2026-10-23",
   "market_fg:2026-10-23"
  ],
- "earnings_last_check": 1792776708.2429376,
+ "earnings_last_check": 1792777523.5852582,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -903,7 +905,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792776226.6624727,
+ "gas_last_check": 1792777463.4074986,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1057,7 +1059,8 @@
   "gas:CBMingFBVV95cUxPSjNialh5cV9NQnNpeVIzVWdzc2d0bGdmR2o2YWJXRm5wd0JZbkdUOUZHWllYbk15U2pndWQ5TGpBcktVSTN0TlprRmtiS2FvWU9fYmZYN3BoaWo5Uk5WX1EzX1ZGZ0JaRTA2YlhVaVlSUVN6RF9wQTFmdDBRZVlLSnZwU1VKRjZFNHBXNmxWdmlfOXl1SEZjdkplOG5HQQ",
   "gas:CBMidEFVX3lxTE5jVW5FSDRuUVpfT1dIUUE4aE1xRHJrZGJmV1BuNjRnMzlWbTd3aG5Fend4SkRuaEFlNVhRUXQ0MTdiWFRoNWpMY19iZDc0bHFVMVFfRU9saEZ2SHdRdlg2WnRLNHA5VkpCX0xNNmZFVElOUUF2",
   "gas:CBMif0FVX3lxTE10VGZQQ3l3YVVadjBBemRpNzh0ZVRvOWRBbzczRlQ2NEdUd1UtMG9xM09jQ3c4QVh2aXlPanFGdmRxdDdVS0wtdU1XQ0VqQXVRYzVHUndHRDd1Mk5Rb2RzWXNWVkdmbkdRY1I0TWFQNElySk15bU9JVlJZS2JkMFk",
-  "gas:CBMisgFBVV95cUxQWmN5Y0JtQWlqbmVRbnNLS2pwVlBoLVUtV0EwTElZTE1PZE5fcVV2R1BrRFloVHlwNG9CbVJlR2VEQ3dEVTRUNEd1TlZLY1h3Tjc1Q0J2RU5sVU1vSUwybTU2c0QxT0hoSWluMG01YjVXRjY1S0FlV0otZXlNQUhPdGhiZm1qYUV0ZEJvWnhEY2ZqMWFPcFVxQTNrMGdGX2J1bVZQT3FvMnRkS1AySVZRNkdn"
+  "gas:CBMisgFBVV95cUxQWmN5Y0JtQWlqbmVRbnNLS2pwVlBoLVUtV0EwTElZTE1PZE5fcVV2R1BrRFloVHlwNG9CbVJlR2VEQ3dEVTRUNEd1TlZLY1h3Tjc1Q0J2RU5sVU1vSUwybTU2c0QxT0hoSWluMG01YjVXRjY1S0FlV0otZXlNQUhPdGhiZm1qYUV0ZEJvWnhEY2ZqMWFPcFVxQTNrMGdGX2J1bVZQT3FvMnRkS1AySVZRNkdn",
+  "gas:CBMipgFBVV95cUxOYVJ3eEJrQVV0MmRJRnp5ZXM2RFBNaXFULUFnU0ZXWWJvM0lRZXM0TWtxNG5vUGN5MEVJM1d3bHJNWTVUTk1UeUQwSjlNdU10SGxSUnZTdURHY1p1ZEhxM1N3VlNGSUJhamVZeE5MT3V2VW5zUjBrZkdVUnhHaTF6b2JheHNTeHJ2SVpzZFg2MXE3dXRJY2ZLb0JCcU0wT3dFUlliUjd3"
  ],
  "shows_last_day": "2026-10-23",
  "shows_init": "2026-10-22",
@@ -1453,7 +1456,8 @@
   "tg:insiderpaper/45480",
   "tg:insiderpaper/45482",
   "tg:insiderpaper/45483",
-  "tg:insiderpaper/45484"
+  "tg:insiderpaper/45484",
+  "tg:insiderpaper/45485"
  ],
  "opt_daily": "2026-10-22",
  "opt_flow_last": 1792776886.75422,
