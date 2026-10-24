@@ -931,7 +931,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792882911.6259806,
+ "earnings_last_check": 1792883708.495251,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1041,7 +1041,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792881932.614957,
+ "gas_last_check": 1792883168.4710834,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1237,7 +1237,8 @@
   "gas:CBMilAFBVV95cUxOYmVWZGIyM3ZhQlp0a0VybnEwTWEtMnlsQW5NbHdxam5JdldhWmFGRkhUV3g4Y3h0NEFMUzVqeWp1blc1ckRUYkxGQURaSkdFSWxpNFJuZ2pBVzZGSDl1NkxlS3E0bHFQNldvNDd4WTBMWHFhUzREQzdad3RLOFItWE1PVGVCV3lTaGFkTjZzRW9DQ1hk",
   "gas:CBMic0FVX3lxTE9Zbl93QVZ4aWR4M1g1alFxdmJnZDhCa0JTTXF2UFVTZTJvVGNBb1FqcllIVjVkSW5ON2c2ZGk0TENzUTVLTkhEQTY4TG5Mb0YzSVdlbzh3dkE4bEJDNElsVGtCRloyaGRKTjFxMDl3Y3NSUlU",
   "gas:CBMiV0FVX3lxTE91aXFoWjdhanVWeVJ5UXg4NGd1UFFoVWh2Y0JrNG00TkpyRi1kWk5qYlRyTXByNTNMTUt6QjUxVXBydDZFTDBISkstMk5Vd3NUNG42V0lEaw",
-  "gas:CBMiW0FVX3lxTE1GWFNKMkZ0empvU2twUktWU3pteW5oT3ZCaEQyOHJEeTF4X3lESkpiQS1VcVF0RTRYdW9ILTlCbDMxMnROYkJvYW82SGVpempubWNiSjhKc0tCdDA"
+  "gas:CBMiW0FVX3lxTE1GWFNKMkZ0empvU2twUktWU3pteW5oT3ZCaEQyOHJEeTF4X3lESkpiQS1VcVF0RTRYdW9ILTlCbDMxMnROYkJvYW82SGVpempubWNiSjhKc0tCdDA",
+  "gas:CBMi4AFBVV95cUxNc1hQWXVFQ2lrcVp5Z19wX1dTbXdVTGFIS0ZWT3NWUTVLY1RfTm5kOG5rSzNZZzBzaWdIOE8zUnlzcXFYLXB5OThJX09Fd1dNQ0doZ09fQWNIaWg2NFNFb1ZCNWNISVFMR2xuQjBPSDNQVzE0eTJuWDZqZlRCQVd4b29PaVpTMmhYZ1VHMkdqaGNWS2QzTXRaM19QcjBBWlF3R3RHMTlEYkVqMl9LMlJCNVBTalZXUUczWkVrUldXMFRkaFZyQkp5bU1ZV3N0SUVtNnRmNUVaTWRUQ3JIMnVLMg"
  ],
  "shows_last_day": "2026-10-24",
  "shows_init": "2026-10-22",
@@ -1600,7 +1601,8 @@
   "tg:disclosetv/21956",
   "tg:disclosetv/21957",
   "tg:disclosetv/21958",
-  "tg:disclosetv/21959"
+  "tg:disclosetv/21959",
+  "tg:disclosetv/21960"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
