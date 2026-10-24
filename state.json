@@ -891,7 +891,7 @@
   "uw:ken-griffin-citadel-socialism-france-paris-riots-wake-up-call",
   "uw:uk-government-be-ready-guidance-households-stock-up-emergency"
  ],
- "congress_last_check": 1792831132.0648127,
+ "congress_last_check": 1792832988.284873,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -902,7 +902,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792832850.6616282,
+ "earnings_last_check": 1792833648.3699815,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1603,7 +1603,8 @@
   "tg:insiderpaper/45486",
   "tg:insiderpaper/45487",
   "tg:insiderpaper/45488",
-  "tg:insiderpaper/45489"
+  "tg:insiderpaper/45489",
+  "tg:insiderpaper/45490"
  ],
  "opt_daily": "2026-10-23",
  "opt_flow_last": 1792786042.4399037,
