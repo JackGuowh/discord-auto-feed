@@ -802,7 +802,8 @@
   "tg:WalterBloomberg/37318",
   "tg:WalterBloomberg/37321",
   "tg:WalterBloomberg/37320",
-  "tg:WalterBloomberg/37322"
+  "tg:WalterBloomberg/37322",
+  "tg:WalterBloomberg/37323"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -911,7 +912,7 @@
   "uw:ken-griffin-citadel-socialism-france-paris-riots-wake-up-call",
   "uw:uk-government-be-ready-guidance-households-stock-up-emergency"
  ],
- "congress_last_check": 1792866095.2493753,
+ "congress_last_check": 1792867943.9432373,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -922,7 +923,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792867626.9244921,
+ "earnings_last_check": 1792868364.007856,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1032,7 +1033,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792867208.44922,
+ "gas_last_check": 1792868423.964311,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1586,7 +1587,8 @@
   "tg:disclosetv/21953",
   "tg:disclosetv/21954",
   "tg:disclosetv/21955",
-  "tg:disclosetv/21956"
+  "tg:disclosetv/21956",
+  "tg:disclosetv/21957"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
