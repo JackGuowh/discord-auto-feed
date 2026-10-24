@@ -665,7 +665,8 @@
   "wscn:3185076",
   "wscn:3185075",
   "wscn:3185074",
-  "wscn:3185077"
+  "wscn:3185077",
+  "wscn:3185081"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -879,7 +880,11 @@
   "uw:sam-altman-patch-all-the-bugs-ai-cybersecurity",
   "uw:central-banks-stockpiling-gold-moving-out-of-us",
   "uw:openai-ai-agents-disabled-monitoring-denied",
-  "uw:inflation-above-fed-target-66-months-bespoke"
+  "uw:inflation-above-fed-target-66-months-bespoke",
+  "uw:war-department-designates-confucius-institutes-national-security-threat",
+  "uw:openai-finds-critical-brotli-flaw-node2shell",
+  "uw:ken-griffin-citadel-socialism-france-paris-riots-wake-up-call",
+  "uw:uk-government-be-ready-guidance-households-stock-up-emergency"
  ],
  "congress_last_check": 1792801717.2330296,
  "scheduler": [
@@ -892,7 +897,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792802398.590898,
+ "earnings_last_check": 1792803255.6209173,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1002,7 +1007,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792802099.041016,
+ "gas_last_check": 1792803315.5090473,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1180,7 +1185,9 @@
   "gas:CBMihwFBVV95cUxOaElTVHhTLTJ2QUR0WWVsQlNsZkVUQ3puWUtyMUR2algyTmFLbXRDT2Z6em5lbVBNSVhsbDNoOXYzUWhtWC1UNTlacWtKZUZSTUt6eldFbXJqR1lsWWxZdkdMVURJc1NsY0ZSUDhocHRJeHJyN3FxSmtGNXl6NnpoblBBZU5SdTA",
   "gas:CBMikAFBVV95cUxQYnY5bEEta011OGJ2U05NMF8yV0ZMWDljXzFDN282Z1pwcHhld2Z6WnFDcWxVM2JyN3BlNmgyT090NmtBZjBhX25DeTZmaVo3M0JCWEJTRWFMOGFkdEozLUg0VUxBSWQ0WWpoeDFYemdneTMwRW9oZXAyLTROVjBWM0t0WnlSTzdCTmt5dlV0Mm4",
   "gas:CBMidkFVX3lxTE9yUi1YU3FTdVZCRV93eUNhWGUteTFySlo3cE9YRGdETkMxZGd2MjlFZ2JCVy0yVWJocnBRaS1SaGVLdWJSVWlFN3pNZ1RkVEFzWV9PSTAxeTBPOXdIS3hXWHM5aW9LdUFOUnE2U2JBU3NEQ3l4QkE",
-  "gas:CBMiowFBVV95cUxNZVg4V0w1Q0lyRVlkM2tha1Z5amlXcXRCZmZEcWViZVJoU2pvNmlnZG4zUTh6RTlmVDh5QmVJMDJYWnl5QWFKV25YOWVMNzlzZDcwdnl1MGVYMFdvVEFkUDFmd0lDNm5EcThQZnp4UDdVdUVMZjFKNld4b1o2SmpfUC1jU2twUVpmT2lCaDIydGF2dk5LV3M1ZWdfNERpUHA4WnVv"
+  "gas:CBMiowFBVV95cUxNZVg4V0w1Q0lyRVlkM2tha1Z5amlXcXRCZmZEcWViZVJoU2pvNmlnZG4zUTh6RTlmVDh5QmVJMDJYWnl5QWFKV25YOWVMNzlzZDcwdnl1MGVYMFdvVEFkUDFmd0lDNm5EcThQZnp4UDdVdUVMZjFKNld4b1o2SmpfUC1jU2twUVpmT2lCaDIydGF2dk5LV3M1ZWdfNERpUHA4WnVv",
+  "gas:CBMickFVX3lxTE4taHN0X0stb3J5Q3h2Qzl3NWRhNmxTMmk5SzJQaGJNdEVZWEFuRDhrQzFnWm01TmF2ZWZTYWdycHJFQk9XLVhYNGQ0YWhwSE9sSnYzMWFVMEJpM29PdWVXbUdJV1FfZHdPZ0xSODJXcTQwZw",
+  "gas:CBMic0FVX3lxTE5DRjdoTnA0NXc5UVB5N0J0NVZVNnEzd2xIREJzZG81YkFab1BXd042RVE1QlUzUFBjZ2ZheU1rVHVYVTIwUWt3Q1VkUUxWalYyeEN0WnZRUF9fa3JwS29yT2xFdXM1UmhuOXJGblFlS3laZTA"
  ],
  "shows_last_day": "2026-10-23",
  "shows_init": "2026-10-22",
