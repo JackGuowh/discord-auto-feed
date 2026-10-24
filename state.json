@@ -874,7 +874,12 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11",
   "uw:income-needed-afford-home-120k-atlanta-fed",
-  "uw:workers-skip-lunch-food-costs-cnbc"
+  "uw:workers-skip-lunch-food-costs-cnbc",
+  "uw:melania-trump-brokers-oleshky-ceasefire-russia-ukraine-white-house",
+  "uw:sam-altman-patch-all-the-bugs-ai-cybersecurity",
+  "uw:central-banks-stockpiling-gold-moving-out-of-us",
+  "uw:openai-ai-agents-disabled-monitoring-denied",
+  "uw:inflation-above-fed-target-66-months-bespoke"
  ],
  "congress_last_check": 1792801717.2330296,
  "scheduler": [
@@ -887,7 +892,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792801600.038185,
+ "earnings_last_check": 1792802398.590898,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -997,7 +1002,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792800858.5578537,
+ "gas_last_check": 1792802099.041016,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1174,7 +1179,8 @@
   "gas:CBMilgFBVV95cUxPMjVRWWx1cVdLY0t0Qkx1YnR4U2lkVUZ4cmM3Q3JfV1lhTUkyUWJvdU4ycERqUXRaS1BkaG5KSnJva0swUm56MDI0ZFpKUFM0cE4xWmw4R3JHQVZVWk11dVVSdzdOc0ZiZGw2S21EZmxNR0V6dnVYNkRuWDJwblZnWkpod0lmc1JkbFlyMGJGaGZ2Rl9qZnc",
   "gas:CBMihwFBVV95cUxOaElTVHhTLTJ2QUR0WWVsQlNsZkVUQ3puWUtyMUR2algyTmFLbXRDT2Z6em5lbVBNSVhsbDNoOXYzUWhtWC1UNTlacWtKZUZSTUt6eldFbXJqR1lsWWxZdkdMVURJc1NsY0ZSUDhocHRJeHJyN3FxSmtGNXl6NnpoblBBZU5SdTA",
   "gas:CBMikAFBVV95cUxQYnY5bEEta011OGJ2U05NMF8yV0ZMWDljXzFDN282Z1pwcHhld2Z6WnFDcWxVM2JyN3BlNmgyT090NmtBZjBhX25DeTZmaVo3M0JCWEJTRWFMOGFkdEozLUg0VUxBSWQ0WWpoeDFYemdneTMwRW9oZXAyLTROVjBWM0t0WnlSTzdCTmt5dlV0Mm4",
-  "gas:CBMidkFVX3lxTE9yUi1YU3FTdVZCRV93eUNhWGUteTFySlo3cE9YRGdETkMxZGd2MjlFZ2JCVy0yVWJocnBRaS1SaGVLdWJSVWlFN3pNZ1RkVEFzWV9PSTAxeTBPOXdIS3hXWHM5aW9LdUFOUnE2U2JBU3NEQ3l4QkE"
+  "gas:CBMidkFVX3lxTE9yUi1YU3FTdVZCRV93eUNhWGUteTFySlo3cE9YRGdETkMxZGd2MjlFZ2JCVy0yVWJocnBRaS1SaGVLdWJSVWlFN3pNZ1RkVEFzWV9PSTAxeTBPOXdIS3hXWHM5aW9LdUFOUnE2U2JBU3NEQ3l4QkE",
+  "gas:CBMiowFBVV95cUxNZVg4V0w1Q0lyRVlkM2tha1Z5amlXcXRCZmZEcWViZVJoU2pvNmlnZG4zUTh6RTlmVDh5QmVJMDJYWnl5QWFKV25YOWVMNzlzZDcwdnl1MGVYMFdvVEFkUDFmd0lDNm5EcThQZnp4UDdVdUVMZjFKNld4b1o2SmpfUC1jU2twUVpmT2lCaDIydGF2dk5LV3M1ZWdfNERpUHA4WnVv"
  ],
  "shows_last_day": "2026-10-23",
  "shows_init": "2026-10-22",
