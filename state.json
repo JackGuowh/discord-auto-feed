@@ -666,7 +666,8 @@
   "wscn:3185075",
   "wscn:3185074",
   "wscn:3185077",
-  "wscn:3185081"
+  "wscn:3185081",
+  "wscn:3185106"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -886,7 +887,7 @@
   "uw:ken-griffin-citadel-socialism-france-paris-riots-wake-up-call",
   "uw:uk-government-be-ready-guidance-households-stock-up-emergency"
  ],
- "congress_last_check": 1792818267.936533,
+ "congress_last_check": 1792820110.8151617,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -897,7 +898,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792819186.108824,
+ "earnings_last_check": 1792820052.6969953,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
