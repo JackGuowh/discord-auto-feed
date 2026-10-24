@@ -807,7 +807,8 @@
   "tg:WalterBloomberg/37321",
   "tg:WalterBloomberg/37320",
   "tg:WalterBloomberg/37322",
-  "tg:WalterBloomberg/37323"
+  "tg:WalterBloomberg/37323",
+  "tg:WalterBloomberg/37324"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -927,7 +928,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792872471.5971558,
+ "earnings_last_check": 1792873271.1197994,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1037,7 +1038,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792872111.8667555,
+ "gas_last_check": 1792873328.591566,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
