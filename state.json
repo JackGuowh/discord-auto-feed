@@ -872,9 +872,11 @@
   "uw:spacex-80000-cell-sites-wireless-carrier",
   "uw:trump-world-liberty-financial-sued-uae-crypto",
   "uw:supreme-court-new-hampshire-student-ids-voting",
-  "uw:getty-images-files-bankruptcy-chapter-11"
+  "uw:getty-images-files-bankruptcy-chapter-11",
+  "uw:income-needed-afford-home-120k-atlanta-fed",
+  "uw:workers-skip-lunch-food-costs-cnbc"
  ],
- "congress_last_check": 1792799879.3098936,
+ "congress_last_check": 1792801717.2330296,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -885,7 +887,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792800798.6501007,
+ "earnings_last_check": 1792801600.038185,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
