@@ -234,7 +234,13 @@
   "truth:https://www.trumpstruth.org/statuses/42696",
   "truth:https://www.trumpstruth.org/statuses/42692",
   "truth:https://www.trumpstruth.org/statuses/42693",
-  "truth:https://www.trumpstruth.org/statuses/42691"
+  "truth:https://www.trumpstruth.org/statuses/42691",
+  "truth:https://www.trumpstruth.org/statuses/42701",
+  "truth:https://www.trumpstruth.org/statuses/42702",
+  "truth:https://www.trumpstruth.org/statuses/42700",
+  "truth:https://www.trumpstruth.org/statuses/42697",
+  "truth:https://www.trumpstruth.org/statuses/42698",
+  "truth:https://www.trumpstruth.org/statuses/42699"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -904,7 +910,7 @@
   "uw:ken-griffin-citadel-socialism-france-paris-riots-wake-up-call",
   "uw:uk-government-be-ready-guidance-households-stock-up-emergency"
  ],
- "congress_last_check": 1792853205.7159429,
+ "congress_last_check": 1792855042.7888405,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -915,7 +921,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792854423.14959,
+ "earnings_last_check": 1792855282.322892,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1025,7 +1031,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792853762.9763968,
+ "gas_last_check": 1792854982.432402,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1215,7 +1221,9 @@
   "gas:CBMijAJBVV95cUxPR1IzUWh3NWRyQUlpa3hCc1BSalJseTh3bHdKMGRtT3pVY0hSeDB3U09DV1kzU200dC1lM0RJbUxJSm5RMi0xMFEtYW1RLTI5T2RYcGRucnM3d0FtYUdMT3VReTdPUGU5LW5DX1pKWFhUcURqNTgtcVFqTWFKSjJyVnk5ekxDQTZLdDdBNWdiMWpOajh0OFVMUFA2NGE1VThQM3BxWGxKc0dwT3dGVl9WMEIxVlFaRFB3QzFxOVBwLTRtZVRvZjBSdjFjNmZsTEVCbDVlOG5xZmN6R3BORFcyM3JJUlRzYV9CX3ZVaDdjYVdCbDJRWGoxSE1sSmh2Vy04YW1UWTZrZG8tSnlq",
   "gas:CBMidkFVX3lxTE1YNTFSTjg5ZUNXX2hLTDVfTG9KQ09Mb2VONEJWNEtVZGNnX0I2eTB5ODE0Y25WUjhIYUlJWFpVY19zY1lQZEdiejAyR3lEa1JzR21velI5eUVGdXFwUk81aXZRNGIzSVBua2diQ0szUVpZclZ5ZUE",
   "gas:CBMimwFBVV95cUxOY1M3Z0J0NTlDbzVuLTM1UWVEOW1xZ3NEeGdBZEVpdXFfTE5wTWVyeGxWQ2V3UU43b0JIODh5WkIwa2M1UzhZVTl1UGVvcDhwSHJnSkprc21odzlvaGs5dlVoeF9xbzZjUy1pZHB6VmhzZGFURmtfdUhWZDdCbEkxQkZVNFEyeUpOMnNOWDlvbzI2blRFTTFib0o0Yw",
-  "gas:CBMixgFBVV95cUxPQUd5OUZ5RU9UNTBkcnBQY0tCcm1OT1ZyenE2cEoxVjE5XzlfaFBIamMtOUl3Y084ZkhVU1NjOW16TDNjc01KQVY0ZzR5OUNPVjFkWGxHYTVyWGR3ZTdhWFU1UjNwaVg3QkFYaXM2V3kyb2dzVjVTd1J0b0J5dXRtX0RlMGZ5RVRzZm5aVFFCRVlxR0dZd0NzTm1qTDFjaGJDYkItSFlYZUJyM2dXemdpZGtZOWZOaWwwZ2U4aXhZbXZCNDNYY3c"
+  "gas:CBMixgFBVV95cUxPQUd5OUZ5RU9UNTBkcnBQY0tCcm1OT1ZyenE2cEoxVjE5XzlfaFBIamMtOUl3Y084ZkhVU1NjOW16TDNjc01KQVY0ZzR5OUNPVjFkWGxHYTVyWGR3ZTdhWFU1UjNwaVg3QkFYaXM2V3kyb2dzVjVTd1J0b0J5dXRtX0RlMGZ5RVRzZm5aVFFCRVlxR0dZd0NzTm1qTDFjaGJDYkItSFlYZUJyM2dXemdpZGtZOWZOaWwwZ2U4aXhZbXZCNDNYY3c",
+  "gas:CBMiV0FVX3lxTE55VVl0QS1yZnVQRzFOUXBnTl9sWWNfUW5lRVJfSFVHa0ZEX2hta0xnd2hpVW81ZDdoN2lLQU54Y0hlM1VzODB3OThKRHl2c2RrZ3RkTERsUQ",
+  "gas:CBMirgFBVV95cUxNM3l4N2s0cGh2MzJmZXQ2ejlmSE43ZTFGcFJqcjBtQ1hIMjZkaXJpWE9pLURMRmFKMVVyLU1kVVo1aGdHQ2xBYnI2ZldDdmRkOEx4ZHBPN0hqMnMyc216QV9ORFhLcHpCTTdhRS1ES1F6NHNtc2FRRmdRZ0pvVjJoWXFnVkVzdkR4aHh2dmlTN20yWG9wc2JtUExOdFRMS1Z6a3h4aHR3djhMemdXTHc"
  ],
  "shows_last_day": "2026-10-24",
  "shows_init": "2026-10-22",
@@ -1620,7 +1628,8 @@
   "tg:insiderpaper/45487",
   "tg:insiderpaper/45488",
   "tg:insiderpaper/45489",
-  "tg:insiderpaper/45490"
+  "tg:insiderpaper/45490",
+  "tg:insiderpaper/45491"
  ],
  "opt_daily": "2026-10-23",
  "opt_flow_last": 1792786042.4399037,
