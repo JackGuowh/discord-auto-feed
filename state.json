@@ -664,7 +664,8 @@
   "wscn:3185073",
   "wscn:3185076",
   "wscn:3185075",
-  "wscn:3185074"
+  "wscn:3185074",
+  "wscn:3185077"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -873,7 +874,7 @@
   "uw:supreme-court-new-hampshire-student-ids-voting",
   "uw:getty-images-files-bankruptcy-chapter-11"
  ],
- "congress_last_check": 1792798046.0067213,
+ "congress_last_check": 1792799879.3098936,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -884,7 +885,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792799202.5453172,
+ "earnings_last_check": 1792799998.9224741,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -994,7 +995,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792798406.0153887,
+ "gas_last_check": 1792799640.4016056,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
