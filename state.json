@@ -928,7 +928,9 @@
   "uw:china-youth-unemployment-lost-generation-wsj",
   "uw:polar-lng-executives-quit-hidden-russian-financing-novatek",
   "uw:median-net-worth-by-age-federal-reserve-survey",
-  "uw:uk-disability-benefit-one-in-seven-new-cars-wsj"
+  "uw:uk-disability-benefit-one-in-seven-new-cars-wsj",
+  "uw:uk-prime-minister-stock-up-tinned-food-bottled-water-bbc",
+  "uw:trump-golf-empire-billion-dollar-tax-shelter-forbes"
  ],
  "congress_last_check": 1792895576.8025453,
  "scheduler": [
@@ -941,7 +943,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792895694.2322094,
+ "earnings_last_check": 1792896314.36982,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
