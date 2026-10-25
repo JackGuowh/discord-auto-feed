@@ -706,7 +706,8 @@
   "wscn:3185169",
   "wscn:3185168",
   "wscn:3185179",
-  "wscn:3185194"
+  "wscn:3185194",
+  "wscn:3185198"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -941,7 +942,7 @@
   "uw:uk-prime-minister-stock-up-tinned-food-bottled-water-bbc",
   "uw:trump-golf-empire-billion-dollar-tax-shelter-forbes"
  ],
- "congress_last_check": 1792919517.2966695,
+ "congress_last_check": 1792921319.4179742,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -952,7 +953,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792921173.367768,
+ "earnings_last_check": 1792921979.424029,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
