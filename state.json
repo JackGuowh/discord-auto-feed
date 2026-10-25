@@ -887,7 +887,8 @@
   "tg:WatcherGuru/15616",
   "tg:WatcherGuru/15618",
   "tg:WatcherGuru/15620",
-  "tg:WatcherGuru/15621"
+  "tg:WatcherGuru/15621",
+  "tg:WatcherGuru/15622"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -978,7 +979,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792960204.4791086,
+ "earnings_last_check": 1792961090.4336247,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1088,7 +1089,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792959350.5840557,
+ "gas_last_check": 1792960610.503754,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1302,7 +1303,8 @@
   "gas:CBMioAFBVV95cUxOYmJyMHgxOHNESlJRRGp3b083T3k2MVZ4TlR5ZDVzNlBRVThQTFpRemI4MURBS3FtSE14OEc0TXZtWGlOekNVcEJYX01PWGJnbGlDSTlHemFWcjJKdWxTUXV2ZmRWY2dQYUp6bVpoX1ZSQWdFbC1jVXhDWDBMNzM2VWZid1NjQ2Y0eENjV0RVQW5IMndEYnp4ZlJtaUVjb29f",
   "gas:CBMingFBVV95cUxQQ2lBd0h3dThUbjdMazZZY1ZleXlod283WHNvV2h5MkMxNzlXSjItTkpOU3ZIM0Y1eFVDTnB5YnA2VXpqVlM1MDhlT2Y1NkJTQzNHX1V1Zy1CUnpiNmZPNEZzVEV6SVFna2JLUjZ5Y0dQaG9IZGFxclJ4Vm9weW80ekU1TGF2T2xlcFZublVmZ2UyTjJHR29OZzY1Vl93UQ",
   "gas:CBMirgFBVV95cUxPaUZYTXpTcGNvdlN0Y2x3cWE5OUJERnBtSFVYODNLR3c0ZlRqckRLcFh2Y1VuT3NPTWdyNWlZUDlVMEdlR05GdXRzVndfM0wwdmJ4dTRaRGZ2cXMtOGtDaUdOZS12a0dIMDVFUDVOSGdVbW1MXzNDWmpVZV9uQnNsdkZvT3lTRkpaWURnVDZ1X1J5dHlISFZYZmlQVVl3akJSeFB1aWNrQl9jYWRyNnc",
-  "gas:CBMijAFBVV95cUxOSVJ5N2xxMjRYY3ZybWFkQXBIdWFiVDR2dV95Z2xOejA0VktyYzFyZHEzZ096YzZ3Z290bTIxM19jcVFBQ21KVWx2VW1rTS1weDZoMW1TMmI5LTQ4ZmNGOVpFQXEzOElZOUJqaUxYWi1HVzI5eExSRGM5Z0RzQ0R3cnRjU2x0UHdKaTVLRw"
+  "gas:CBMijAFBVV95cUxOSVJ5N2xxMjRYY3ZybWFkQXBIdWFiVDR2dV95Z2xOejA0VktyYzFyZHEzZ096YzZ3Z290bTIxM19jcVFBQ21KVWx2VW1rTS1weDZoMW1TMmI5LTQ4ZmNGOVpFQXEzOElZOUJqaUxYWi1HVzI5eExSRGM5Z0RzQ0R3cnRjU2x0UHdKaTVLRw",
+  "gas:CBMijAFBVV95cUxQdWxWT3VOWVIzSFVpZEttWTJ1VjhjMmd4YmdrRDQyQThjMHdXaFhiYnVndDhNdTVKLTF5WUdtN3VIb09HTGZ4VzA0amU2YWE2RmMwaTFIX3k1NHh3cG5Xd1NMbk5wWFJrZVdIcUVmZXJscGlrVmFXR1o3NlFZaXY0bU9WNmFCblFHLXV1Yg"
  ],
  "shows_last_day": "2026-10-25",
  "shows_init": "2026-10-22",
@@ -1670,7 +1672,8 @@
   "tg:disclosetv/21961",
   "tg:disclosetv/21962",
   "tg:disclosetv/21964",
-  "tg:disclosetv/21963"
+  "tg:disclosetv/21963",
+  "tg:disclosetv/21965"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
