@@ -247,7 +247,11 @@
   "truth:https://www.trumpstruth.org/statuses/42705",
   "truth:https://www.trumpstruth.org/statuses/42704",
   "truth:https://www.trumpstruth.org/statuses/42709",
-  "truth:https://www.trumpstruth.org/statuses/42708"
+  "truth:https://www.trumpstruth.org/statuses/42708",
+  "truth:https://www.trumpstruth.org/statuses/42713",
+  "truth:https://www.trumpstruth.org/statuses/42712",
+  "truth:https://www.trumpstruth.org/statuses/42711",
+  "truth:https://www.trumpstruth.org/statuses/42710"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -934,7 +938,7 @@
   "uw:uk-prime-minister-stock-up-tinned-food-bottled-water-bbc",
   "uw:trump-golf-empire-billion-dollar-tax-shelter-forbes"
  ],
- "congress_last_check": 1792902952.3929937,
+ "congress_last_check": 1792904790.2231007,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -945,7 +949,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792904472.0929012,
+ "earnings_last_check": 1792905270.238183,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1055,7 +1059,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792904055.3979614,
+ "gas_last_check": 1792905271.688521,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
