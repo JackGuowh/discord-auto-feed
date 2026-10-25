@@ -866,7 +866,8 @@
   "tg:WatcherGuru/15615",
   "tg:WatcherGuru/15616",
   "tg:WatcherGuru/15618",
-  "tg:WatcherGuru/15620"
+  "tg:WatcherGuru/15620",
+  "tg:WatcherGuru/15621"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -946,7 +947,7 @@
   "uw:uk-prime-minister-stock-up-tinned-food-bottled-water-bbc",
   "uw:trump-golf-empire-billion-dollar-tax-shelter-forbes"
  ],
- "congress_last_check": 1792932359.5621703,
+ "congress_last_check": 1792934211.7309935,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -957,7 +958,7 @@
   "market_close:2026-10-23",
   "movers_post:2026-10-23"
  ],
- "earnings_last_check": 1792933899.1327486,
+ "earnings_last_check": 1792934751.4746187,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1067,7 +1068,7 @@
   "er:2026-10-23:GNTX",
   "er:2026-10-23:FHB"
  ],
- "gas_last_check": 1792933536.6238422,
+ "gas_last_check": 1792934753.6921062,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
