@@ -889,7 +889,12 @@
   "tg:WalterBloomberg/37333",
   "tg:WalterBloomberg/37336",
   "tg:WalterBloomberg/37335",
-  "tg:WalterBloomberg/37334"
+  "tg:WalterBloomberg/37334",
+  "tg:WalterBloomberg/37341",
+  "tg:WalterBloomberg/37340",
+  "tg:WalterBloomberg/37339",
+  "tg:WalterBloomberg/37338",
+  "tg:WalterBloomberg/37337"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1020,7 +1025,7 @@
   "uw:housing-costs-return-normal-2031-redfin",
   "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters"
  ],
- "congress_last_check": 1793005896.7627642,
+ "congress_last_check": 1793007700.918424,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1032,7 +1037,7 @@
   "movers_post:2026-10-23",
   "weekly:2026-10-25"
  ],
- "earnings_last_check": 1793007496.0520554,
+ "earnings_last_check": 1793008360.744594,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
