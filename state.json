@@ -871,7 +871,9 @@
   "wscn:3186438",
   "wscn:3186437",
   "wscn:3186435",
-  "wscn:3186434"
+  "wscn:3186434",
+  "wscn:3186443",
+  "wscn:3186442"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1207,7 +1209,7 @@
   "uw:housing-costs-return-normal-2031-redfin",
   "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters"
  ],
- "congress_last_check": 1793040746.551049,
+ "congress_last_check": 1793042587.7876205,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1221,7 +1223,7 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26"
  ],
- "earnings_last_check": 1793041907.825883,
+ "earnings_last_check": 1793042605.4265237,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1336,7 +1338,7 @@
   "er:2026-10-26:MMYT",
   "er:2026-10-26:ARLP"
  ],
- "gas_last_check": 1793040806.137173,
+ "gas_last_check": 1793042046.5091035,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1935,7 +1937,40 @@
   "qv:House-F000110-239",
   "qv:House-F000110-241",
   "qv:House-I000056-22",
-  "qv:House-I000056-21"
+  "qv:House-I000056-21",
+  "qv:Senate-B001277-37",
+  "qv:Senate-B001277-38",
+  "qv:Senate-B001277-39",
+  "qv:Senate-B001277-35",
+  "qv:Senate-B001277-36",
+  "qv:Senate-B001277-47",
+  "qv:Senate-B001277-48",
+  "qv:Senate-B001277-49",
+  "qv:Senate-B001277-50",
+  "qv:Senate-B001277-51",
+  "qv:Senate-B001277-52",
+  "qv:Senate-B001277-53",
+  "qv:Senate-B001277-58",
+  "qv:Senate-B001277-59",
+  "qv:Senate-B001277-60",
+  "qv:Senate-B001277-61",
+  "qv:Senate-B001277-62",
+  "qv:Senate-B001277-63",
+  "qv:Senate-B001277-64",
+  "qv:Senate-B001277-34",
+  "qv:Senate-B001277-65",
+  "qv:Senate-B001277-40",
+  "qv:Senate-B001277-41",
+  "qv:Senate-B001277-42",
+  "qv:Senate-B001277-43",
+  "qv:Senate-B001277-44",
+  "qv:Senate-B001277-45",
+  "qv:Senate-B001277-46",
+  "qv:Senate-B001277-54",
+  "qv:Senate-B001277-55",
+  "qv:Senate-B001277-56",
+  "qv:Senate-B001277-57",
+  "qv:Senate-A000383-708"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
