@@ -269,7 +269,9 @@
   "truth:https://www.trumpstruth.org/statuses/42720",
   "truth:https://www.trumpstruth.org/statuses/42730",
   "truth:https://www.trumpstruth.org/statuses/42729",
-  "truth:https://www.trumpstruth.org/statuses/42731"
+  "truth:https://www.trumpstruth.org/statuses/42731",
+  "truth:https://www.trumpstruth.org/statuses/42733",
+  "truth:https://www.trumpstruth.org/statuses/42732"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -905,7 +907,9 @@
   "wscn:3186471",
   "wscn:3186482",
   "wscn:3186480",
-  "wscn:3186479"
+  "wscn:3186479",
+  "wscn:3186484",
+  "wscn:3186483"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1112,7 +1116,8 @@
   "tg:WalterBloomberg/37415",
   "tg:WalterBloomberg/37414",
   "tg:WalterBloomberg/37417",
-  "tg:WalterBloomberg/37416"
+  "tg:WalterBloomberg/37416",
+  "tg:WalterBloomberg/37418"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1265,7 +1270,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793048313.33344,
+ "earnings_last_check": 1793049055.5824995,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1398,7 +1403,8 @@
   "er:2026-10-26:PFG",
   "er:2026-10-26:DORM",
   "er:2026-10-26:CLS",
-  "er:2026-10-26:NWBI"
+  "er:2026-10-26:NWBI",
+  "er:2026-10-26:BRO"
  ],
  "gas_last_check": 1793048190.8808901,
  "gas:GAWDA Media": [
@@ -2163,7 +2169,8 @@
   "tg:insiderpaper/45513",
   "tg:insiderpaper/45514",
   "tg:insiderpaper/45515",
-  "tg:insiderpaper/45516"
+  "tg:insiderpaper/45516",
+  "tg:insiderpaper/45517"
  ],
  "opt_daily": "2026-10-23",
  "opt_flow_last": 1793045302.4056692,
