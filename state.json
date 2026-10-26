@@ -903,7 +903,10 @@
   "tg:WalterBloomberg/37343",
   "tg:WalterBloomberg/37347",
   "tg:WalterBloomberg/37346",
-  "tg:WalterBloomberg/37345"
+  "tg:WalterBloomberg/37345",
+  "tg:WalterBloomberg/37350",
+  "tg:WalterBloomberg/37349",
+  "tg:WalterBloomberg/37348"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1046,7 +1049,7 @@
   "movers_post:2026-10-23",
   "weekly:2026-10-25"
  ],
- "earnings_last_check": 1793011501.8335466,
+ "earnings_last_check": 1793012364.8715627,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1154,9 +1157,10 @@
   "er:2026-10-23:FCNCA",
   "er:2026-10-23:RITM",
   "er:2026-10-23:GNTX",
-  "er:2026-10-23:FHB"
+  "er:2026-10-23:FHB",
+  "er:2026-10-26:BOH"
  ],
- "gas_last_check": 1793011022.0382767,
+ "gas_last_check": 1793012242.2100828,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
