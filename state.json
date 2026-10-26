@@ -915,7 +915,8 @@
   "wscn:3186491",
   "wscn:3186492",
   "wscn:3186495",
-  "wscn:3186494"
+  "wscn:3186494",
+  "wscn:3186496"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1259,7 +1260,9 @@
   "uw:flavio-bolsonaro-seek-annulment-lula-runoff-reuters",
   "uw:sellers-outnumber-buyers-63-percent-worst-home-sales-yahoo-finance",
   "uw:housing-costs-return-normal-2031-redfin",
-  "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters"
+  "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters",
+  "uw:anthropic-two-customers-fifth-revenue-net-loss-wsj",
+  "uw:anthropic-warns-ai-existential-risks-ipo-filing-reuters"
  ],
  "congress_last_check": 1793051825.341665,
  "scheduler": [
@@ -1277,7 +1280,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793052245.7200441,
+ "earnings_last_check": 1793053108.721798,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1413,7 +1416,7 @@
   "er:2026-10-26:NWBI",
   "er:2026-10-26:BRO"
  ],
- "gas_last_check": 1793051885.6997614,
+ "gas_last_check": 1793053109.2252693,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1692,7 +1695,8 @@
   "gas:CBMitgFBVV95cUxQaWowREhneUJTWkxqc28tMlZIMUJnMEpGU2JCcHhHLUpDMThuck5BQVlHd2R4d01IMXcyeFRIbXhJTFFyVGlwaUk4VlA5YmVXTTRsOWtMMk1uemE3VlMwRnYyVjEzQ19MOEF6TEJzNnhuX29YaXRGeXkwUVJpelp5anhwb19wTzJ5bTRjNF9PcHAxcDU4R1pnZU1zNlNtLTNBUVJGWVU5ci1GSUlQeWw4SHJ0d3lJUQ",
   "gas:CBMinAFBVV95cUxQaUJnbTR6TWxsazFaWldTYW5QQXNPYTlLcGJaVTltTENKdG9DdU83LURZWFYzYjVQbUhkNEI3VFE2MS1BNDFNYkJINnNGWGE0aU5nbnFpeWtibU1DVFoxVGNtakQ2RkNPVkFzekJ5VzYtUC1FaFZVRXRCREV3TURiLW0ydVJRbFFRMWRzSXd6ZTNxanA5VzVmTWZZRU8",
   "gas:CBMinAFBVV95cUxQNVJzdEhZNEt1U2s2WGJfOHNFTFdwMUlJNjdKRkZONzhWZVR0QUh1bFJTRHBvalZteUpGS2RUc2k3OTFoWjZySklabzB4enZkclRnYTk2anVmZnRLaUtMNGlHazA0MUgxaHg0aVJWaXRxbkpyMlUyUWh2RVVZM3h1X0hlOENLV1VyQ3M1YVZlS2NIclpRcmhSeWQ3SWI",
-  "gas:CBMimwFBVV95cUxPT0ZGaFZxLXdwcXJFVW9GU3E1X0NSNzVDVmJvWkJ4dnBvaHVjTHRibi10NFpzYVdkSVJxZzhUODNDaXZXVGUybzI1Ty1XaTFXWlBFZ3Qtdk9ETU1Dbjh5bEJkUU1ldTIyNGpUZWlKM3hoRE5CRDl5Z0xDN1pfNHJlNmVkTEdKb2w1MmsyQnRMWHRxMm5sSVdmb0d2bw"
+  "gas:CBMimwFBVV95cUxPT0ZGaFZxLXdwcXJFVW9GU3E1X0NSNzVDVmJvWkJ4dnBvaHVjTHRibi10NFpzYVdkSVJxZzhUODNDaXZXVGUybzI1Ty1XaTFXWlBFZ3Qtdk9ETU1Dbjh5bEJkUU1ldTIyNGpUZWlKM3hoRE5CRDl5Z0xDN1pfNHJlNmVkTEdKb2w1MmsyQnRMWHRxMm5sSVdmb0d2bw",
+  "gas:CBMi1wFBVV95cUxPeTBhc3BTVlR4YjVSMWN3ejJzQTY3cGVkdWE2Z3JRVXlYWTdPdVhDYVY3VjVNVldIOW1LeU9ib1YxQTgtZTFoMVFLeWlDemJlZ1E2VmRZVkZfcU1XeDFDNjRyMnNXMnNMR2pkdFNTRlpldFczSEctd196eEhVU3d5MjZBcUhfQXg5Y1NzZzdkQ1VyOUJUMlFCLUJjU2RpRTctbFdlS09HOUpWQWRJZzV3eDJDTmlnbm1XYk9EOGo3LVFPdUc0T3VGRGJSSHlETUNIT2t2a0JuYw"
  ],
  "shows_last_day": "2026-10-26",
  "shows_init": "2026-10-22",
