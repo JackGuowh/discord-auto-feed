@@ -1202,7 +1202,8 @@
   "tg:WatcherGuru/15627",
   "tg:WatcherGuru/15628",
   "tg:WatcherGuru/15630",
-  "tg:WatcherGuru/15631"
+  "tg:WatcherGuru/15631",
+  "tg:WatcherGuru/15632"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1305,7 +1306,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793055512.4481924,
+ "congress_last_check": 1793057313.033797,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1321,7 +1322,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793056993.484382,
+ "earnings_last_check": 1793057853.204606,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
