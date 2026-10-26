@@ -877,7 +877,10 @@
   "wscn:3186448",
   "wscn:3186446",
   "wscn:3186445",
-  "wscn:3186444"
+  "wscn:3186444",
+  "wscn:3186454",
+  "wscn:3186450",
+  "wscn:3186449"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1079,7 +1082,8 @@
   "tg:WalterBloomberg/37409",
   "tg:WalterBloomberg/37412",
   "tg:WalterBloomberg/37411",
-  "tg:WalterBloomberg/37410"
+  "tg:WalterBloomberg/37410",
+  "tg:WalterBloomberg/37413"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1230,7 +1234,7 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26"
  ],
- "earnings_last_check": 1793043323.1840024,
+ "earnings_last_check": 1793044186.4875844,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2034,7 +2038,8 @@
   "tg:disclosetv/21973",
   "tg:disclosetv/21974",
   "tg:disclosetv/21975",
-  "tg:disclosetv/21976"
+  "tg:disclosetv/21976",
+  "tg:disclosetv/21977"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
