@@ -917,7 +917,8 @@
   "wscn:3186495",
   "wscn:3186494",
   "wscn:3186496",
-  "wscn:3186499"
+  "wscn:3186499",
+  "wscn:3186503"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1267,7 +1268,12 @@
   "uw:house-democrats-epstein-priority-judiciary-report-forbes",
   "uw:flavio-bolsonaro-passport-surrender-federal-police-reuters",
   "uw:microsoft-buyouts-60000-employees-ai-costs-bloomberg",
-  "uw:jensen-huang-endorses-california-billionaire-tax-cbs"
+  "uw:jensen-huang-endorses-california-billionaire-tax-cbs",
+  "uw:americans-drinking-less-alcohol-than-ever-gallup",
+  "uw:musk-446-million-largest-political-donor-midterms-washington-post",
+  "uw:anthropic-claude-paywall-georgia-voter-data-axios",
+  "uw:anthropic-co-founders-1-4-percent-stakes-13-billion-bloomberg",
+  "uw:anthropic-ipo-filing-catastrophic-ai-incident-insurance-warning"
  ],
  "congress_last_check": 1793053675.7936926,
  "scheduler": [
@@ -1285,7 +1291,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793053917.747344,
+ "earnings_last_check": 1793054715.0634117,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1421,7 +1427,7 @@
   "er:2026-10-26:NWBI",
   "er:2026-10-26:BRO"
  ],
- "gas_last_check": 1793053109.2252693,
+ "gas_last_check": 1793054354.659117,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1701,7 +1707,9 @@
   "gas:CBMinAFBVV95cUxQaUJnbTR6TWxsazFaWldTYW5QQXNPYTlLcGJaVTltTENKdG9DdU83LURZWFYzYjVQbUhkNEI3VFE2MS1BNDFNYkJINnNGWGE0aU5nbnFpeWtibU1DVFoxVGNtakQ2RkNPVkFzekJ5VzYtUC1FaFZVRXRCREV3TURiLW0ydVJRbFFRMWRzSXd6ZTNxanA5VzVmTWZZRU8",
   "gas:CBMinAFBVV95cUxQNVJzdEhZNEt1U2s2WGJfOHNFTFdwMUlJNjdKRkZONzhWZVR0QUh1bFJTRHBvalZteUpGS2RUc2k3OTFoWjZySklabzB4enZkclRnYTk2anVmZnRLaUtMNGlHazA0MUgxaHg0aVJWaXRxbkpyMlUyUWh2RVVZM3h1X0hlOENLV1VyQ3M1YVZlS2NIclpRcmhSeWQ3SWI",
   "gas:CBMimwFBVV95cUxPT0ZGaFZxLXdwcXJFVW9GU3E1X0NSNzVDVmJvWkJ4dnBvaHVjTHRibi10NFpzYVdkSVJxZzhUODNDaXZXVGUybzI1Ty1XaTFXWlBFZ3Qtdk9ETU1Dbjh5bEJkUU1ldTIyNGpUZWlKM3hoRE5CRDl5Z0xDN1pfNHJlNmVkTEdKb2w1MmsyQnRMWHRxMm5sSVdmb0d2bw",
-  "gas:CBMi1wFBVV95cUxPeTBhc3BTVlR4YjVSMWN3ejJzQTY3cGVkdWE2Z3JRVXlYWTdPdVhDYVY3VjVNVldIOW1LeU9ib1YxQTgtZTFoMVFLeWlDemJlZ1E2VmRZVkZfcU1XeDFDNjRyMnNXMnNMR2pkdFNTRlpldFczSEctd196eEhVU3d5MjZBcUhfQXg5Y1NzZzdkQ1VyOUJUMlFCLUJjU2RpRTctbFdlS09HOUpWQWRJZzV3eDJDTmlnbm1XYk9EOGo3LVFPdUc0T3VGRGJSSHlETUNIT2t2a0JuYw"
+  "gas:CBMi1wFBVV95cUxPeTBhc3BTVlR4YjVSMWN3ejJzQTY3cGVkdWE2Z3JRVXlYWTdPdVhDYVY3VjVNVldIOW1LeU9ib1YxQTgtZTFoMVFLeWlDemJlZ1E2VmRZVkZfcU1XeDFDNjRyMnNXMnNMR2pkdFNTRlpldFczSEctd196eEhVU3d5MjZBcUhfQXg5Y1NzZzdkQ1VyOUJUMlFCLUJjU2RpRTctbFdlS09HOUpWQWRJZzV3eDJDTmlnbm1XYk9EOGo3LVFPdUc0T3VGRGJSSHlETUNIT2t2a0JuYw",
+  "gas:CBMieEFVX3lxTFBGUnkxNlBELVRtTEtQalNlVTUzMmVScXRzdktLOWZ3U2NPU2JpRE1JWlpLWlpiNlJ1blRBZU5iUzRWTGJYbHJsZkxPRnYzQ0w1ZFUySmJaazJnN1VCYzZ1cmVYOXdkZ1VhZ3pqeWYtZDdPeFY3WllQWtIBfkFVX3lxTE42SzRkbWFOenZKem56dm1KR1czNGlyNzd0dW1XdFU1NmJnQ08yY0lTVUluSW10eHFkdGwxbTRFTXpIa3I1TzFqN1QzSGY3bHJ3SlZFV2kydjNab0VsZjlNZGtNN09rbjNKWnBQbEowcHlBTXZIRTZGZGJWNjRRdw",
+  "gas:CBMilwFBVV95cUxPRnkwLXZObDJESkpWdXA2TGN0VnFVTmkxdzhLLVB6eVgwM0huelk0S2Y3b2hJdWN2eXBnbUhKVnQxalppVk93U2xQaXIxTWFkRzZ1akJDbnhYX1Jmb2VHZlk2ZlkzcjVmX2xJTHFTT0U3dDIwRlpKQVJ5MzNMM2lFa2oxWkpOT0RZeFAyUGNaMDhuMXpFaS1z"
  ],
  "shows_last_day": "2026-10-26",
  "shows_init": "2026-10-22",
