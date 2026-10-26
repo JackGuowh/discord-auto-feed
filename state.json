@@ -826,7 +826,11 @@
   "wscn:3186374",
   "wscn:3186373",
   "wscn:3186372",
-  "wscn:3186371"
+  "wscn:3186371",
+  "wscn:3186380",
+  "wscn:3186378",
+  "wscn:3186377",
+  "wscn:3186376"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1016,7 +1020,8 @@
   "tg:WalterBloomberg/37396",
   "tg:WalterBloomberg/37399",
   "tg:WalterBloomberg/37398",
-  "tg:WalterBloomberg/37400"
+  "tg:WalterBloomberg/37400",
+  "tg:WalterBloomberg/37401"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1151,7 +1156,7 @@
   "uw:housing-costs-return-normal-2031-redfin",
   "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters"
  ],
- "congress_last_check": 1793027923.7759032,
+ "congress_last_check": 1793029767.2436779,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1165,7 +1170,7 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26"
  ],
- "earnings_last_check": 1793028902.5309865,
+ "earnings_last_check": 1793029706.357322,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1280,7 +1285,7 @@
   "er:2026-10-26:MMYT",
   "er:2026-10-26:ARLP"
  ],
- "gas_last_check": 1793028483.45871,
+ "gas_last_check": 1793029706.8871408,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1549,7 +1554,8 @@
   "gas:CBMisAFBVV95cUxOblBaZEYzZXdmNnB2ZjFWMXRDeEFqTl9TQS1WXzZ6OGZUTnN6TkFILTBLckF3N3BFc3RXeXhJNXQwZXRBblEwY0RjQ3dSTE44ckVybVpoWmI5RTVyTFpiUzZFaU5PQ2RMblJOZWVLMU1DU25NSWZ5bl9IN3NnNVhvRFEtdGRkYWNsWnZVdmswdWFIQnQtQmNTS3oxNG1QZm5BUmhkdldaNV91TnZsQW5BRA",
   "gas:CBMiXkFVX3lxTE9aSGNYVHdyRU5fRXRDbGVaUmtuU3dCdFlLbE5fZUliemZXUHpHeVc4Y2YtRndQN3I2ZmVoOTlBNG1GUzhkVTQ4SmhMd2dpV1VwU0VEUC1vT180TGRQQVE",
   "gas:CBMi-AFBVV95cUxPZFFxUlBOUkljYUFVdlpkMDNqUGtWVm8wYnlKSmFPd21tNG1SNEJkSVVKZ3RFNGVsSVR6T2JkZERpRHNEVFR1NVQxRFJaRDctcGpZTHY1UDA2VEcyUVlGaHNVUFBvd3RVZHd2MWI1cElPMktpa0x6UjBBY0lYTzRUb1gtOThnTmhPbjVVSHJkdFloZHBLYkdFTTQzcWNkRVFKQmV4clF2SVVMQktfNzRtS0JtTlRZUXJ6VWdkTFlodFphTnJ2LU44ZnZiYkplRGVhb1ppNTN3U1I4OTQ5NUN3dllaY3R4YnBMcExTRFFNMFN3TEtBUEJ3Tw",
-  "gas:CBMipgFBVV95cUxNNXBKekJFZC1Mc1ZMUktqcmRoVlRETlJ1R3VLVDFwVG4ySG9HOFlLODhELU82d3NWX05CVlN1NjFHNnFKZzRjMDBGa01td2l2ci1uRlNfYnE1U3VnWktfVGtvNXlkaURmdVZzUzJnVlp4RDNOWmgxWFFWYVFiTUJSQWkxY0ZpN1BEbmVzWUtBN2tuSUdQUk9fZU5XdXJjWHB2RURwSm13"
+  "gas:CBMipgFBVV95cUxNNXBKekJFZC1Mc1ZMUktqcmRoVlRETlJ1R3VLVDFwVG4ySG9HOFlLODhELU82d3NWX05CVlN1NjFHNnFKZzRjMDBGa01td2l2ci1uRlNfYnE1U3VnWktfVGtvNXlkaURmdVZzUzJnVlp4RDNOWmgxWFFWYVFiTUJSQWkxY0ZpN1BEbmVzWUtBN2tuSUdQUk9fZU5XdXJjWHB2RURwSm13",
+  "gas:CBMi0wFBVV95cUxNRTdnSXQ2TUxfVFJvbEZTSmwwYUpDaDVDZHRiQlBDWnU5anFpRjFYaWstUmlFUVhUd3R4WXlhUHozejRoc2MxZGk5ZDJWUVoxbGkxOXNDcnFqcGhJOVFqbUc3cE44a1JKbzEzYklRWHpjX0phQWxZMkxDSTFldXRiWC1yQ3hib2ZpWGk0ZnVWbTJEQl85SkpRalVoTmplbzdpT2oyWkJ1QkhIYWh3TlBoUGVXOHA0Wmk2U1c4M0RIbTFiYll5T0xqQVFZOW8zSkpWbmhV"
  ],
  "shows_last_day": "2026-10-26",
  "shows_init": "2026-10-22",
@@ -1926,7 +1932,8 @@
   "tg:disclosetv/21970",
   "tg:disclosetv/21971",
   "tg:disclosetv/21972",
-  "tg:disclosetv/21973"
+  "tg:disclosetv/21973",
+  "tg:disclosetv/21974"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -1990,7 +1997,8 @@
   "tg:insiderpaper/45506",
   "tg:insiderpaper/45508",
   "tg:insiderpaper/45509",
-  "tg:insiderpaper/45510"
+  "tg:insiderpaper/45510",
+  "tg:insiderpaper/45511"
  ],
  "opt_daily": "2026-10-23",
  "opt_flow_last": 1793028724.145907,
