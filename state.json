@@ -802,7 +802,8 @@
   "wscn:3186340",
   "wscn:3186338",
   "wscn:3186337",
-  "wscn:3186334"
+  "wscn:3186334",
+  "wscn:3186343"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1119,7 +1120,7 @@
   "uw:housing-costs-return-normal-2031-redfin",
   "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters"
  ],
- "congress_last_check": 1793022419.5979986,
+ "congress_last_check": 1793024229.0517883,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1133,7 +1134,7 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26"
  ],
- "earnings_last_check": 1793024147.523286,
+ "earnings_last_check": 1793025011.3525765,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1248,7 +1249,7 @@
   "er:2026-10-26:MMYT",
   "er:2026-10-26:ARLP"
  ],
- "gas_last_check": 1793023545.486139,
+ "gas_last_check": 1793024769.3219702,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1511,7 +1512,8 @@
   "gas:CBMigAFBVV95cUxQU0xiMjZiTTlXVUUtTFpDV1VYRzM3d24yOFVqbWpUdEdxTFV0Njg1VmJWajU4SXVnU0RiNTlqVS1TcmJWYTA1blJzdldGS0w2cHUzSTRkOXJQN1BxcGtnS3MzVG00S3ZWc3Zvek1yQTdlT2o5Q2ZCOHBKTDY1ZUo3NQ",
   "gas:CBMilAFBVV95cUxPN0hyRl9NQlRsYVotVEVycWRKd1pKazlnQ1dWczJ6Y0ZLWmNZLVkyaFlJNkRsV2tUSzZsOXVLY1pLQ29VX1A3VFR4SWM5Zm8zdWJFMnhUcUhfd1Y5SmpFVmhTWE5zcGZmSE5JV1VtTHZCaGhPNHZZbTl4VXJBN1RsRTdhZ0JxaW9GSzZqTzdNTjctNnFO",
   "gas:CBMivgFBVV95cUxQYS1sWEdvam43SElISFppR21Gd2QwQTd1N3VDVXdmSWlKNENadzVBdy02WnU4cHBEYzFKMGkydThyckpZRDZqUlIyZHlsalVIMGtqd3l0Rk5YVjVQeEVReExodjFfdkdXOUl2MzVHdDU3djB4WHZVUHlVTWNacC0xRlpQdHFMbU5zTUZUODZ2LWhkQlhkZVROWGphd3lyQ0x6T19PNWJia3JQdmtyZzlYLTBnZ2NwOWZPVTBHeGJn",
-  "gas:CBMi0wFBVV95cUxOQTZxUWpxNmRRZ0FORTI0VjQ2d01fNkNWWkFvOEF5T3phaTFqTzlDaldXNmdOSTRNb3dfOUVYbTZnbVJMblJPb2I3OTF0ZmRSMjNMX0tuU0FTb0RXYlZwMjRHWk8zRzk3UTZJUzdZRlFpSjhMVGVQQngyeFE0ajFVQ1NkVkRJeUZzcEY1eXVaVS05MGdVOWRGdGFnSTFkYnZTVmp4MXI4TTlMU1dhRmJTX2pxams2MUdoVmlieFI1ZUVZOFFwckptb29IX2VlMU5zanFN"
+  "gas:CBMi0wFBVV95cUxOQTZxUWpxNmRRZ0FORTI0VjQ2d01fNkNWWkFvOEF5T3phaTFqTzlDaldXNmdOSTRNb3dfOUVYbTZnbVJMblJPb2I3OTF0ZmRSMjNMX0tuU0FTb0RXYlZwMjRHWk8zRzk3UTZJUzdZRlFpSjhMVGVQQngyeFE0ajFVQ1NkVkRJeUZzcEY1eXVaVS05MGdVOWRGdGFnSTFkYnZTVmp4MXI4TTlMU1dhRmJTX2pxams2MUdoVmlieFI1ZUVZOFFwckptb29IX2VlMU5zanFN",
+  "gas:CBMinwFBVV95cUxPLUFVTVhsWlRUV2xOZ1RFRjJUaHRidHVoOVVDOEJvNGlzZXVyS2N5MnBiUWNkRHZNMUliWDBwNkZ6MUpvMUdfdzhGX0VJTTktZ0FQMUNSQWJxdVFBc2toWnNwQkxkRGVkeGpOc19zS0xXeDVJdGFVemJwR2xWWVN6VXp3VVhEYlVySEFNSnVGcnZkZjVjMU9GenM1dDlzek0"
  ],
  "shows_last_day": "2026-10-26",
  "shows_init": "2026-10-22",
