@@ -781,7 +781,9 @@
   "wscn:3186241",
   "wscn:3186263",
   "wscn:3186262",
-  "wscn:3186261"
+  "wscn:3186261",
+  "wscn:3186290",
+  "wscn:3186288"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -937,7 +939,11 @@
   "tg:WalterBloomberg/37364",
   "tg:WalterBloomberg/37363",
   "tg:WalterBloomberg/37366",
-  "tg:WalterBloomberg/37365"
+  "tg:WalterBloomberg/37365",
+  "tg:WalterBloomberg/37370",
+  "tg:WalterBloomberg/37369",
+  "tg:WalterBloomberg/37368",
+  "tg:WalterBloomberg/37367"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -979,7 +985,8 @@
   "tg:WatcherGuru/15621",
   "tg:WatcherGuru/15622",
   "tg:WatcherGuru/15623",
-  "tg:WatcherGuru/15624"
+  "tg:WatcherGuru/15624",
+  "tg:WatcherGuru/15625"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1069,7 +1076,7 @@
   "uw:housing-costs-return-normal-2031-redfin",
   "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters"
  ],
- "congress_last_check": 1793016867.098952,
+ "congress_last_check": 1793018726.249911,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1081,7 +1088,7 @@
   "movers_post:2026-10-23",
   "weekly:2026-10-25"
  ],
- "earnings_last_check": 1793018191.8571572,
+ "earnings_last_check": 1793019266.2962813,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1196,7 +1203,7 @@
   "er:2026-10-26:MMYT",
   "er:2026-10-26:ARLP"
  ],
- "gas_last_check": 1793017167.028134,
+ "gas_last_check": 1793018613.9932783,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
