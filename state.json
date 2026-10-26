@@ -864,7 +864,14 @@
   "wscn:3186427",
   "wscn:3186426",
   "wscn:3186429",
-  "wscn:3186430"
+  "wscn:3186430",
+  "wscn:3186441",
+  "wscn:3186440",
+  "wscn:3186439",
+  "wscn:3186438",
+  "wscn:3186437",
+  "wscn:3186435",
+  "wscn:3186434"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1062,7 +1069,8 @@
   "tg:WalterBloomberg/37406",
   "tg:WalterBloomberg/37405",
   "tg:WalterBloomberg/37407",
-  "tg:WalterBloomberg/37408"
+  "tg:WalterBloomberg/37408",
+  "tg:WalterBloomberg/37409"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1213,7 +1221,7 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26"
  ],
- "earnings_last_check": 1793041106.1767976,
+ "earnings_last_check": 1793041907.825883,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2057,7 +2065,7 @@
   "tg:insiderpaper/45516"
  ],
  "opt_daily": "2026-10-23",
- "opt_flow_last": 1793039764.9671788,
+ "opt_flow_last": 1793041609.746441,
  "opt_flow": [
   "2026-10-23:META:2026-10-26:C:647.5",
   "2026-10-23:NVDA:2026-11-20:P:212.5",
@@ -2169,7 +2177,12 @@
   "2026-10-26:QQQ:2027-02-19:C:770.0",
   "2026-10-26:SPY:2026-11-02:C:761.0",
   "2026-10-26:TSLA:2026-10-30:P:392.5",
-  "2026-10-26:TSLA:2026-11-02:C:395.0"
+  "2026-10-26:TSLA:2026-11-02:C:395.0",
+  "2026-10-26:AAPL:2026-10-30:C:345.0",
+  "2026-10-26:INTC:2026-10-30:C:63.0",
+  "2026-10-26:QQQ:2026-11-02:P:710.0",
+  "2026-10-26:QQQ:2026-11-03:C:710.0",
+  "2026-10-26:SPY:2026-11-06:C:765.0"
  ],
  "opt_weekly": "2026-10-26",
  "opt_em": {
