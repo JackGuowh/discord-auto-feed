@@ -909,7 +909,9 @@
   "wscn:3186480",
   "wscn:3186479",
   "wscn:3186484",
-  "wscn:3186483"
+  "wscn:3186483",
+  "wscn:3186488",
+  "wscn:3186487"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1270,7 +1272,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793049055.5824995,
+ "earnings_last_check": 1793049908.840433,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1406,7 +1408,7 @@
   "er:2026-10-26:NWBI",
   "er:2026-10-26:BRO"
  ],
- "gas_last_check": 1793048190.8808901,
+ "gas_last_check": 1793049428.5199378,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2170,7 +2172,8 @@
   "tg:insiderpaper/45514",
   "tg:insiderpaper/45515",
   "tg:insiderpaper/45516",
-  "tg:insiderpaper/45517"
+  "tg:insiderpaper/45517",
+  "tg:insiderpaper/45518"
  ],
  "opt_daily": "2026-10-23",
  "opt_flow_last": 1793045302.4056692,
