@@ -916,7 +916,8 @@
   "wscn:3186492",
   "wscn:3186495",
   "wscn:3186494",
-  "wscn:3186496"
+  "wscn:3186496",
+  "wscn:3186499"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1262,9 +1263,13 @@
   "uw:housing-costs-return-normal-2031-redfin",
   "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters",
   "uw:anthropic-two-customers-fifth-revenue-net-loss-wsj",
-  "uw:anthropic-warns-ai-existential-risks-ipo-filing-reuters"
+  "uw:anthropic-warns-ai-existential-risks-ipo-filing-reuters",
+  "uw:house-democrats-epstein-priority-judiciary-report-forbes",
+  "uw:flavio-bolsonaro-passport-surrender-federal-police-reuters",
+  "uw:microsoft-buyouts-60000-employees-ai-costs-bloomberg",
+  "uw:jensen-huang-endorses-california-billionaire-tax-cbs"
  ],
- "congress_last_check": 1793051825.341665,
+ "congress_last_check": 1793053675.7936926,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1280,7 +1285,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793053108.721798,
+ "earnings_last_check": 1793053917.747344,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
