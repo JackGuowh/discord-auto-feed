@@ -810,7 +810,9 @@
   "wscn:3186347",
   "wscn:3186346",
   "wscn:3186345",
-  "wscn:3186344"
+  "wscn:3186344",
+  "wscn:3186357",
+  "wscn:3186354"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -992,7 +994,10 @@
   "tg:WalterBloomberg/37384",
   "tg:WalterBloomberg/37390",
   "tg:WalterBloomberg/37391",
-  "tg:WalterBloomberg/37392"
+  "tg:WalterBloomberg/37392",
+  "tg:WalterBloomberg/37395",
+  "tg:WalterBloomberg/37394",
+  "tg:WalterBloomberg/37393"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1127,7 +1132,7 @@
   "uw:housing-costs-return-normal-2031-redfin",
   "uw:spacex-closes-40-billion-debt-deal-ai-chips-reuters"
  ],
- "congress_last_check": 1793024229.0517883,
+ "congress_last_check": 1793026074.9452767,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1141,7 +1146,7 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26"
  ],
- "earnings_last_check": 1793025696.5515492,
+ "earnings_last_check": 1793026494.187436,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1256,7 +1261,7 @@
   "er:2026-10-26:MMYT",
   "er:2026-10-26:ARLP"
  ],
- "gas_last_check": 1793024769.3219702,
+ "gas_last_check": 1793026014.3584464,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1279,7 +1284,8 @@
   "gas:https://www.gawda.org/?p=12040",
   "gas:https://www.gawda.org/?p=11982",
   "gas:https://www.gawda.org/?p=11918",
-  "gas:https://www.gawda.org/?p=11530"
+  "gas:https://www.gawda.org/?p=11530",
+  "gas:https://www.gawda.org/?p=13922"
  ],
  "gas:CGA 压缩气体协会": [
   "gas:https://www.cganet.com/dont-be-scared-be-safe-simple-tips-for-compressed-gas-safety/",
@@ -1520,7 +1526,9 @@
   "gas:CBMilAFBVV95cUxPN0hyRl9NQlRsYVotVEVycWRKd1pKazlnQ1dWczJ6Y0ZLWmNZLVkyaFlJNkRsV2tUSzZsOXVLY1pLQ29VX1A3VFR4SWM5Zm8zdWJFMnhUcUhfd1Y5SmpFVmhTWE5zcGZmSE5JV1VtTHZCaGhPNHZZbTl4VXJBN1RsRTdhZ0JxaW9GSzZqTzdNTjctNnFO",
   "gas:CBMivgFBVV95cUxQYS1sWEdvam43SElISFppR21Gd2QwQTd1N3VDVXdmSWlKNENadzVBdy02WnU4cHBEYzFKMGkydThyckpZRDZqUlIyZHlsalVIMGtqd3l0Rk5YVjVQeEVReExodjFfdkdXOUl2MzVHdDU3djB4WHZVUHlVTWNacC0xRlpQdHFMbU5zTUZUODZ2LWhkQlhkZVROWGphd3lyQ0x6T19PNWJia3JQdmtyZzlYLTBnZ2NwOWZPVTBHeGJn",
   "gas:CBMi0wFBVV95cUxOQTZxUWpxNmRRZ0FORTI0VjQ2d01fNkNWWkFvOEF5T3phaTFqTzlDaldXNmdOSTRNb3dfOUVYbTZnbVJMblJPb2I3OTF0ZmRSMjNMX0tuU0FTb0RXYlZwMjRHWk8zRzk3UTZJUzdZRlFpSjhMVGVQQngyeFE0ajFVQ1NkVkRJeUZzcEY1eXVaVS05MGdVOWRGdGFnSTFkYnZTVmp4MXI4TTlMU1dhRmJTX2pxams2MUdoVmlieFI1ZUVZOFFwckptb29IX2VlMU5zanFN",
-  "gas:CBMinwFBVV95cUxPLUFVTVhsWlRUV2xOZ1RFRjJUaHRidHVoOVVDOEJvNGlzZXVyS2N5MnBiUWNkRHZNMUliWDBwNkZ6MUpvMUdfdzhGX0VJTTktZ0FQMUNSQWJxdVFBc2toWnNwQkxkRGVkeGpOc19zS0xXeDVJdGFVemJwR2xWWVN6VXp3VVhEYlVySEFNSnVGcnZkZjVjMU9GenM1dDlzek0"
+  "gas:CBMinwFBVV95cUxPLUFVTVhsWlRUV2xOZ1RFRjJUaHRidHVoOVVDOEJvNGlzZXVyS2N5MnBiUWNkRHZNMUliWDBwNkZ6MUpvMUdfdzhGX0VJTTktZ0FQMUNSQWJxdVFBc2toWnNwQkxkRGVkeGpOc19zS0xXeDVJdGFVemJwR2xWWVN6VXp3VVhEYlVySEFNSnVGcnZkZjVjMU9GenM1dDlzek0",
+  "gas:CBMisAFBVV95cUxOblBaZEYzZXdmNnB2ZjFWMXRDeEFqTl9TQS1WXzZ6OGZUTnN6TkFILTBLckF3N3BFc3RXeXhJNXQwZXRBblEwY0RjQ3dSTE44ckVybVpoWmI5RTVyTFpiUzZFaU5PQ2RMblJOZWVLMU1DU25NSWZ5bl9IN3NnNVhvRFEtdGRkYWNsWnZVdmswdWFIQnQtQmNTS3oxNG1QZm5BUmhkdldaNV91TnZsQW5BRA",
+  "gas:CBMiXkFVX3lxTE9aSGNYVHdyRU5fRXRDbGVaUmtuU3dCdFlLbE5fZUliemZXUHpHeVc4Y2YtRndQN3I2ZmVoOTlBNG1GUzhkVTQ4SmhMd2dpV1VwU0VEUC1vT180TGRQQVE"
  ],
  "shows_last_day": "2026-10-26",
  "shows_init": "2026-10-22",
@@ -1958,7 +1966,8 @@
   "tg:insiderpaper/45505",
   "tg:insiderpaper/45507",
   "tg:insiderpaper/45506",
-  "tg:insiderpaper/45508"
+  "tg:insiderpaper/45508",
+  "tg:insiderpaper/45509"
  ],
  "opt_daily": "2026-10-23",
  "opt_flow_last": 1793025035.8941782,
