@@ -783,7 +783,8 @@
   "wscn:3186262",
   "wscn:3186261",
   "wscn:3186290",
-  "wscn:3186288"
+  "wscn:3186288",
+  "wscn:3186293"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -943,7 +944,13 @@
   "tg:WalterBloomberg/37370",
   "tg:WalterBloomberg/37369",
   "tg:WalterBloomberg/37368",
-  "tg:WalterBloomberg/37367"
+  "tg:WalterBloomberg/37367",
+  "tg:WalterBloomberg/37376",
+  "tg:WalterBloomberg/37375",
+  "tg:WalterBloomberg/37374",
+  "tg:WalterBloomberg/37373",
+  "tg:WalterBloomberg/37372",
+  "tg:WalterBloomberg/37371"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -986,7 +993,8 @@
   "tg:WatcherGuru/15622",
   "tg:WatcherGuru/15623",
   "tg:WatcherGuru/15624",
-  "tg:WatcherGuru/15625"
+  "tg:WatcherGuru/15625",
+  "tg:WatcherGuru/15627"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1086,9 +1094,10 @@
   "market_fg:2026-10-23",
   "market_close:2026-10-23",
   "movers_post:2026-10-23",
-  "weekly:2026-10-25"
+  "weekly:2026-10-25",
+  "movers_pre:2026-10-26"
  ],
- "earnings_last_check": 1793019266.2962813,
+ "earnings_last_check": 1793020073.3317997,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1203,7 +1212,7 @@
   "er:2026-10-26:MMYT",
   "er:2026-10-26:ARLP"
  ],
- "gas_last_check": 1793018613.9932783,
+ "gas_last_check": 1793019837.0288723,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1462,9 +1471,11 @@
   "gas:CBMimwFBVV95cUxQV1RDYnB0M2hzbVRQRDdUZTBXTG13Vm93NGFBdnlPWjFJNl9Xc1ZjWEJOV09YNE5mZ2cyc0wtd2lVYjhtemJFd3dKV1o4LWJxSGRBV2s2Q1pmbFpjaHBrOTIzVUxPT1VNUm1oTnBveW5OSEJsR3lnb1AzcXZVX1NsaHpjLVprclZTYUtDZzdvZjdQNTBpaDBmWTJBRQ",
   "gas:CBMi5gFBVV95cUxOWnYzV2toYng0NXNGNnFrRmhfWTVZTF9zTExnWXA2ZmM2dk42VzJMU3pwWWZ3LUoycTZlVHdWVGF4V2dGdjQ1bnhURXBTeXJYN1VDQjluQzhuRzRvWnRIYmhXTlV4clhmczhEUTFIODkybVdNeHhIVGpnaUptQ1FGZEpyS2Q2bG01SnhVRjdKSFIzcnV6MFczVTdFbTI0QkdNT3N1QWxGWkpaTkxtZDJzTnNYWk5BemstUl9hY1c4VldybTctaDVEVHFVblpILVc5ZWRteVhvLVoyYTk2cEtBX1JyNjY1QQ",
   "gas:CBMijAFBVV95cUxNNGtmQ1pVeUxNVXF0U3dnRWgzRDFoUl9LSjE2bW9vQ0xOQm9Lclh6X2ZtbGp1RWV6bGRGcUZzUGJfQk91Rk1JOTlaOENON2RBUUF0MnkzN1ZHRFFDaHpvQ1ltcXBhSmYxZWxQcVFzZUpPWVhCTFFsb2tfT0xXVXIxOTYwWE5Qd2NDeGplRA",
-  "gas:CBMitAFBVV95cUxPV0NldHpkazl3MEg3Rkc3Vlk1QTBFdlE4and5RENNRHZYZ3loMzBuWjJ6c05adWZJTXQ2UDkwYmM5cVBNQ3llUGVVQkxaalBidzFWYWVKVmJ2RE1USWVldzNtQnNuTC1qV1FBSXl5RkxVd1N6clN2Q09xLUx2RXl2TjJTXzRNSEFJaURnZG5rX0lpdWd0MmxnOE9VYU5FMU44Tk5NeHU2Y09QaXpSX2xXNGxyQjk"
+  "gas:CBMitAFBVV95cUxPV0NldHpkazl3MEg3Rkc3Vlk1QTBFdlE4and5RENNRHZYZ3loMzBuWjJ6c05adWZJTXQ2UDkwYmM5cVBNQ3llUGVVQkxaalBidzFWYWVKVmJ2RE1USWVldzNtQnNuTC1qV1FBSXl5RkxVd1N6clN2Q09xLUx2RXl2TjJTXzRNSEFJaURnZG5rX0lpdWd0MmxnOE9VYU5FMU44Tk5NeHU2Y09QaXpSX2xXNGxyQjk",
+  "gas:CBMigAFBVV95cUxQU0xiMjZiTTlXVUUtTFpDV1VYRzM3d24yOFVqbWpUdEdxTFV0Njg1VmJWajU4SXVnU0RiNTlqVS1TcmJWYTA1blJzdldGS0w2cHUzSTRkOXJQN1BxcGtnS3MzVG00S3ZWc3Zvek1yQTdlT2o5Q2ZCOHBKTDY1ZUo3NQ",
+  "gas:CBMilAFBVV95cUxPN0hyRl9NQlRsYVotVEVycWRKd1pKazlnQ1dWczJ6Y0ZLWmNZLVkyaFlJNkRsV2tUSzZsOXVLY1pLQ29VX1A3VFR4SWM5Zm8zdWJFMnhUcUhfd1Y5SmpFVmhTWE5zcGZmSE5JV1VtTHZCaGhPNHZZbTl4VXJBN1RsRTdhZ0JxaW9GSzZqTzdNTjctNnFO"
  ],
- "shows_last_day": "2026-10-25",
+ "shows_last_day": "2026-10-26",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
@@ -1473,7 +1484,8 @@
   "SPIE Advanced Lithography + Patterning 2027|180",
   "SPIE Photonics West 2027|180",
   "Space Symposium 2027|180",
-  "SATELLITE 2027（SATSHOW Week）|180"
+  "SATELLITE 2027（SATSHOW Week）|180",
+  "Pittcon 2027|180"
  ],
  "shows_v2": 1,
  "reset_id": "2026-10-22-1",
@@ -1894,7 +1906,8 @@
   "tg:insiderpaper/45501",
   "tg:insiderpaper/45502",
   "tg:insiderpaper/45504",
-  "tg:insiderpaper/45503"
+  "tg:insiderpaper/45503",
+  "tg:insiderpaper/45505"
  ],
  "opt_daily": "2026-10-23",
  "opt_flow_last": 1792786042.4399037,
