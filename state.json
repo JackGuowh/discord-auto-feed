@@ -798,7 +798,11 @@
   "wscn:3186304",
   "wscn:3186295",
   "wscn:3186294",
-  "wscn:3186327"
+  "wscn:3186327",
+  "wscn:3186340",
+  "wscn:3186338",
+  "wscn:3186337",
+  "wscn:3186334"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -979,7 +983,8 @@
   "tg:WalterBloomberg/37385",
   "tg:WalterBloomberg/37384",
   "tg:WalterBloomberg/37390",
-  "tg:WalterBloomberg/37391"
+  "tg:WalterBloomberg/37391",
+  "tg:WalterBloomberg/37392"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1128,7 +1133,7 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26"
  ],
- "earnings_last_check": 1793023281.6886396,
+ "earnings_last_check": 1793024147.523286,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1243,7 +1248,7 @@
   "er:2026-10-26:MMYT",
   "er:2026-10-26:ARLP"
  ],
- "gas_last_check": 1793022303.9150229,
+ "gas_last_check": 1793023545.486139,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1505,7 +1510,8 @@
   "gas:CBMitAFBVV95cUxPV0NldHpkazl3MEg3Rkc3Vlk1QTBFdlE4and5RENNRHZYZ3loMzBuWjJ6c05adWZJTXQ2UDkwYmM5cVBNQ3llUGVVQkxaalBidzFWYWVKVmJ2RE1USWVldzNtQnNuTC1qV1FBSXl5RkxVd1N6clN2Q09xLUx2RXl2TjJTXzRNSEFJaURnZG5rX0lpdWd0MmxnOE9VYU5FMU44Tk5NeHU2Y09QaXpSX2xXNGxyQjk",
   "gas:CBMigAFBVV95cUxQU0xiMjZiTTlXVUUtTFpDV1VYRzM3d24yOFVqbWpUdEdxTFV0Njg1VmJWajU4SXVnU0RiNTlqVS1TcmJWYTA1blJzdldGS0w2cHUzSTRkOXJQN1BxcGtnS3MzVG00S3ZWc3Zvek1yQTdlT2o5Q2ZCOHBKTDY1ZUo3NQ",
   "gas:CBMilAFBVV95cUxPN0hyRl9NQlRsYVotVEVycWRKd1pKazlnQ1dWczJ6Y0ZLWmNZLVkyaFlJNkRsV2tUSzZsOXVLY1pLQ29VX1A3VFR4SWM5Zm8zdWJFMnhUcUhfd1Y5SmpFVmhTWE5zcGZmSE5JV1VtTHZCaGhPNHZZbTl4VXJBN1RsRTdhZ0JxaW9GSzZqTzdNTjctNnFO",
-  "gas:CBMivgFBVV95cUxQYS1sWEdvam43SElISFppR21Gd2QwQTd1N3VDVXdmSWlKNENadzVBdy02WnU4cHBEYzFKMGkydThyckpZRDZqUlIyZHlsalVIMGtqd3l0Rk5YVjVQeEVReExodjFfdkdXOUl2MzVHdDU3djB4WHZVUHlVTWNacC0xRlpQdHFMbU5zTUZUODZ2LWhkQlhkZVROWGphd3lyQ0x6T19PNWJia3JQdmtyZzlYLTBnZ2NwOWZPVTBHeGJn"
+  "gas:CBMivgFBVV95cUxQYS1sWEdvam43SElISFppR21Gd2QwQTd1N3VDVXdmSWlKNENadzVBdy02WnU4cHBEYzFKMGkydThyckpZRDZqUlIyZHlsalVIMGtqd3l0Rk5YVjVQeEVReExodjFfdkdXOUl2MzVHdDU3djB4WHZVUHlVTWNacC0xRlpQdHFMbU5zTUZUODZ2LWhkQlhkZVROWGphd3lyQ0x6T19PNWJia3JQdmtyZzlYLTBnZ2NwOWZPVTBHeGJn",
+  "gas:CBMi0wFBVV95cUxOQTZxUWpxNmRRZ0FORTI0VjQ2d01fNkNWWkFvOEF5T3phaTFqTzlDaldXNmdOSTRNb3dfOUVYbTZnbVJMblJPb2I3OTF0ZmRSMjNMX0tuU0FTb0RXYlZwMjRHWk8zRzk3UTZJUzdZRlFpSjhMVGVQQngyeFE0ajFVQ1NkVkRJeUZzcEY1eXVaVS05MGdVOWRGdGFnSTFkYnZTVmp4MXI4TTlMU1dhRmJTX2pxams2MUdoVmlieFI1ZUVZOFFwckptb29IX2VlMU5zanFN"
  ],
  "shows_last_day": "2026-10-26",
  "shows_init": "2026-10-22",
@@ -1840,7 +1846,8 @@
   "gas:https://www.semi.org/en/semi-press-release/kulicke-and-soffa-earns-2026-semi-award-for-north-america-at-semicon-west",
   "gas:https://www.semi.org/en/semi-press-release/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates-semi-projects",
   "gas:https://www.semi.org/en/semi-press-release/semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists",
-  "gas:https://www.semi.org/en/semi-press-release/semi-joins-the-eu-steam-executive-panel-to-advance-semiconductor-workforce-priorities"
+  "gas:https://www.semi.org/en/semi-press-release/semi-joins-the-eu-steam-executive-panel-to-advance-semiconductor-workforce-priorities",
+  "gas:https://www.semi.org/en/semi-press-release/semicon-japan-2026-marks-50th-edition-with-launch-of-new-techleadersarena"
  ],
  "tg:disclosetv": [
   "tg:disclosetv/21952",
