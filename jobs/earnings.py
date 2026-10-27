@@ -1,6 +1,7 @@
 """📊 财报速递：热门公司一发布财报，就推送 EPS / 营收 vs 预期、同比增长和盘前/盘后股价反应。
 数据：Earnings Whispers 财报日历接口（公开）+ Yahoo Finance 盘前盘后价格。"""
 import time
+from datetime import timedelta
 
 import config as C
 from common import embed, get, load_state, now_et, post, save_state
@@ -20,9 +21,8 @@ def caldata(day):
 _US_CACHE = {}
 
 
-def us_listed(day):
-    """当天在美国主板（NYSE/Nasdaq/AMEX）发布财报、且市值达标的公司代码。
-    数据来自 Nasdaq 财报日历（只含美国上市股票，自带市值）。失败时返回 None。"""
+def nasdaq_caps(day):
+    """Nasdaq 财报日历：当天在美国主板发布财报的公司 → 市值。失败时返回 None。"""
     key = day.isoformat()
     hit = _US_CACHE.get(key)
     if hit and time.time() - hit[0] < 3600:
@@ -40,11 +40,56 @@ def us_listed(day):
             return float(str(r.get("marketCap", "0")).replace("$", "").replace(",", "") or 0)
         except ValueError:
             return 0.0
-    ok = {r["symbol"].upper() for r in rows if cap(r) >= C.EARNINGS_MIN_MARKET_CAP}
+    caps = {r["symbol"].upper(): cap(r) for r in rows}
     if rows:
-        _US_CACHE[key] = (time.time(), ok)
-    print(f"[earnings] Nasdaq 日历 {len(rows)} 家，达标 {len(ok)} 家")
-    return ok if rows else None
+        _US_CACHE[key] = (time.time(), caps)
+    return caps if rows else None
+
+
+def us_listed(day):
+    """当天在美国主板发布财报、且市值 ≥ EARNINGS_MIN_MARKET_CAP 的公司代码。失败时返回 None。"""
+    caps = nasdaq_caps(day)
+    if caps is None:
+        return None
+    return {t for t, c in caps.items() if c >= C.EARNINGS_MIN_MARKET_CAP}
+
+
+_HOT_CACHE = {}
+
+
+def week_hot(day):
+    """Earnings Whispers 本周「最受关注财报」：(本周前 10 名, 各时段热门榜里的全部代码)。"""
+    import re
+    monday = day - timedelta(days=day.weekday())
+    hit = _HOT_CACHE.get(monday)
+    if hit and time.time() - hit[0] < 6 * 3600:
+        return hit[1]
+    html_ = get(f"https://www.earningswhispers.com/calweek/{monday:%Y%m%d}").text
+    m = re.search(r'name="description"\s+content="([^"]*)"', html_) or re.search(r'content="([^"]*most anticipated[^"]*)"', html_)
+    top = re.findall(r"\(([A-Z][A-Z.\-]*)\)", m.group(1)) if m else []
+    grid = set()
+    for syms in re.findall(r'data-symbols="([^"]*)"', html_):
+        grid.update(x.strip().upper() for x in syms.split(",") if x.strip())
+    if not grid:
+        raise ValueError("没有解析到本周热门财报榜")
+    _HOT_CACHE[monday] = (time.time(), (set(top), grid))
+    return set(top), grid
+
+
+def is_hot(t, day):
+    """只推热门股：自选股 / 本周前 10 名 / 本周热门榜上且市值 ≥ EARNINGS_HOT_MIN_CAP。"""
+    t = t.upper()
+    if t in C.EARNINGS_WATCHLIST:
+        return True
+    caps = nasdaq_caps(day) or {}
+    try:
+        top, grid = week_hot(day)
+    except Exception as e:  # noqa: BLE001
+        print(f"[earnings] 热门财报榜获取失败，改按市值筛选: {e}")
+        return caps.get(t, 0) >= C.EARNINGS_HOT_MIN_CAP
+    if t in top:
+        return True
+    return t in grid and caps.get(t, 0) >= C.EARNINGS_HOT_MIN_CAP
 
 
 def looks_otc(t):
@@ -99,16 +144,12 @@ def run(state):
     state["earnings_last_check"] = time.time()
     today = now_et().date()
     try:
-        rows = caldata(today)[: C.EARNINGS_TOP_N]
+        rows = caldata(today)
     except Exception as e:  # noqa: BLE001
         print(f"[earnings] 财报日历获取失败: {e}")
         return
     reported = [r for r in rows if r.get("eps") is not None]
-    allow = us_listed(today)
-    if allow is not None:
-        reported = [r for r in reported if r["ticker"].upper() in allow]
-    else:
-        reported = [r for r in reported if not looks_otc(r["ticker"])]
+    reported = [r for r in reported if not looks_otc(r["ticker"]) and is_hot(r["ticker"], today)]
     pairs = [(f"er:{today}:{r['ticker']}", r) for r in reported]
     for _, r in pick_new(state, "earnings_posted", pairs):
         t = r["ticker"]
