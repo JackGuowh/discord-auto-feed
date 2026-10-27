@@ -74,9 +74,9 @@ def run(state):
     if not DRY_RUN and not os.getenv(WEBHOOK):
         return
     today = now_et().date()
-    if "shows_init" in state and "shows_v3" not in state:  # 换新样式后补发一次总表
+    if "shows_init" in state and "shows_v4" not in state:  # 换新样式后补发一次总表
         post_overview(load_shows(), today, "🗓️ 展会日历总表（未来 12 个月）")
-    state["shows_v3"] = 1
+    state["shows_v4"] = 1
     if state.get("shows_last_day") == today.isoformat():
         return
     if now_et().hour < 9 and "shows_init" in state:  # 美东早上 9 点后再推

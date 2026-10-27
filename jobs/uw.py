@@ -30,15 +30,19 @@ def run(state):
     pairs = [(f"uw:{a['slug']}", a) for a in arts if a.get("slug")]
     for _, a in pick_new(state, "unusualwhales", pairs):
         title = a.get("title", "").strip()
-        if not title or (C.NEWS_US_ONLY and not us_related(title + " " + " ".join(a.get("tags") or []))):
+        import re
+        policy = re.search(C.WHITEHOUSE_POLICY_PATTERN, title.upper())
+        if not title or (C.NEWS_US_ONLY and not policy
+                         and not us_related(title + " " + " ".join(a.get("tags") or []))):
             continue
         zh = translate(title)
-        post(WEBHOOK, embeds=[embed(
-            description="快讯：" + (zh or title),
-            url=f"https://unusualwhales.com/news/{a['slug']}",
-            color=0x2B2D31, timestamp=a.get("created_at"),
-            footer="来源：Unusual Whales" + (" · 机器翻译" if zh else ""),
-        )])
+        e = embed(description="快讯：" + (zh or title),
+                  url=f"https://unusualwhales.com/news/{a['slug']}",
+                  color=0x2B2D31, timestamp=a.get("created_at"),
+                  footer="来源：Unusual Whales" + (" · 机器翻译" if zh else ""))
+        post(WEBHOOK, embeds=[e])
+        if policy:  # 议员炒股相关的政策新闻，同时转发到白宫内幕
+            post("WEBHOOK_WHITEHOUSE", embeds=[e])
 
 
 def main():

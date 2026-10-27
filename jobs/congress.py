@@ -72,32 +72,124 @@ def fetch_quiver():
             "size": r[4] or "", "name": r[13] or r[5] or "", "chamber": r[6] or "",
             "party": r[7] or "", "filed": (r[8] or "")[:10], "traded": (r[9] or "")[:10],
             "ret": r[12] if isinstance(r[12], (int, float)) else None, "photo": r[14],
+            "bioguide": r[15] or "",
         })
     return out  # 新 → 旧
+
+
+# ---------------- 议员所在委员会（GitHub 上公开的 unitedstates/congress-legislators 数据，免费）
+COMMITTEE_ZH = {
+    "Armed Services": "军事委员会", "Financial Services": "金融服务委员会", "Energy and Commerce": "能源和商务委员会",
+    "Intelligence": "情报委员会", "Homeland Security": "国土安全委员会", "Foreign Affairs": "外交委员会",
+    "Foreign Relations": "外交关系委员会", "Ways and Means": "筹款委员会", "Appropriations": "拨款委员会",
+    "Science, Space, and Technology": "科学、太空和技术委员会", "Judiciary": "司法委员会", "Agriculture": "农业委员会",
+    "Banking, Housing, and Urban Affairs": "银行、住房和城市事务委员会", "Finance": "财政委员会",
+    "Commerce, Science, and Transportation": "商务、科学和交通委员会", "Energy and Natural Resources": "能源和自然资源委员会",
+    "Health, Education, Labor, and Pensions": "卫生、教育、劳工和养老金委员会", "Budget": "预算委员会",
+    "Transportation and Infrastructure": "交通和基础设施委员会", "Oversight and Accountability": "监督委员会",
+    "Oversight and Government Reform": "监督委员会", "Natural Resources": "自然资源委员会",
+    "Education and the Workforce": "教育和劳工委员会", "Veterans' Affairs": "退伍军人事务委员会",
+    "Small Business": "小企业委员会", "Rules": "规则委员会", "Homeland Security and Governmental Affairs": "国土安全和政府事务委员会",
+    "Environment and Public Works": "环境和公共工程委员会",
+}
+# 委员会 → 跟它相关的股票（议员在相关委员会还买卖这些股票，最值得关注）
+COMMITTEE_STOCKS = {
+    ("Armed Services", "Intelligence", "Homeland Security"): {
+        "LMT", "RTX", "NOC", "GD", "BA", "LHX", "HII", "PLTR", "KTOS", "AVAV", "BWXT", "LDOS", "SAIC", "CRWD",
+        "PANW", "SPCX", "RKLB", "AXON"},
+    ("Energy", "Natural Resources", "Environment"): {
+        "XOM", "CVX", "COP", "OXY", "EOG", "SLB", "HAL", "OKE", "KMI", "WMB", "PSX", "VLO", "MPC", "NEE", "DUK",
+        "SO", "CEG", "VST", "FSLR", "ENPH", "USOU", "USO", "CCJ"},
+    ("Financial Services", "Banking", "Finance", "Ways and Means"): {
+        "JPM", "BAC", "WFC", "C", "GS", "MS", "SCHW", "BLK", "AXP", "COIN", "HOOD", "SOFI", "PYPL", "V", "MA", "MSTR"},
+    ("Science", "Commerce"): {
+        "NVDA", "AMD", "INTC", "MU", "AVGO", "TSM", "AAPL", "MSFT", "GOOGL", "META", "AMZN", "TSLA", "SPCX", "ORCL"},
+    ("Health",): {"UNH", "PFE", "LLY", "MRK", "JNJ", "ABBV", "CVS", "CI", "HUM", "MRNA", "NVO"},
+}
+_COMMITTEES = None
+
+
+def committees_of(bioguide):
+    """议员 bioguide 编号 → 所在的主委员会名称（英文）。"""
+    global _COMMITTEES
+    if _COMMITTEES is None:
+        _COMMITTEES = {}
+        try:
+            base = "https://theunitedstates.io/congress-legislators/"
+            names = {c["thomas_id"]: re.sub(r"^(House|Senate)( Select| Permanent Select)? Committee on (the )?", "",
+                                             c["name"]).strip()
+                     for c in get(base + "committees-current.json", timeout=30).json()}
+            for cid, members in get(base + "committee-membership-current.json", timeout=30).json().items():
+                if cid in names:  # 只要主委员会，不要小组委员会
+                    for m in members:
+                        _COMMITTEES.setdefault(m.get("bioguide"), []).append(names[cid])
+        except Exception as e:  # noqa: BLE001
+            print(f"[congress] 委员会数据获取失败: {e}")
+    return _COMMITTEES.get(bioguide, [])
+
+
+def relevant_committee(comms, ticker):
+    for keys, stocks in COMMITTEE_STOCKS.items():
+        if ticker in stocks:
+            for c in comms:
+                if any(k in c for k in keys):
+                    return c
+    return None
+
+
+def upper_amount(size):
+    nums = [int(x.replace(",", "")) for x in re.findall(r"\$([\d,]+)", size or "")]
+    return max(nums) if nums else 0
+
+
+def money_short(v):
+    return f"${v / 1e6:.1f} 百万" if v >= 1e6 else f"${v:,.0f}"
 
 
 def run_quiver(state):
     trades = fetch_quiver()
     print(f"[congress] Quiver 最新申报 {len(trades)} 条")
     pairs = [(f"qv:{t['id']}", t) for t in trades]
-    for _, t in pick_new(state, "congress_qv", pairs):
-        ticker = t["ticker"]
-        if t["type"] not in ("ST", "Stock") or not ticker or ticker == "-":  # 只要股票
+    new = [t for _, t in pick_new(state, "congress_qv", pairs)
+           if t["type"] in ("ST", "Stock") and t["ticker"] and t["ticker"] != "-"]
+    # 同一议员、同一股票、同一方向的多笔申报合并成一条
+    groups = {}
+    for t in new:
+        groups.setdefault((t["name"], t["ticker"], t["side"]), []).append(t)
+    hot = set(C.EARNINGS_WATCHLIST) | set(C.OPTIONS_WATCHLIST) | set(C.CONGRESS_HOT_EXTRA)
+    for (name, ticker, side), ts in groups.items():
+        t = ts[0]
+        total = sum(upper_amount(x["size"]) for x in ts)
+        ret = next((x["ret"] for x in ts if x["ret"] is not None), None)
+        bioguide = next((x.get("bioguide") for x in ts if x.get("bioguide")), "")
+        comms = committees_of(bioguide) if bioguide else []
+        rel = relevant_committee(comms, ticker)
+        interesting = (total >= C.CONGRESS_MIN_AMOUNT or ticker in hot or rel
+                       or (ret is not None and abs(ret) >= C.CONGRESS_MIN_MOVE))
+        if not interesting:
             continue
-        side_zh, color, dot = SIDE.get(t["side"], (t["side"], 0x6B7280, "⚪"))
+        side_zh, color, dot = SIDE.get(side, (side, 0x6B7280, "⚪"))
         title = CHAMBER.get(t["chamber"], "议员")
         party = QUIVER_PARTY.get(t["party"], t["party"])
-        hi = t["size"].split("-")[-1].strip()
-        desc = (f"{title} **{t['name']}**（{party}）刚刚申报了一笔最高 **{hi}** 的 "
-                f"**{t['issuer'].split(' - ')[0].title()}（${ticker}）** 股票 **{side_zh}**。")
-        info = [f"交易日 {t['traded']}", f"申报日 {t['filed']}", f"金额区间 {t['size']}"]
-        if t["ret"] is not None:
-            info.append(f"交易至今 ${ticker} {'上涨' if t['ret'] >= 0 else '下跌'} {abs(t['ret']):.1f}%")
+        company = t["issuer"].split(" - ")[0].title()
+        n = f" {len(ts)} 笔" if len(ts) > 1 else "一笔"
+        lines = [f"{title} **{name}**（{party}）刚刚申报了{n}{side_zh} **{company}（${ticker}）** 股票的交易，"
+                 f"金额合计最高 **{money_short(total)}**。"]
+        if rel:
+            lines.append(f"⚠️ {name.split()[-1]} 是{'众议院' if t['chamber'] == 'House' else '参议院'}"
+                         f"**{COMMITTEE_ZH.get(rel, rel)}**成员，而这只股票正属于该委员会监管或相关的行业。")
+        elif comms:
+            lines.append(f"{name.split()[-1]} 所在委员会：" + "、".join(COMMITTEE_ZH.get(c, c) for c in comms[:3]) + "。")
+        trade_days = sorted({x["traded"] for x in ts if x["traded"]})
+        info = [f"交易日 {trade_days[0]}" + (f" 至 {trade_days[-1]}" if len(trade_days) > 1 else ""),
+                f"申报日 {t['filed']}"]
+        if ret is not None:
+            info.append(f"交易至今 ${ticker} {'上涨' if ret >= 0 else '下跌'} {abs(ret):.1f}%")
         post(WEBHOOK, embeds=[embed(
-            title=f"{dot} 突发：国会议员{side_zh} ${ticker}",
-            url=f"https://www.quiverquant.com/congresstrading/politician/{t['name'].replace(' ', '%20')}",
-            description=desc + "\n\n" + "\n".join(info), color=color, image=t["photo"],
-            footer="数据：Quiver Quantitative（国会议员 STOCK Act 公开申报）",
+            title=f"{dot} 突发：国会议员{side_zh} ${ticker}" + (f"（{len(ts)} 笔）" if len(ts) > 1 else ""),
+            url=f"https://www.quiverquant.com/congresstrading/politician/{name.replace(' ', '%20')}",
+            description="\n\n".join(lines) + "\n\n" + " · ".join(info), color=color, image=t["photo"],
+            footer="数据：Quiver Quantitative（STOCK Act 公开申报）· 委员会：unitedstates/congress-legislators",
         )])
 
 

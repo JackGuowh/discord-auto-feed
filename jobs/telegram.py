@@ -106,7 +106,8 @@ def run_telegram(state):
             text = clean(it["text"], ch)
             if not text and not it["img"]:
                 continue
-            if us_only and not us_related(text):
+            policy = hook == WEBHOOK and re.search(C.WHITEHOUSE_POLICY_PATTERN, text.upper())
+            if us_only and not us_related(text) and not policy:
                 continue
             zh, ok = to_chinese(text) if text else ("", False)
             ts = None
@@ -115,11 +116,12 @@ def run_telegram(state):
                     ts = datetime.fromisoformat(it["time"]).isoformat()
                 except ValueError:
                     pass
-            post(hook, embeds=[embed(
-                description=zh[:3900] or "（图片）", color=0x2B2D31,
-                image=it["img"], timestamp=ts,
-                footer=f"来源：{label}" + (" · 机器翻译" if ok else ""),
-            )])
+            e = embed(description=zh[:3900] or "（图片）", color=0x2B2D31,
+                      image=it["img"], timestamp=ts,
+                      footer=f"来源：{label}" + (" · 机器翻译" if ok else ""))
+            post(hook, embeds=[e])
+            if policy:  # 议员炒股相关的政策新闻，同时转发到白宫内幕
+                post("WEBHOOK_WHITEHOUSE", embeds=[e])
 
 
 def main():
