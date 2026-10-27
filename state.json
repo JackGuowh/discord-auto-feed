@@ -1332,7 +1332,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793086692.4387057,
+ "congress_last_check": 1793088494.124113,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1348,7 +1348,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793088295.4482207,
+ "earnings_last_check": 1793089156.5329587,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1484,7 +1484,7 @@
   "er:2026-10-26:NWBI",
   "er:2026-10-26:BRO"
  ],
- "gas_last_check": 1793087548.9268308,
+ "gas_last_check": 1793088795.2773256,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2143,7 +2143,8 @@
   "gas:https://www.semi.org/en/semi-press-release/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates-semi-projects",
   "gas:https://www.semi.org/en/semi-press-release/semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists",
   "gas:https://www.semi.org/en/semi-press-release/semi-joins-the-eu-steam-executive-panel-to-advance-semiconductor-workforce-priorities",
-  "gas:https://www.semi.org/en/semi-press-release/semicon-japan-2026-marks-50th-edition-with-launch-of-new-techleadersarena"
+  "gas:https://www.semi.org/en/semi-press-release/semicon-japan-2026-marks-50th-edition-with-launch-of-new-techleadersarena",
+  "gas:https://www.semi.org/en/semi-press-release/semicon-europa-2026-to-spotlight-advanced-packaging-fab-management-and-europes-semiconductor-strategy-for-the-ai-era"
  ],
  "tg:disclosetv": [
   "tg:disclosetv/21952",
@@ -2267,7 +2268,8 @@
   "tg:insiderpaper/45520",
   "tg:insiderpaper/45521",
   "tg:insiderpaper/45522",
-  "tg:insiderpaper/45523"
+  "tg:insiderpaper/45523",
+  "tg:insiderpaper/45524"
  ],
  "opt_daily": "2026-10-26",
  "opt_flow_last": 1793045302.4056692,
