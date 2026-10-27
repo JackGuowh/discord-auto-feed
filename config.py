@@ -93,6 +93,10 @@ GAS_HIGHLIGHT = ["Helium", "Neon", "Krypton", "Xenon", "Argon", "WF6", "SF6", "N
 
 # ===== 📊 财报速递 =====
 EARNINGS_TOP_N = 40             # 只推当天关注度最高的前 40 家公司
+# 财报速递只推热门股：自选股 + Earnings Whispers 本周前 10 名 + 本周热门榜上市值 ≥ 100 亿美元的公司
+EARNINGS_WATCHLIST = ["NVDA", "HOOD", "SKHY", "TSLA", "AAPL", "MSFT", "AMZN", "GOOGL", "META", "AMD", "AVGO",
+                      "MU", "PLTR", "COIN", "SOFI", "NFLX", "ORCL", "TSM", "SNDK", "INTC", "MSTR", "RDDT"]
+EARNINGS_HOT_MIN_CAP = 10e9
 EARNINGS_MIN_MARKET_CAP = 2e9    # 只推美国上市、市值 ≥ 20 亿美元的公司（排除场外 ADR 和小银行）
 EARNINGS_CHECK_MINUTES = 3      # 每 3 分钟检查一次是否有新财报发布
 
@@ -110,7 +114,8 @@ CAL_COUNTRIES = ["US"]               # 只列这些国家（只要美股相关 =
 CAL_DATA_MIN_IMPORTANCE = 2          # 经济数据：重要度 ≥ 2 列出
 CAL_EVENT_MIN_IMPORTANCE = 3         # 事件（发布会、讲话等）：重要度 ≥ 3 列出
 CAL_HIGHLIGHT_IMPORTANCE = 3         # 重要度 ≥ 3 的高亮显示
-CAL_EARNINGS_PER_DAY = 8             # 日历图里每天列出的热门财报数量
+CAL_STAR_EARNINGS = 15             # 本周最受关注的前 15 家财报加粗高亮
+CAL_EARNINGS_PER_DAY = 6             # 日历图里每天列出的热门财报数量
 # 财报来源：Earnings Whispers「Most Anticipated Earnings Releases」
 EARNINGS_MAX_TICKERS = 60            # 财报帖里最多列出多少个代码
 
