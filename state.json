@@ -1005,7 +1005,10 @@
   "wscn:3187725",
   "wscn:3187737",
   "wscn:3187749",
-  "wscn:3187747"
+  "wscn:3187747",
+  "wscn:3187762",
+  "wscn:3187761",
+  "wscn:3187756"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1240,7 +1243,9 @@
   "tg:WalterBloomberg/37442",
   "tg:WalterBloomberg/37441",
   "tg:WalterBloomberg/37445",
-  "tg:WalterBloomberg/37444"
+  "tg:WalterBloomberg/37444",
+  "tg:WalterBloomberg/37447",
+  "tg:WalterBloomberg/37446"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1289,7 +1294,8 @@
   "tg:WatcherGuru/15630",
   "tg:WatcherGuru/15631",
   "tg:WatcherGuru/15632",
-  "tg:WatcherGuru/15633"
+  "tg:WatcherGuru/15633",
+  "tg:WatcherGuru/15635"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1392,7 +1398,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793106939.6508546,
+ "congress_last_check": 1793108779.6262736,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1410,7 +1416,7 @@
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27"
  ],
- "earnings_last_check": 1793108223.168422,
+ "earnings_last_check": 1793109083.7624497,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1555,7 +1561,7 @@
   "er:2026-10-27:SPGI",
   "er:2026-10-27:FCX"
  ],
- "gas_last_check": 1793107242.463162,
+ "gas_last_check": 1793108479.417155,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1853,7 +1859,10 @@
   "gas:CBMi7wFBVV95cUxOSUdzY3BYcFNhLVY0WDBoNEdyM1dEMGpjbmcyVnVGZUp2ODF2SWdvMkN3Vjk0eWw2bExWX3dWdzA4T0ZqQ0t5Q0dnQ2tSS2E2SUVDN3FDczRyTV9iWEgzS0ROZGhXTzdfQzNQcm4teTgtMkpVLVR5R00xTUJKZnF1M2RlbjdSUXhieXdVTmJYbm9VMFlUQ1FBOXVXd3ZHTDV1dVdocWVTcFhic3g2VXJCa0lMX1c4S19mNkhKX0FocTlpVGtmMmFaMElEWE13TVhzWWlpNUd6aGhLVkNDZjVlazUxR1dtbE04QkZLc0MwZ9IB9AFBVV95cUxPOFVHMUotZzFEQlQyWnlFS09Bd19QUGdhU1NkNjBtd1RMRk1kS1AwZEJXOGJxNHdkZ1ZFcmxuazVaMWRWUW9SX0kwRnB6WW82d21MZVBuTUZvTmdwR0dFRHEwN1JISmd5dXY2a0FEY2hQamFnVVlJMHF3ZE1lNmotenJzV3R6em1GNVJMdFVMc0djQk9PRmczQk1CWHZUa2ZrczN0TWkzWEtqSnZ1TlBFdkR2dUJGbDdhb250NUhrejBVTmtTUVBSdnRUTzdZVzV4TlM2eXRPejVRTlpoa1hVTWhDTGdWaUdjWUVubDhhUk9MeWow",
   "gas:CBMixgFBVV95cUxOUDh1NF9rV2oySlBfa3hWNmp2NFJEUjJPRTZxaE53eXlRQldXbGlCUzNKYS1fYVp2bnU5TWJHVWhMQXdHdFJFTG9EbDZhcnN3MjJNUDNUWFg1SVIxWkFyWlRzQ1FZaTNleU5yOGN2Y09XYlI2eWlpUmJleHFMRnp3c2xvbkJZOGh6MVVQenVNaUcyVVZIU21lQWxBekVVcjVCektZWVlXX2txTWRXWXFMM0tqMC03NFBYTmR0Zkh4cFFaaFhCR0E",
   "gas:CBMiywFBVV95cUxNLXNHdXU4YTFyaVF2NlJsNmNtQ0owRWcySnZhbzVoZURBQ0YzRXFGN3BJTjhMVTlaU3VMYmY0ZldUUzN4ejZmOGNzTWlabE1WbEpNWnduU0pjazlfWTk5d0tyZUpEcVFScTRaRkdrRjAxWklNalZZNFJXNUZ2NUx3X2JWMlhYMGtSMUdMZWJYMUkxTTA1d0tEZ0FGdE90TE96bWdlVVdkMkpweVo2YnVSWVBpUzJOc1AwRkhiX0tfQml2Rlg4RjV6c2Nhdw",
-  "gas:CBMizgFBVV95cUxQOTlLVFN4NW1uVVNKM2RHRERJdUxPaTJQdEJqVkI0SGRuR3ZGZkRaQTBIeHdGWVJqY3BQUHlGLWZaWDdGSTZiTGZ6RFBxdjlPWWppX0Zvdjg4VVFPM1ltVUtXY2JDUHNnYlhYVXdxMTYwYWZZMnd4SC1nQkVjRFNLcFVNTVF2X1pHY29VdDBsZ3BocGl3M3NwcV81LUkwWWFMTDN5aFR1NFYyeHpWbHNWbm5qaUJ3eGFFc0dRODNqR1Q1aGJxOWluRnNieVNJdw"
+  "gas:CBMizgFBVV95cUxQOTlLVFN4NW1uVVNKM2RHRERJdUxPaTJQdEJqVkI0SGRuR3ZGZkRaQTBIeHdGWVJqY3BQUHlGLWZaWDdGSTZiTGZ6RFBxdjlPWWppX0Zvdjg4VVFPM1ltVUtXY2JDUHNnYlhYVXdxMTYwYWZZMnd4SC1nQkVjRFNLcFVNTVF2X1pHY29VdDBsZ3BocGl3M3NwcV81LUkwWWFMTDN5aFR1NFYyeHpWbHNWbm5qaUJ3eGFFc0dRODNqR1Q1aGJxOWluRnNieVNJdw",
+  "gas:CBMiggFBVV95cUxPUm5FTjhkbUFZMjRvZ1N5OUpGREo0bWplZHNNSndUM21CVk1QamxBYi05R0R5cjd3cGxEUGQzY3ktU2VrOG9udmwtc2NqWjBkSVVmT1dKb3dJdENYUkFiS0NjNGdUc1JpTmNvRFBaV0Q0VFFWampybXpmaVdwMmhMMGV3",
+  "gas:CBMi1AFBVV95cUxOWGhLNEJ5VGNoYURpTWxFM2M0NmUxR2tjU2F6VjZyZ0ZGMl9FTEVreTYzY0RSZHNwemQ1eHNhbExVd2xMT3VBOUpINy11RDlUZ0JMRnRzVHhycXpyY0tmMEZtZ1BITmJsYjdQTXZEYmw2MHFMUWhoZXc4NVUyRGxVLV9WOUNwdjdxLTY1U0JoMUNwOVNsTWo3N0UzenVVa1p4UmkzQ1ZVd21ibnc0RzNTaFlYbFBST1JaaHZmTGxobkRtNFlhWFVpenRiZmNPVHd0ZkxubQ",
+  "gas:CBMiywFBVV95cUxOTmZyb3NSM1p0Uk84ek92c1lGY2xMdDhqS1U0R253YnFQbVR0eWxrRUJ2WWhtLXN3Wk9xcm5XVHVsSjBWakV1dEI3bUxJU2V5ZlI0dHY3c0NQTWFHcGxkQU52Vk4xRHBVUEt1czktX1hRSE8wVUt4Sm5lajBPTExQazN0SGRxeHBINDVVNVpyMFdaMkZBYU1hdF9DNDdNbjY3dlZhYXBGUWZYQ1djSTlhYlRVbjJjdFVldGRWSVcwRVFtaE1uNllkRzR0Yw"
  ],
  "shows_last_day": "2026-10-27",
  "shows_init": "2026-10-22",
@@ -2651,7 +2660,8 @@
   "tg:FinancialJuice/142850",
   "tg:FinancialJuice/142855",
   "tg:FinancialJuice/142854",
-  "tg:FinancialJuice/142853"
+  "tg:FinancialJuice/142853",
+  "tg:FinancialJuice/142856"
  ],
  "shows_v4": 1
 }
