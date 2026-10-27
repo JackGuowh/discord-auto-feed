@@ -11,6 +11,7 @@ from zoneinfo import ZoneInfo
 
 import config as C
 from common import UA, embed, get, now_et, post
+from jobs.zh_names import zh_name
 
 WEBHOOK = "WEBHOOK_CALENDAR"
 WD = "一二三四五六日"
@@ -140,7 +141,7 @@ def fetch_calendar(monday):
         # FOMC 利率上下限只保留一条
         if title.endswith("(下限)") and title.replace("(下限)", "(上限)") in titles:
             continue
-        title = title.replace("FOMC利率决策(上限)", "美联储FOMC利率决议（上限）")
+        title = title.replace("FOMC利率决策(上限)", "美联储FOMC利率决议")
         dt = datetime.fromtimestamp(x["public_date"], timezone.utc).astimezone(tz)
         tbd = not is_data and dt.minute % 15 != 0  # 事件的时间不规整 = 时间待定
         unit = x.get("unit") or ""
@@ -156,71 +157,157 @@ def fetch_calendar(monday):
     return rows
 
 
+ET = ZoneInfo("America/New_York")
+# 美股休市日（需要时补充）
+US_HOLIDAYS = {"2026-11-26": "感恩节", "2026-12-25": "圣诞节", "2027-01-01": "元旦", "2027-01-18": "马丁·路德·金纪念日",
+               "2027-02-15": "总统日", "2027-03-26": "耶稣受难日", "2027-05-31": "阵亡将士纪念日",
+               "2027-06-18": "六月节（调休）", "2027-07-05": "独立日（调休）", "2027-09-06": "劳动节",
+               "2027-11-25": "感恩节", "2027-12-24": "圣诞节（调休）"}
+FED_WORDS = ("FOMC", "利率决议", "美联储主席", "鲍威尔", "议息")
+DATA_WORDS = ("GDP", "PCE", "CPI", "非农", "就业报告", "失业率", "零售销售", "PPI")
+
 CSS = """
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Noto Sans CJK SC','Noto Sans SC','Microsoft YaHei',sans-serif;background:#eef2f7;padding:24px;width:1500px;color:#1f2937}
-.days{display:grid;grid-template-columns:1fr 1fr;gap:0 0}
-.days .day:nth-child(odd){border-right:1px solid #e5e7eb}
-.card{background:#fff;border-radius:18px;overflow:hidden;box-shadow:0 4px 18px rgba(15,23,42,.08)}
-.hd{background:linear-gradient(120deg,#1d4ed8,#2563eb 55%,#3b82f6);color:#fff;padding:26px 30px 22px}
-.hd h1{font-size:34px;font-weight:900;letter-spacing:2px}
-.hd .sub{margin-top:8px;font-size:17px;opacity:.92;display:flex;justify-content:space-between}
-.day{display:flex;border-top:1px solid #e5e7eb}
-.day .d{width:118px;flex:none;padding:16px 0 16px 22px;background:#f8fafc}
-.day .d b{display:block;font-size:24px;font-weight:800;color:#1d4ed8}
-.day .d span{font-size:15px;color:#64748b}
-.day .list{flex:1;padding:8px 18px 10px 14px}
-.r{display:flex;align-items:flex-start;padding:7px 10px;border-radius:8px;margin:2px 0;font-size:16px;line-height:1.45}
-.r .t{width:58px;flex:none;color:#64748b;font-variant-numeric:tabular-nums}
-.r .x{flex:1}
-.r .x small{display:block;color:#94a3b8;font-size:13px}
-.r.hi{background:#fff4e5}
-.r.hi .x{font-weight:700;color:#b45309}
-.r.hi .t{color:#d97706;font-weight:700}
-.r.ev .x{color:#0f172a}
-.r.er{background:#eff6ff}
-.r.er .t{color:#2563eb;font-weight:700}
-.r.er .x{color:#1e3a8a;font-family:'DejaVu Sans Mono',monospace;font-size:14.5px}
-.ft{padding:14px 26px;font-size:13px;color:#94a3b8;border-top:1px solid #e5e7eb;display:flex;justify-content:space-between}
-.lg i{display:inline-block;width:11px;height:11px;border-radius:3px;margin:0 4px 0 12px;vertical-align:-1px}
+body{font-family:'Noto Sans CJK SC','Noto Sans SC','Microsoft YaHei',sans-serif;background:#fff;width:760px;color:#1f2937}
+#cal{padding:34px 34px 24px;background:#fff}
+.top{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:2px solid #e5e7eb;padding-bottom:14px}
+.top h1{font-size:40px;font-weight:900;letter-spacing:2px;color:#111827}
+.top .rg{font-size:20px;color:#475569;margin-top:6px;font-weight:600}
+.top .tz{font-size:12px;color:#94a3b8;margin-top:6px}
+.badge{width:64px;height:64px;border-radius:50%;background:#f97316;color:#fff;font-weight:900;font-size:26px;display:flex;align-items:center;justify-content:center}
+.sec{display:flex;align-items:center;margin:22px 0 8px;font-size:22px;font-weight:800;color:#111827}
+.sec:before{content:"";width:5px;height:24px;background:#2563eb;margin-right:10px;border-radius:2px}
+.sec small{margin-left:auto;font-size:12px;color:#94a3b8;font-weight:400}
+.day{display:flex;border-top:1px solid #eef0f3;padding:8px 6px}
+.day.hl{background:#fff4e8;border-radius:6px}
+.dl{width:104px;flex:none;padding-top:4px}
+.dl b{font-size:22px;font-weight:900;color:#111827}
+.dl span{font-size:13px;color:#475569;margin-left:4px}
+.dl i{display:inline-block;margin-top:6px;background:#f97316;color:#fff;font-style:normal;font-size:12px;padding:2px 8px;border-radius:3px;font-weight:700}
+.items{flex:1;border-left:2px solid #dbeafe;margin-left:4px}
+.it{display:flex;align-items:flex-start;padding:4px 0 4px 16px;position:relative;font-size:14.5px;line-height:1.5}
+.it:before{content:"";position:absolute;left:-7px;top:9px;width:10px;height:10px;border-radius:50%;background:#2563eb;border:2px solid #fff}
+.it.k:before{background:#fff;border:3px solid #f59e0b;width:8px;height:8px}
+.it .t{width:66px;flex:none;color:#475569;font-variant-numeric:tabular-nums;font-size:13.5px}
+.it .x{flex:1;color:#1f2937}
+.it.k .x{font-weight:800;color:#111827}
+.it .x small{color:#94a3b8;font-size:12px;font-weight:400;margin-left:6px}
+.wt{padding:9px 6px;border-top:1px solid #eef0f3;display:flex;font-size:14px;line-height:1.55}
+.wt .n{width:34px;flex:none;color:#2563eb;font-size:20px;font-weight:700;line-height:1.1}
+.wt .x b{color:#111827}
+.ft{margin-top:14px;font-size:11px;color:#94a3b8;display:flex;justify-content:space-between}
 """
 
 
-def render_calendar(browser, monday, rows, ew):
-    by_day = defaultdict(list)
+def build_days(monday, rows, ew, names):
+    """按美东日期分组：盘前财报 → 宏观数据/事件（北京时间，跨日标 +1）→ 盘后财报。"""
+    days = defaultdict(list)
+    tz = ZoneInfo(C.CAL_TZ)
     for r in rows:
-        by_day[r["dt"].date()].append(r)
-    er_by_day = defaultdict(list)
+        bj = r["dt"].astimezone(tz)
+        et = r["dt"].astimezone(ET)
+        d = et.date()
+        if r["tbd"]:
+            label, key = "当日", 2000
+        else:
+            label = bj.strftime("%H:%M") + (" +1" if bj.date() > d else "")
+            key = et.hour * 60 + et.minute
+        key = max(key, 1)
+        days[d].append({"key": key, "t": label, "x": r["title"], "small": r["extra"],
+                        "k": r["imp"] >= C.CAL_HIGHLIGHT_IMPORTANCE, "kind": "macro"})
+    stars = set(ordered_tickers(ew)[: C.CAL_STAR_EARNINGS]) if ew else set()
     for d, label, ts in (ew or {}).get("sessions", []):
-        er_by_day[d].append((label, ts[: C.CAL_EARNINGS_PER_DAY]))
+        ts = ts[: C.CAL_EARNINGS_PER_DAY]
+        if not ts:
+            continue
+        big = [t for t in ts if t in stars]
+        txt = "、".join(zh_name(t, names.get(t, "")) for t in ts) + "财报"
+        days[d].append({"key": 0 if label == "盘前" else 16 * 60, "t": label, "x": txt, "small": "",
+                        "k": bool(big), "kind": "er", "tickers": ts})
+    for d in days:
+        days[d].sort(key=lambda x: x["key"])
+    return days
 
+
+def day_tag(items):
+    txt = " ".join(i["x"] for i in items if i["k"])
+    if any(w in txt for w in FED_WORDS):
+        return "议息焦点"
+    if any(w in txt for w in DATA_WORDS):
+        return "数据焦点"
+    return ""
+
+
+def watch_points(monday, days, names):
+    """市场关注：根据本周数据自动生成的要点（不做主观判断）。"""
+    pts = []
+    def wd(d):
+        return f"周{WD[d.weekday()]}"
+    fed = [(d, i) for d, its in sorted(days.items()) for i in its
+           if i["kind"] == "macro" and i["k"] and any(w in i["x"] for w in FED_WORDS)]
+    if fed:
+        pts.append("<b>货币政策：</b>" + "；".join((f"{wd(d)}（北京时间次日 {i['t'][:5]}）{i['x']}" if "+1" in i["t"] else f"{wd(d)} {i['t']} {i['x']}") for d, i in fed[:3]) + "。")
+    data = [(d, i) for d, its in sorted(days.items()) for i in its
+            if i["kind"] == "macro" and i["k"] and not any(w in i["x"] for w in FED_WORDS)]
+    if data:
+        pts.append("<b>重磅数据：</b>" + "；".join(f"{wd(d)} {i['x']}" for d, i in data[:5]) + "。")
+    big = []
+    for d, its in sorted(days.items()):
+        for i in its:
+            if i["kind"] == "er" and i["k"]:
+                big.append(f"{wd(d)}{i['t']} " + "、".join(zh_name(t, names.get(t, "")) for t in i["tickers"][:4]))
+    if big:
+        pts.append("<b>重点财报：</b>" + "；".join(big[:6]) + "。")
+    sunday = monday + timedelta(days=6)
+    hol = [f"{datetime.fromisoformat(k):%m/%d} {v}美股休市" for k, v in US_HOLIDAYS.items()
+           if monday.isoformat() <= k <= sunday.isoformat()]
+    if hol:
+        pts.append("<b>休市提醒：</b>" + "；".join(hol) + "。")
+    a = datetime.combine(monday, dtime(12), ET).utcoffset()
+    for i in range(1, 8):
+        dd = monday + timedelta(days=i)
+        b = datetime.combine(dd, dtime(12), ET).utcoffset()
+        if b != a:
+            later = b < a
+            pts.append(f"<b>时间调整：</b>{dd:%m/%d} 起美国{'结束' if later else '开始'}夏令时，"
+                       f"美股交易和数据发布的北京时间{'推迟' if later else '提前'}一小时。")
+            break
+    return pts[:5]
+
+
+def render_calendar(browser, monday, rows, ew, names=None):
+    names = names or {}
     e = html.escape
-    days_html = []
+    days = build_days(monday, rows, ew, names)
+    blocks = []
     for i in range(7):
         d = monday + timedelta(days=i)
-        items = []
-        for r in by_day.get(d, []):
-            cls = "r" + (" hi" if r["imp"] >= C.CAL_HIGHLIGHT_IMPORTANCE else "") + (" ev" if r["event"] else "")
-            t = "待定" if r["tbd"] else r["dt"].strftime("%H:%M")
-            small = f"<small>{e(r['extra'])}</small>" if r["extra"] else ""
-            items.append(f'<div class="{cls}"><div class="t">{t}</div><div class="x">{e(r["title"])}{small}</div></div>')
-        for label, ts in er_by_day.get(d, []):
-            items.append(f'<div class="r er"><div class="t">{label}</div><div class="x">{e("  ".join(ts))}</div></div>')
-        if not items:
+        its = days.get(d, [])
+        if not its:
             continue
-        days_html.append(f'<div class="day"><div class="d"><b>{d.month}/{d.day}</b><span>周{WD[d.weekday()]}</span></div>'
-                         f'<div class="list">{"".join(items)}</div></div>')
-
+        tag = day_tag(its)
+        li = "".join(
+            f'<div class="it{" k" if x["k"] else ""}"><div class="t">{e(x["t"])}</div>'
+            f'<div class="x">{e(x["x"])}{f"<small>{e(x["small"])}</small>" if x["small"] else ""}</div></div>'
+            for x in its)
+        blocks.append(f'<div class="day{" hl" if tag else ""}"><div class="dl"><b>{d.month}/{d.day}</b>'
+                      f'<span>周{WD[d.weekday()]}</span>{f"<br><i>{tag}</i>" if tag else ""}</div>'
+                      f'<div class="items">{li}</div></div>')
+    pts = watch_points(monday, days, names)
+    watch = "".join(f'<div class="wt"><div class="n">{n:02d}</div><div class="x">{p}</div></div>'
+                    for n, p in enumerate(pts, 1))
     sunday = monday + timedelta(days=6)
     doc = f"""<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body>
-<div class="card" id="cal">
- <div class="hd"><h1>下周财经日历</h1>
-  <div class="sub"><span>{monday:%Y.%m.%d} – {sunday:%Y.%m.%d}</span><span>时间：{e(C.CAL_TZ_LABEL)}</span></div></div>
- <div class="days">{''.join(days_html) or '<div class="day"><div class="list">暂无数据</div></div>'}</div>
- <div class="ft"><span>数据：华尔街见闻 · Earnings Whispers</span>
-  <span class="lg"><i style="background:#fdba74"></i>重点<i style="background:#bfdbfe"></i>热门财报（美东日期）</span></div>
+<div id="cal">
+ <div class="top"><div><h1>下周财经周历</h1><div class="rg">{monday:%Y.%m.%d} – {sunday:%Y.%m.%d}</div>
+  <div class="tz">日期按美东交易日归类 · 时间为{e(C.CAL_TZ_LABEL)}（+1 = 北京时间次日）</div></div>
+  <div class="badge">美</div></div>
+ <div class="sec">重要日程<small>○ 橙色 = 重点关注</small></div>
+ {''.join(blocks) or '<div class="day">暂无数据</div>'}
+ {f'<div class="sec">市场关注<small>根据本周日程自动整理</small></div>{watch}' if watch else ''}
+ <div class="ft"><span>数据：华尔街见闻 · Earnings Whispers</span><span>生成于 {now_et():%Y-%m-%d}</span></div>
 </div></body></html>"""
-    page = browser.new_page(viewport={"width": 1548, "height": 1200}, device_scale_factor=1.5)
+    page = browser.new_page(viewport={"width": 760, "height": 1200}, device_scale_factor=2)
     try:
         page.set_content(doc, wait_until="load")
         page.wait_for_timeout(300)
@@ -229,17 +316,28 @@ def render_calendar(browser, monday, rows, ew):
         page.close()
 
 
+def company_names(monday):
+    """Earnings Whispers 日历接口：代码 → 英文公司名（用于没有中文名的公司）。"""
+    from jobs.earnings import caldata
+    out = {}
+    for i in range(5):
+        try:
+            for r in caldata(monday + timedelta(days=i)):
+                out[r["ticker"].upper()] = r.get("company", "")
+        except Exception as e:  # noqa: BLE001
+            print(f"[weekly] 公司名获取失败: {e}")
+    return out
+
+
 def post_calendar(monday, rows, png):
     sunday = monday + timedelta(days=6)
-    keys = [r for r in rows if r["imp"] >= C.CAL_HIGHLIGHT_IMPORTANCE][:10]
-    lines = [f"• 周{WD[r['dt'].weekday()]} {'待定' if r['tbd'] else r['dt'].strftime('%H:%M')}　{r['title']}"
-             for r in keys]
-    post(WEBHOOK, files=[("calendar.png", png)], embeds=[embed(
-        title=f"📅 下周财经日历 · {monday.month}/{monday.day} – {sunday.month}/{sunday.day}",
-        description=("**本周重点**\n" + "\n".join(lines)) if lines else None,
-        color=0x2563EB, image="attachment://calendar.png",
-        footer=f"数据：华尔街见闻 · 时间为{C.CAL_TZ_LABEL}",
-    )])
+    post(WEBHOOK, content="@everyone" if C.WEEKLY_MENTION_EVERYONE else None,
+         mention_everyone=C.WEEKLY_MENTION_EVERYONE,
+         files=[("calendar.png", png)], embeds=[embed(
+             title=f"📅 下周财经周历 · {monday.month}/{monday.day} – {sunday.month}/{sunday.day}",
+             color=0x2563EB, image="attachment://calendar.png",
+             footer=f"数据：华尔街见闻 · Earnings Whispers · 时间为{C.CAL_TZ_LABEL}",
+         )])
 
 
 # ---------------------------------------------------------------- main
@@ -270,7 +368,7 @@ def main():
             except Exception as e:  # noqa: BLE001
                 print(f"[weekly] 财经日历获取失败: {e}")
                 rows = []
-            png = render_calendar(browser, monday, rows, ew)
+            png = render_calendar(browser, monday, rows, ew, company_names(monday))
             post_calendar(monday, rows, png)
         finally:
             browser.close()
