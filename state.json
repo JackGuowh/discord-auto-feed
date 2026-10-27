@@ -981,7 +981,9 @@
   "wscn:3187478",
   "wscn:3187453",
   "wscn:3187568",
-  "wscn:3187558"
+  "wscn:3187558",
+  "wscn:3187592",
+  "wscn:3187588"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1194,7 +1196,12 @@
   "tg:WalterBloomberg/37420",
   "tg:WalterBloomberg/37421",
   "tg:WalterBloomberg/37423",
-  "tg:WalterBloomberg/37422"
+  "tg:WalterBloomberg/37422",
+  "tg:WalterBloomberg/37428",
+  "tg:WalterBloomberg/37427",
+  "tg:WalterBloomberg/37426",
+  "tg:WalterBloomberg/37425",
+  "tg:WalterBloomberg/37424"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1346,7 +1353,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793097707.6470523,
+ "congress_last_check": 1793099547.7854288,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1362,7 +1369,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793098746.5948982,
+ "earnings_last_check": 1793099369.491328,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1499,7 +1506,10 @@
   "er:2026-10-26:BRO",
   "er:2026-10-27:UPS",
   "er:2026-10-27:CNC",
-  "er:2026-10-27:KO"
+  "er:2026-10-27:KO",
+  "er:2026-10-27:SOFI",
+  "er:2026-10-27:GLW",
+  "er:2026-10-27:PYPL"
  ],
  "gas_last_check": 1793098628.0143235,
  "gas:GAWDA Media": [
@@ -2213,7 +2223,8 @@
   "tg:disclosetv/21976",
   "tg:disclosetv/21977",
   "tg:disclosetv/21978",
-  "tg:disclosetv/21979"
+  "tg:disclosetv/21979",
+  "tg:disclosetv/21980"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -2294,7 +2305,8 @@
   "tg:insiderpaper/45524",
   "tg:insiderpaper/45525",
   "tg:insiderpaper/45526",
-  "tg:insiderpaper/45527"
+  "tg:insiderpaper/45527",
+  "tg:insiderpaper/45528"
  ],
  "opt_daily": "2026-10-26",
  "opt_flow_last": 1793045302.4056692,
@@ -2551,7 +2563,13 @@
   "tg:FinancialJuice/142821",
   "tg:FinancialJuice/142820",
   "tg:FinancialJuice/142819",
-  "tg:FinancialJuice/142818"
+  "tg:FinancialJuice/142818",
+  "tg:FinancialJuice/142828",
+  "tg:FinancialJuice/142827",
+  "tg:FinancialJuice/142826",
+  "tg:FinancialJuice/142825",
+  "tg:FinancialJuice/142824",
+  "tg:FinancialJuice/142823"
  ],
  "shows_v4": 1
 }
