@@ -1150,7 +1150,10 @@
   "wscn:3187914",
   "wscn:3187912",
   "wscn:3187911",
-  "wscn:3187910"
+  "wscn:3187910",
+  "wscn:3187918",
+  "wscn:3187917",
+  "wscn:3187916"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1471,7 +1474,8 @@
   "tg:WatcherGuru/15635",
   "tg:WatcherGuru/15636",
   "tg:WatcherGuru/15638",
-  "tg:WatcherGuru/15640"
+  "tg:WatcherGuru/15640",
+  "tg:WatcherGuru/15641"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1591,9 +1595,10 @@
   "movers_post:2026-10-26",
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27",
-  "market_close:2026-10-27"
+  "market_close:2026-10-27",
+  "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793133213.9810398,
+ "earnings_last_check": 1793134078.81131,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2970,7 +2975,10 @@
   "tg:FinancialJuice/142944",
   "tg:FinancialJuice/142952",
   "tg:FinancialJuice/142951",
-  "tg:FinancialJuice/142950"
+  "tg:FinancialJuice/142950",
+  "tg:FinancialJuice/142955",
+  "tg:FinancialJuice/142954",
+  "tg:FinancialJuice/142953"
  ],
  "shows_v4": 1
 }
