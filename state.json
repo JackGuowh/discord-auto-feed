@@ -1040,7 +1040,10 @@
   "wscn:3187808",
   "wscn:3187807",
   "wscn:3187805",
-  "wscn:3187804"
+  "wscn:3187804",
+  "wscn:3187814",
+  "wscn:3187812",
+  "wscn:3187811"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1287,7 +1290,10 @@
   "tg:WalterBloomberg/37452",
   "tg:WalterBloomberg/37455",
   "tg:WalterBloomberg/37457",
-  "tg:WalterBloomberg/37456"
+  "tg:WalterBloomberg/37456",
+  "tg:WalterBloomberg/37460",
+  "tg:WalterBloomberg/37459",
+  "tg:WalterBloomberg/37458"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1441,7 +1447,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793114246.81092,
+ "congress_last_check": 1793116089.4992528,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1459,7 +1465,7 @@
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27"
  ],
- "earnings_last_check": 1793115588.572319,
+ "earnings_last_check": 1793116267.9470398,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1604,7 +1610,7 @@
   "er:2026-10-27:SPGI",
   "er:2026-10-27:FCX"
  ],
- "gas_last_check": 1793114664.475808,
+ "gas_last_check": 1793115908.1659641,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1910,7 +1916,8 @@
   "gas:CBMioAFBVV95cUxQTEZPTHZWM29sb0lqUUxJOXgzYmVJcEpLRkdGVzBtYkp6Njh3MmgycEJCQlFTZXNYdlNYY0l2SWNuZHlBYnlNNlJsOVlDMEpDTTBTcE1oTlhjcUhmcTZLRTlwZlIxdkZnUGxWc1JIckdHNnpqZ012aHc0cmlaTnMxT2VTNjZiN1lfOE40bmdoSng2ZVJnUUJBRk53NmlrUjR2",
   "gas:CBMif0FVX3lxTE5mZU9XRjRMR3lYaDcwSkZveDNNMmFJUmFZczdLNFNreUxUUG9uNUU5VmIxNFFoR1E2QmhscVBOTm51MFcyUThSc2lPbldQa0tlQjlFTlRWQWNaRnM4b0tHMnRYZXhrcERNdklVMHlIeFVtbUowTWt6VERnQUxxTzA",
   "gas:CBMimgFBVV95cUxNWkFDU2xaUTh0WGlCcndubWs0elhueXdGdzV3dEF0UFRWLWoxbFlLQnc1SVp0N3F4QUxQYTFOajNBOGJTdVQ2R2dfMXQySGw4N3RBR2JxNjEyUHVJOGp2SHhVa1ZNTDhHa3BLMlRnZjdVQ0RYUW5idlZ5U21Gd1lqR0Q2VnBBRXNTTFlkSW5EQUhrd0ZpU2lLRkVn0gGaAUFVX3lxTE1aQUNTbFpROHRYaUJyd25tazR6WG55d0Z3NXd0QXRQVFYtajFsWUtCdzVJWnQ3cXhBTFBhMU5qM0E4YlN1VDZHZ18xdDJIbDg3dEFHYnE2MTJQdUk4anZIeFVrVk1MOEdrcEsyVGdmN1VDRFhRbmJ2VnlTbUZ3WWpHRDZWcEFFc1NMWWRJbkRBSGt3RmlTaUtGRWc",
-  "gas:CBMilAFBVV95cUxPVU5WX3lrSEFNZkd1Y2MybkdQNVJJeUxWaFVfcW9JaWlhNGtuZDJBb0Z0Vk1LbnVyYlhZTXBKZjhhZTZycDgxdWd0aTZheGNPeGNMbWJtWE1jTGdxc211VFk5ZlJndDljbC13MnotQnM2VWZCUHU0ek41VjBqTVEyVXBMS0dCa0JJNW1vSTk0WFpBeGJD0gGaAUFVX3lxTE1aQUNTbFpROHRYaUJyd25tazR6WG55d0Z3NXd0QXRQVFYtajFsWUtCdzVJWnQ3cXhBTFBhMU5qM0E4YlN1VDZHZ18xdDJIbDg3dEFHYnE2MTJQdUk4anZIeFVrVk1MOEdrcEsyVGdmN1VDRFhRbmJ2VnlTbUZ3WWpHRDZWcEFFc1NMWWRJbkRBSGt3RmlTaUtGRWc"
+  "gas:CBMilAFBVV95cUxPVU5WX3lrSEFNZkd1Y2MybkdQNVJJeUxWaFVfcW9JaWlhNGtuZDJBb0Z0Vk1LbnVyYlhZTXBKZjhhZTZycDgxdWd0aTZheGNPeGNMbWJtWE1jTGdxc211VFk5ZlJndDljbC13MnotQnM2VWZCUHU0ek41VjBqTVEyVXBMS0dCa0JJNW1vSTk0WFpBeGJD0gGaAUFVX3lxTE1aQUNTbFpROHRYaUJyd25tazR6WG55d0Z3NXd0QXRQVFYtajFsWUtCdzVJWnQ3cXhBTFBhMU5qM0E4YlN1VDZHZ18xdDJIbDg3dEFHYnE2MTJQdUk4anZIeFVrVk1MOEdrcEsyVGdmN1VDRFhRbmJ2VnlTbUZ3WWpHRDZWcEFFc1NMWWRJbkRBSGt3RmlTaUtGRWc",
+  "gas:CBMirgFBVV95cUxNVEdGcVY4dlRCb0paU0VUZjlDNEIzaHVYei1mN19xM1dOb3FLMUlUZ2JLVjNTQzB6cWszMmMwT1hoUUR4aG5lNExPQlV3LXNFQ0I4ZVE4X0hvTGpxLUJEX29kT1BsZ2tIWEpBTDFvOGRBV1h0YUhMYUduTWFJdGZfaWR6ZUxvaDlRWERFd3B0ZHRLRDRDRWp2YmZvMVZGM2NqcFhJN0N0Qkg3RU9SZWfSAbMBQVVfeXFMUG5jbGdSdExyUXBQTFBDVEVydDVEc0tidXpWYmUwUTNqNUFwTVBndkpEMjZyS2pLc1ZKajRSNlhxYkFkbTFCajFWYjlQY0U1WGhZZHJkNllFdWV2Wk5JQkUtLTdUVjlpc1lGZkR0TnZqNk5iakRBdGM0UkhTY01RN2lfWWlWNlcwalJKeG1CMXN5MWIwT2F3b0hSOW9oaU5zUVNzaW1Nekh5alJMM1dWelVQNDA"
  ],
  "shows_last_day": "2026-10-27",
  "shows_init": "2026-10-22",
@@ -2421,7 +2428,8 @@
   "tg:insiderpaper/45532",
   "tg:insiderpaper/45533",
   "tg:insiderpaper/45534",
-  "tg:insiderpaper/45535"
+  "tg:insiderpaper/45535",
+  "tg:insiderpaper/45536"
  ],
  "opt_daily": "2026-10-26",
  "opt_flow_last": 1793045302.4056692,
@@ -2748,7 +2756,10 @@
   "tg:FinancialJuice/142887",
   "tg:FinancialJuice/142886",
   "tg:FinancialJuice/142885",
-  "tg:FinancialJuice/142884"
+  "tg:FinancialJuice/142884",
+  "tg:FinancialJuice/142895",
+  "tg:FinancialJuice/142894",
+  "tg:FinancialJuice/142893"
  ],
  "shows_v4": 1
 }
