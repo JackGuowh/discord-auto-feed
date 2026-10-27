@@ -264,7 +264,7 @@ def run(state):
         return
     now = now_et()
     hm, wd, today = now.strftime("%H:%M"), now.weekday(), now.date().isoformat()
-    if wd < 5 and "10:00" <= hm <= "16:15":
+    if C.OPTIONS_FLOW_ENABLED and wd < 5 and "10:00" <= hm <= "16:15":
         if time.time() - state.get("opt_flow_last", 0) >= C.OPTIONS_FLOW_MINUTES * 60:
             state["opt_flow_last"] = time.time()
             run_flow(state)

@@ -68,7 +68,8 @@ def us_related(text):
         if not k:
             continue
         if k[0].isalpha():  # 英文关键词按整词匹配，避免 FUTURES 里的 US 被误判
-            if re.search(r"(?<![A-Z])" + re.escape(k) + r"(?![A-Z])", up):
+            # 允许复数/所有格：STOCK → STOCKS、TESLA → TESLA'S
+            if re.search(r"(?<![A-Z])" + re.escape(k) + r"(?:S|ES|'S)?(?![A-Z])", up):
                 return True
         elif k in up:
             return True
