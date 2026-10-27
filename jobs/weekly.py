@@ -215,15 +215,19 @@ def build_days(monday, rows, ew, names):
         key = max(key, 1)
         days[d].append({"key": key, "t": label, "x": r["title"], "small": r["extra"],
                         "k": r["imp"] >= C.CAL_HIGHLIGHT_IMPORTANCE, "kind": "macro"})
+    for d in list(days):
+        keep = sorted(days[d], key=lambda x: (-x["k"], x["key"]))[: C.CAL_MACRO_PER_DAY]
+        days[d] = keep
     stars = set(ordered_tickers(ew)[: C.CAL_STAR_EARNINGS]) if ew else set()
     for d, label, ts in (ew or {}).get("sessions", []):
-        ts = ts[: C.CAL_EARNINGS_PER_DAY]
+        ts = [t for t in ts if not (len(t) == 5 and t[-1] in "YF")]  # 去掉场外 ADR
+        ts = sorted(ts, key=lambda t: t not in stars)[: C.CAL_EARNINGS_PER_DAY]  # 热门的排前面
         if not ts:
             continue
         big = [t for t in ts if t in stars]
         txt = "、".join(zh_name(t, names.get(t, "")) for t in ts) + "财报"
         days[d].append({"key": 0 if label == "盘前" else 16 * 60, "t": label, "x": txt, "small": "",
-                        "k": bool(big), "kind": "er", "tickers": ts})
+                        "k": bool(big), "kind": "er", "tickers": ts, "stars": big})
     for d in days:
         days[d].sort(key=lambda x: x["key"])
     return days
@@ -254,8 +258,8 @@ def watch_points(monday, days, names):
     big = []
     for d, its in sorted(days.items()):
         for i in its:
-            if i["kind"] == "er" and i["k"]:
-                big.append(f"{wd(d)}{i['t']} " + "、".join(zh_name(t, names.get(t, "")) for t in i["tickers"][:4]))
+            if i["kind"] == "er" and i["stars"]:
+                big.append(f"{wd(d)}{i['t']} " + "、".join(zh_name(t, names.get(t, "")) for t in i["stars"][:4]))
     if big:
         pts.append("<b>重点财报：</b>" + "；".join(big[:6]) + "。")
     sunday = monday + timedelta(days=6)

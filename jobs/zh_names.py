@@ -34,7 +34,10 @@ ZH = {
     "ENPH": "Enphase", "FSLR": "First Solar", "OXY": "西方石油", "COP": "康菲", "SLB": "斯伦贝谢",
     "SKHY": "SK海力士", "QXO": "QXO", "CVNA": "Carvana", "IP": "国际纸业", "UBS": "瑞银", "STM": "意法半导体",
     "TWLO": "Twilio", "CAKE": "芝乐坊", "VMC": "火神材料", "CNC": "Centene", "AMKR": "安靠", "PNR": "滨特尔",
-    "CARR": "开利", "BSX": "波士顿科学", "SPCX": "SpaceX", "CRWV": "CoreWeave", "ROKU": "Roku",
+    "CARR": "开利", "APP": "AppLovin", "FI": "Fiserv", "LITE": "Lumentum", "COHR": "Coherent", "CART": "Instacart",
+    "OKLO": "Oklo", "TEM": "Tempus AI", "CHKP": "Check Point", "EL": "雅诗兰黛", "CAH": "卡地纳健康", "U": "Unity",
+    "GFS": "格芯", "RIOT": "Riot", "DUOL": "多邻国", "AFRM": "Affirm", "TTD": "The Trade Desk",
+    "PLUG": "Plug Power", "IONQ": "IonQ", "RKLB": "Rocket Lab", "HIMS": "Hims & Hers", "CELH": "Celsius", "BSX": "波士顿科学", "SPCX": "SpaceX", "CRWV": "CoreWeave", "ROKU": "Roku",
 }
 
 
@@ -42,6 +45,9 @@ def zh_name(ticker, company=""):
     if ticker in ZH:
         return ZH[ticker]
     import re
-    n = re.sub(r"[,.]?\s*(Inc|Corp|Corporation|Company|Co|Holdings|Group|Ltd|plc|N\.V|S\.A|SE|LP|Technologies|Technology)\.?$",
-               "", (company or ticker).strip(), flags=re.I)
-    return n.strip() or ticker
+    n = re.sub(r"^The\s+", "", (company or ticker).strip())
+    suffix = (r"[,.]?\s*(Inc|Incorporated|Corp|Corporation|Company|Companies|Co|Holdings|Holding|Group|Ltd|Limited|plc|"
+              r"N\.V|S\.A|SE|LP|Technologies|Technology|Enterprises|International|Brands|Incorporated|Platforms)\.?$")
+    for _ in range(3):
+        n = re.sub(suffix, "", n, flags=re.I).strip()
+    return n or ticker
