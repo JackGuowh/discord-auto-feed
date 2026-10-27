@@ -996,7 +996,13 @@
   "wscn:3187703",
   "wscn:3187679",
   "wscn:3187714",
-  "wscn:3187709"
+  "wscn:3187709",
+  "wscn:3187733",
+  "wscn:3187732",
+  "wscn:3187731",
+  "wscn:3187727",
+  "wscn:3187726",
+  "wscn:3187725"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1224,7 +1230,9 @@
   "tg:WalterBloomberg/37437",
   "tg:WalterBloomberg/37436",
   "tg:WalterBloomberg/37435",
-  "tg:WalterBloomberg/37438"
+  "tg:WalterBloomberg/37438",
+  "tg:WalterBloomberg/37440",
+  "tg:WalterBloomberg/37439"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1390,9 +1398,10 @@
   "movers_pre:2026-10-26",
   "market_fg:2026-10-26",
   "market_close:2026-10-26",
-  "movers_post:2026-10-26"
+  "movers_post:2026-10-26",
+  "movers_pre:2026-10-27"
  ],
- "earnings_last_check": 1793105944.08001,
+ "earnings_last_check": 1793106742.543144,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1537,7 +1546,7 @@
   "er:2026-10-27:SPGI",
   "er:2026-10-27:FCX"
  ],
- "gas_last_check": 1793104785.3615632,
+ "gas_last_check": 1793106033.5398297,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1833,9 +1842,10 @@
   "gas:CBMinAFBVV95cUxOVWhic3o1cEN6N2t2djVzTDY2d0o4T1MyNXlEUnNQRHRqRVZ1M0N6YmU3N1ZSOXFtTkhkRWN6RkxpWEdqcmVKTklmeVM5cng2MVdrUzJQWlNVMHBIZDZaTW82Y214N3pCc1VqZDVZNjJFTndaTkZ4RE04TXZXQVVuaWtQZ3FnWm9UNWVOc2VwOEtFclRVclNCb2JuTUY",
   "gas:CBMioAFBVV95cUxNRUxlbW12ZzhzcmFlbnBVTnhQNTZnNW9xT1gwMFozLUhxY0RBeTJLZm9PR2NBX2lYejRsNVN4UHh1X2tYS2V5ZjJnZFYxVjhFR01hQzFVeWk1bjFINHE0ZVp3OVQ4R0p4cjhSRGF1UHJ5bDBYRVV6V1BlR3g3dGpvazR1Y2FRbVdYdjBFVUtrSlAzSHhjNHMtRXpJUnl4OWNl",
   "gas:CBMi7wFBVV95cUxOSUdzY3BYcFNhLVY0WDBoNEdyM1dEMGpjbmcyVnVGZUp2ODF2SWdvMkN3Vjk0eWw2bExWX3dWdzA4T0ZqQ0t5Q0dnQ2tSS2E2SUVDN3FDczRyTV9iWEgzS0ROZGhXTzdfQzNQcm4teTgtMkpVLVR5R00xTUJKZnF1M2RlbjdSUXhieXdVTmJYbm9VMFlUQ1FBOXVXd3ZHTDV1dVdocWVTcFhic3g2VXJCa0lMX1c4S19mNkhKX0FocTlpVGtmMmFaMElEWE13TVhzWWlpNUd6aGhLVkNDZjVlazUxR1dtbE04QkZLc0MwZ9IB9AFBVV95cUxPOFVHMUotZzFEQlQyWnlFS09Bd19QUGdhU1NkNjBtd1RMRk1kS1AwZEJXOGJxNHdkZ1ZFcmxuazVaMWRWUW9SX0kwRnB6WW82d21MZVBuTUZvTmdwR0dFRHEwN1JISmd5dXY2a0FEY2hQamFnVVlJMHF3ZE1lNmotenJzV3R6em1GNVJMdFVMc0djQk9PRmczQk1CWHZUa2ZrczN0TWkzWEtqSnZ1TlBFdkR2dUJGbDdhb250NUhrejBVTmtTUVBSdnRUTzdZVzV4TlM2eXRPejVRTlpoa1hVTWhDTGdWaUdjWUVubDhhUk9MeWow",
-  "gas:CBMixgFBVV95cUxOUDh1NF9rV2oySlBfa3hWNmp2NFJEUjJPRTZxaE53eXlRQldXbGlCUzNKYS1fYVp2bnU5TWJHVWhMQXdHdFJFTG9EbDZhcnN3MjJNUDNUWFg1SVIxWkFyWlRzQ1FZaTNleU5yOGN2Y09XYlI2eWlpUmJleHFMRnp3c2xvbkJZOGh6MVVQenVNaUcyVVZIU21lQWxBekVVcjVCektZWVlXX2txTWRXWXFMM0tqMC03NFBYTmR0Zkh4cFFaaFhCR0E"
+  "gas:CBMixgFBVV95cUxOUDh1NF9rV2oySlBfa3hWNmp2NFJEUjJPRTZxaE53eXlRQldXbGlCUzNKYS1fYVp2bnU5TWJHVWhMQXdHdFJFTG9EbDZhcnN3MjJNUDNUWFg1SVIxWkFyWlRzQ1FZaTNleU5yOGN2Y09XYlI2eWlpUmJleHFMRnp3c2xvbkJZOGh6MVVQenVNaUcyVVZIU21lQWxBekVVcjVCektZWVlXX2txTWRXWXFMM0tqMC03NFBYTmR0Zkh4cFFaaFhCR0E",
+  "gas:CBMiywFBVV95cUxNLXNHdXU4YTFyaVF2NlJsNmNtQ0owRWcySnZhbzVoZURBQ0YzRXFGN3BJTjhMVTlaU3VMYmY0ZldUUzN4ejZmOGNzTWlabE1WbEpNWnduU0pjazlfWTk5d0tyZUpEcVFScTRaRkdrRjAxWklNalZZNFJXNUZ2NUx3X2JWMlhYMGtSMUdMZWJYMUkxTTA1d0tEZ0FGdE90TE96bWdlVVdkMkpweVo2YnVSWVBpUzJOc1AwRkhiX0tfQml2Rlg4RjV6c2Nhdw"
  ],
- "shows_last_day": "2026-10-26",
+ "shows_last_day": "2026-10-27",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
@@ -1845,7 +1855,11 @@
   "SPIE Photonics West 2027|180",
   "Space Symposium 2027|180",
   "SATELLITE 2027（SATSHOW Week）|180",
-  "Pittcon 2027|180"
+  "Pittcon 2027|180",
+  "ACS Spring 2027（美国化学会春季大会）|180",
+  "CGA Annual Meeting 2027|180",
+  "SpaceCom Expo 2027|180",
+  "SpaceCom Expo 2027|90"
  ],
  "shows_v2": 1,
  "reset_id": "2026-10-22-1",
@@ -2614,7 +2628,13 @@
   "tg:FinancialJuice/142840",
   "tg:FinancialJuice/142839",
   "tg:FinancialJuice/142838",
-  "tg:FinancialJuice/142843"
+  "tg:FinancialJuice/142843",
+  "tg:FinancialJuice/142849",
+  "tg:FinancialJuice/142848",
+  "tg:FinancialJuice/142847",
+  "tg:FinancialJuice/142846",
+  "tg:FinancialJuice/142845",
+  "tg:FinancialJuice/142844"
  ],
  "shows_v4": 1
 }
