@@ -303,7 +303,11 @@
   "truth:https://www.trumpstruth.org/statuses/42762",
   "truth:https://www.trumpstruth.org/statuses/42763",
   "truth:https://www.trumpstruth.org/statuses/42775",
-  "truth:https://www.trumpstruth.org/statuses/42776"
+  "truth:https://www.trumpstruth.org/statuses/42776",
+  "truth:https://www.trumpstruth.org/statuses/42777",
+  "truth:https://www.trumpstruth.org/statuses/42778",
+  "truth:https://www.trumpstruth.org/statuses/42779",
+  "truth:https://www.trumpstruth.org/statuses/42780"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1070,7 +1074,15 @@
   "wscn:3187845",
   "wscn:3187844",
   "wscn:3187843",
-  "wscn:3187842"
+  "wscn:3187842",
+  "wscn:3187856",
+  "wscn:3187855",
+  "wscn:3187854",
+  "wscn:3187853",
+  "wscn:3187852",
+  "wscn:3187850",
+  "wscn:3187849",
+  "wscn:3187848"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1322,7 +1334,8 @@
   "tg:WalterBloomberg/37459",
   "tg:WalterBloomberg/37458",
   "tg:WalterBloomberg/37461",
-  "tg:WalterBloomberg/37462"
+  "tg:WalterBloomberg/37462",
+  "tg:WalterBloomberg/37463"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1496,7 +1509,7 @@
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27"
  ],
- "earnings_last_check": 1793120234.715329,
+ "earnings_last_check": 1793121037.7781503,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1641,7 +1654,7 @@
   "er:2026-10-27:SPGI",
   "er:2026-10-27:FCX"
  ],
- "gas_last_check": 1793119598.4098544,
+ "gas_last_check": 1793120852.9830265,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2372,7 +2385,8 @@
   "tg:disclosetv/21977",
   "tg:disclosetv/21978",
   "tg:disclosetv/21979",
-  "tg:disclosetv/21980"
+  "tg:disclosetv/21980",
+  "tg:disclosetv/21981"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -2808,7 +2822,15 @@
   "tg:FinancialJuice/142903",
   "tg:FinancialJuice/142905",
   "tg:FinancialJuice/142904",
-  "tg:FinancialJuice/142906"
+  "tg:FinancialJuice/142906",
+  "tg:FinancialJuice/142914",
+  "tg:FinancialJuice/142913",
+  "tg:FinancialJuice/142912",
+  "tg:FinancialJuice/142911",
+  "tg:FinancialJuice/142910",
+  "tg:FinancialJuice/142909",
+  "tg:FinancialJuice/142908",
+  "tg:FinancialJuice/142907"
  ],
  "shows_v4": 1
 }
