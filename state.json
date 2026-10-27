@@ -294,7 +294,14 @@
   "truth:https://www.trumpstruth.org/statuses/42751",
   "truth:https://www.trumpstruth.org/statuses/42752",
   "truth:https://www.trumpstruth.org/statuses/42755",
-  "truth:https://www.trumpstruth.org/statuses/42756"
+  "truth:https://www.trumpstruth.org/statuses/42756",
+  "truth:https://www.trumpstruth.org/statuses/42757",
+  "truth:https://www.trumpstruth.org/statuses/42758",
+  "truth:https://www.trumpstruth.org/statuses/42759",
+  "truth:https://www.trumpstruth.org/statuses/42760",
+  "truth:https://www.trumpstruth.org/statuses/42761",
+  "truth:https://www.trumpstruth.org/statuses/42762",
+  "truth:https://www.trumpstruth.org/statuses/42763"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1311,7 +1318,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793068309.2903278,
+ "congress_last_check": 1793070120.0554368,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1327,7 +1334,7 @@
   "market_close:2026-10-26",
   "movers_post:2026-10-26"
  ],
- "earnings_last_check": 1793069799.4397376,
+ "earnings_last_check": 1793070683.578269,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1463,7 +1470,7 @@
   "er:2026-10-26:NWBI",
   "er:2026-10-26:BRO"
  ],
- "gas_last_check": 1793069109.612122,
+ "gas_last_check": 1793070359.7294028,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2418,7 +2425,8 @@
   "tg:FinancialJuice/142730",
   "tg:FinancialJuice/142729",
   "tg:FinancialJuice/142728",
-  "tg:FinancialJuice/142727"
+  "tg:FinancialJuice/142727",
+  "tg:FinancialJuice/142747"
  ],
  "shows_v4": 1
 }
