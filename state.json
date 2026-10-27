@@ -1020,7 +1020,12 @@
   "wscn:3187771",
   "wscn:3187779",
   "wscn:3187774",
-  "wscn:3187776"
+  "wscn:3187776",
+  "wscn:3187787",
+  "wscn:3187786",
+  "wscn:3187784",
+  "wscn:3187783",
+  "wscn:3187781"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1432,7 +1437,7 @@
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27"
  ],
- "earnings_last_check": 1793111491.2526653,
+ "earnings_last_check": 1793112354.3896325,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1577,7 +1582,7 @@
   "er:2026-10-27:SPGI",
   "er:2026-10-27:FCX"
  ],
- "gas_last_check": 1793110952.8762865,
+ "gas_last_check": 1793112173.651129,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1880,7 +1885,8 @@
   "gas:CBMi1AFBVV95cUxOWGhLNEJ5VGNoYURpTWxFM2M0NmUxR2tjU2F6VjZyZ0ZGMl9FTEVreTYzY0RSZHNwemQ1eHNhbExVd2xMT3VBOUpINy11RDlUZ0JMRnRzVHhycXpyY0tmMEZtZ1BITmJsYjdQTXZEYmw2MHFMUWhoZXc4NVUyRGxVLV9WOUNwdjdxLTY1U0JoMUNwOVNsTWo3N0UzenVVa1p4UmkzQ1ZVd21ibnc0RzNTaFlYbFBST1JaaHZmTGxobkRtNFlhWFVpenRiZmNPVHd0ZkxubQ",
   "gas:CBMiywFBVV95cUxOTmZyb3NSM1p0Uk84ek92c1lGY2xMdDhqS1U0R253YnFQbVR0eWxrRUJ2WWhtLXN3Wk9xcm5XVHVsSjBWakV1dEI3bUxJU2V5ZlI0dHY3c0NQTWFHcGxkQU52Vk4xRHBVUEt1czktX1hRSE8wVUt4Sm5lajBPTExQazN0SGRxeHBINDVVNVpyMFdaMkZBYU1hdF9DNDdNbjY3dlZhYXBGUWZYQ1djSTlhYlRVbjJjdFVldGRWSVcwRVFtaE1uNllkRzR0Yw",
   "gas:CBMi0gFBVV95cUxNYmVydDhRREp5TENjOERWM29Ha0lTWEQtLVMwalhBZmJGakRTY2RoakhPQnBSSGR0cEFHMHNzUjc4RjBUTXdqNTkzTWk0X0NpVjk4RmNiRWdleHplbXkxdERUbFVrX3ViNWlNRUxycDc2eDV1bmNtUVdHYnl0REFUZ3Y2U3l1UmpsY0Y1N2I2VnBZN3BXR2Zab2NxNzJQOVV0eU5NdWRlYm50NE92THJHX1htMGk1WVZzOW8ybEVBdXZQS3hjc0hDcEJMb0dUV05ZREE",
-  "gas:CBMioAFBVV95cUxQTEZPTHZWM29sb0lqUUxJOXgzYmVJcEpLRkdGVzBtYkp6Njh3MmgycEJCQlFTZXNYdlNYY0l2SWNuZHlBYnlNNlJsOVlDMEpDTTBTcE1oTlhjcUhmcTZLRTlwZlIxdkZnUGxWc1JIckdHNnpqZ012aHc0cmlaTnMxT2VTNjZiN1lfOE40bmdoSng2ZVJnUUJBRk53NmlrUjR2"
+  "gas:CBMioAFBVV95cUxQTEZPTHZWM29sb0lqUUxJOXgzYmVJcEpLRkdGVzBtYkp6Njh3MmgycEJCQlFTZXNYdlNYY0l2SWNuZHlBYnlNNlJsOVlDMEpDTTBTcE1oTlhjcUhmcTZLRTlwZlIxdkZnUGxWc1JIckdHNnpqZ012aHc0cmlaTnMxT2VTNjZiN1lfOE40bmdoSng2ZVJnUUJBRk53NmlrUjR2",
+  "gas:CBMif0FVX3lxTE5mZU9XRjRMR3lYaDcwSkZveDNNMmFJUmFZczdLNFNreUxUUG9uNUU5VmIxNFFoR1E2QmhscVBOTm51MFcyUThSc2lPbldQa0tlQjlFTlRWQWNaRnM4b0tHMnRYZXhrcERNdklVMHlIeFVtbUowTWt6VERnQUxxTzA"
  ],
  "shows_last_day": "2026-10-27",
  "shows_init": "2026-10-22",
@@ -2692,7 +2698,14 @@
   "tg:FinancialJuice/142857",
   "tg:FinancialJuice/142867",
   "tg:FinancialJuice/142866",
-  "tg:FinancialJuice/142868"
+  "tg:FinancialJuice/142868",
+  "tg:FinancialJuice/142875",
+  "tg:FinancialJuice/142874",
+  "tg:FinancialJuice/142873",
+  "tg:FinancialJuice/142872",
+  "tg:FinancialJuice/142871",
+  "tg:FinancialJuice/142870",
+  "tg:FinancialJuice/142869"
  ],
  "shows_v4": 1
 }
