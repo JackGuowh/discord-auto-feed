@@ -1124,7 +1124,9 @@
   "wscn:3187872",
   "wscn:3187871",
   "wscn:3187879",
-  "wscn:3187880"
+  "wscn:3187880",
+  "wscn:3187887",
+  "wscn:3187881"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1388,7 +1390,8 @@
   "tg:WalterBloomberg/37472",
   "tg:WalterBloomberg/37471",
   "tg:WalterBloomberg/37473",
-  "tg:WalterBloomberg/37474"
+  "tg:WalterBloomberg/37474",
+  "tg:WalterBloomberg/37475"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1544,7 +1547,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793127001.0751305,
+ "congress_last_check": 1793128850.5878303,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1562,7 +1565,7 @@
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27"
  ],
- "earnings_last_check": 1793128470.4881604,
+ "earnings_last_check": 1793129090.6291301,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2910,7 +2913,9 @@
   "tg:FinancialJuice/142936",
   "tg:FinancialJuice/142935",
   "tg:FinancialJuice/142934",
-  "tg:FinancialJuice/142933"
+  "tg:FinancialJuice/142933",
+  "tg:FinancialJuice/142938",
+  "tg:FinancialJuice/142937"
  ],
  "shows_v4": 1
 }
