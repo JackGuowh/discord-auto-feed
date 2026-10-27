@@ -43,6 +43,10 @@ def run_wscn(state):
             title = (r.get("title") or "").strip()
             if not text or not keyword_ok(title + text):
                 continue
+            body = title + text
+            if (any(w in body for w in C.WSCN_EXCLUDE)
+                    and not any(w in body for w in C.WSCN_US_HINTS)):
+                continue  # 非美市场快讯
             important = (r.get("score") or 1) >= 2
             ts = datetime.fromtimestamp(r["display_time"], timezone.utc).isoformat()
             imgs = r.get("images") or []
