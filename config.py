@@ -122,7 +122,8 @@ CAL_DATA_MIN_IMPORTANCE = 2          # 经济数据：重要度 ≥ 2 列出
 CAL_EVENT_MIN_IMPORTANCE = 3         # 事件（发布会、讲话等）：重要度 ≥ 3 列出
 CAL_HIGHLIGHT_IMPORTANCE = 3         # 重要度 ≥ 3 的高亮显示
 CAL_STAR_EARNINGS = 15             # 本周最受关注的前 15 家财报加粗高亮
-CAL_EARNINGS_PER_DAY = 6             # 日历图里每天列出的热门财报数量
+CAL_MACRO_PER_DAY = 7               # 每天最多列几条经济数据/事件（重要的优先）
+CAL_EARNINGS_PER_DAY = 5             # 日历图里每天列出的热门财报数量
 # 财报来源：Earnings Whispers「Most Anticipated Earnings Releases」
 EARNINGS_MAX_TICKERS = 60            # 财报帖里最多列出多少个代码
 
