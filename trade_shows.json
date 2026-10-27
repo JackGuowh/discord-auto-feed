@@ -2,6 +2,21 @@
   "_说明": "展会清单（人工核实）。fee 为每人参会费用（不含差旅、展位）。verified 为核实日期。有新展会或信息变化，直接改这个文件即可。 short / fee_short 用于总表的一行显示。",
   "shows": [
     {
+      "name": "SpaceCom Expo 2027",
+      "category": "航天",
+      "gases": "He（火箭增压/吹扫）、Xe、Kr（电推进）",
+      "why": "商业航天展会，佛州发射场所在地，适合找火箭发射商推氦气、找卫星公司推氙氪",
+      "start": "2027-01-12",
+      "end": "2027-01-14",
+      "city": "Orlando, FL",
+      "venue": "Orange County Convention Center",
+      "fee": "2027 价格待官网公布",
+      "url": "https://commercialspaceweek.com/spacecom",
+      "verified": "2026-10-26",
+      "short": "SpaceCom",
+      "fee_short": "待公布"
+    },
+    {
       "name": "SPIE Photonics West 2027",
       "category": "激光 / 光电",
       "gases": "Kr、Xe、Ne（准分子/气体激光器）、He",
@@ -60,6 +75,21 @@
       "verified": "2026-10-22",
       "short": "GAWDA SE Regional",
       "fee_short": "会员价"
+    },
+    {
+      "name": "ACS Spring 2027（美国化学会春季大会）",
+      "category": "实验室 / 科研",
+      "gases": "He（GC-MS 载气、ICP-MS 碰撞气）",
+      "why": "全美最大的化学会议，高校和机构实验室 PI 集中，有展区",
+      "start": "2027-03-21",
+      "end": "2027-03-25",
+      "city": "New Orleans, LA",
+      "venue": "",
+      "fee": "见 ACS 官网（结束日期为按惯例估计，以官网为准）",
+      "url": "https://www.acs.org/meetings/acs-meetings/future-meetings.html",
+      "verified": "2026-10-26",
+      "short": "ACS Spring",
+      "fee_short": "见官网"
     },
     {
       "name": "SEMICON West 2027",
@@ -135,6 +165,21 @@
       "verified": "2026-10-22",
       "short": "CGA Annual Meeting",
       "fee_short": "见官网"
+    },
+    {
+      "name": "AIAA ASCEND 2027",
+      "category": "航天",
+      "gases": "Xe、Kr（电推进）、He",
+      "why": "美国航空航天学会的商业航天大会，在 DC 本地，差旅成本低；内容偏政策和战略",
+      "start": "2027-05-18",
+      "end": "2027-05-20",
+      "city": "Washington, DC",
+      "venue": "",
+      "fee": "2027 注册未开放（预计 2027 年初）；参展区包含在注册票内",
+      "url": "https://ascend.events/attend/registration/",
+      "verified": "2026-10-26",
+      "short": "ASCEND",
+      "fee_short": "待公布"
     },
     {
       "name": "ASMS 2027（美国质谱学会年会）",
@@ -300,6 +345,36 @@
       "verified": "2026-10-22",
       "short": "GAWDA Annual Convention",
       "fee_short": "会员价"
+    },
+    {
+      "name": "The Battery Show North America 2027",
+      "category": "电池 / 电动车",
+      "gases": "He（检漏）",
+      "why": "北美最大的电池和电动车制造展，电池包和电芯生产大量用氦气做检漏",
+      "start": "2027-10-11",
+      "end": "2027-10-14",
+      "city": "Detroit, MI",
+      "venue": "Huntington Place",
+      "fee": "见官网（展区通常提前登记免费）",
+      "url": "https://www.thebatteryshow.com",
+      "verified": "2026-10-26",
+      "short": "The Battery Show",
+      "fee_short": "见官网"
+    },
+    {
+      "name": "GlassBuild America 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "北美最大的玻璃门窗展，三层中空玻璃用氪气填充隔热，是氪气最大的民用稳定需求，买家是中空玻璃和门窗厂",
+      "start": "2027-10-26",
+      "end": "2027-10-28",
+      "city": "Orlando, FL",
+      "venue": "Orange County Convention Center (South & North Halls)",
+      "fee": "见官网",
+      "url": "https://glassbuildamerica.com",
+      "verified": "2026-10-26",
+      "short": "GlassBuild America",
+      "fee_short": "见官网"
     },
     {
       "name": "SEMICON West 2028",
