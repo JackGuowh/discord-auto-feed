@@ -356,8 +356,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183042",
-  "wscn:3183041",
   "wscn:3183039",
   "wscn:3183028",
   "wscn:3182950",
@@ -1153,7 +1151,11 @@
   "wscn:3187910",
   "wscn:3187918",
   "wscn:3187917",
-  "wscn:3187916"
+  "wscn:3187916",
+  "wscn:3187923",
+  "wscn:3187922",
+  "wscn:3187921",
+  "wscn:3187906"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1578,7 +1580,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793132494.851303,
+ "congress_last_check": 1793134338.7540946,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1598,7 +1600,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793134078.81131,
+ "earnings_last_check": 1793134702.2446303,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1750,7 +1752,7 @@
   "er:2026-10-27:TER",
   "er:2026-10-27:OKE"
  ],
- "gas_last_check": 1793133215.9253018,
+ "gas_last_check": 1793134458.3138418,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2588,7 +2590,9 @@
   "tg:insiderpaper/45546",
   "tg:insiderpaper/45547",
   "tg:insiderpaper/45548",
-  "tg:insiderpaper/45549"
+  "tg:insiderpaper/45549",
+  "tg:insiderpaper/45551",
+  "tg:insiderpaper/45550"
  ],
  "opt_daily": "2026-10-26",
  "opt_flow_last": 1793045302.4056692,
@@ -2978,7 +2982,10 @@
   "tg:FinancialJuice/142950",
   "tg:FinancialJuice/142955",
   "tg:FinancialJuice/142954",
-  "tg:FinancialJuice/142953"
+  "tg:FinancialJuice/142953",
+  "tg:FinancialJuice/142958",
+  "tg:FinancialJuice/142957",
+  "tg:FinancialJuice/142956"
  ],
  "shows_v4": 1
 }
