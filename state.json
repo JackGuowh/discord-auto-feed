@@ -1093,7 +1093,12 @@
   "wscn:3187866",
   "wscn:3187870",
   "wscn:3187869",
-  "wscn:3187835"
+  "wscn:3187835",
+  "wscn:3187876",
+  "wscn:3187874",
+  "wscn:3187873",
+  "wscn:3187872",
+  "wscn:3187871"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1352,7 +1357,8 @@
   "tg:WalterBloomberg/37466",
   "tg:WalterBloomberg/37465",
   "tg:WalterBloomberg/37464",
-  "tg:WalterBloomberg/37469"
+  "tg:WalterBloomberg/37469",
+  "tg:WalterBloomberg/37470"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1526,7 +1532,7 @@
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27"
  ],
- "earnings_last_check": 1793125143.3975115,
+ "earnings_last_check": 1793125941.0421288,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1671,7 +1677,7 @@
   "er:2026-10-27:SPGI",
   "er:2026-10-27:FCX"
  ],
- "gas_last_check": 1793124540.5648196,
+ "gas_last_check": 1793125761.2115583,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2500,7 +2506,8 @@
   "tg:insiderpaper/45540",
   "tg:insiderpaper/45542",
   "tg:insiderpaper/45543",
-  "tg:insiderpaper/45544"
+  "tg:insiderpaper/45544",
+  "tg:insiderpaper/45545"
  ],
  "opt_daily": "2026-10-26",
  "opt_flow_last": 1793045302.4056692,
@@ -2856,7 +2863,14 @@
   "tg:FinancialJuice/142918",
   "tg:FinancialJuice/142917",
   "tg:FinancialJuice/142921",
-  "tg:FinancialJuice/142920"
+  "tg:FinancialJuice/142920",
+  "tg:FinancialJuice/142928",
+  "tg:FinancialJuice/142927",
+  "tg:FinancialJuice/142926",
+  "tg:FinancialJuice/142925",
+  "tg:FinancialJuice/142924",
+  "tg:FinancialJuice/142923",
+  "tg:FinancialJuice/142922"
  ],
  "shows_v4": 1
 }
