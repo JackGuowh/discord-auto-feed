@@ -307,7 +307,31 @@
   "truth:https://www.trumpstruth.org/statuses/42777",
   "truth:https://www.trumpstruth.org/statuses/42778",
   "truth:https://www.trumpstruth.org/statuses/42779",
-  "truth:https://www.trumpstruth.org/statuses/42780"
+  "truth:https://www.trumpstruth.org/statuses/42780",
+  "truth:https://www.trumpstruth.org/statuses/42804",
+  "truth:https://www.trumpstruth.org/statuses/42802",
+  "truth:https://www.trumpstruth.org/statuses/42803",
+  "truth:https://www.trumpstruth.org/statuses/42801",
+  "truth:https://www.trumpstruth.org/statuses/42781",
+  "truth:https://www.trumpstruth.org/statuses/42782",
+  "truth:https://www.trumpstruth.org/statuses/42783",
+  "truth:https://www.trumpstruth.org/statuses/42784",
+  "truth:https://www.trumpstruth.org/statuses/42785",
+  "truth:https://www.trumpstruth.org/statuses/42786",
+  "truth:https://www.trumpstruth.org/statuses/42787",
+  "truth:https://www.trumpstruth.org/statuses/42788",
+  "truth:https://www.trumpstruth.org/statuses/42789",
+  "truth:https://www.trumpstruth.org/statuses/42791",
+  "truth:https://www.trumpstruth.org/statuses/42792",
+  "truth:https://www.trumpstruth.org/statuses/42790",
+  "truth:https://www.trumpstruth.org/statuses/42793",
+  "truth:https://www.trumpstruth.org/statuses/42794",
+  "truth:https://www.trumpstruth.org/statuses/42795",
+  "truth:https://www.trumpstruth.org/statuses/42796",
+  "truth:https://www.trumpstruth.org/statuses/42797",
+  "truth:https://www.trumpstruth.org/statuses/42798",
+  "truth:https://www.trumpstruth.org/statuses/42799",
+  "truth:https://www.trumpstruth.org/statuses/42800"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1363,7 +1387,8 @@
   "tg:WalterBloomberg/37470",
   "tg:WalterBloomberg/37472",
   "tg:WalterBloomberg/37471",
-  "tg:WalterBloomberg/37473"
+  "tg:WalterBloomberg/37473",
+  "tg:WalterBloomberg/37474"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1537,7 +1562,7 @@
   "movers_pre:2026-10-27",
   "market_fg:2026-10-27"
  ],
- "earnings_last_check": 1793127600.9876819,
+ "earnings_last_check": 1793128470.4881604,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1682,7 +1707,7 @@
   "er:2026-10-27:SPGI",
   "er:2026-10-27:FCX"
  ],
- "gas_last_check": 1793127001.445422,
+ "gas_last_check": 1793128282.9164956,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1992,7 +2017,8 @@
   "gas:CBMirgFBVV95cUxNVEdGcVY4dlRCb0paU0VUZjlDNEIzaHVYei1mN19xM1dOb3FLMUlUZ2JLVjNTQzB6cWszMmMwT1hoUUR4aG5lNExPQlV3LXNFQ0I4ZVE4X0hvTGpxLUJEX29kT1BsZ2tIWEpBTDFvOGRBV1h0YUhMYUduTWFJdGZfaWR6ZUxvaDlRWERFd3B0ZHRLRDRDRWp2YmZvMVZGM2NqcFhJN0N0Qkg3RU9SZWfSAbMBQVVfeXFMUG5jbGdSdExyUXBQTFBDVEVydDVEc0tidXpWYmUwUTNqNUFwTVBndkpEMjZyS2pLc1ZKajRSNlhxYkFkbTFCajFWYjlQY0U1WGhZZHJkNllFdWV2Wk5JQkUtLTdUVjlpc1lGZkR0TnZqNk5iakRBdGM0UkhTY01RN2lfWWlWNlcwalJKeG1CMXN5MWIwT2F3b0hSOW9oaU5zUVNzaW1Nekh5alJMM1dWelVQNDA",
   "gas:CBMikwFBVV95cUxNNDNCMTRRcjBwaEc0UWUxYURSSVJWbENJYnI4VDh4ZGlWd085M0VpWjdYWG5OOXBSeFdqOWV1SjJFLXkzT0M0Q0gya2duQkpDeUN4RGpVZUNNcFBmSVJnVnNJVkZRQkVZaGRuYTlmdlIxN0Z2SnpZN1ZYUjg5SzN5NVllbl9hVXZqcFJhZ1R5QTNjYXc",
   "gas:CBMiU0FVX3lxTE9sZXNWRnZ0bUJpeXhWeVdSc2VkTFdnYUVjVmpmS1VJQk5yYWtpNkUzVHV6aVhwNXp3TzNkWDFYYkZtTmJrUFVMNU1TVTYtX0pMTkRj",
-  "gas:CBMimgFBVV95cUxNOVF2d3loVkItWnc0M1JpR29MNEx1RHpJLTBwVElldS13cFBXTGRjU3Y3S1BhSUhSUmc4NHF6a3hlSzRMcTRRaVU5QTRIblBCVjRsckhsNlZQZkNETzlHYllrV1k4c0NKdW5vZmh4S3NHcnFYNUotcVpwOGNzRGFEWkIxclpNQ0FGREpFMGl0UFEwbzN6eWpCYWJn"
+  "gas:CBMimgFBVV95cUxNOVF2d3loVkItWnc0M1JpR29MNEx1RHpJLTBwVElldS13cFBXTGRjU3Y3S1BhSUhSUmc4NHF6a3hlSzRMcTRRaVU5QTRIblBCVjRsckhsNlZQZkNETzlHYllrV1k4c0NKdW5vZmh4S3NHcnFYNUotcVpwOGNzRGFEWkIxclpNQ0FGREpFMGl0UFEwbzN6eWpCYWJn",
+  "gas:CBMizAFBVV95cUxQZHF5bzd2T2RPZG10Yy02WkRyWU52VjZuZllxVlN6N3J2Z0FlaGNfakVici01MmsxNDhLZS1qX3FZZkdnMFlqd1BDeTVqaUdLR1ZHNlJSZHBtZWc1dVR2bUg4REtxMGJ4NUxDTV9naUpya19DV05RNWROemJUY2Z5NGtzWnRTbmp6Um5jYU1FdHBPaHRzOVNLUzZ1M2JCQnZhUnI5c19DYk9RWS11R09MdnZwbmkwbklCOGlTNlVTUllFSWtYS1lRN0xwYjQ"
  ],
  "shows_last_day": "2026-10-27",
  "shows_init": "2026-10-22",
@@ -2880,7 +2906,11 @@
   "tg:FinancialJuice/142929",
   "tg:FinancialJuice/142932",
   "tg:FinancialJuice/142931",
-  "tg:FinancialJuice/142930"
+  "tg:FinancialJuice/142930",
+  "tg:FinancialJuice/142936",
+  "tg:FinancialJuice/142935",
+  "tg:FinancialJuice/142934",
+  "tg:FinancialJuice/142933"
  ],
  "shows_v4": 1
 }
