@@ -8,6 +8,12 @@ WSCN_CHANNELS = [("us-stock-channel", 1)]   # 只要美股快讯
 WSCN_MIN_SCORE = 1
 # 突发新闻是否只推美股相关（False = 和参考服务器一样，全球要闻、政治、科技都推）
 NEWS_US_ONLY = True
+# 华尔街见闻「美股」频道里也夹杂非美市场快讯：含下列词、又不含美国相关词的跳过
+WSCN_EXCLUDE = ["港股", "恒生", "恒指", "A股", "沪指", "深成指", "创业板", "科创板", "欧股", "欧洲", "斯托克",
+                "富时", "DAX", "日经", "日股", "日本", "韩国", "韩股", "KOSPI", "印度", "非洲", "北欧", "英国",
+                "澳洲", "澳股", "MSCI", "人民币", "中国央行", "逆回购", "俄罗斯", "乌克兰"]
+WSCN_US_HINTS = ["美股", "美国", "美联储", "特朗普", "纳斯达克", "纳指", "标普", "道指", "华尔街", "美债", "美元",
+                 "$", "苹果", "微软", "英伟达", "特斯拉", "亚马逊", "谷歌", "Meta", "OpenAI", "Anthropic"]
 # 只推含这些关键词的快讯（留空 = 不过滤）。例如 ["美联储", "特朗普", "英伟达"]
 NEWS_KEYWORDS = []
 # 额外的中文 RSS 新闻源（名称, 链接）。不需要可以清空列表
@@ -20,6 +26,7 @@ TELEGRAM_CHANNELS = [
     ("WatcherGuru", "Watcher Guru"),           # JUST IN 类突发新闻
     ("disclosetv", "Disclose.tv"),             # 全球/美国政治突发
     ("insiderpaper", "Insider Paper"),         # 全球突发、财经
+    ("financialjuice", "FinancialJuice"),      # 实时财经头条（量大，只留美股相关）
     ("QuiverQuant", "Quiver Quantitative", "WEBHOOK_WHITEHOUSE", True),  # 国会交易/政策数据 → 白宫内幕
 ]
 # 只推美股相关：包含股票代码（如 $TSLA）或下列任一关键词的才推送
