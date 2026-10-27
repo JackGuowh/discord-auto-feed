@@ -64,7 +64,14 @@ WHITEHOUSE_PRESS = False        # 是否推送白宫官网新闻稿（非美股�
 
 # ===== 🏛️ 白宫内幕：国会议员股票交易 =====
 CONGRESS_CHECK_MINUTES = 30     # 每 30 分钟检查一次 Capitol Trades（申报一天更新几次）
-CONGRESS_SKIP_SMALL = False     # True = 跳过 $1K–15K 的小额交易
+CONGRESS_SKIP_SMALL = False
+# 只推"有意思"的交易（满足任一条件）：金额上限合计 ≥ 5 万美元 / 热门股 / 交易后涨跌 ≥ 15% / 议员在相关委员会
+CONGRESS_MIN_AMOUNT = 50_000
+CONGRESS_MIN_MOVE = 15
+CONGRESS_HOT_EXTRA = ["SPCX", "LMT", "RTX", "NOC", "BA", "XOM", "CVX", "JPM", "BAC", "GS", "UNH", "LLY", "BRK.B"]
+# 突发新闻里提到议员炒股/禁止交易法案的，额外转发到白宫内幕
+WHITEHOUSE_POLICY_PATTERN = (r"STOCK ACT|STOCK[- ]TRADING BAN|BAN (ON )?(CONGRESSIONAL |LAWMAKERS?'? )?STOCK|"
+                             r"CONGRESSIONAL (STOCK )?TRAD|LAWMAKERS?'? STOCK|MEMBERS OF CONGRESS .*STOCK|PELOSI")     # True = 跳过 $1K–15K 的小额交易
 
 # ===== 📈 市场指标 =====
 # 盘前推一次恐惧贪婪指数；收盘后推恐惧贪婪指数 + Reddit 24H 热度榜
