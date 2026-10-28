@@ -362,7 +362,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183781",
   "wscn:3183780",
   "wscn:3183779",
   "wscn:3183777",
@@ -1161,7 +1160,8 @@
   "wscn:3189160",
   "wscn:3189180",
   "wscn:3189201",
-  "wscn:3189200"
+  "wscn:3189200",
+  "wscn:3189208"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1444,7 +1444,10 @@
   "tg:WalterBloomberg/37491",
   "tg:WalterBloomberg/37490",
   "tg:WalterBloomberg/37489",
-  "tg:WalterBloomberg/37493"
+  "tg:WalterBloomberg/37493",
+  "tg:WalterBloomberg/37496",
+  "tg:WalterBloomberg/37495",
+  "tg:WalterBloomberg/37494"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1639,9 +1642,10 @@
   "market_fg:2026-10-27",
   "market_close:2026-10-27",
   "movers_post:2026-10-27",
-  "movers_pre:2026-10-28"
+  "movers_pre:2026-10-28",
+  "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793194155.1407814,
+ "earnings_last_check": 1793194960.7188172,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1803,7 +1807,7 @@
   "er:2026-10-28:IP",
   "er:2026-10-28:APH"
  ],
- "gas_last_check": 1793193407.300408,
+ "gas_last_check": 1793194660.5947673,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3310,7 +3314,38 @@
   "tg:FinancialJuice/143207",
   "tg:FinancialJuice/143206",
   "tg:FinancialJuice/143205",
-  "tg:FinancialJuice/143204"
+  "tg:FinancialJuice/143204",
+  "tg:FinancialJuice/143211",
+  "tg:FinancialJuice/143210",
+  "tg:FinancialJuice/143212",
+  "tg:FinancialJuice/143216",
+  "tg:FinancialJuice/143215",
+  "tg:FinancialJuice/143214",
+  "tg:FinancialJuice/143213",
+  "tg:FinancialJuice/143218",
+  "tg:FinancialJuice/143217",
+  "tg:FinancialJuice/143219",
+  "tg:FinancialJuice/143220",
+  "tg:FinancialJuice/143240",
+  "tg:FinancialJuice/143239",
+  "tg:FinancialJuice/143238",
+  "tg:FinancialJuice/143237",
+  "tg:FinancialJuice/143236",
+  "tg:FinancialJuice/143235",
+  "tg:FinancialJuice/143234",
+  "tg:FinancialJuice/143233",
+  "tg:FinancialJuice/143232",
+  "tg:FinancialJuice/143231",
+  "tg:FinancialJuice/143230",
+  "tg:FinancialJuice/143229",
+  "tg:FinancialJuice/143228",
+  "tg:FinancialJuice/143227",
+  "tg:FinancialJuice/143226",
+  "tg:FinancialJuice/143225",
+  "tg:FinancialJuice/143224",
+  "tg:FinancialJuice/143223",
+  "tg:FinancialJuice/143222",
+  "tg:FinancialJuice/143221"
  ],
  "shows_v4": 1
 }
