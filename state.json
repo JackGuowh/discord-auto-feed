@@ -335,7 +335,8 @@
   "truth:https://www.trumpstruth.org/statuses/42808",
   "truth:https://www.trumpstruth.org/statuses/42806",
   "truth:https://www.trumpstruth.org/statuses/42807",
-  "truth:https://www.trumpstruth.org/statuses/42805"
+  "truth:https://www.trumpstruth.org/statuses/42805",
+  "truth:https://www.trumpstruth.org/statuses/42809"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1602,7 +1603,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793162051.5102646,
+ "congress_last_check": 1793163909.560512,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1622,7 +1623,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793163708.3759592,
+ "earnings_last_check": 1793164388.7014935,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1774,7 +1775,7 @@
   "er:2026-10-27:TER",
   "er:2026-10-27:OKE"
  ],
- "gas_last_check": 1793162728.9029832,
+ "gas_last_check": 1793163968.821904,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
