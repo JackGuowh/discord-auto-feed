@@ -362,8 +362,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183780",
-  "wscn:3183779",
   "wscn:3183777",
   "wscn:3183775",
   "wscn:3183796",
@@ -1161,7 +1159,9 @@
   "wscn:3189180",
   "wscn:3189201",
   "wscn:3189200",
-  "wscn:3189208"
+  "wscn:3189208",
+  "wscn:3189222",
+  "wscn:3189219"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1447,7 +1447,10 @@
   "tg:WalterBloomberg/37493",
   "tg:WalterBloomberg/37496",
   "tg:WalterBloomberg/37495",
-  "tg:WalterBloomberg/37494"
+  "tg:WalterBloomberg/37494",
+  "tg:WalterBloomberg/37499",
+  "tg:WalterBloomberg/37498",
+  "tg:WalterBloomberg/37497"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1508,7 +1511,8 @@
   "tg:WatcherGuru/15645",
   "tg:WatcherGuru/15646",
   "tg:WatcherGuru/15647",
-  "tg:WatcherGuru/15648"
+  "tg:WatcherGuru/15648",
+  "tg:WatcherGuru/15650"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1623,7 +1627,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793193289.6120477,
+ "congress_last_check": 1793195099.3801777,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1645,7 +1649,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793194960.7188172,
+ "earnings_last_check": 1793195827.0750542,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2492,7 +2496,45 @@
   "qv:Senate-B001277-55",
   "qv:Senate-B001277-56",
   "qv:Senate-B001277-57",
-  "qv:Senate-A000383-708"
+  "qv:Senate-A000383-708",
+  "qv:House-D000617-844",
+  "qv:House-D000617-843",
+  "qv:House-S000250-471",
+  "qv:House-S000250-467",
+  "qv:House-S000250-469",
+  "qv:House-S000250-470",
+  "qv:House-S000250-472",
+  "qv:House-S000250-474",
+  "qv:House-S000250-476",
+  "qv:House-S000250-475",
+  "qv:House-S000250-473",
+  "qv:House-S000250-498",
+  "qv:House-M001222-64",
+  "qv:House-M001222-65",
+  "qv:House-S000250-468",
+  "qv:House-S000250-478",
+  "qv:House-S000250-479",
+  "qv:House-S000250-480",
+  "qv:House-S000250-481",
+  "qv:House-S000250-482",
+  "qv:House-S000250-483",
+  "qv:House-S000250-484",
+  "qv:House-S000250-485",
+  "qv:House-S000250-486",
+  "qv:House-S000250-487",
+  "qv:House-S000250-488",
+  "qv:House-S000250-489",
+  "qv:House-S000250-491",
+  "qv:House-S000250-490",
+  "qv:House-S000250-493",
+  "qv:House-S000250-494",
+  "qv:House-S000250-492",
+  "qv:House-S000250-496",
+  "qv:House-S000250-495",
+  "qv:House-S000250-497",
+  "qv:House-S000250-477",
+  "qv:House-B001325-264",
+  "qv:House-A000375-1"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
@@ -3345,7 +3387,35 @@
   "tg:FinancialJuice/143224",
   "tg:FinancialJuice/143223",
   "tg:FinancialJuice/143222",
-  "tg:FinancialJuice/143221"
+  "tg:FinancialJuice/143221",
+  "tg:FinancialJuice/143245",
+  "tg:FinancialJuice/143244",
+  "tg:FinancialJuice/143243",
+  "tg:FinancialJuice/143242",
+  "tg:FinancialJuice/143241",
+  "tg:FinancialJuice/143246",
+  "tg:FinancialJuice/143247",
+  "tg:FinancialJuice/143248",
+  "tg:FinancialJuice/143268",
+  "tg:FinancialJuice/143267",
+  "tg:FinancialJuice/143266",
+  "tg:FinancialJuice/143265",
+  "tg:FinancialJuice/143264",
+  "tg:FinancialJuice/143263",
+  "tg:FinancialJuice/143262",
+  "tg:FinancialJuice/143261",
+  "tg:FinancialJuice/143260",
+  "tg:FinancialJuice/143259",
+  "tg:FinancialJuice/143258",
+  "tg:FinancialJuice/143257",
+  "tg:FinancialJuice/143256",
+  "tg:FinancialJuice/143255",
+  "tg:FinancialJuice/143254",
+  "tg:FinancialJuice/143253",
+  "tg:FinancialJuice/143252",
+  "tg:FinancialJuice/143251",
+  "tg:FinancialJuice/143250",
+  "tg:FinancialJuice/143249"
  ],
  "shows_v4": 1
 }
