@@ -1588,7 +1588,19 @@
   "uw:anthropic-co-founders-1-4-percent-stakes-13-billion-bloomberg",
   "uw:anthropic-ipo-filing-catastrophic-ai-incident-insurance-warning",
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
-  "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
+  "uw:mortgaged-homes-underwater-2-percent-goldman-sachs",
+  "uw:hacker-breach-federal-election-commission-systems-temporarily-shut-down-reuters",
+  "uw:trump-ban-term-ai-super-intelligence-ani",
+  "uw:discord-public-messages-google-search-discoverable-servers-techcrunch",
+  "uw:men-gained-no-jobs-trump-women-760000-payroll-data",
+  "uw:state-department-visas-flavio-bolsonaro-family-reuters",
+  "uw:flavio-bolsonaro-trump-administration-endorsed-flight-signaled-asylum-cnn",
+  "uw:trump-jr-mongolia-hunt-kremlev-wedding-financial-times",
+  "uw:united-ceo-scott-kirby-national-wealth-tax-inheritance-new-york-times",
+  "uw:putin-invites-zelensky-moscow-direct-negotiations-security-arrangements-anadolu",
+  "uw:flavio-bolsonaro-flees-brazil-florida-us-visas-reuters",
+  "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
+  "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
  "congress_last_check": 1793150959.8823078,
  "scheduler": [
@@ -1610,7 +1622,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793151619.7238586,
+ "earnings_last_check": 1793152422.9134223,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3099,7 +3111,9 @@
   "tg:FinancialJuice/143049",
   "tg:FinancialJuice/143048",
   "tg:FinancialJuice/143047",
-  "tg:FinancialJuice/143054"
+  "tg:FinancialJuice/143054",
+  "tg:FinancialJuice/143056",
+  "tg:FinancialJuice/143055"
  ],
  "shows_v4": 1
 }
