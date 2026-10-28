@@ -363,11 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183840",
-  "wscn:3183851",
-  "wscn:3183850",
-  "wscn:3183849",
-  "wscn:3183848",
   "wscn:3183857",
   "wscn:3183856",
   "wscn:3183854",
@@ -1162,7 +1157,12 @@
   "wscn:3189278",
   "wscn:3189277",
   "wscn:3189276",
-  "wscn:3189275"
+  "wscn:3189275",
+  "wscn:3189285",
+  "wscn:3189284",
+  "wscn:3189283",
+  "wscn:3189282",
+  "wscn:3189281"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1632,7 +1632,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793200641.2397513,
+ "congress_last_check": 1793202452.016596,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1654,7 +1654,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793202311.875173,
+ "earnings_last_check": 1793202934.9015114,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2724,7 +2724,8 @@
   "tg:insiderpaper/45563",
   "tg:insiderpaper/45562",
   "tg:insiderpaper/45565",
-  "tg:insiderpaper/45566"
+  "tg:insiderpaper/45566",
+  "tg:insiderpaper/45567"
  ],
  "opt_daily": "2026-10-27",
  "opt_flow_last": 1793045302.4056692,
@@ -3466,7 +3467,8 @@
   "tg:FinancialJuice/143304",
   "tg:FinancialJuice/143303",
   "tg:FinancialJuice/143302",
-  "tg:FinancialJuice/143307"
+  "tg:FinancialJuice/143307",
+  "tg:FinancialJuice/143308"
  ],
  "shows_v4": 1
 }
