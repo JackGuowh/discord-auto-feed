@@ -363,8 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183965",
-  "wscn:3183964",
   "wscn:3183963",
   "wscn:3183970",
   "wscn:3183969",
@@ -1162,7 +1160,9 @@
   "wscn:3189386",
   "wscn:3189385",
   "wscn:3189384",
-  "wscn:3189383"
+  "wscn:3189383",
+  "wscn:3189397",
+  "wscn:3189396"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1495,7 +1495,12 @@
   "tg:WalterBloomberg/37539",
   "tg:WalterBloomberg/37543",
   "tg:WalterBloomberg/37542",
-  "tg:WalterBloomberg/37541"
+  "tg:WalterBloomberg/37541",
+  "tg:WalterBloomberg/37548",
+  "tg:WalterBloomberg/37547",
+  "tg:WalterBloomberg/37546",
+  "tg:WalterBloomberg/37545",
+  "tg:WalterBloomberg/37544"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1678,7 +1683,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793217078.6525567,
+ "congress_last_check": 1793218922.5166564,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1698,9 +1703,10 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27",
   "movers_pre:2026-10-28",
-  "market_fg:2026-10-28"
+  "market_fg:2026-10-28",
+  "market_close:2026-10-28"
  ],
- "earnings_last_check": 1793218306.2335334,
+ "earnings_last_check": 1793219006.9440167,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1868,7 +1874,9 @@
   "er:2026-10-28:FTNT",
   "er:2026-10-28:CMG",
   "er:2026-10-28:FDX",
-  "er:2026-10-28:TMUS"
+  "er:2026-10-28:TMUS",
+  "er:2026-10-28:CVNA",
+  "er:2026-10-28:F"
  ],
  "gas_last_check": 1793218068.8262901,
  "gas:GAWDA Media": [
@@ -3668,7 +3676,24 @@
   "tg:FinancialJuice/143435",
   "tg:FinancialJuice/143434",
   "tg:FinancialJuice/143433",
-  "tg:FinancialJuice/143432"
+  "tg:FinancialJuice/143432",
+  "tg:FinancialJuice/143459",
+  "tg:FinancialJuice/143458",
+  "tg:FinancialJuice/143457",
+  "tg:FinancialJuice/143456",
+  "tg:FinancialJuice/143455",
+  "tg:FinancialJuice/143454",
+  "tg:FinancialJuice/143453",
+  "tg:FinancialJuice/143452",
+  "tg:FinancialJuice/143451",
+  "tg:FinancialJuice/143450",
+  "tg:FinancialJuice/143449",
+  "tg:FinancialJuice/143448",
+  "tg:FinancialJuice/143447",
+  "tg:FinancialJuice/143446",
+  "tg:FinancialJuice/143445",
+  "tg:FinancialJuice/143444",
+  "tg:FinancialJuice/143443"
  ],
  "shows_v4": 1
 }
