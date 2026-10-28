@@ -1604,7 +1604,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793182307.5670877,
+ "congress_last_check": 1793184147.6064858,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1624,7 +1624,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793183649.9779909,
+ "earnings_last_check": 1793184507.6163552,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3204,7 +3204,9 @@
   "tg:FinancialJuice/143119",
   "tg:FinancialJuice/143118",
   "tg:FinancialJuice/143134",
-  "tg:FinancialJuice/143133"
+  "tg:FinancialJuice/143133",
+  "tg:FinancialJuice/143136",
+  "tg:FinancialJuice/143135"
  ],
  "shows_v4": 1
 }
