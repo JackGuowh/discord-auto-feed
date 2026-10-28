@@ -363,11 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183891",
-  "wscn:3183890",
-  "wscn:3183889",
-  "wscn:3183888",
-  "wscn:3183901",
   "wscn:3183900",
   "wscn:3183899",
   "wscn:3183897",
@@ -1162,7 +1157,12 @@
   "wscn:3189329",
   "wscn:3189327",
   "wscn:3189326",
-  "wscn:3189324"
+  "wscn:3189324",
+  "wscn:3189334",
+  "wscn:3189333",
+  "wscn:3189332",
+  "wscn:3189331",
+  "wscn:3189330"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1461,7 +1461,15 @@
   "tg:WalterBloomberg/37507",
   "tg:WalterBloomberg/37506",
   "tg:WalterBloomberg/37508",
-  "tg:WalterBloomberg/37509"
+  "tg:WalterBloomberg/37509",
+  "tg:WalterBloomberg/37517",
+  "tg:WalterBloomberg/37516",
+  "tg:WalterBloomberg/37515",
+  "tg:WalterBloomberg/37514",
+  "tg:WalterBloomberg/37513",
+  "tg:WalterBloomberg/37512",
+  "tg:WalterBloomberg/37511",
+  "tg:WalterBloomberg/37510"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1526,7 +1534,8 @@
   "tg:WatcherGuru/15650",
   "tg:WatcherGuru/15652",
   "tg:WatcherGuru/15653",
-  "tg:WatcherGuru/15654"
+  "tg:WatcherGuru/15654",
+  "tg:WatcherGuru/15655"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1663,7 +1672,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793210192.549585,
+ "earnings_last_check": 1793210991.2814417,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1825,7 +1834,7 @@
   "er:2026-10-28:IP",
   "er:2026-10-28:APH"
  ],
- "gas_last_check": 1793209453.3873663,
+ "gas_last_check": 1793210691.4150023,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2153,7 +2162,8 @@
   "gas:CBMi-wFBVV95cUxPTGRMQXRha0w0U3RGdDF4eEt4SFVwYkN5Yl9rVXNxMkVCZEtsdERtNDUtWl9NWWVUVzFlMUMteUh4cTFTVEJMM29QR0JTSEZMSTlfNVpOU2I5NTV3Rmg5cnN4QnpMQUp5eW5ZaE4tNGI2Wlh1TEktQ1JoVFozZHNRTk9sOV8xQ1gtOTd1bzRZWEJSallsZE9iZ3MyckdIaW1NalFOc0hraEhhX19NY05OQnlrUU5EemEtd3MyZGJSSU5FSzMyOEpLSXVtMGYtTGFSeWhmMmFRb0NLbFFhdWtCNzJoUWZpOFdZZlhHQTYzb1psQ2J4WmY2OFhyTQ",
   "gas:CBMitgFBVV95cUxNOGQxZ1pLMnFTU0FVN25NTWJYVVpUWmFJR29wWkNIZUNRLVJpMmNXZVRQY2VVQjhQbGRWMnZtWG9UUjFIY05pdVF3czF4N2pLYV90aWowQzhpT1cyXzQ0b3BxZ19MZE53T0huQkZ5dFlNc2Z2cUllUmNoMlRHSHJPV1VmTGRTcjFtaGlDV1VBemJ3bVUxRTlwT3B4UG4wbmk3VFFmUmZLakhNQXhqR1h3OTlRM3Y2QQ",
   "gas:CBMiugFBVV95cUxNQ01kLTZMenduWU12b3B5RXZrZWttU2VVXzVzZURWdVlrZUdja24tMDAteHNXLTlsaldULWFwNVBHRTNSeEE2ZHp3aDc3V0cyN3JYdlBELU1wLWo3YkVaYllWY0o0UGNvNmVwalI3NWRsdmM4S1EzWFdOM0NvMjJWbjUwY3BzV3pJOHBSV3h0UllXQ0taZDRvdklRdWpOTWpBeWlLYkxNaV9NMHp4aFlyM044OTRlLXRYZnc",
-  "gas:CBMiV0FVX3lxTE5sMGZrMVJmdjJxNHNUOENMei1sWFItS2I0MzhCdjc0WC1rZXhWNl83Tl9HSjBrUS1CNHh0M0V1bWw4OTc1V2IxdHpvZkhtT3ZNbVoxU1NEVQ"
+  "gas:CBMiV0FVX3lxTE5sMGZrMVJmdjJxNHNUOENMei1sWFItS2I0MzhCdjc0WC1rZXhWNl83Tl9HSjBrUS1CNHh0M0V1bWw4OTc1V2IxdHpvZkhtT3ZNbVoxU1NEVQ",
+  "gas:CBMif0FVX3lxTE5fV2ZDeFB2b1JvMzNtbW56ZlptMzBUQ0FuQ1N6aEV0d29sN2sxcE1wN09ScHNBbnN4WGNoVHRDNExqNHk3VU5uZjczRlA5cE8yeC1tT0dZdjR5R3FSb21lT0VMUHRycVQ4T0Z1U3RsV1Y2WTFYNnUxWk9Eb2hjZnM"
  ],
  "shows_last_day": "2026-10-28",
  "shows_init": "2026-10-22",
@@ -2744,7 +2754,8 @@
   "tg:insiderpaper/45570",
   "tg:insiderpaper/45571",
   "tg:insiderpaper/45572",
-  "tg:insiderpaper/45573"
+  "tg:insiderpaper/45573",
+  "tg:insiderpaper/45574"
  ],
  "opt_daily": "2026-10-27",
  "opt_flow_last": 1793045302.4056692,
@@ -3507,7 +3518,21 @@
   "tg:FinancialJuice/143326",
   "tg:FinancialJuice/143325",
   "tg:FinancialJuice/143324",
-  "tg:FinancialJuice/143328"
+  "tg:FinancialJuice/143328",
+  "tg:FinancialJuice/143342",
+  "tg:FinancialJuice/143341",
+  "tg:FinancialJuice/143340",
+  "tg:FinancialJuice/143339",
+  "tg:FinancialJuice/143338",
+  "tg:FinancialJuice/143337",
+  "tg:FinancialJuice/143336",
+  "tg:FinancialJuice/143335",
+  "tg:FinancialJuice/143334",
+  "tg:FinancialJuice/143333",
+  "tg:FinancialJuice/143332",
+  "tg:FinancialJuice/143331",
+  "tg:FinancialJuice/143330",
+  "tg:FinancialJuice/143329"
  ],
  "shows_v4": 1
 }
