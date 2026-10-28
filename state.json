@@ -1588,7 +1588,7 @@
   "uw:google-cut-down-250k-trees-finland-data-center-wolves-new-york-post",
   "uw:mortgaged-homes-underwater-2-percent-goldman-sachs"
  ],
- "congress_last_check": 1793143559.0070288,
+ "congress_last_check": 1793145410.8747354,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1608,7 +1608,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793145155.8787117,
+ "earnings_last_check": 1793146010.9677827,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1760,7 +1760,7 @@
   "er:2026-10-27:TER",
   "er:2026-10-27:OKE"
  ],
- "gas_last_check": 1793144299.044725,
+ "gas_last_check": 1793145530.8542461,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3020,7 +3020,9 @@
   "tg:FinancialJuice/142976",
   "tg:FinancialJuice/142975",
   "tg:FinancialJuice/142978",
-  "tg:FinancialJuice/142977"
+  "tg:FinancialJuice/142977",
+  "tg:FinancialJuice/142980",
+  "tg:FinancialJuice/142979"
  ],
  "shows_v4": 1
 }
