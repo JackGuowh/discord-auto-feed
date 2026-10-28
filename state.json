@@ -1702,7 +1702,8 @@
   "uw:bank-of-canada-hikes-rates-2-5-percent-first-since-2023",
   "uw:california-students-read-math-grade-level-new-york-post",
   "uw:fund-managers-overweight-tech-highest-since-2020-bank-of-america",
-  "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj"
+  "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
+  "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
  "congress_last_check": 1793226211.4095454,
  "scheduler": [
@@ -1728,7 +1729,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793227069.3556457,
+ "earnings_last_check": 1793227927.762186,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1900,7 +1901,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793226709.530795,
+ "gas_last_check": 1793227928.099721,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
