@@ -1602,7 +1602,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793152802.0629258,
+ "congress_last_check": 1793154643.9884098,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1622,7 +1622,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793153900.7834814,
+ "earnings_last_check": 1793154763.1247861,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1774,7 +1774,7 @@
   "er:2026-10-27:TER",
   "er:2026-10-27:OKE"
  ],
- "gas_last_check": 1793152942.0515435,
+ "gas_last_check": 1793154163.0972674,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3121,7 +3121,23 @@
   "tg:FinancialJuice/143062",
   "tg:FinancialJuice/143061",
   "tg:FinancialJuice/143060",
-  "tg:FinancialJuice/143059"
+  "tg:FinancialJuice/143059",
+  "tg:FinancialJuice/143080",
+  "tg:FinancialJuice/143079",
+  "tg:FinancialJuice/143078",
+  "tg:FinancialJuice/143077",
+  "tg:FinancialJuice/143076",
+  "tg:FinancialJuice/143075",
+  "tg:FinancialJuice/143074",
+  "tg:FinancialJuice/143073",
+  "tg:FinancialJuice/143072",
+  "tg:FinancialJuice/143071",
+  "tg:FinancialJuice/143070",
+  "tg:FinancialJuice/143069",
+  "tg:FinancialJuice/143068",
+  "tg:FinancialJuice/143067",
+  "tg:FinancialJuice/143066",
+  "tg:FinancialJuice/143065"
  ],
  "shows_v4": 1
 }
