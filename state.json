@@ -360,9 +360,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183272",
-  "wscn:3183277",
-  "wscn:3183293",
   "wscn:3183286",
   "wscn:3183299",
   "wscn:3183307",
@@ -1159,7 +1156,10 @@
   "wscn:3188015",
   "wscn:3188028",
   "wscn:3188026",
-  "wscn:3188098"
+  "wscn:3188098",
+  "wscn:3188115",
+  "wscn:3188116",
+  "wscn:3188114"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1602,7 +1602,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793160194.6624563,
+ "congress_last_check": 1793162051.5102646,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1622,7 +1622,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793161313.7806838,
+ "earnings_last_check": 1793161932.9557257,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1774,7 +1774,7 @@
   "er:2026-10-27:TER",
   "er:2026-10-27:OKE"
  ],
- "gas_last_check": 1793160314.4913144,
+ "gas_last_check": 1793161516.5406384,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
