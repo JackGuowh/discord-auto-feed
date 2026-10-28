@@ -1492,7 +1492,8 @@
   "tg:WatcherGuru/15642",
   "tg:WatcherGuru/15643",
   "tg:WatcherGuru/15644",
-  "tg:WatcherGuru/15645"
+  "tg:WatcherGuru/15645",
+  "tg:WatcherGuru/15646"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1607,7 +1608,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793185989.4806201,
+ "congress_last_check": 1793187798.1361876,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1627,7 +1628,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793187657.2532294,
+ "earnings_last_check": 1793188517.966051,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1788,7 +1789,7 @@
   "er:2026-10-28:BIIB",
   "er:2026-10-28:IP"
  ],
- "gas_last_check": 1793187298.6702993,
+ "gas_last_check": 1793188518.69076,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2108,7 +2109,8 @@
   "gas:CBMisgFBVV95cUxOOTRNWjhrT2I5eWtoaF8xUnR3RnBCVWE0aUFjYWxXRC1PTG8zOW14NDRNek5yV0lRN0xGYVRrNVVaWlhVOTVoVG1wVTZuUGhwT3JWOTJnVEhnVk4tTWVKVEZwcHJEdzJBNnQwOHRoV3pwVUttLVN2d1hOU2ROMFBGYWFya2ZGY1p3N1Q0VEpzelR4dDhFOEVmNVBOVlg4WUNSTjUyWjBSSHlQX3FNOVJTcnVR0gGyAUFVX3lxTE45NE1aOGtPYjl5a2hoXzFSdHdGcEJVYTRpQWNhbFdELU9MbzM5bXg0NE16TnJXSVE3TEZhVGs1VVpaWFU5NWhUbXBVNm5QaHBPclY5MmdUSGdWTi1NZUpURnBwckR3MkE2dDA4dGhXenBVS20tU3Z3WE5TZE4wUEZhYXJrZkZjWnc3VDRUSnN6VHh0OEU4RWY1UE5WWDhZQ1JONTJaMFJIeVBfcU05UlNydVE",
   "gas:CBMijgFBVV95cUxPY1FRTXBmS0toSW5tT1JHSU5Tb1RKREdCLUhpb3dwalhYVUN3OXdyLW9EX1VxVFViREZOTl9Id04zMkQ4VGxQZU5Qei10NkdoU2xnVkdIZm1BU0VXTWxBekV6VkllWEowU3c5REo2VDc4VnltZzRkT3YxSExVZjVtQS1rZzFGNXZTaUZRNVJ3",
   "gas:CBMiygFBVV95cUxPMkVKYmZhM0lYZmxiMmQwRjhSbEI5aWlJeXBKXzZUU3hWempYb2pPMjRHQ0tBVFI0ZC1IYTJNWkQwTHlLcy00VEdxY2VPVlowY2dPQWxsc2ctdDlLYUxOaHlpU1FoT19RdEtRMDNMOGo3TG5KUmk3ZThVeVZqSF9YMmNsSDNtQkJ4dmFoeFpjXzZBcUpfZjJ1Z0V6X1hhWXVaV1RfVnNjOWJOX0wwS1pQNnFqWFRlWXc1XzdXd0FyTWdLby1fVHZSMTJn",
-  "gas:CBMiuwFBVV95cUxOTm9URDh5d28zNHNoSmhaaTJSRndJTzlPWmRMT01xVzdOU3ljVFRSd0hzaDRONkxaaFBpVzRzTjFTRFlhNktlaC1tX3gydEU2SUg1Z19WSUdodUdJRzFhOTE3SG96eG1xM0NFeHY2dUIzMWF2WThtNjlxeGVud3JpeHBkRlNmczNJSnh0T255cUVxQzFCRDRTQzVnaDZqLUFlTjFCNlhaMWR0QkZ0RkRCNmlybVoxaHEyTFlj"
+  "gas:CBMiuwFBVV95cUxOTm9URDh5d28zNHNoSmhaaTJSRndJTzlPWmRMT01xVzdOU3ljVFRSd0hzaDRONkxaaFBpVzRzTjFTRFlhNktlaC1tX3gydEU2SUg1Z19WSUdodUdJRzFhOTE3SG96eG1xM0NFeHY2dUIzMWF2WThtNjlxeGVud3JpeHBkRlNmczNJSnh0T255cUVxQzFCRDRTQzVnaDZqLUFlTjFCNlhaMWR0QkZ0RkRCNmlybVoxaHEyTFlj",
+  "gas:CBMie0FVX3lxTE13OWU4V2FjdXJNVU1odlBnejhidDNobXNqVXJXYUVrOVlCc2oyMTQ1ZThPLVF6bnpDLWEzU3NpUnhlUmsta2JjTEt6TVFTU1NSb1pWLVFCYVdmeVFGN1V0MlM2SElZMW5jcVpjSDF4b0hUbEZ2b3MzRUlkVQ"
  ],
  "shows_last_day": "2026-10-27",
  "shows_init": "2026-10-22",
