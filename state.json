@@ -1610,7 +1610,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793187798.1361876,
+ "congress_last_check": 1793189598.5393593,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1630,7 +1630,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793189378.9608173,
+ "earnings_last_check": 1793190020.366112,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1792,7 +1792,7 @@
   "er:2026-10-28:IP",
   "er:2026-10-28:APH"
  ],
- "gas_last_check": 1793188518.69076,
+ "gas_last_check": 1793189718.6928575,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2113,7 +2113,8 @@
   "gas:CBMijgFBVV95cUxPY1FRTXBmS0toSW5tT1JHSU5Tb1RKREdCLUhpb3dwalhYVUN3OXdyLW9EX1VxVFViREZOTl9Id04zMkQ4VGxQZU5Qei10NkdoU2xnVkdIZm1BU0VXTWxBekV6VkllWEowU3c5REo2VDc4VnltZzRkT3YxSExVZjVtQS1rZzFGNXZTaUZRNVJ3",
   "gas:CBMiygFBVV95cUxPMkVKYmZhM0lYZmxiMmQwRjhSbEI5aWlJeXBKXzZUU3hWempYb2pPMjRHQ0tBVFI0ZC1IYTJNWkQwTHlLcy00VEdxY2VPVlowY2dPQWxsc2ctdDlLYUxOaHlpU1FoT19RdEtRMDNMOGo3TG5KUmk3ZThVeVZqSF9YMmNsSDNtQkJ4dmFoeFpjXzZBcUpfZjJ1Z0V6X1hhWXVaV1RfVnNjOWJOX0wwS1pQNnFqWFRlWXc1XzdXd0FyTWdLby1fVHZSMTJn",
   "gas:CBMiuwFBVV95cUxOTm9URDh5d28zNHNoSmhaaTJSRndJTzlPWmRMT01xVzdOU3ljVFRSd0hzaDRONkxaaFBpVzRzTjFTRFlhNktlaC1tX3gydEU2SUg1Z19WSUdodUdJRzFhOTE3SG96eG1xM0NFeHY2dUIzMWF2WThtNjlxeGVud3JpeHBkRlNmczNJSnh0T255cUVxQzFCRDRTQzVnaDZqLUFlTjFCNlhaMWR0QkZ0RkRCNmlybVoxaHEyTFlj",
-  "gas:CBMie0FVX3lxTE13OWU4V2FjdXJNVU1odlBnejhidDNobXNqVXJXYUVrOVlCc2oyMTQ1ZThPLVF6bnpDLWEzU3NpUnhlUmsta2JjTEt6TVFTU1NSb1pWLVFCYVdmeVFGN1V0MlM2SElZMW5jcVpjSDF4b0hUbEZ2b3MzRUlkVQ"
+  "gas:CBMie0FVX3lxTE13OWU4V2FjdXJNVU1odlBnejhidDNobXNqVXJXYUVrOVlCc2oyMTQ1ZThPLVF6bnpDLWEzU3NpUnhlUmsta2JjTEt6TVFTU1NSb1pWLVFCYVdmeVFGN1V0MlM2SElZMW5jcVpjSDF4b0hUbEZ2b3MzRUlkVQ",
+  "gas:CBMirgJBVV95cUxQd0JVTl9OVXdpT3V5dmxNNWVkS05ielA2ZnBFMkI3bUZJSnVKRThrZzl1a25hYU55b21YZlJvTEtLNEwwWnd2RHdwWVhMc1psTHpGY1BMS05MVVpWVDZJY0ViT0lHUUZBbzRuQ1VkU3hGVVJmbzJHbkY0OFJVUi1KOC1PT3RWanVxRnM5SFZvOGZQYThhVXhfMldiUWtaSm04a2FIWlBmM3cyc05NY3hjXzdGLWxfQUdUQ1ZBRjRQUk5PQV9IT3lGNEM2U0xzZzV4aTNIVUtIVmg0cHlnQjNnd2NrblJrN3NHWHB0MUQwSmtic2lOUkt5b0pjOUF0SnpHeW5HQ3dlc2VWZkhkZTZCSTB0ME02QkozYmM5NEhyTld5OG1hbVdlYm83SlhTZw"
  ],
  "shows_last_day": "2026-10-27",
  "shows_init": "2026-10-22",
@@ -3223,7 +3224,11 @@
   "tg:FinancialJuice/143138",
   "tg:FinancialJuice/143137",
   "tg:FinancialJuice/143140",
-  "tg:FinancialJuice/143139"
+  "tg:FinancialJuice/143139",
+  "tg:FinancialJuice/143144",
+  "tg:FinancialJuice/143143",
+  "tg:FinancialJuice/143142",
+  "tg:FinancialJuice/143141"
  ],
  "shows_v4": 1
 }
