@@ -363,10 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183865",
-  "wscn:3183868",
-  "wscn:3183875",
-  "wscn:3183874",
   "wscn:3183872",
   "wscn:3183871",
   "wscn:3183880",
@@ -1162,7 +1158,11 @@
   "wscn:3189298",
   "wscn:3189304",
   "wscn:3189303",
-  "wscn:3189305"
+  "wscn:3189305",
+  "wscn:3189310",
+  "wscn:3189308",
+  "wscn:3189307",
+  "wscn:3189306"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1457,7 +1457,9 @@
   "tg:WalterBloomberg/37502",
   "tg:WalterBloomberg/37505",
   "tg:WalterBloomberg/37504",
-  "tg:WalterBloomberg/37503"
+  "tg:WalterBloomberg/37503",
+  "tg:WalterBloomberg/37507",
+  "tg:WalterBloomberg/37506"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1657,7 +1659,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793206193.7261243,
+ "earnings_last_check": 1793207063.1426046,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1819,7 +1821,7 @@
   "er:2026-10-28:IP",
   "er:2026-10-28:APH"
  ],
- "gas_last_check": 1793205774.7189527,
+ "gas_last_check": 1793206995.4044693,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -1856,7 +1858,9 @@
   "gas:https://www.cganet.com/before-the-storm-el-niÃ±o-severe-weather-and-cga-safety-resources/",
   "gas:https://www.cganet.com/canada-annual-meeting-keynote-speaker-announced/",
   "gas:https://www.cganet.com/cga-releases-p-98-guideline-for-pressure-testing-of-field-installed-piping-and-equipment/",
-  "gas:https://www.cganet.com/cga-launches-semiconductor-standards-library-to-support-safety-and-reliability-in-semiconductor-manufacturing/"
+  "gas:https://www.cganet.com/cga-launches-semiconductor-standards-library-to-support-safety-and-reliability-in-semiconductor-manufacturing/",
+  "gas:https://www.cganet.com/u-s-department-of-energy-designates-helium-as-a-critical-material/",
+  "gas:https://www.cganet.com/home-oxygen-safety-five-simple-habits-that-make-a-difference/"
  ],
  "gas:Google 新闻": [
   "gas:CBMiUkFVX3lxTE8yMnp4VzR1UU8yWUhHdDJoQzhYV2FhUFlxTVVjd0JEdzl5cnp6MGV5Nkl5X2lPVGIyZ0prV2FhVlVxdHQ3dkRjSEJHSE5jaG92VkE",
@@ -3485,7 +3489,11 @@
   "tg:FinancialJuice/143317",
   "tg:FinancialJuice/143316",
   "tg:FinancialJuice/143315",
-  "tg:FinancialJuice/143314"
+  "tg:FinancialJuice/143314",
+  "tg:FinancialJuice/143323",
+  "tg:FinancialJuice/143322",
+  "tg:FinancialJuice/143321",
+  "tg:FinancialJuice/143320"
  ],
  "shows_v4": 1
 }
