@@ -363,18 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183912",
-  "wscn:3183911",
-  "wscn:3183910",
-  "wscn:3183909",
-  "wscn:3183916",
-  "wscn:3183915",
-  "wscn:3183919",
-  "wscn:3183918",
-  "wscn:3183917",
-  "wscn:3183924",
-  "wscn:3183923",
-  "wscn:3183922",
   "wscn:3183921",
   "wscn:3183930",
   "wscn:3183929",
@@ -1162,7 +1150,19 @@
   "wscn:3189345",
   "wscn:3189344",
   "wscn:3189342",
-  "wscn:3189341"
+  "wscn:3189341",
+  "wscn:3189357",
+  "wscn:3189356",
+  "wscn:3189355",
+  "wscn:3189354",
+  "wscn:3189353",
+  "wscn:3189352",
+  "wscn:3189351",
+  "wscn:3189350",
+  "wscn:3189349",
+  "wscn:3189348",
+  "wscn:3189347",
+  "wscn:3189346"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1482,7 +1482,10 @@
   "tg:WalterBloomberg/37523",
   "tg:WalterBloomberg/37522",
   "tg:WalterBloomberg/37521",
-  "tg:WalterBloomberg/37520"
+  "tg:WalterBloomberg/37520",
+  "tg:WalterBloomberg/37533",
+  "tg:WalterBloomberg/37532",
+  "tg:WalterBloomberg/37531"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1548,7 +1551,8 @@
   "tg:WatcherGuru/15652",
   "tg:WatcherGuru/15653",
   "tg:WatcherGuru/15654",
-  "tg:WatcherGuru/15655"
+  "tg:WatcherGuru/15655",
+  "tg:WatcherGuru/15656"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1663,7 +1667,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793211615.5573835,
+ "congress_last_check": 1793213422.3945055,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1685,7 +1689,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793212737.6544783,
+ "earnings_last_check": 1793213486.8445485,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1847,7 +1851,7 @@
   "er:2026-10-28:IP",
   "er:2026-10-28:APH"
  ],
- "gas_last_check": 1793211913.6066487,
+ "gas_last_check": 1793213123.907983,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3563,7 +3567,39 @@
   "tg:FinancialJuice/143348",
   "tg:FinancialJuice/143347",
   "tg:FinancialJuice/143346",
-  "tg:FinancialJuice/143345"
+  "tg:FinancialJuice/143345",
+  "tg:FinancialJuice/143361",
+  "tg:FinancialJuice/143363",
+  "tg:FinancialJuice/143362",
+  "tg:FinancialJuice/143366",
+  "tg:FinancialJuice/143365",
+  "tg:FinancialJuice/143364",
+  "tg:FinancialJuice/143367",
+  "tg:FinancialJuice/143368",
+  "tg:FinancialJuice/143370",
+  "tg:FinancialJuice/143369",
+  "tg:FinancialJuice/143372",
+  "tg:FinancialJuice/143371",
+  "tg:FinancialJuice/143392",
+  "tg:FinancialJuice/143391",
+  "tg:FinancialJuice/143390",
+  "tg:FinancialJuice/143389",
+  "tg:FinancialJuice/143388",
+  "tg:FinancialJuice/143387",
+  "tg:FinancialJuice/143386",
+  "tg:FinancialJuice/143385",
+  "tg:FinancialJuice/143384",
+  "tg:FinancialJuice/143383",
+  "tg:FinancialJuice/143382",
+  "tg:FinancialJuice/143381",
+  "tg:FinancialJuice/143380",
+  "tg:FinancialJuice/143379",
+  "tg:FinancialJuice/143378",
+  "tg:FinancialJuice/143377",
+  "tg:FinancialJuice/143376",
+  "tg:FinancialJuice/143375",
+  "tg:FinancialJuice/143374",
+  "tg:FinancialJuice/143373"
  ],
  "shows_v4": 1
 }
