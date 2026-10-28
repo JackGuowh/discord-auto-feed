@@ -363,10 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183896",
-  "wscn:3183895",
-  "wscn:3183893",
-  "wscn:3183892",
   "wscn:3183891",
   "wscn:3183890",
   "wscn:3183889",
@@ -1162,7 +1158,11 @@
   "wscn:3189322",
   "wscn:3189321",
   "wscn:3189320",
-  "wscn:3189319"
+  "wscn:3189319",
+  "wscn:3189329",
+  "wscn:3189327",
+  "wscn:3189326",
+  "wscn:3189324"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1460,7 +1460,8 @@
   "tg:WalterBloomberg/37503",
   "tg:WalterBloomberg/37507",
   "tg:WalterBloomberg/37506",
-  "tg:WalterBloomberg/37508"
+  "tg:WalterBloomberg/37508",
+  "tg:WalterBloomberg/37509"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1524,7 +1525,8 @@
   "tg:WatcherGuru/15648",
   "tg:WatcherGuru/15650",
   "tg:WatcherGuru/15652",
-  "tg:WatcherGuru/15653"
+  "tg:WatcherGuru/15653",
+  "tg:WatcherGuru/15654"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1639,7 +1641,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793207936.40077,
+ "congress_last_check": 1793209772.3857548,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1661,7 +1663,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793209335.0873833,
+ "earnings_last_check": 1793210192.549585,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2741,7 +2743,8 @@
   "tg:insiderpaper/45568",
   "tg:insiderpaper/45570",
   "tg:insiderpaper/45571",
-  "tg:insiderpaper/45572"
+  "tg:insiderpaper/45572",
+  "tg:insiderpaper/45573"
  ],
  "opt_daily": "2026-10-27",
  "opt_flow_last": 1793045302.4056692,
