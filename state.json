@@ -368,9 +368,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184034",
-  "wscn:3184040",
-  "wscn:3184060",
   "wscn:3184073",
   "wscn:3184097",
   "wscn:3184130",
@@ -1167,7 +1164,10 @@
   "wscn:3189434",
   "wscn:3189433",
   "wscn:3189432",
-  "wscn:3189437"
+  "wscn:3189437",
+  "wscn:3189440",
+  "wscn:3189439",
+  "wscn:3189438"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1687,9 +1687,12 @@
   "uw:putin-invites-zelensky-moscow-direct-negotiations-security-arrangements-anadolu",
   "uw:flavio-bolsonaro-flees-brazil-florida-us-visas-reuters",
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
-  "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
+  "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times",
+  "uw:nearly-half-britons-never-fight-country-ipsos-poll",
+  "uw:us-steel-prices-highest-four-years-tariffs-bloomberg",
+  "uw:brazil-justice-probe-vance-donor-network-flavio-bolsonaro-washington-post"
  ],
- "congress_last_check": 1793224376.9361935,
+ "congress_last_check": 1793226211.4095454,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1713,7 +1716,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793225415.3977454,
+ "earnings_last_check": 1793226271.592719,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3733,7 +3736,8 @@
   "tg:FinancialJuice/143490",
   "tg:FinancialJuice/143489",
   "tg:FinancialJuice/143488",
-  "tg:FinancialJuice/143487"
+  "tg:FinancialJuice/143487",
+  "tg:FinancialJuice/143492"
  ],
  "shows_v4": 1
 }
