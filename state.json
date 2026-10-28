@@ -363,10 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183879",
-  "wscn:3183878",
-  "wscn:3183877",
-  "wscn:3183876",
   "wscn:3183855",
   "wscn:3183886",
   "wscn:3183885",
@@ -1162,7 +1158,11 @@
   "wscn:3189306",
   "wscn:3189314",
   "wscn:3189313",
-  "wscn:3189312"
+  "wscn:3189312",
+  "wscn:3189318",
+  "wscn:3189317",
+  "wscn:3189316",
+  "wscn:3189315"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1459,7 +1459,8 @@
   "tg:WalterBloomberg/37504",
   "tg:WalterBloomberg/37503",
   "tg:WalterBloomberg/37507",
-  "tg:WalterBloomberg/37506"
+  "tg:WalterBloomberg/37506",
+  "tg:WalterBloomberg/37508"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1637,7 +1638,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793206133.727604,
+ "congress_last_check": 1793207936.40077,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1659,7 +1660,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793207914.8429546,
+ "earnings_last_check": 1793208593.7464044,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1821,7 +1822,7 @@
   "er:2026-10-28:IP",
   "er:2026-10-28:APH"
  ],
- "gas_last_check": 1793206995.4044693,
+ "gas_last_check": 1793208233.643476,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2737,7 +2738,8 @@
   "tg:insiderpaper/45569",
   "tg:insiderpaper/45568",
   "tg:insiderpaper/45570",
-  "tg:insiderpaper/45571"
+  "tg:insiderpaper/45571",
+  "tg:insiderpaper/45572"
  ],
  "opt_daily": "2026-10-27",
  "opt_flow_last": 1793045302.4056692,
@@ -3499,7 +3501,8 @@
   "tg:FinancialJuice/143327",
   "tg:FinancialJuice/143326",
   "tg:FinancialJuice/143325",
-  "tg:FinancialJuice/143324"
+  "tg:FinancialJuice/143324",
+  "tg:FinancialJuice/143328"
  ],
  "shows_v4": 1
 }
