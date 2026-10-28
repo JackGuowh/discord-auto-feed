@@ -1622,7 +1622,7 @@
   "market_close:2026-10-27",
   "movers_post:2026-10-27"
  ],
- "earnings_last_check": 1793153282.1422408,
+ "earnings_last_check": 1793153900.7834814,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3115,7 +3115,13 @@
   "tg:FinancialJuice/143056",
   "tg:FinancialJuice/143055",
   "tg:FinancialJuice/143058",
-  "tg:FinancialJuice/143057"
+  "tg:FinancialJuice/143057",
+  "tg:FinancialJuice/143064",
+  "tg:FinancialJuice/143063",
+  "tg:FinancialJuice/143062",
+  "tg:FinancialJuice/143061",
+  "tg:FinancialJuice/143060",
+  "tg:FinancialJuice/143059"
  ],
  "shows_v4": 1
 }
