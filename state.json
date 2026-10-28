@@ -363,12 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183837",
-  "wscn:3183835",
-  "wscn:3183834",
-  "wscn:3183832",
-  "wscn:3183831",
-  "wscn:3183829",
   "wscn:3183827",
   "wscn:3183844",
   "wscn:3183842",
@@ -1162,7 +1156,13 @@
   "wscn:3189255",
   "wscn:3189253",
   "wscn:3189263",
-  "wscn:3189262"
+  "wscn:3189262",
+  "wscn:3189273",
+  "wscn:3189272",
+  "wscn:3189271",
+  "wscn:3189270",
+  "wscn:3189268",
+  "wscn:3189266"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1654,7 +1654,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793200641.658711,
+ "earnings_last_check": 1793201453.748944,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1816,7 +1816,7 @@
   "er:2026-10-28:IP",
   "er:2026-10-28:APH"
  ],
- "gas_last_check": 1793199598.1598403,
+ "gas_last_check": 1793200854.8709073,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2553,7 +2553,8 @@
   "gas:https://www.semi.org/en/semi-press-release/semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists",
   "gas:https://www.semi.org/en/semi-press-release/semi-joins-the-eu-steam-executive-panel-to-advance-semiconductor-workforce-priorities",
   "gas:https://www.semi.org/en/semi-press-release/semicon-japan-2026-marks-50th-edition-with-launch-of-new-techleadersarena",
-  "gas:https://www.semi.org/en/semi-press-release/semicon-europa-2026-to-spotlight-advanced-packaging-fab-management-and-europes-semiconductor-strategy-for-the-ai-era"
+  "gas:https://www.semi.org/en/semi-press-release/semicon-europa-2026-to-spotlight-advanced-packaging-fab-management-and-europes-semiconductor-strategy-for-the-ai-era",
+  "gas:https://www.semi.org/en/semi-press-release/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development-at-semicon-west-2026"
  ],
  "tg:disclosetv": [
   "tg:disclosetv/21952",
@@ -2721,7 +2722,8 @@
   "tg:insiderpaper/45561",
   "tg:insiderpaper/45564",
   "tg:insiderpaper/45563",
-  "tg:insiderpaper/45562"
+  "tg:insiderpaper/45562",
+  "tg:insiderpaper/45565"
  ],
  "opt_daily": "2026-10-27",
  "opt_flow_last": 1793045302.4056692,
@@ -3462,7 +3464,8 @@
   "tg:FinancialJuice/143305",
   "tg:FinancialJuice/143304",
   "tg:FinancialJuice/143303",
-  "tg:FinancialJuice/143302"
+  "tg:FinancialJuice/143302",
+  "tg:FinancialJuice/143307"
  ],
  "shows_v4": 1
 }
