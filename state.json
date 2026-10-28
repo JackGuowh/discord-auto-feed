@@ -337,7 +337,8 @@
   "truth:https://www.trumpstruth.org/statuses/42807",
   "truth:https://www.trumpstruth.org/statuses/42805",
   "truth:https://www.trumpstruth.org/statuses/42809",
-  "truth:https://www.trumpstruth.org/statuses/42810"
+  "truth:https://www.trumpstruth.org/statuses/42810",
+  "truth:https://www.trumpstruth.org/statuses/42811"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -362,8 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183820",
-  "wscn:3183819",
   "wscn:3183837",
   "wscn:3183835",
   "wscn:3183834",
@@ -1161,7 +1160,9 @@
   "wscn:3189260",
   "wscn:3189259",
   "wscn:3189255",
-  "wscn:3189253"
+  "wscn:3189253",
+  "wscn:3189263",
+  "wscn:3189262"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1452,7 +1453,8 @@
   "tg:WalterBloomberg/37498",
   "tg:WalterBloomberg/37497",
   "tg:WalterBloomberg/37500",
-  "tg:WalterBloomberg/37501"
+  "tg:WalterBloomberg/37501",
+  "tg:WalterBloomberg/37502"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1630,7 +1632,7 @@
   "uw:putin-ending-conflicts-lifting-sanctions-arctic-us-gas-reuters",
   "uw:airlines-brace-years-pain-inflation-make-people-poor-financial-times"
  ],
- "congress_last_check": 1793198791.6230533,
+ "congress_last_check": 1793200641.2397513,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1652,7 +1654,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793199779.3307264,
+ "earnings_last_check": 1793200641.658711,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2716,7 +2718,10 @@
   "tg:insiderpaper/45557",
   "tg:insiderpaper/45559",
   "tg:insiderpaper/45558",
-  "tg:insiderpaper/45561"
+  "tg:insiderpaper/45561",
+  "tg:insiderpaper/45564",
+  "tg:insiderpaper/45563",
+  "tg:insiderpaper/45562"
  ],
  "opt_daily": "2026-10-27",
  "opt_flow_last": 1793045302.4056692,
@@ -3452,7 +3457,12 @@
   "tg:FinancialJuice/143295",
   "tg:FinancialJuice/143294",
   "tg:FinancialJuice/143293",
-  "tg:FinancialJuice/143292"
+  "tg:FinancialJuice/143292",
+  "tg:FinancialJuice/143306",
+  "tg:FinancialJuice/143305",
+  "tg:FinancialJuice/143304",
+  "tg:FinancialJuice/143303",
+  "tg:FinancialJuice/143302"
  ],
  "shows_v4": 1
 }
