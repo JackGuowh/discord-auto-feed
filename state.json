@@ -363,17 +363,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3183946",
-  "wscn:3183945",
-  "wscn:3183956",
-  "wscn:3183955",
-  "wscn:3183954",
-  "wscn:3183961",
-  "wscn:3183960",
-  "wscn:3183959",
-  "wscn:3183958",
-  "wscn:3183957",
-  "wscn:3183966",
   "wscn:3183965",
   "wscn:3183964",
   "wscn:3183963",
@@ -1162,7 +1151,18 @@
   "wscn:3189376",
   "wscn:3189382",
   "wscn:3189381",
-  "wscn:3189380"
+  "wscn:3189380",
+  "wscn:3189395",
+  "wscn:3189394",
+  "wscn:3189393",
+  "wscn:3189392",
+  "wscn:3189389",
+  "wscn:3189388",
+  "wscn:3189387",
+  "wscn:3189386",
+  "wscn:3189385",
+  "wscn:3189384",
+  "wscn:3189383"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1492,7 +1492,10 @@
   "tg:WalterBloomberg/37534",
   "tg:WalterBloomberg/37538",
   "tg:WalterBloomberg/37540",
-  "tg:WalterBloomberg/37539"
+  "tg:WalterBloomberg/37539",
+  "tg:WalterBloomberg/37543",
+  "tg:WalterBloomberg/37542",
+  "tg:WalterBloomberg/37541"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1559,7 +1562,8 @@
   "tg:WatcherGuru/15653",
   "tg:WatcherGuru/15654",
   "tg:WatcherGuru/15655",
-  "tg:WatcherGuru/15656"
+  "tg:WatcherGuru/15656",
+  "tg:WatcherGuru/15657"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1696,7 +1700,7 @@
   "movers_pre:2026-10-28",
   "market_fg:2026-10-28"
  ],
- "earnings_last_check": 1793217498.711314,
+ "earnings_last_check": 1793218306.2335334,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1856,9 +1860,17 @@
   "er:2026-10-28:ADP",
   "er:2026-10-28:BIIB",
   "er:2026-10-28:IP",
-  "er:2026-10-28:APH"
+  "er:2026-10-28:APH",
+  "er:2026-10-28:MSFT",
+  "er:2026-10-28:GOOGL",
+  "er:2026-10-28:NOW",
+  "er:2026-10-28:KLAC",
+  "er:2026-10-28:FTNT",
+  "er:2026-10-28:CMG",
+  "er:2026-10-28:FDX",
+  "er:2026-10-28:TMUS"
  ],
- "gas_last_check": 1793216838.8507721,
+ "gas_last_check": 1793218068.8262901,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3645,7 +3657,18 @@
   "tg:FinancialJuice/143425",
   "tg:FinancialJuice/143424",
   "tg:FinancialJuice/143423",
-  "tg:FinancialJuice/143422"
+  "tg:FinancialJuice/143422",
+  "tg:FinancialJuice/143442",
+  "tg:FinancialJuice/143441",
+  "tg:FinancialJuice/143440",
+  "tg:FinancialJuice/143439",
+  "tg:FinancialJuice/143438",
+  "tg:FinancialJuice/143437",
+  "tg:FinancialJuice/143436",
+  "tg:FinancialJuice/143435",
+  "tg:FinancialJuice/143434",
+  "tg:FinancialJuice/143433",
+  "tg:FinancialJuice/143432"
  ],
  "shows_v4": 1
 }
