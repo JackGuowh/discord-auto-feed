@@ -1629,7 +1629,9 @@
   "tg:WalterBloomberg/37615",
   "tg:WalterBloomberg/37617",
   "tg:WalterBloomberg/37618",
-  "tg:WalterBloomberg/37619"
+  "tg:WalterBloomberg/37619",
+  "tg:WalterBloomberg/37621",
+  "tg:WalterBloomberg/37620"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1720,7 +1722,8 @@
   "tg:WatcherGuru/15687",
   "tg:WatcherGuru/15689",
   "tg:WatcherGuru/15690",
-  "tg:WatcherGuru/15691"
+  "tg:WatcherGuru/15691",
+  "tg:WatcherGuru/15692"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1861,7 +1864,7 @@
   "uw:jensen-huang-target-chinese-spy-operation-new-york-times",
   "uw:iran-war-cost-us-47-billion-washington-post"
  ],
- "congress_last_check": 1793312519.730203,
+ "congress_last_check": 1793314359.0124857,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1889,7 +1892,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793313504.2202086,
+ "earnings_last_check": 1793314299.153241,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2081,7 +2084,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793312879.6752775,
+ "gas_last_check": 1793314119.4595644,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2445,7 +2448,12 @@
   "gas:CBMi-wFBVV95cUxPaXcybmhqMWp2RGhhYllENUJzemdNcTVMWHRQWVVfZW56Yzkwc081T283NTNJMDFEUE44S01tM25UTWVCR1ZPZ2NOWHpfOTdLQzRBV3ZFbi1HQS1LaGpkOVJvTmVLRjZMUlNXWEJ2SkZJc0NDdTMxNlExZ2ZiODluejFNQUVMZUpOb3M4NUNfR0FQd1lQRWpOX3lsRkZ4Qk9ZMWUxb1M3MGJmM3FlblBBWmFZTFZvdkJEM21CdDd5VU5tcVp0RHRkSGViTWgyS0dXMTcyY0J0Rkt1YjZRRld4c2JKYTBBYTh1QXVpazFnZF9KemJxR25RQU5LYw",
   "gas:CBMiekFVX3lxTFAyWVRGRDlNVV8zWGg4OGtvU3NYcFRmcFJhYmFiY3N0VTlWcE1JdjY0eXl0ejhFV1RydHpKUXg0MjE3Ni14WDR5cW9kZFZpYlZGMHU5dDhKMlduLXJJMWtaTEpkX2lwUno0bkNILTFJZFVVU2VJdXlRZjJR",
   "gas:CBMi4AFBVV95cUxNSkRLTFBxY2NfZ0pldk1TSjQ0SUFPajBsT1lrOWpTaDQtcmF2blc5Mk9ZRi1raHZhTXR3bWdRVDltcG41ODAtVFBGd213dUZGRDJWTGM4elcxTEZjSHJnVkRkV1lVQU5rcEtONjFPdHk4N3hYNGZSQTdmS01jVXNJSlZDRk50X3JyTVI1TllsS051TkZmemM4WnpiMS1hT05qV1dyRlNMQXNERm5PY2JMV3loY3Flbm80N1BZc0xwRlBUZl9RTVdWYWFDNjltWEpHam8tT2hfQXh4M0xEbXFYTA",
-  "gas:CBMiZEFVX3lxTE1ZV3dkaWxTZEJVY0tDYUpvdXlPcGlKRS1tNmsyNHRPWS0wSGZlWlVVZzFNcnVPRHF4OUFrZllaYzh6TFAtVTBWaFpIcTJsVUdTN281QmdkRUxUSmdHMWwtVWZ3akU"
+  "gas:CBMiZEFVX3lxTE1ZV3dkaWxTZEJVY0tDYUpvdXlPcGlKRS1tNmsyNHRPWS0wSGZlWlVVZzFNcnVPRHF4OUFrZllaYzh6TFAtVTBWaFpIcTJsVUdTN281QmdkRUxUSmdHMWwtVWZ3akU",
+  "gas:CBMiZEFVX3lxTE82QmdxRGU4QUdvbmZaUmZUcVg2Y2MwdUt6QklwY1JCR1RfLTh0ZW1feklzOHpDYnUwQTg4MmM2U1Fkc2xxRktTSnNDX2hzNnVpMDdYdW5FSmFSMkJaeFBBVmJHcTA",
+  "gas:CBMinAFBVV95cUxPUkZPa0tkUGt4LTQ0bTBuSVB0UnNOZGtOUkM3R3puYmVZUzlDNW84Zjc1NjltcUVCWHctS18tZzlLM1dvQ2JDQW8tb3pRSWozNXdSUHlkWDZvckxtTWRVMUR6WTc2bnhFa2VTYVRXdHNGYWtjeDF5R21Wa0hjbW1jODd6bnM0bzRSWUd4WGpKU3R6V1B0c1lOMF9oY3k",
+  "gas:CBMiZEFVX3lxTE95TE84WUdzVkRBMFBnblZmVUp4ekhLNlVwalFqUjg1cUh1RmhEN3V5eENYVGRhOW9mamgtX0NYcG1pd1hNQUVvQUZKUGlPMF81S1FOWWtUblhaMm9uRVplWWQ5c0Y",
+  "gas:CBMiY0FVX3lxTE9xZGpSaTVQYzBzcGg3T1Y3cUdCbDEtVjVGVFh1bFdRckY5aWotMElDZUJ3NEktTzFWZVZyVzYyYU5rem02c3hzOEE2dVpwR3BwdUdfbHZEZkt6UFhsRkxlb0hoYw",
+  "gas:CBMiZkFVX3lxTE1XdlVfdlRvczVIdndycnFrMHpyUXVrUzFDUG1PcnBVVkNsNmxWbUNLYlpZdFBYamNWMUpyQkxxSFBBZFRGSkZGUlpILWJzSDV6azJUTk84UzE3OG52NG9SQ0kyV3o5Zw"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
@@ -3229,8 +3237,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142996",
-  "tg:FinancialJuice/142995",
   "tg:FinancialJuice/142994",
   "tg:FinancialJuice/142993",
   "tg:FinancialJuice/142992",
@@ -4028,7 +4034,9 @@
   "tg:FinancialJuice/143780",
   "tg:FinancialJuice/143779",
   "tg:FinancialJuice/143778",
-  "tg:FinancialJuice/143777"
+  "tg:FinancialJuice/143777",
+  "tg:FinancialJuice/143782",
+  "tg:FinancialJuice/143781"
  ],
  "shows_v4": 1
 }
