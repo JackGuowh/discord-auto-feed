@@ -378,8 +378,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184873",
-  "wscn:3184872",
   "wscn:3184871",
   "wscn:3184866",
   "wscn:3184882",
@@ -1177,7 +1175,9 @@
   "wscn:3189971",
   "wscn:3189967",
   "wscn:3190209",
-  "wscn:3190205"
+  "wscn:3190205",
+  "wscn:3190307",
+  "wscn:3190306"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1516,7 +1516,8 @@
   "tg:WalterBloomberg/37546",
   "tg:WalterBloomberg/37545",
   "tg:WalterBloomberg/37544",
-  "tg:WalterBloomberg/37549"
+  "tg:WalterBloomberg/37549",
+  "tg:WalterBloomberg/37550"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1719,7 +1720,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793268457.5131762,
+ "congress_last_check": 1793270299.7803228,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1743,7 +1744,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793269617.66071,
+ "earnings_last_check": 1793270241.7388434,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1916,9 +1917,10 @@
   "er:2026-10-28:F",
   "er:2026-10-29:STM",
   "er:2026-10-29:CARR",
-  "er:2026-10-29:LHX"
+  "er:2026-10-29:LHX",
+  "er:2026-10-29:CAT"
  ],
- "gas_last_check": 1793268577.5952065,
+ "gas_last_check": 1793269826.0028255,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2256,7 +2258,8 @@
   "gas:CBMihAFBVV95cUxPelR3TUhJS0ZYc3Q4WjQwSFlmaDlWRkxNVlFSblRTWjBlTk5mTlhTSDh0ZU1kZDNTNkhJeFc4RWpBc2VGRW1fbTVUUUtPTnM1cDJnTE9SRVotcl9XMldfNVFzS3I4aWxESjhmSHJNUW9pZ0JwVmwzNEF5YWMtUUpHTkNwVTA",
   "gas:CBMiqgFBVV95cUxQWnZKTTh0UUJaZW8wdWQwUTc3ZG02UGR0YTVkRFRvM2VxOW9mUUt2WU4wSE5UU2tyTnk5dFVIZUhBZXZvTi00cjdKSVdPSm16MlVjaktZcFN0MW9uTGxyY0J5c25hLV8yY0VWVzBsNkJtaDhKaDN3aW51Y0x4SXhXb0ZqeVluRGlCZ2tFN0llaWJ2RDBLamdmS25vR3pLU0ozUlhmTW1yQ2RJQQ",
   "gas:CBMid0FVX3lxTE9fckt3Z2tXWGZjMUhkdmItdTJsMmNZVGRGRXl4aEgxVDRLekZuMGkwa1NsdFl2MzdyYXR5Zm9GMGFjNUZ0NFlfT2Zra203M3FoVjhtYTZINGpmNG1HTTN3d3o3ZGhkUlV5ZlR3YkhmRzg0OHhsV0x3",
-  "gas:CBMiX0FVX3lxTE9aWmlJRUZPOC00cTZQY01rM1A2Tmx6MUlyQXNWUWl2M29qNDFaRDRfYkxpZEpLVUVDanZvb1A4Q3RHWkpSTlJsUkN0YjZPUXV1ZFJKM0cyb1Fib1kyaExz"
+  "gas:CBMiX0FVX3lxTE9aWmlJRUZPOC00cTZQY01rM1A2Tmx6MUlyQXNWUWl2M29qNDFaRDRfYkxpZEpLVUVDanZvb1A4Q3RHWkpSTlJsUkN0YjZPUXV1ZFJKM0cyb1Fib1kyaExz",
+  "gas:CBMi1AFBVV95cUxQUGdrdkRzZnZPYVN6LU1lcTVDNlBfQXFjeWluSDRMdmwyVTJvd01ucm5NbGk1VUIwYjA2bjhlU0R4a0YtcU0tX1FDdjItV1Y2NERVVW42M1hPZHZ1OC1aMUhELXAwdThaY3YycGpRakNXVEZsaHBERFFBUWJ3eGdBRnphaHVwaTRVOUt3UDRwLUlwX3pDYWdBYTF1QlNvN1U2LVA5MWlrOHNiUW9LTDRHZUJ4UjhNMzJ6eVF2V0dkcG9aRGxpUXBuaTNQdGlfcWZMZGRBOQ"
  ],
  "shows_last_day": "2026-10-28",
  "shows_init": "2026-10-22",
@@ -3014,8 +3017,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142782",
-  "tg:FinancialJuice/142781",
   "tg:FinancialJuice/142780",
   "tg:FinancialJuice/142779",
   "tg:FinancialJuice/142778",
@@ -3813,7 +3814,9 @@
   "tg:FinancialJuice/143578",
   "tg:FinancialJuice/143577",
   "tg:FinancialJuice/143576",
-  "tg:FinancialJuice/143575"
+  "tg:FinancialJuice/143575",
+  "tg:FinancialJuice/143580",
+  "tg:FinancialJuice/143579"
  ],
  "shows_v4": 1
 }
