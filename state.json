@@ -384,7 +384,19 @@
   "truth:https://www.trumpstruth.org/statuses/42849",
   "truth:https://www.trumpstruth.org/statuses/42847",
   "truth:https://www.trumpstruth.org/statuses/42848",
-  "truth:https://www.trumpstruth.org/statuses/42846"
+  "truth:https://www.trumpstruth.org/statuses/42846",
+  "truth:https://www.trumpstruth.org/statuses/42868",
+  "truth:https://www.trumpstruth.org/statuses/42869",
+  "truth:https://www.trumpstruth.org/statuses/42867",
+  "truth:https://www.trumpstruth.org/statuses/42866",
+  "truth:https://www.trumpstruth.org/statuses/42865",
+  "truth:https://www.trumpstruth.org/statuses/42860",
+  "truth:https://www.trumpstruth.org/statuses/42859",
+  "truth:https://www.trumpstruth.org/statuses/42861",
+  "truth:https://www.trumpstruth.org/statuses/42862",
+  "truth:https://www.trumpstruth.org/statuses/42863",
+  "truth:https://www.trumpstruth.org/statuses/42864",
+  "truth:https://www.trumpstruth.org/statuses/42858"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -409,12 +421,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3185267",
-  "wscn:3185275",
-  "wscn:3185283",
-  "wscn:3185285",
-  "wscn:3185341",
-  "wscn:3185369",
   "wscn:3185379",
   "wscn:3185387",
   "wscn:3185386",
@@ -1208,7 +1214,13 @@
   "wscn:3190768",
   "wscn:3190767",
   "wscn:3190766",
-  "wscn:3190765"
+  "wscn:3190765",
+  "wscn:3190782",
+  "wscn:3190780",
+  "wscn:3190779",
+  "wscn:3190776",
+  "wscn:3190775",
+  "wscn:3190774"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1615,7 +1627,8 @@
   "tg:WalterBloomberg/37612",
   "tg:WalterBloomberg/37616",
   "tg:WalterBloomberg/37615",
-  "tg:WalterBloomberg/37617"
+  "tg:WalterBloomberg/37617",
+  "tg:WalterBloomberg/37618"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1698,7 +1711,10 @@
   "tg:WatcherGuru/15674",
   "tg:WatcherGuru/15675",
   "tg:WatcherGuru/15677",
-  "tg:WatcherGuru/15679"
+  "tg:WatcherGuru/15679",
+  "tg:WatcherGuru/15685",
+  "tg:WatcherGuru/15684",
+  "tg:WatcherGuru/15683"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1829,7 +1845,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793306977.442392,
+ "congress_last_check": 1793308821.7327502,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1857,7 +1873,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793307902.9877985,
+ "earnings_last_check": 1793308763.1614375,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2882,7 +2898,8 @@
   "tg:disclosetv/21985",
   "tg:disclosetv/21986",
   "tg:disclosetv/21987",
-  "tg:disclosetv/21988"
+  "tg:disclosetv/21988",
+  "tg:disclosetv/21989"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -3192,8 +3209,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142956",
-  "tg:FinancialJuice/142961",
   "tg:FinancialJuice/142960",
   "tg:FinancialJuice/142959",
   "tg:FinancialJuice/142962",
@@ -3991,7 +4006,9 @@
   "tg:FinancialJuice/143747",
   "tg:FinancialJuice/143757",
   "tg:FinancialJuice/143756",
-  "tg:FinancialJuice/143755"
+  "tg:FinancialJuice/143755",
+  "tg:FinancialJuice/143759",
+  "tg:FinancialJuice/143758"
  ],
  "shows_v4": 1
 }
