@@ -378,21 +378,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184899",
-  "wscn:3184912",
-  "wscn:3184923",
-  "wscn:3184922",
-  "wscn:3184919",
-  "wscn:3184915",
-  "wscn:3184914",
-  "wscn:3184913",
-  "wscn:3184927",
-  "wscn:3184925",
-  "wscn:3184924",
-  "wscn:3184931",
-  "wscn:3184930",
-  "wscn:3184936",
-  "wscn:3184935",
   "wscn:3184932",
   "wscn:3184940",
   "wscn:3184939",
@@ -1177,7 +1162,22 @@
   "wscn:3190480",
   "wscn:3190470",
   "wscn:3190487",
-  "wscn:3190499"
+  "wscn:3190499",
+  "wscn:3190528",
+  "wscn:3190522",
+  "wscn:3190520",
+  "wscn:3190519",
+  "wscn:3190518",
+  "wscn:3190517",
+  "wscn:3190516",
+  "wscn:3190515",
+  "wscn:3190514",
+  "wscn:3190513",
+  "wscn:3190511",
+  "wscn:3190512",
+  "wscn:3190510",
+  "wscn:3190509",
+  "wscn:3190508"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1526,7 +1526,11 @@
   "tg:WalterBloomberg/37557",
   "tg:WalterBloomberg/37556",
   "tg:WalterBloomberg/37555",
-  "tg:WalterBloomberg/37559"
+  "tg:WalterBloomberg/37559",
+  "tg:WalterBloomberg/37563",
+  "tg:WalterBloomberg/37562",
+  "tg:WalterBloomberg/37561",
+  "tg:WalterBloomberg/37560"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1731,7 +1735,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793275799.3839276,
+ "congress_last_check": 1793277632.3470728,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1755,7 +1759,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793276654.026402,
+ "earnings_last_check": 1793277514.272912,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1935,9 +1939,10 @@
   "er:2026-10-29:HWM",
   "er:2026-10-29:BMY",
   "er:2026-10-29:MO",
-  "er:2026-10-29:MA"
+  "er:2026-10-29:MA",
+  "er:2026-10-29:SHEL"
  ],
- "gas_last_check": 1793275979.9635372,
+ "gas_last_check": 1793277213.7744758,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3041,22 +3046,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142792",
-  "tg:FinancialJuice/142791",
-  "tg:FinancialJuice/142790",
-  "tg:FinancialJuice/142789",
-  "tg:FinancialJuice/142794",
-  "tg:FinancialJuice/142793",
-  "tg:FinancialJuice/142798",
-  "tg:FinancialJuice/142797",
-  "tg:FinancialJuice/142796",
-  "tg:FinancialJuice/142795",
-  "tg:FinancialJuice/142801",
-  "tg:FinancialJuice/142800",
-  "tg:FinancialJuice/142799",
-  "tg:FinancialJuice/142805",
-  "tg:FinancialJuice/142804",
-  "tg:FinancialJuice/142803",
   "tg:FinancialJuice/142802",
   "tg:FinancialJuice/142808",
   "tg:FinancialJuice/142807",
@@ -3840,7 +3829,23 @@
   "tg:FinancialJuice/143585",
   "tg:FinancialJuice/143588",
   "tg:FinancialJuice/143587",
-  "tg:FinancialJuice/143586"
+  "tg:FinancialJuice/143586",
+  "tg:FinancialJuice/143604",
+  "tg:FinancialJuice/143603",
+  "tg:FinancialJuice/143602",
+  "tg:FinancialJuice/143601",
+  "tg:FinancialJuice/143600",
+  "tg:FinancialJuice/143599",
+  "tg:FinancialJuice/143598",
+  "tg:FinancialJuice/143597",
+  "tg:FinancialJuice/143596",
+  "tg:FinancialJuice/143595",
+  "tg:FinancialJuice/143594",
+  "tg:FinancialJuice/143593",
+  "tg:FinancialJuice/143592",
+  "tg:FinancialJuice/143591",
+  "tg:FinancialJuice/143590",
+  "tg:FinancialJuice/143589"
  ],
  "shows_v4": 1
 }
