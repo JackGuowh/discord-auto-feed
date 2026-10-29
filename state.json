@@ -358,7 +358,9 @@
   "truth:https://www.trumpstruth.org/statuses/42827",
   "truth:https://www.trumpstruth.org/statuses/42828",
   "truth:https://www.trumpstruth.org/statuses/42829",
-  "truth:https://www.trumpstruth.org/statuses/42830"
+  "truth:https://www.trumpstruth.org/statuses/42830",
+  "truth:https://www.trumpstruth.org/statuses/42832",
+  "truth:https://www.trumpstruth.org/statuses/42833"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -383,7 +385,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184986",
   "wscn:3184998",
   "wscn:3184997",
   "wscn:3185004",
@@ -1182,7 +1183,8 @@
   "wscn:3190614",
   "wscn:3190627",
   "wscn:3190625",
-  "wscn:3190623"
+  "wscn:3190623",
+  "wscn:3190633"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1636,7 +1638,8 @@
   "tg:WatcherGuru/15668",
   "tg:WatcherGuru/15669",
   "tg:WatcherGuru/15670",
-  "tg:WatcherGuru/15672"
+  "tg:WatcherGuru/15672",
+  "tg:WatcherGuru/15673"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1767,7 +1770,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793284930.8731203,
+ "congress_last_check": 1793286770.6513424,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1793,7 +1796,7 @@
   "movers_pre:2026-10-29",
   "market_fg:2026-10-29"
  ],
- "earnings_last_check": 1793286450.8866541,
+ "earnings_last_check": 1793287070.6756022,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1976,7 +1979,7 @@
   "er:2026-10-29:MA",
   "er:2026-10-29:SHEL"
  ],
- "gas_last_check": 1793285849.5740867,
+ "gas_last_check": 1793287071.203239,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2935,7 +2938,8 @@
   "tg:insiderpaper/45582",
   "tg:insiderpaper/45583",
   "tg:insiderpaper/45584",
-  "tg:insiderpaper/45585"
+  "tg:insiderpaper/45585",
+  "tg:insiderpaper/45586"
  ],
  "opt_daily": "2026-10-28",
  "opt_flow_last": 1793045302.4056692,
