@@ -1717,7 +1717,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793251947.6515744,
+ "congress_last_check": 1793253794.109153,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1741,7 +1741,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793253596.8052533,
+ "earnings_last_check": 1793254218.0011406,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1913,7 +1913,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793252559.6350582,
+ "gas_last_check": 1793253797.302598,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3003,15 +3003,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142749",
-  "tg:FinancialJuice/142748",
-  "tg:FinancialJuice/142750",
-  "tg:FinancialJuice/142753",
-  "tg:FinancialJuice/142752",
-  "tg:FinancialJuice/142751",
-  "tg:FinancialJuice/142759",
-  "tg:FinancialJuice/142758",
-  "tg:FinancialJuice/142757",
   "tg:FinancialJuice/142756",
   "tg:FinancialJuice/142755",
   "tg:FinancialJuice/142754",
@@ -3802,7 +3793,16 @@
   "tg:FinancialJuice/143543",
   "tg:FinancialJuice/143545",
   "tg:FinancialJuice/143547",
-  "tg:FinancialJuice/143546"
+  "tg:FinancialJuice/143546",
+  "tg:FinancialJuice/143556",
+  "tg:FinancialJuice/143555",
+  "tg:FinancialJuice/143554",
+  "tg:FinancialJuice/143553",
+  "tg:FinancialJuice/143552",
+  "tg:FinancialJuice/143551",
+  "tg:FinancialJuice/143550",
+  "tg:FinancialJuice/143549",
+  "tg:FinancialJuice/143548"
  ],
  "shows_v4": 1
 }
