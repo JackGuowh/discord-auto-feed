@@ -421,7 +421,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186223",
   "wscn:3186221",
   "wscn:3186204",
   "wscn:3186238",
@@ -1220,7 +1219,8 @@
   "wscn:3190800",
   "wscn:3190799",
   "wscn:3190798",
-  "wscn:3190797"
+  "wscn:3190797",
+  "wscn:3190804"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1718,7 +1718,8 @@
   "tg:WatcherGuru/15683",
   "tg:WatcherGuru/15688",
   "tg:WatcherGuru/15687",
-  "tg:WatcherGuru/15689"
+  "tg:WatcherGuru/15689",
+  "tg:WatcherGuru/15690"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1851,9 +1852,12 @@
   "uw:employers-pulling-back-ai-errors-workslop-guardian",
   "uw:netanyahu-likud-arab-voter-fraud-israel-election",
   "uw:44-percent-americans-trouble-affording-basic-necessities-pew",
-  "uw:howard-marks-us-lack-fiscal-discipline-deficit-borrowing-costs"
+  "uw:howard-marks-us-lack-fiscal-discipline-deficit-borrowing-costs",
+  "uw:doordash-acquire-instacart-17-billion-cnbc",
+  "uw:bill-ackman-democratic-party-worst-place-250-years-fox-news",
+  "uw:no-real-wage-growth-trump-second-term-bls"
  ],
- "congress_last_check": 1793308821.7327502,
+ "congress_last_check": 1793310680.6530728,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1881,7 +1885,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793310301.3371584,
+ "earnings_last_check": 1793311157.6509285,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
