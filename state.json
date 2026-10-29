@@ -409,7 +409,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3185238",
   "wscn:3185242",
   "wscn:3185246",
   "wscn:3185245",
@@ -1208,7 +1207,8 @@
   "wscn:3190750",
   "wscn:3190748",
   "wscn:3190746",
-  "wscn:3190745"
+  "wscn:3190745",
+  "wscn:3190757"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1693,7 +1693,8 @@
   "tg:WatcherGuru/15672",
   "tg:WatcherGuru/15673",
   "tg:WatcherGuru/15674",
-  "tg:WatcherGuru/15675"
+  "tg:WatcherGuru/15675",
+  "tg:WatcherGuru/15677"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1824,7 +1825,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793303299.4184453,
+ "congress_last_check": 1793305145.5510864,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1848,9 +1849,10 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28",
   "movers_pre:2026-10-29",
-  "market_fg:2026-10-29"
+  "market_fg:2026-10-29",
+  "market_close:2026-10-29"
  ],
- "earnings_last_check": 1793304884.8399932,
+ "earnings_last_check": 1793305512.4481962,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2038,9 +2040,11 @@
   "er:2026-10-29:RDDT",
   "er:2026-10-29:MSTR",
   "er:2026-10-29:TWLO",
-  "er:2026-10-29:SBUX"
+  "er:2026-10-29:SBUX",
+  "er:2026-10-29:COIN",
+  "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793304297.9390855,
+ "gas_last_check": 1793305514.4352632,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
