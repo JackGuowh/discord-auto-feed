@@ -427,7 +427,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186299",
   "wscn:3186309",
   "wscn:3186315",
   "wscn:3186311",
@@ -1226,7 +1225,8 @@
   "wscn:3190827",
   "wscn:3190826",
   "wscn:3190830",
-  "wscn:3190829"
+  "wscn:3190829",
+  "wscn:3190837"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1729,7 +1729,8 @@
   "tg:WatcherGuru/15689",
   "tg:WatcherGuru/15690",
   "tg:WatcherGuru/15691",
-  "tg:WatcherGuru/15692"
+  "tg:WatcherGuru/15692",
+  "tg:WatcherGuru/15694"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1870,7 +1871,7 @@
   "uw:jensen-huang-target-chinese-spy-operation-new-york-times",
   "uw:iran-war-cost-us-47-billion-washington-post"
  ],
- "congress_last_check": 1793314359.0124857,
+ "congress_last_check": 1793316215.6058,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1898,7 +1899,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793316075.176114,
+ "earnings_last_check": 1793316710.6022954,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2090,7 +2091,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793315350.7937353,
+ "gas_last_check": 1793316573.2966082,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3244,15 +3245,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142990",
-  "tg:FinancialJuice/142989",
-  "tg:FinancialJuice/142988",
-  "tg:FinancialJuice/142987",
-  "tg:FinancialJuice/142986",
-  "tg:FinancialJuice/142985",
-  "tg:FinancialJuice/142984",
-  "tg:FinancialJuice/142983",
-  "tg:FinancialJuice/142982",
   "tg:FinancialJuice/142981",
   "tg:FinancialJuice/142997",
   "tg:FinancialJuice/143017",
@@ -4043,7 +4035,16 @@
   "tg:FinancialJuice/143786",
   "tg:FinancialJuice/143785",
   "tg:FinancialJuice/143784",
-  "tg:FinancialJuice/143783"
+  "tg:FinancialJuice/143783",
+  "tg:FinancialJuice/143795",
+  "tg:FinancialJuice/143794",
+  "tg:FinancialJuice/143793",
+  "tg:FinancialJuice/143792",
+  "tg:FinancialJuice/143791",
+  "tg:FinancialJuice/143790",
+  "tg:FinancialJuice/143789",
+  "tg:FinancialJuice/143788",
+  "tg:FinancialJuice/143787"
  ],
  "shows_v4": 1
 }
