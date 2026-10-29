@@ -372,7 +372,19 @@
   "truth:https://www.trumpstruth.org/statuses/42838",
   "truth:https://www.trumpstruth.org/statuses/42837",
   "truth:https://www.trumpstruth.org/statuses/42835",
-  "truth:https://www.trumpstruth.org/statuses/42834"
+  "truth:https://www.trumpstruth.org/statuses/42834",
+  "truth:https://www.trumpstruth.org/statuses/42857",
+  "truth:https://www.trumpstruth.org/statuses/42856",
+  "truth:https://www.trumpstruth.org/statuses/42855",
+  "truth:https://www.trumpstruth.org/statuses/42851",
+  "truth:https://www.trumpstruth.org/statuses/42852",
+  "truth:https://www.trumpstruth.org/statuses/42853",
+  "truth:https://www.trumpstruth.org/statuses/42854",
+  "truth:https://www.trumpstruth.org/statuses/42850",
+  "truth:https://www.trumpstruth.org/statuses/42849",
+  "truth:https://www.trumpstruth.org/statuses/42847",
+  "truth:https://www.trumpstruth.org/statuses/42848",
+  "truth:https://www.trumpstruth.org/statuses/42846"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -397,8 +409,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3185074",
-  "wscn:3185077",
   "wscn:3185081",
   "wscn:3185106",
   "wscn:3185108",
@@ -1196,7 +1206,9 @@
   "wscn:3190723",
   "wscn:3190722",
   "wscn:3190718",
-  "wscn:3190716"
+  "wscn:3190716",
+  "wscn:3190727",
+  "wscn:3190726"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1811,7 +1823,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793299658.894705,
+ "congress_last_check": 1793301497.552763,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1837,7 +1849,7 @@
   "movers_pre:2026-10-29",
   "market_fg:2026-10-29"
  ],
- "earnings_last_check": 1793300816.735347,
+ "earnings_last_check": 1793301497.9229863,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3161,8 +3173,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142937",
-  "tg:FinancialJuice/142940",
   "tg:FinancialJuice/142939",
   "tg:FinancialJuice/142943",
   "tg:FinancialJuice/142942",
@@ -3960,7 +3970,9 @@
   "tg:FinancialJuice/143731",
   "tg:FinancialJuice/143736",
   "tg:FinancialJuice/143735",
-  "tg:FinancialJuice/143737"
+  "tg:FinancialJuice/143737",
+  "tg:FinancialJuice/143739",
+  "tg:FinancialJuice/143738"
  ],
  "shows_v4": 1
 }
