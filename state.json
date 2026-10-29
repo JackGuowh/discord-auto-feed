@@ -383,11 +383,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184981",
-  "wscn:3184980",
-  "wscn:3184979",
-  "wscn:3184985",
-  "wscn:3184983",
   "wscn:3184982",
   "wscn:3184990",
   "wscn:3184988",
@@ -1182,7 +1177,12 @@
   "wscn:3190611",
   "wscn:3190603",
   "wscn:3190602",
-  "wscn:3190599"
+  "wscn:3190599",
+  "wscn:3190619",
+  "wscn:3190618",
+  "wscn:3190617",
+  "wscn:3190616",
+  "wscn:3190614"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1555,7 +1555,8 @@
   "tg:WalterBloomberg/37579",
   "tg:WalterBloomberg/37578",
   "tg:WalterBloomberg/37583",
-  "tg:WalterBloomberg/37582"
+  "tg:WalterBloomberg/37582",
+  "tg:WalterBloomberg/37584"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1763,7 +1764,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793283119.957907,
+ "congress_last_check": 1793284930.8731203,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1789,7 +1790,7 @@
   "movers_pre:2026-10-29",
   "market_fg:2026-10-29"
  ],
- "earnings_last_check": 1793284723.113971,
+ "earnings_last_check": 1793285645.8674374,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2929,7 +2930,8 @@
   "tg:insiderpaper/45581",
   "tg:insiderpaper/45582",
   "tg:insiderpaper/45583",
-  "tg:insiderpaper/45584"
+  "tg:insiderpaper/45584",
+  "tg:insiderpaper/45585"
  ],
  "opt_daily": "2026-10-28",
  "opt_flow_last": 1793045302.4056692,
@@ -3090,10 +3092,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142894",
-  "tg:FinancialJuice/142893",
-  "tg:FinancialJuice/142902",
-  "tg:FinancialJuice/142901",
   "tg:FinancialJuice/142900",
   "tg:FinancialJuice/142899",
   "tg:FinancialJuice/142898",
@@ -3889,7 +3887,11 @@
   "tg:FinancialJuice/143688",
   "tg:FinancialJuice/143687",
   "tg:FinancialJuice/143686",
-  "tg:FinancialJuice/143685"
+  "tg:FinancialJuice/143685",
+  "tg:FinancialJuice/143697",
+  "tg:FinancialJuice/143696",
+  "tg:FinancialJuice/143695",
+  "tg:FinancialJuice/143694"
  ],
  "shows_v4": 1
 }
