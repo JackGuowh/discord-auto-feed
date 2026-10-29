@@ -383,9 +383,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184982",
-  "wscn:3184990",
-  "wscn:3184988",
   "wscn:3184986",
   "wscn:3184998",
   "wscn:3184997",
@@ -1182,7 +1179,10 @@
   "wscn:3190618",
   "wscn:3190617",
   "wscn:3190616",
-  "wscn:3190614"
+  "wscn:3190614",
+  "wscn:3190627",
+  "wscn:3190625",
+  "wscn:3190623"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1556,7 +1556,9 @@
   "tg:WalterBloomberg/37578",
   "tg:WalterBloomberg/37583",
   "tg:WalterBloomberg/37582",
-  "tg:WalterBloomberg/37584"
+  "tg:WalterBloomberg/37584",
+  "tg:WalterBloomberg/37586",
+  "tg:WalterBloomberg/37585"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1633,7 +1635,8 @@
   "tg:WatcherGuru/15667",
   "tg:WatcherGuru/15668",
   "tg:WatcherGuru/15669",
-  "tg:WatcherGuru/15670"
+  "tg:WatcherGuru/15670",
+  "tg:WatcherGuru/15672"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1790,7 +1793,7 @@
   "movers_pre:2026-10-29",
   "market_fg:2026-10-29"
  ],
- "earnings_last_check": 1793285645.8674374,
+ "earnings_last_check": 1793286450.8866541,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1973,7 +1976,7 @@
   "er:2026-10-29:MA",
   "er:2026-10-29:SHEL"
  ],
- "gas_last_check": 1793284605.6004996,
+ "gas_last_check": 1793285849.5740867,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2324,7 +2327,8 @@
   "gas:CBMimwFBVV95cUxQY3V6bkZ4bWJVTHNnUmJoX2F2N1lxQ0ppSTdzQlhkTlo4R1dRREhtdk5nMk1QcC1jOFJCclAzdmhlWk5HNTFTM3RFZFdoeGhyazJDbzVxZUdDSlFRdUJKWklxZlVlaGFDYThDYVc1aWhsTHViZEgzVmQ1bzU3dEVnMVM0Mi1vSzZUVWpVLUh1N2lwenRGZWpIMmI3VQ",
   "gas:CBMiXEFVX3lxTFBjQUpFQW43OVZWMm1qVVV0dTIyVGV0T3hqdEtVQ0xZRVdraUprelhIRC1Mb3Zoc1VWUk43elV5Z3pybmpEUDdWeTI1bnk5OHA0Y3hxbGxNYXQxOWZC",
   "gas:CBMidkFVX3lxTE9zcjJIdHRKdlZRczNSMmJ3VjFRYnVndXFZZkpGQlhnbzJYdEJWVWMwRW1ZZnRJbm56ZnJ6cFN3WWhjZ2g4ZXlRbFdpN3NlM2JyUkM1R3ZhdkU4TXFTbVVtX0NubHRrYVRMZ2ppOWg1OVlYLXc2X1E",
-  "gas:CBMilAFBVV95cUxPLTVuWUFWckRVM25ZYVNONUxlN1F1QmtfVENYUTdia3dMNF91TzdzaG1MQ0pOSWg5aVJYZkN2QmVER0xDd3JLVXF5OFoxS3ozZlZIbW5leUROLUt6a0Q1Y3NocTB4LV81UHJIa3VPNkw4LTkzajRLSU5CTzJrTWdzVDdSd0FjazQ4b25NV2QwUC01Tlkw0gGaAUFVX3lxTE83ZFd2ZFhYM3I0MXF0d3JfMUNkYUpIUWstY3M2ZWF0cllBNGpNVVBIOU5neU1lQmgzd25yWWF2YS1WTDJrc21aYzFpTDA0S0E1Qk8wVFhqQkpzcW1WZU5QVlhSQXItMUJLM3p6VlJkdFpmMXZyR1VaUy1HUmYyZmd4ekZZYzJ1S3VpV0thVXVib25kbkg3SklxUnc"
+  "gas:CBMilAFBVV95cUxPLTVuWUFWckRVM25ZYVNONUxlN1F1QmtfVENYUTdia3dMNF91TzdzaG1MQ0pOSWg5aVJYZkN2QmVER0xDd3JLVXF5OFoxS3ozZlZIbW5leUROLUt6a0Q1Y3NocTB4LV81UHJIa3VPNkw4LTkzajRLSU5CTzJrTWdzVDdSd0FjazQ4b25NV2QwUC01Tlkw0gGaAUFVX3lxTE83ZFd2ZFhYM3I0MXF0d3JfMUNkYUpIUWstY3M2ZWF0cllBNGpNVVBIOU5neU1lQmgzd25yWWF2YS1WTDJrc21aYzFpTDA0S0E1Qk8wVFhqQkpzcW1WZU5QVlhSQXItMUJLM3p6VlJkdFpmMXZyR1VaUy1HUmYyZmd4ekZZYzJ1S3VpV0thVXVib25kbkg3SklxUnc",
+  "gas:CBMi6gFBVV95cUxNNW0xY3lISy1xbGxWd0tONk9SQ0lfT2IwUzRMRFVRaldJejU5Y2tyRU15aHAxZFc2OG9iYTc2MTEwSW9kM3NwSjN0bWJfc1l5QmZSVVFMMnZmZElQOXBtLVN1TUZpdHQyOVh0N0JObVpNOVBzR0syQkFsM2s0YzdjSDlXbVJhYWZkYU1ueFMzRTBHc0VZUlpsMzNERTlPV1B1clRTYTRwRWQwSFdDLVdxc0RaZXBRZnJ6UWNsQXloaUN2bUt0NDlWNDU1MllhY21Sa0YxUWMySlp1SFlrTm9hYktRTWVJRWtOUHc"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
