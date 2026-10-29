@@ -397,14 +397,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3185057",
-  "wscn:3185056",
-  "wscn:3185055",
-  "wscn:3185061",
-  "wscn:3185063",
-  "wscn:3185062",
-  "wscn:3185065",
-  "wscn:3185066",
   "wscn:3185068",
   "wscn:3185067",
   "wscn:3185071",
@@ -1196,7 +1188,15 @@
   "wscn:3190703",
   "wscn:3190702",
   "wscn:3190685",
-  "wscn:3190705"
+  "wscn:3190705",
+  "wscn:3190714",
+  "wscn:3190713",
+  "wscn:3190712",
+  "wscn:3190711",
+  "wscn:3190710",
+  "wscn:3190709",
+  "wscn:3190708",
+  "wscn:3190707"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1597,7 +1597,10 @@
   "tg:WalterBloomberg/37605",
   "tg:WalterBloomberg/37604",
   "tg:WalterBloomberg/37611",
-  "tg:WalterBloomberg/37610"
+  "tg:WalterBloomberg/37610",
+  "tg:WalterBloomberg/37614",
+  "tg:WalterBloomberg/37613",
+  "tg:WalterBloomberg/37612"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1834,7 +1837,7 @@
   "movers_pre:2026-10-29",
   "market_fg:2026-10-29"
  ],
- "earnings_last_check": 1793298475.2576127,
+ "earnings_last_check": 1793299160.2351377,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2993,7 +2996,8 @@
   "tg:insiderpaper/45591",
   "tg:insiderpaper/45593",
   "tg:insiderpaper/45594",
-  "tg:insiderpaper/45595"
+  "tg:insiderpaper/45595",
+  "tg:insiderpaper/45596"
  ],
  "opt_daily": "2026-10-28",
  "opt_flow_last": 1793045302.4056692,
@@ -3154,10 +3158,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142931",
-  "tg:FinancialJuice/142930",
-  "tg:FinancialJuice/142936",
-  "tg:FinancialJuice/142935",
   "tg:FinancialJuice/142934",
   "tg:FinancialJuice/142933",
   "tg:FinancialJuice/142938",
@@ -3953,7 +3953,11 @@
   "tg:FinancialJuice/143727",
   "tg:FinancialJuice/143726",
   "tg:FinancialJuice/143725",
-  "tg:FinancialJuice/143730"
+  "tg:FinancialJuice/143730",
+  "tg:FinancialJuice/143734",
+  "tg:FinancialJuice/143733",
+  "tg:FinancialJuice/143732",
+  "tg:FinancialJuice/143731"
  ],
  "shows_v4": 1
 }
