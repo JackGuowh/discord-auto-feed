@@ -421,12 +421,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3185904",
-  "wscn:3186009",
-  "wscn:3186095",
-  "wscn:3186088",
-  "wscn:3186184",
-  "wscn:3186144",
   "wscn:3186223",
   "wscn:3186221",
   "wscn:3186204",
@@ -1220,7 +1214,13 @@
   "wscn:3190786",
   "wscn:3190785",
   "wscn:3190784",
-  "wscn:3190783"
+  "wscn:3190783",
+  "wscn:3190802",
+  "wscn:3190801",
+  "wscn:3190800",
+  "wscn:3190799",
+  "wscn:3190798",
+  "wscn:3190797"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1628,7 +1628,8 @@
   "tg:WalterBloomberg/37616",
   "tg:WalterBloomberg/37615",
   "tg:WalterBloomberg/37617",
-  "tg:WalterBloomberg/37618"
+  "tg:WalterBloomberg/37618",
+  "tg:WalterBloomberg/37619"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1716,7 +1717,8 @@
   "tg:WatcherGuru/15684",
   "tg:WatcherGuru/15683",
   "tg:WatcherGuru/15688",
-  "tg:WatcherGuru/15687"
+  "tg:WatcherGuru/15687",
+  "tg:WatcherGuru/15689"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1845,7 +1847,11 @@
   "uw:california-students-read-math-grade-level-new-york-post",
   "uw:fund-managers-overweight-tech-highest-since-2020-bank-of-america",
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
-  "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
+  "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv",
+  "uw:employers-pulling-back-ai-errors-workslop-guardian",
+  "uw:netanyahu-likud-arab-voter-fraud-israel-election",
+  "uw:44-percent-americans-trouble-affording-basic-necessities-pew",
+  "uw:howard-marks-us-lack-fiscal-discipline-deficit-borrowing-costs"
  ],
  "congress_last_check": 1793308821.7327502,
  "scheduler": [
@@ -1875,7 +1881,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793309619.5231159,
+ "earnings_last_check": 1793310301.3371584,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2067,7 +2073,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793309201.7264225,
+ "gas_last_check": 1793310418.2424507,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
