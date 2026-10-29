@@ -1717,7 +1717,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793248268.503756,
+ "congress_last_check": 1793250102.1571085,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1741,7 +1741,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793249482.1771238,
+ "earnings_last_check": 1793250279.0703819,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1913,7 +1913,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793248882.0264945,
+ "gas_last_check": 1793250102.5681853,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3003,7 +3003,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142735",
   "tg:FinancialJuice/142734",
   "tg:FinancialJuice/142733",
   "tg:FinancialJuice/142732",
@@ -3802,7 +3801,8 @@
   "tg:FinancialJuice/143537",
   "tg:FinancialJuice/143536",
   "tg:FinancialJuice/143535",
-  "tg:FinancialJuice/143534"
+  "tg:FinancialJuice/143534",
+  "tg:FinancialJuice/143538"
  ],
  "shows_v4": 1
 }
