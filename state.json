@@ -378,7 +378,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184864",
   "wscn:3184863",
   "wscn:3184862",
   "wscn:3184861",
@@ -1177,7 +1176,8 @@
   "wscn:3189631",
   "wscn:3189663",
   "wscn:3189671",
-  "wscn:3189666"
+  "wscn:3189666",
+  "wscn:3189690"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1718,7 +1718,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793257471.868728,
+ "congress_last_check": 1793259283.4884403,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1742,7 +1742,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793259030.5958824,
+ "earnings_last_check": 1793259884.716417,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1914,7 +1914,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793258726.0674157,
+ "gas_last_check": 1793259943.3556175,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
