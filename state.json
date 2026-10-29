@@ -378,8 +378,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3184807",
-  "wscn:3184834",
   "wscn:3184819",
   "wscn:3184840",
   "wscn:3184838",
@@ -1177,7 +1175,9 @@
   "wscn:3189499",
   "wscn:3189494",
   "wscn:3189508",
-  "wscn:3189541"
+  "wscn:3189541",
+  "wscn:3189575",
+  "wscn:3189571"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1741,7 +1741,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793245465.7367024,
+ "earnings_last_check": 1793246328.542982,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1913,7 +1913,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793245165.7916386,
+ "gas_last_check": 1793246388.5045266,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3003,8 +3003,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142743",
-  "tg:FinancialJuice/142742",
   "tg:FinancialJuice/142741",
   "tg:FinancialJuice/142740",
   "tg:FinancialJuice/142739",
@@ -3802,7 +3800,9 @@
   "tg:FinancialJuice/143526",
   "tg:FinancialJuice/143527",
   "tg:FinancialJuice/143529",
-  "tg:FinancialJuice/143528"
+  "tg:FinancialJuice/143528",
+  "tg:FinancialJuice/143531",
+  "tg:FinancialJuice/143530"
  ],
  "shows_v4": 1
 }
