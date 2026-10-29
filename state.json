@@ -1718,7 +1718,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793259283.4884403,
+ "congress_last_check": 1793261127.0551028,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1742,7 +1742,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793260802.6137044,
+ "earnings_last_check": 1793261485.4322302,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1914,7 +1914,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793259943.3556175,
+ "gas_last_check": 1793261185.134482,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2249,7 +2249,8 @@
   "gas:CBMiwgFBVV95cUxPZVBPVHB6SWthZHR0RkhBX2tmZnlMRTlJUFhsMVF4RFgyVHJydVlQUjMzdTk4TjBVY29ZWE1ua015R0Z5TTJNNDhjNE5tbGxTSDQ1MC1LbUNNY0VqMVhVbjIyWjRLNnpva04yNUl4N1ZhWmhNejlSbmo1X0x1ZVJxQjhiYTRBa20yVThDdkh2RE5CaElmdjBNQ1lqS1FJeDVYNHIyalg4QWtVX0htRTNTelpZRVNTQ01pWlNpbTV2bEtmUQ",
   "gas:CBMizAFBVV95cUxOMUdpdWVlQjJ0UjFfeGMzNVdjX0toMFFYbHhibjA3OFB5d1VOQ0oza1dkdWJJRGxmQk1pdDRoWGxwVXhGSzc5UUE3cWdBNGx2TzJidDZkamRjZW8zRmhGblEyb3hWd0JKX0lzYU9jaGNQdXdMTktqWmtIVDl1a0MxcENCUkMzRzVIblB6UkVyRlhaVUc1RjYxRFZoRlRBdG81eTByZURJRkRydmN6LTg5SXVmU3JXcHJKbm5FYWNIWHRsMW9uRWFUcnZkczE",
   "gas:CBMia0FVX3lxTE5wUnhnb1NjYVkyM1ZWZnh0WWpqZDAwa3ZSVmtLUmk0Q3licHpqcGp4d1VVcldxLTlHU1FORzdZczJEM2tNdEN4b2RFaDVkRHNmOWxDbklsOE1ycDRxVXJLR0tTU2xqZFM0aHFV",
-  "gas:CBMihAFBVV95cUxPelR3TUhJS0ZYc3Q4WjQwSFlmaDlWRkxNVlFSblRTWjBlTk5mTlhTSDh0ZU1kZDNTNkhJeFc4RWpBc2VGRW1fbTVUUUtPTnM1cDJnTE9SRVotcl9XMldfNVFzS3I4aWxESjhmSHJNUW9pZ0JwVmwzNEF5YWMtUUpHTkNwVTA"
+  "gas:CBMihAFBVV95cUxPelR3TUhJS0ZYc3Q4WjQwSFlmaDlWRkxNVlFSblRTWjBlTk5mTlhTSDh0ZU1kZDNTNkhJeFc4RWpBc2VGRW1fbTVUUUtPTnM1cDJnTE9SRVotcl9XMldfNVFzS3I4aWxESjhmSHJNUW9pZ0JwVmwzNEF5YWMtUUpHTkNwVTA",
+  "gas:CBMiqgFBVV95cUxQWnZKTTh0UUJaZW8wdWQwUTc3ZG02UGR0YTVkRFRvM2VxOW9mUUt2WU4wSE5UU2tyTnk5dFVIZUhBZXZvTi00cjdKSVdPSm16MlVjaktZcFN0MW9uTGxyY0J5c25hLV8yY0VWVzBsNkJtaDhKaDN3aW51Y0x4SXhXb0ZqeVluRGlCZ2tFN0llaWJ2RDBLamdmS25vR3pLU0ozUlhmTW1yQ2RJQQ"
  ],
  "shows_last_day": "2026-10-28",
  "shows_init": "2026-10-22",
@@ -3007,10 +3008,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142760",
-  "tg:FinancialJuice/142766",
-  "tg:FinancialJuice/142765",
-  "tg:FinancialJuice/142764",
   "tg:FinancialJuice/142763",
   "tg:FinancialJuice/142762",
   "tg:FinancialJuice/142767",
@@ -3806,7 +3803,11 @@
   "tg:FinancialJuice/143558",
   "tg:FinancialJuice/143557",
   "tg:FinancialJuice/143559",
-  "tg:FinancialJuice/143560"
+  "tg:FinancialJuice/143560",
+  "tg:FinancialJuice/143564",
+  "tg:FinancialJuice/143563",
+  "tg:FinancialJuice/143562",
+  "tg:FinancialJuice/143561"
  ],
  "shows_v4": 1
 }
