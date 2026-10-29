@@ -353,7 +353,12 @@
   "truth:https://www.trumpstruth.org/statuses/42817",
   "truth:https://www.trumpstruth.org/statuses/42824",
   "truth:https://www.trumpstruth.org/statuses/42825",
-  "truth:https://www.trumpstruth.org/statuses/42826"
+  "truth:https://www.trumpstruth.org/statuses/42826",
+  "truth:https://www.trumpstruth.org/statuses/42831",
+  "truth:https://www.trumpstruth.org/statuses/42827",
+  "truth:https://www.trumpstruth.org/statuses/42828",
+  "truth:https://www.trumpstruth.org/statuses/42829",
+  "truth:https://www.trumpstruth.org/statuses/42830"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1532,7 +1537,11 @@
   "tg:WalterBloomberg/37561",
   "tg:WalterBloomberg/37560",
   "tg:WalterBloomberg/37564",
-  "tg:WalterBloomberg/37565"
+  "tg:WalterBloomberg/37565",
+  "tg:WalterBloomberg/37569",
+  "tg:WalterBloomberg/37568",
+  "tg:WalterBloomberg/37567",
+  "tg:WalterBloomberg/37566"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1737,7 +1746,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793277632.3470728,
+ "congress_last_check": 1793279448.772228,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1762,7 +1771,7 @@
   "movers_post:2026-10-28",
   "movers_pre:2026-10-29"
  ],
- "earnings_last_check": 1793279236.71564,
+ "earnings_last_check": 1793279868.8223732,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1945,7 +1954,7 @@
   "er:2026-10-29:MA",
   "er:2026-10-29:SHEL"
  ],
- "gas_last_check": 1793278430.623144,
+ "gas_last_check": 1793279678.550149,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2290,7 +2299,8 @@
   "gas:CBMicEFVX3lxTE5wWG9Od1RnSEJHUmNwNnBXU2JJcHFHaXJWaVdMOE5sUHRldlRtT1h1dHcwNzN6OUpOUlIyWkUyaVl2VjBPN3NlVHZRVWp3Vjg3Ulc4TzFWOHhEcmd6RDl0MjZzaTRQc29EbTVIQWRtVTk",
   "gas:CBMimwFBVV95cUxNS2R4YnV0ZXRIUmlJel9OUWRsOGxFWFBwU1VFM2FiYl82YlVkUmRhZXd1RHQ1c1kycENZNXRlVGJmSEpWYXUwOG80bHNHYkxLVFh3dFdGektFeWNua0tMR3JtcG5Hd3I0T2tjN09OdEZ5LWpPbjlaTDlrcW5udGM5b21DVVlUbWVKZE1PRGhldjRwTGVLb0Flend1UdIBoAFBVV95cUxOeFo3dXJsenpzTXJ3TDFjcFRVQjRfa3E3S3ZMNi1jcTlaYjhWMV9ST2dSaWNsclhSRDRvN0lyYVlTbkhUSEdpRWdZYUJzUTk1WFdyUWc3azdGZF9COXhqYWhveENQb0R1ZHNudDRuR3BBUnNTUm9qZGNSUVR4T1pvNTdJM0tBcWpQYXdtYVEtZm1XcWFmRFIweGttYzBYN0Na",
   "gas:CBMi3AJBVV95cUxONE1XdXRHVlNXa0xrYklQUlVaWlVFVlAwVXZUSzhPckhpSml5NlhwcmpHNTdZYUFjRlpQTE5HdHdZdG9iWjRmR3oxXzF5RFRDbEFIdzd2SXpZU1JQcHJSYUthQ2R5UGxfS09ldGpsV2MxMy1NdTBHdW4zcGhpU2EteDBkaFBZVFE1eklEUlU0ckw2NkxPMXY4eEZvRFlUWXgwNmY4eTN0UjRyZURLaDk3M19MdXoxN0pqRHNKTDNxOUE3dHZQcDQ2WE04MlpVaVlqMW93dHNTRHo1d19NMDZhQmNQR18zdHlHbjcyQWtRQnhpVHk3a09ldGc0b0xUWDN0SV9kYTR6aWJnbnlXUE9nZW5Ba01sZ1ZLbFNaS0tHVzRibDdZeHlPTTJNcFpGSUlBUVpTZDhGZ1BwUHF1VFRKcVl6Mnp4NWJib2xXbkRqY28zVmRoZGROQVp3ajfSAeICQVVfeXFMT1JpSElaQ0dpWmdfcDByc1BQenI0Mi1XNnF1dHZzWUhmY2ZoODBFRzNHSWY3VDgzYlNGTDhMZnQ5ZElQZ2FtXzRlMHM2U2h5ay1hZU5OWGRZMGhwc3YzNDAyMDQyZ2d3M2d4Xzd3cHV5OGdqV29KUTVGNXdmRTZPLXFRQTFaWFRObUZHLXgtemJ4NkplLUw0Y1RZQ3luUFJzT19LbDMzRWZ1MmFGZXRqUFRjRGM3WERjcE9TYTJzYTAxbU9XXzFmdlRCdmJ6Q2xMOGg2RWtNejc0Mjc3TzNXS21ReExpSFdpT0tFNVJMUEYtNFJtNmMwaUliUHd5V3kyVjEwZU9BYjYtazBaa21nN1FLWTVmYUFZRC1scjZFbnNLR2xhVFhMRnNvY0t0R1FIclBOeG5IbW9teDdrTnVlTm82UXpmMk9obWhFWGFTTzVxc1o4d3ZCUjdMVlNCeHJKMmpB",
-  "gas:CBMivAFBVV95cUxOVXltYnA5UWJ4Ukl3c0xIZU1ZTEJpd1RNc1l5bkZyQW5CcTJjMkhhRUtLNWZoblJ4Tzl0T2oxVW9lMVdYVHZlQ3JLTFNZMmxKTzBJSVBoQWtYWlR6M01kb2JiUFR2eHlvM0dQNXhOVHlURldpYWttUnJTQVNZdTlsZzRpN25uQWtGdTFnTUJFWmk5MHF3NVNBaGZvMm9YeTB0Z3lrbVZ5X2RXNFVVQUFDa0hwZjJjUEJwMlB6Yg"
+  "gas:CBMivAFBVV95cUxOVXltYnA5UWJ4Ukl3c0xIZU1ZTEJpd1RNc1l5bkZyQW5CcTJjMkhhRUtLNWZoblJ4Tzl0T2oxVW9lMVdYVHZlQ3JLTFNZMmxKTzBJSVBoQWtYWlR6M01kb2JiUFR2eHlvM0dQNXhOVHlURldpYWttUnJTQVNZdTlsZzRpN25uQWtGdTFnTUJFWmk5MHF3NVNBaGZvMm9YeTB0Z3lrbVZ5X2RXNFVVQUFDa0hwZjJjUEJwMlB6Yg",
+  "gas:CBMi3wJBVV95cUxQZ05lSHFVUlhIMUl6RU5BcU5xSHIxUW00Q1REZ1BMUHlWWUtfTi0xN0ZBa1p1c2l0VmQ3dVkxcVRwSEladmVXSnk1c3BIYXlNeTBuUHJkQ0h2czdvSG04TFZydll2VFg2THpjUElOX0hWR1pvN3pDTkg5RGJUUm95OUVUZl9mcEZEV2loNmdmbjgwbFh2WURMLUZBaks4SDczSm44NmUxN0JEaXppYWJqUy1faDJtU0dtTmFMS2pDNktMZWt1WWxYWG9mSXozMTExU01TVFlNR3dQWWV5OFNyVHRRUXFmdXhvYmFpb3ByR1ZzMjF6N19rY3BtemgxSzZxcnNNSWExS3FCNkFlV3hUMk12ZnhVSjJNd0pXTVFuc2M5ZEhFQnB2bW92aEl4TW9jaUpvN0pJMzdPeDBfSFo0M3ZVNmRCVG9Ea21kRnljUnBkZmVlazZ6emE4NTNyZ2c"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
@@ -2891,7 +2901,8 @@
   "tg:insiderpaper/45580",
   "tg:insiderpaper/45579",
   "tg:insiderpaper/45581",
-  "tg:insiderpaper/45582"
+  "tg:insiderpaper/45582",
+  "tg:insiderpaper/45583"
  ],
  "opt_daily": "2026-10-28",
  "opt_flow_last": 1793045302.4056692,
@@ -3052,22 +3063,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142809",
-  "tg:FinancialJuice/142811",
-  "tg:FinancialJuice/142810",
-  "tg:FinancialJuice/142812",
-  "tg:FinancialJuice/142817",
-  "tg:FinancialJuice/142816",
-  "tg:FinancialJuice/142815",
-  "tg:FinancialJuice/142814",
-  "tg:FinancialJuice/142813",
-  "tg:FinancialJuice/142822",
-  "tg:FinancialJuice/142821",
-  "tg:FinancialJuice/142820",
-  "tg:FinancialJuice/142819",
-  "tg:FinancialJuice/142818",
-  "tg:FinancialJuice/142828",
-  "tg:FinancialJuice/142827",
   "tg:FinancialJuice/142826",
   "tg:FinancialJuice/142825",
   "tg:FinancialJuice/142824",
@@ -3851,7 +3846,23 @@
   "tg:FinancialJuice/143607",
   "tg:FinancialJuice/143606",
   "tg:FinancialJuice/143605",
-  "tg:FinancialJuice/143608"
+  "tg:FinancialJuice/143608",
+  "tg:FinancialJuice/143624",
+  "tg:FinancialJuice/143623",
+  "tg:FinancialJuice/143622",
+  "tg:FinancialJuice/143621",
+  "tg:FinancialJuice/143620",
+  "tg:FinancialJuice/143619",
+  "tg:FinancialJuice/143618",
+  "tg:FinancialJuice/143617",
+  "tg:FinancialJuice/143616",
+  "tg:FinancialJuice/143615",
+  "tg:FinancialJuice/143614",
+  "tg:FinancialJuice/143613",
+  "tg:FinancialJuice/143612",
+  "tg:FinancialJuice/143611",
+  "tg:FinancialJuice/143610",
+  "tg:FinancialJuice/143609"
  ],
  "shows_v4": 1
 }
