@@ -421,11 +421,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186221",
-  "wscn:3186204",
-  "wscn:3186238",
-  "wscn:3186237",
-  "wscn:3186236",
   "wscn:3186243",
   "wscn:3186241",
   "wscn:3186263",
@@ -1220,7 +1215,12 @@
   "wscn:3190799",
   "wscn:3190798",
   "wscn:3190797",
-  "wscn:3190804"
+  "wscn:3190804",
+  "wscn:3190809",
+  "wscn:3190808",
+  "wscn:3190807",
+  "wscn:3190806",
+  "wscn:3190805"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1855,7 +1855,10 @@
   "uw:howard-marks-us-lack-fiscal-discipline-deficit-borrowing-costs",
   "uw:doordash-acquire-instacart-17-billion-cnbc",
   "uw:bill-ackman-democratic-party-worst-place-250-years-fox-news",
-  "uw:no-real-wage-growth-trump-second-term-bls"
+  "uw:no-real-wage-growth-trump-second-term-bls",
+  "uw:pentagon-freezer-failures-military-bases-suspected-hack-reuters",
+  "uw:jensen-huang-target-chinese-spy-operation-new-york-times",
+  "uw:iran-war-cost-us-47-billion-washington-post"
  ],
  "congress_last_check": 1793310680.6530728,
  "scheduler": [
@@ -1885,7 +1888,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793311157.6509285,
+ "earnings_last_check": 1793311960.2842562,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2077,7 +2080,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793310418.2424507,
+ "gas_last_check": 1793311666.8692944,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3223,17 +3226,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142964",
-  "tg:FinancialJuice/142963",
-  "tg:FinancialJuice/142968",
-  "tg:FinancialJuice/142969",
-  "tg:FinancialJuice/142970",
-  "tg:FinancialJuice/142974",
-  "tg:FinancialJuice/142973",
-  "tg:FinancialJuice/142972",
-  "tg:FinancialJuice/142971",
-  "tg:FinancialJuice/142976",
-  "tg:FinancialJuice/142975",
   "tg:FinancialJuice/142978",
   "tg:FinancialJuice/142977",
   "tg:FinancialJuice/142980",
@@ -4022,7 +4014,18 @@
   "tg:FinancialJuice/143763",
   "tg:FinancialJuice/143762",
   "tg:FinancialJuice/143761",
-  "tg:FinancialJuice/143760"
+  "tg:FinancialJuice/143760",
+  "tg:FinancialJuice/143776",
+  "tg:FinancialJuice/143775",
+  "tg:FinancialJuice/143774",
+  "tg:FinancialJuice/143773",
+  "tg:FinancialJuice/143772",
+  "tg:FinancialJuice/143771",
+  "tg:FinancialJuice/143770",
+  "tg:FinancialJuice/143769",
+  "tg:FinancialJuice/143768",
+  "tg:FinancialJuice/143767",
+  "tg:FinancialJuice/143766"
  ],
  "shows_v4": 1
 }
