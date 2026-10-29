@@ -1738,7 +1738,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793235934.302725,
+ "earnings_last_check": 1793236737.7447045,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1910,7 +1910,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793235337.921597,
+ "gas_last_check": 1793236556.4924293,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3794,7 +3794,8 @@
   "tg:FinancialJuice/143515",
   "tg:FinancialJuice/143521",
   "tg:FinancialJuice/143520",
-  "tg:FinancialJuice/143519"
+  "tg:FinancialJuice/143519",
+  "tg:FinancialJuice/143522"
  ],
  "shows_v4": 1
 }
