@@ -409,15 +409,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3185256",
-  "wscn:3185255",
-  "wscn:3185254",
-  "wscn:3185253",
-  "wscn:3185252",
-  "wscn:3185257",
-  "wscn:3185261",
-  "wscn:3185262",
-  "wscn:3185266",
   "wscn:3185267",
   "wscn:3185275",
   "wscn:3185283",
@@ -1208,7 +1199,16 @@
   "wscn:3190759",
   "wscn:3190758",
   "wscn:3190764",
-  "wscn:3190761"
+  "wscn:3190761",
+  "wscn:3190773",
+  "wscn:3190772",
+  "wscn:3190771",
+  "wscn:3190770",
+  "wscn:3190769",
+  "wscn:3190768",
+  "wscn:3190767",
+  "wscn:3190766",
+  "wscn:3190765"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1614,7 +1614,8 @@
   "tg:WalterBloomberg/37613",
   "tg:WalterBloomberg/37612",
   "tg:WalterBloomberg/37616",
-  "tg:WalterBloomberg/37615"
+  "tg:WalterBloomberg/37615",
+  "tg:WalterBloomberg/37617"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1856,7 +1857,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793307217.353704,
+ "earnings_last_check": 1793307902.9877985,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2048,7 +2049,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793306737.291022,
+ "gas_last_check": 1793307962.9971037,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
