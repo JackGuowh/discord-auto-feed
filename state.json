@@ -350,7 +350,10 @@
   "truth:https://www.trumpstruth.org/statuses/42820",
   "truth:https://www.trumpstruth.org/statuses/42818",
   "truth:https://www.trumpstruth.org/statuses/42819",
-  "truth:https://www.trumpstruth.org/statuses/42817"
+  "truth:https://www.trumpstruth.org/statuses/42817",
+  "truth:https://www.trumpstruth.org/statuses/42824",
+  "truth:https://www.trumpstruth.org/statuses/42825",
+  "truth:https://www.trumpstruth.org/statuses/42826"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1738,7 +1741,7 @@
   "market_close:2026-10-28",
   "movers_post:2026-10-28"
  ],
- "earnings_last_check": 1793243063.4973118,
+ "earnings_last_check": 1793243923.1660523,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -1910,7 +1913,7 @@
   "er:2026-10-28:CVNA",
   "er:2026-10-28:F"
  ],
- "gas_last_check": 1793242705.6865742,
+ "gas_last_check": 1793243923.806838,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
