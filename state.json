@@ -385,9 +385,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3185021",
-  "wscn:3185020",
-  "wscn:3185018",
   "wscn:3185026",
   "wscn:3185025",
   "wscn:3185024",
@@ -1184,7 +1181,10 @@
   "wscn:3190665",
   "wscn:3190664",
   "wscn:3190663",
-  "wscn:3190662"
+  "wscn:3190662",
+  "wscn:3190668",
+  "wscn:3190667",
+  "wscn:3190666"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1781,7 +1781,7 @@
   "uw:us-warns-gulf-states-iran-campaign-after-midterms-wsj",
   "uw:us-ambassador-warns-canada-blame-midterms-trump-ctv"
  ],
- "congress_last_check": 1793290468.0868478,
+ "congress_last_check": 1793292323.4188576,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1807,7 +1807,7 @@
   "movers_pre:2026-10-29",
   "market_fg:2026-10-29"
  ],
- "earnings_last_check": 1793291948.422274,
+ "earnings_last_check": 1793292743.644874,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2957,7 +2957,8 @@
   "tg:insiderpaper/45586",
   "tg:insiderpaper/45587",
   "tg:insiderpaper/45589",
-  "tg:insiderpaper/45588"
+  "tg:insiderpaper/45588",
+  "tg:insiderpaper/45590"
  ],
  "opt_daily": "2026-10-28",
  "opt_flow_last": 1793045302.4056692,
@@ -3118,7 +3119,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/142910",
   "tg:FinancialJuice/142909",
   "tg:FinancialJuice/142908",
   "tg:FinancialJuice/142907",
@@ -3917,7 +3917,8 @@
   "tg:FinancialJuice/143705",
   "tg:FinancialJuice/143710",
   "tg:FinancialJuice/143709",
-  "tg:FinancialJuice/143708"
+  "tg:FinancialJuice/143708",
+  "tg:FinancialJuice/143711"
  ],
  "shows_v4": 1
 }
