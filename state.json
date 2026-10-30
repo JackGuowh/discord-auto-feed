@@ -444,9 +444,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186400",
-  "wscn:3186399",
-  "wscn:3186397",
   "wscn:3186404",
   "wscn:3186403",
   "wscn:3186413",
@@ -1243,7 +1240,10 @@
   "wscn:3191771",
   "wscn:3191779",
   "wscn:3191777",
-  "wscn:3191776"
+  "wscn:3191776",
+  "wscn:3191783",
+  "wscn:3191780",
+  "wscn:3191775"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1963,7 +1963,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793372952.5315683,
+ "congress_last_check": 1793374810.5062814,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1993,7 +1993,7 @@
   "movers_pre:2026-10-30",
   "market_fg:2026-10-30"
  ],
- "earnings_last_check": 1793374490.7199776,
+ "earnings_last_check": 1793375352.262805,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3229,7 +3229,8 @@
   "tg:insiderpaper/45600",
   "tg:insiderpaper/45601",
   "tg:insiderpaper/45602",
-  "tg:insiderpaper/45603"
+  "tg:insiderpaper/45603",
+  "tg:insiderpaper/45604"
  ],
  "opt_daily": "2026-10-29",
  "opt_flow_last": 1793045302.4056692,
