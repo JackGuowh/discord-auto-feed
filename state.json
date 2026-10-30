@@ -419,7 +419,36 @@
   "truth:https://www.trumpstruth.org/statuses/42890",
   "truth:https://www.trumpstruth.org/statuses/42891",
   "truth:https://www.trumpstruth.org/statuses/42892",
-  "truth:https://www.trumpstruth.org/statuses/42884"
+  "truth:https://www.trumpstruth.org/statuses/42884",
+  "truth:https://www.trumpstruth.org/statuses/42920",
+  "truth:https://www.trumpstruth.org/statuses/42916",
+  "truth:https://www.trumpstruth.org/statuses/42917",
+  "truth:https://www.trumpstruth.org/statuses/42918",
+  "truth:https://www.trumpstruth.org/statuses/42919",
+  "truth:https://www.trumpstruth.org/statuses/42921",
+  "truth:https://www.trumpstruth.org/statuses/42922",
+  "truth:https://www.trumpstruth.org/statuses/42913",
+  "truth:https://www.trumpstruth.org/statuses/42914",
+  "truth:https://www.trumpstruth.org/statuses/42915",
+  "truth:https://www.trumpstruth.org/statuses/42907",
+  "truth:https://www.trumpstruth.org/statuses/42908",
+  "truth:https://www.trumpstruth.org/statuses/42909",
+  "truth:https://www.trumpstruth.org/statuses/42910",
+  "truth:https://www.trumpstruth.org/statuses/42911",
+  "truth:https://www.trumpstruth.org/statuses/42912",
+  "truth:https://www.trumpstruth.org/statuses/42905",
+  "truth:https://www.trumpstruth.org/statuses/42906",
+  "truth:https://www.trumpstruth.org/statuses/42904",
+  "truth:https://www.trumpstruth.org/statuses/42902",
+  "truth:https://www.trumpstruth.org/statuses/42903",
+  "truth:https://www.trumpstruth.org/statuses/42901",
+  "truth:https://www.trumpstruth.org/statuses/42899",
+  "truth:https://www.trumpstruth.org/statuses/42900",
+  "truth:https://www.trumpstruth.org/statuses/42897",
+  "truth:https://www.trumpstruth.org/statuses/42896",
+  "truth:https://www.trumpstruth.org/statuses/42898",
+  "truth:https://www.trumpstruth.org/statuses/42894",
+  "truth:https://www.trumpstruth.org/statuses/42895"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1982,7 +2011,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793398723.1381934,
+ "congress_last_check": 1793400577.7753541,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2014,7 +2043,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793400500.4791749,
+ "earnings_last_check": 1793401257.8629642,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2215,7 +2244,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793399340.9469721,
+ "gas_last_check": 1793400578.4172301,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
