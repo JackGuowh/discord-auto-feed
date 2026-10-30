@@ -428,8 +428,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186310",
-  "wscn:3186306",
   "wscn:3186304",
   "wscn:3186295",
   "wscn:3186294",
@@ -1227,7 +1225,9 @@
   "wscn:3190875",
   "wscn:3190885",
   "wscn:3190878",
-  "wscn:3190939"
+  "wscn:3190939",
+  "wscn:3190988",
+  "wscn:3190987"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1883,7 +1883,7 @@
   "uw:reddit-require-users-log-in-logged-in-only-experience-huffman",
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc"
  ],
- "congress_last_check": 1793332699.7165613,
+ "congress_last_check": 1793334516.4604187,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1911,7 +1911,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793334494.9337082,
+ "earnings_last_check": 1793335115.318366,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2103,7 +2103,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793333835.0602858,
+ "gas_last_check": 1793335055.3347805,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3262,10 +3262,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143090",
-  "tg:FinancialJuice/143089",
-  "tg:FinancialJuice/143088",
-  "tg:FinancialJuice/143087",
   "tg:FinancialJuice/143086",
   "tg:FinancialJuice/143085",
   "tg:FinancialJuice/143084",
@@ -4061,7 +4057,11 @@
   "tg:FinancialJuice/143859",
   "tg:FinancialJuice/143881",
   "tg:FinancialJuice/143880",
-  "tg:FinancialJuice/143879"
+  "tg:FinancialJuice/143879",
+  "tg:FinancialJuice/143885",
+  "tg:FinancialJuice/143884",
+  "tg:FinancialJuice/143883",
+  "tg:FinancialJuice/143882"
  ],
  "shows_v4": 1
 }
