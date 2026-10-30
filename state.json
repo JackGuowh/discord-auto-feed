@@ -1886,7 +1886,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793349175.099819,
+ "congress_last_check": 1793351000.923352,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1914,7 +1914,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793350395.0189538,
+ "earnings_last_check": 1793351236.9495783,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2106,7 +2106,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793349854.6951153,
+ "gas_last_check": 1793351057.1911979,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3269,20 +3269,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143142",
-  "tg:FinancialJuice/143141",
-  "tg:FinancialJuice/143152",
-  "tg:FinancialJuice/143151",
-  "tg:FinancialJuice/143150",
-  "tg:FinancialJuice/143149",
-  "tg:FinancialJuice/143148",
-  "tg:FinancialJuice/143147",
-  "tg:FinancialJuice/143146",
-  "tg:FinancialJuice/143145",
-  "tg:FinancialJuice/143155",
-  "tg:FinancialJuice/143154",
-  "tg:FinancialJuice/143153",
-  "tg:FinancialJuice/143156",
   "tg:FinancialJuice/143176",
   "tg:FinancialJuice/143175",
   "tg:FinancialJuice/143174",
@@ -4068,7 +4054,21 @@
   "tg:FinancialJuice/143942",
   "tg:FinancialJuice/143941",
   "tg:FinancialJuice/143940",
-  "tg:FinancialJuice/143939"
+  "tg:FinancialJuice/143939",
+  "tg:FinancialJuice/143956",
+  "tg:FinancialJuice/143955",
+  "tg:FinancialJuice/143954",
+  "tg:FinancialJuice/143953",
+  "tg:FinancialJuice/143952",
+  "tg:FinancialJuice/143951",
+  "tg:FinancialJuice/143950",
+  "tg:FinancialJuice/143949",
+  "tg:FinancialJuice/143948",
+  "tg:FinancialJuice/143947",
+  "tg:FinancialJuice/143946",
+  "tg:FinancialJuice/143945",
+  "tg:FinancialJuice/143944",
+  "tg:FinancialJuice/143943"
  ],
  "shows_v4": 1
 }
