@@ -444,9 +444,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186389",
-  "wscn:3186395",
-  "wscn:3186394",
   "wscn:3186393",
   "wscn:3186402",
   "wscn:3186401",
@@ -1243,7 +1240,10 @@
   "wscn:3191758",
   "wscn:3191757",
   "wscn:3191768",
-  "wscn:3191765"
+  "wscn:3191765",
+  "wscn:3191774",
+  "wscn:3191773",
+  "wscn:3191771"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1700,7 +1700,9 @@
   "tg:WalterBloomberg/37663",
   "tg:WalterBloomberg/37662",
   "tg:WalterBloomberg/37667",
-  "tg:WalterBloomberg/37666"
+  "tg:WalterBloomberg/37666",
+  "tg:WalterBloomberg/37669",
+  "tg:WalterBloomberg/37668"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1810,7 +1812,8 @@
   "tg:WatcherGuru/15717",
   "tg:WatcherGuru/15715",
   "tg:WatcherGuru/15718",
-  "tg:WatcherGuru/15720"
+  "tg:WatcherGuru/15720",
+  "tg:WatcherGuru/15721"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1985,7 +1988,7 @@
   "movers_pre:2026-10-30",
   "market_fg:2026-10-30"
  ],
- "earnings_last_check": 1793372892.5010343,
+ "earnings_last_check": 1793373749.6361623,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2186,7 +2189,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793371975.4264312,
+ "gas_last_check": 1793373211.3347857,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2200,7 +2203,9 @@
   "gas:https://gawdamedia.com/?p=24056",
   "gas:https://gawdamedia.com/?p=25108",
   "gas:https://gawdamedia.com/?p=25106",
-  "gas:https://gawdamedia.com/?p=25104"
+  "gas:https://gawdamedia.com/?p=25104",
+  "gas:https://gawdamedia.com/?p=25113",
+  "gas:https://gawdamedia.com/?p=25111"
  ],
  "gas:GAWDA": [
   "gas:https://www.gawda.org/?p=13304",
@@ -3215,7 +3220,8 @@
   "tg:insiderpaper/45599",
   "tg:insiderpaper/45600",
   "tg:insiderpaper/45601",
-  "tg:insiderpaper/45602"
+  "tg:insiderpaper/45602",
+  "tg:insiderpaper/45603"
  ],
  "opt_daily": "2026-10-29",
  "opt_flow_last": 1793045302.4056692,
@@ -3376,7 +3382,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143266",
   "tg:FinancialJuice/143265",
   "tg:FinancialJuice/143264",
   "tg:FinancialJuice/143263",
@@ -4175,7 +4180,8 @@
   "tg:FinancialJuice/144044",
   "tg:FinancialJuice/144043",
   "tg:FinancialJuice/144042",
-  "tg:FinancialJuice/144050"
+  "tg:FinancialJuice/144050",
+  "tg:FinancialJuice/144051"
  ],
  "shows_v4": 1
 }
