@@ -1880,7 +1880,7 @@
   "uw:jensen-huang-target-chinese-spy-operation-new-york-times",
   "uw:iran-war-cost-us-47-billion-washington-post"
  ],
- "congress_last_check": 1793330866.4753637,
+ "congress_last_check": 1793332699.7165613,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1908,7 +1908,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793332022.3593392,
+ "earnings_last_check": 1793332886.066035,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2100,7 +2100,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793331362.3970933,
+ "gas_last_check": 1793332579.8648634,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3259,9 +3259,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143066",
-  "tg:FinancialJuice/143065",
-  "tg:FinancialJuice/143091",
   "tg:FinancialJuice/143090",
   "tg:FinancialJuice/143089",
   "tg:FinancialJuice/143088",
@@ -4058,7 +4055,10 @@
   "tg:FinancialJuice/143862",
   "tg:FinancialJuice/143861",
   "tg:FinancialJuice/143860",
-  "tg:FinancialJuice/143859"
+  "tg:FinancialJuice/143859",
+  "tg:FinancialJuice/143881",
+  "tg:FinancialJuice/143880",
+  "tg:FinancialJuice/143879"
  ],
  "shows_v4": 1
 }
