@@ -1736,7 +1736,8 @@
   "tg:WatcherGuru/15697",
   "tg:WatcherGuru/15698",
   "tg:WatcherGuru/15699",
-  "tg:WatcherGuru/15703"
+  "tg:WatcherGuru/15703",
+  "tg:WatcherGuru/15704"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1905,7 +1906,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793328082.844889,
+ "earnings_last_check": 1793328882.7493942,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2097,7 +2098,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793327667.824388,
+ "gas_last_check": 1793328883.218488,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2468,7 +2469,8 @@
   "gas:CBMiY0FVX3lxTE9xZGpSaTVQYzBzcGg3T1Y3cUdCbDEtVjVGVFh1bFdRckY5aWotMElDZUJ3NEktTzFWZVZyVzYyYU5rem02c3hzOEE2dVpwR3BwdUdfbHZEZkt6UFhsRkxlb0hoYw",
   "gas:CBMiZkFVX3lxTE1XdlVfdlRvczVIdndycnFrMHpyUXVrUzFDUG1PcnBVVkNsNmxWbUNLYlpZdFBYamNWMUpyQkxxSFBBZFRGSkZGUlpILWJzSDV6azJUTk84UzE3OG52NG9SQ0kyV3o5Zw",
   "gas:CBMixAFBVV95cUxPb2Q5MGlIQ2Z4cklKQUtDNzJwekZrSWN1clA4UHU2OW10ZEpXYnlyS3NvU2xJUlBfaHBhM2E5WVBtUkJ2OTNTb29mY2tYdkV0Y1dsSGhsRmdITnpXVjE2MDlTNUtEOVNTVm5ldEdxN3E2ZVdjSVRSNXlpZktRMVJ2U2k0NHoxaHNIa0tKYzlDUGRhOVF1dG1rYUItRTB6TnhYanF2QUtyb0ZmSVJUNDR6b3g1SmU0M3YycXlOWkttbmNFUV9K",
-  "gas:CBMimgFBVV95cUxNZHJiUi1pSWlER1ZubXZpYjczYS1LWlpDSkE3RFFQWk9SZVNQTS12eEpfTDFYbW1HaWIzM3NsVV9ad3c5SndXemZmbXVabzNfbVowQkRvbnRkOFpIcFN1RUt4OXZjR0hSdzdMVEdvSmVmdnM1cEUzLWd2cFdYV3doLTNFaG9TU2tWaEdUTkE2eFliUGRSZVdSS0JR"
+  "gas:CBMimgFBVV95cUxNZHJiUi1pSWlER1ZubXZpYjczYS1LWlpDSkE3RFFQWk9SZVNQTS12eEpfTDFYbW1HaWIzM3NsVV9ad3c5SndXemZmbXVabzNfbVowQkRvbnRkOFpIcFN1RUt4OXZjR0hSdzdMVEdvSmVmdnM1cEUzLWd2cFdYV3doLTNFaG9TU2tWaEdUTkE2eFliUGRSZVdSS0JR",
+  "gas:CBMi0wFBVV95cUxORFhoQ092Z3EtQ19yZm44ckt6eHlYVFRvbjFUY0NEU1pBRU5mcGdIejFkOGphc2JLODRIeXFnZWE5bkpGNW9BRzZhYjhud0lCcWstMDJsMjctSUE2SlFWYjU5c1ZJeFBlczhMYlN2WmhfNm5FOTh1MzZvX3F3ODB5NGRIX3UzTlgyRXFBdk1RcW1TcURDMWRYMk9fdmtNZXF1VnNBRm1KQ0YyUURTWFdyTjl5ZHR5a01RRUdYVHU3Q0ZtVTdOV25ZYk9hanNnNWtEQXU4"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
@@ -3254,7 +3256,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143025",
   "tg:FinancialJuice/143026",
   "tg:FinancialJuice/143046",
   "tg:FinancialJuice/143045",
@@ -4053,7 +4054,8 @@
   "tg:FinancialJuice/143821",
   "tg:FinancialJuice/143824",
   "tg:FinancialJuice/143823",
-  "tg:FinancialJuice/143822"
+  "tg:FinancialJuice/143822",
+  "tg:FinancialJuice/143825"
  ],
  "shows_v4": 1
 }
