@@ -1738,7 +1738,8 @@
   "tg:WatcherGuru/15698",
   "tg:WatcherGuru/15699",
   "tg:WatcherGuru/15703",
-  "tg:WatcherGuru/15704"
+  "tg:WatcherGuru/15704",
+  "tg:WatcherGuru/15705"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1879,7 +1880,7 @@
   "uw:jensen-huang-target-chinese-spy-operation-new-york-times",
   "uw:iran-war-cost-us-47-billion-washington-post"
  ],
- "congress_last_check": 1793329027.8816152,
+ "congress_last_check": 1793330866.4753637,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1907,7 +1908,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793330368.7517548,
+ "earnings_last_check": 1793331226.4384315,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
