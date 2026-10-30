@@ -403,7 +403,13 @@
   "truth:https://www.trumpstruth.org/statuses/42873",
   "truth:https://www.trumpstruth.org/statuses/42871",
   "truth:https://www.trumpstruth.org/statuses/42870",
-  "truth:https://www.trumpstruth.org/statuses/42876"
+  "truth:https://www.trumpstruth.org/statuses/42876",
+  "truth:https://www.trumpstruth.org/statuses/42883",
+  "truth:https://www.trumpstruth.org/statuses/42881",
+  "truth:https://www.trumpstruth.org/statuses/42879",
+  "truth:https://www.trumpstruth.org/statuses/42880",
+  "truth:https://www.trumpstruth.org/statuses/42877",
+  "truth:https://www.trumpstruth.org/statuses/42878"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1917,7 +1923,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793356769.7758946,
+ "earnings_last_check": 1793357691.9174697,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2115,7 +2121,7 @@
   "er:2026-10-30:XOM",
   "er:2026-10-30:REGN"
  ],
- "gas_last_check": 1793355972.4901853,
+ "gas_last_check": 1793357212.4327292,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2491,7 +2497,9 @@
   "gas:CBMiZEFVX3lxTE03ZVFVWHhiOVJRQmYyTndRZldnWUxia1dydHV4U0hneF9PeFRWSDJwME81VWllRTNuN3pQVnBqcHFCbjBFSVQ5NUFUU1FCWklHRmdkOFdwZUd6SHdYLVFXeWtRdVA",
   "gas:CBMiUEFVX3lxTE1jWmp6dnE2bGs3UUxsSzRudXp0X05sUGJPZERnd3NrTG1PQkFPMTViVUI4cU1TaDc3UlI2bmxOMVVXcmh0Yy16VGtpMkdfbE1R",
   "gas:CBMiY0FVX3lxTE1LSVh0dUlPNktxTjl6bUs4WjdGXzVyeFVzLVcydWU5QmJKRDhfUW9mOHBxN1pxZk9VNmFEVm14YlRkclVkcU5rNklWc0xYdkE5VGJORjA3aE5FODRDZzZaZlN0aw",
-  "gas:CBMiYkFVX3lxTE1HczQwdXRubDI2QzctSXRSdG1DLTIzZHVObmtnaG9nTmdNUnVEMXQzdzZ5S2JOX2MyRVRxc0NfRURlbk5RMFQ0NGNvakl0Y0hzd0pWVWhBS09GbzRrdFlMWE1B"
+  "gas:CBMiYkFVX3lxTE1HczQwdXRubDI2QzctSXRSdG1DLTIzZHVObmtnaG9nTmdNUnVEMXQzdzZ5S2JOX2MyRVRxc0NfRURlbk5RMFQ0NGNvakl0Y0hzd0pWVWhBS09GbzRrdFlMWE1B",
+  "gas:CBMigwFBVV95cUxNTzM3emZZNFMwSEtzTHNUakJYZFd6QlVQUmVMMXJ0Z3RSek50M1lkU1V4SU5PQ2xhUDc0LTcyU3JrTVFzYUk2bHpKTC1kNElTNEV4ZnBQa2FXUkhGLW5rcGphNzZvLUNDbmktTEZ1WkUwZVR2Ti1pTzJQUzBhN2J1ZTFGaw",
+  "gas:CBMiY0FVX3lxTE5ZX0ZpekhoYkZmMC00TjB0TWhyNnE1TnYzbGVRZlZwWGpqM1UxbW1HU0tMX3dmUFgzV0hqSGxPMWgtMnZJT0g2WldTUFpTa1JXRWZJcjBfOExuQjBCRm9oallERQ"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
