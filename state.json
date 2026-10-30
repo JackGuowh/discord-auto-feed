@@ -2016,9 +2016,11 @@
   "uw:trump-warns-democratic-midterm-win-1929-style-depression",
   "uw:france-votes-tax-internet-per-gigabyte-streaming-netflix-youtube",
   "uw:families-pay-nearly-7500-year-health-insurance-kff",
-  "uw:record-47-9-million-americans-voted-early-us-midterms-afp"
+  "uw:record-47-9-million-americans-voted-early-us-midterms-afp",
+  "uw:us-treasury-record-839-billion-auctions-week",
+  "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793400577.7753541,
+ "congress_last_check": 1793402437.2719214,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2050,7 +2052,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793402055.5102482,
+ "earnings_last_check": 1793402917.1102004,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
