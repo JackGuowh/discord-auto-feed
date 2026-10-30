@@ -434,8 +434,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186350",
-  "wscn:3186349",
   "wscn:3186348",
   "wscn:3186347",
   "wscn:3186346",
@@ -1233,7 +1231,9 @@
   "wscn:3191498",
   "wscn:3191493",
   "wscn:3191507",
-  "wscn:3191531"
+  "wscn:3191531",
+  "wscn:3191587",
+  "wscn:3191581"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1646,7 +1646,9 @@
   "tg:WalterBloomberg/37621",
   "tg:WalterBloomberg/37620",
   "tg:WalterBloomberg/37622",
-  "tg:WalterBloomberg/37623"
+  "tg:WalterBloomberg/37623",
+  "tg:WalterBloomberg/37625",
+  "tg:WalterBloomberg/37624"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1895,7 +1897,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793356469.743583,
+ "congress_last_check": 1793358310.1443279,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1923,7 +1925,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793357691.9174697,
+ "earnings_last_check": 1793358370.1288474,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2119,9 +2121,10 @@
   "er:2026-10-30:CVX",
   "er:2026-10-30:CCJ",
   "er:2026-10-30:XOM",
-  "er:2026-10-30:REGN"
+  "er:2026-10-30:REGN",
+  "er:2026-10-30:GD"
  ],
- "gas_last_check": 1793357212.4327292,
+ "gas_last_check": 1793358431.348948,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2499,7 +2502,8 @@
   "gas:CBMiY0FVX3lxTE1LSVh0dUlPNktxTjl6bUs4WjdGXzVyeFVzLVcydWU5QmJKRDhfUW9mOHBxN1pxZk9VNmFEVm14YlRkclVkcU5rNklWc0xYdkE5VGJORjA3aE5FODRDZzZaZlN0aw",
   "gas:CBMiYkFVX3lxTE1HczQwdXRubDI2QzctSXRSdG1DLTIzZHVObmtnaG9nTmdNUnVEMXQzdzZ5S2JOX2MyRVRxc0NfRURlbk5RMFQ0NGNvakl0Y0hzd0pWVWhBS09GbzRrdFlMWE1B",
   "gas:CBMigwFBVV95cUxNTzM3emZZNFMwSEtzTHNUakJYZFd6QlVQUmVMMXJ0Z3RSek50M1lkU1V4SU5PQ2xhUDc0LTcyU3JrTVFzYUk2bHpKTC1kNElTNEV4ZnBQa2FXUkhGLW5rcGphNzZvLUNDbmktTEZ1WkUwZVR2Ti1pTzJQUzBhN2J1ZTFGaw",
-  "gas:CBMiY0FVX3lxTE5ZX0ZpekhoYkZmMC00TjB0TWhyNnE1TnYzbGVRZlZwWGpqM1UxbW1HU0tMX3dmUFgzV0hqSGxPMWgtMnZJT0g2WldTUFpTa1JXRWZJcjBfOExuQjBCRm9oallERQ"
+  "gas:CBMiY0FVX3lxTE5ZX0ZpekhoYkZmMC00TjB0TWhyNnE1TnYzbGVRZlZwWGpqM1UxbW1HU0tMX3dmUFgzV0hqSGxPMWgtMnZJT0g2WldTUFpTa1JXRWZJcjBfOExuQjBCRm9oallERQ",
+  "gas:CBMitwFBVV95cUxPdm4ybElpMENILTVXSlBBbWRaalNQa2sxTUp2MERadWVmLS12a01oM3ZaWnJvcXlXRkozMEFsbzFoMGdEejNvajl5M0laOUt1ZGpiWURhdVVzTUFLN09VY2xqcG5HaV9rVkNyNVBDSmJETGJfa0hfaVlSeUdZMHhIZkRlblZLcDZ1VXZGX0FUMWw2QWd0RzRjbUdNZ3dGbGdRbkstTFduSjBmX0k0Z1QyY3VNenVpOEE"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
@@ -3288,8 +3292,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143192",
-  "tg:FinancialJuice/143191",
   "tg:FinancialJuice/143190",
   "tg:FinancialJuice/143189",
   "tg:FinancialJuice/143188",
@@ -4087,7 +4089,9 @@
   "tg:FinancialJuice/143973",
   "tg:FinancialJuice/143972",
   "tg:FinancialJuice/143971",
-  "tg:FinancialJuice/143977"
+  "tg:FinancialJuice/143977",
+  "tg:FinancialJuice/143979",
+  "tg:FinancialJuice/143978"
  ],
  "shows_v4": 1
 }
