@@ -1753,7 +1753,8 @@
   "tg:WatcherGuru/15708",
   "tg:WatcherGuru/15710",
   "tg:WatcherGuru/15712",
-  "tg:WatcherGuru/15713"
+  "tg:WatcherGuru/15713",
+  "tg:WatcherGuru/15714"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1898,7 +1899,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793358310.1443279,
+ "congress_last_check": 1793360145.35272,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1926,7 +1927,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793359169.8768501,
+ "earnings_last_check": 1793360145.701198,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2123,9 +2124,10 @@
   "er:2026-10-30:CCJ",
   "er:2026-10-30:XOM",
   "er:2026-10-30:REGN",
-  "er:2026-10-30:GD"
+  "er:2026-10-30:GD",
+  "er:2026-10-30:CNI"
  ],
- "gas_last_check": 1793358431.348948,
+ "gas_last_check": 1793359665.1819193,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
