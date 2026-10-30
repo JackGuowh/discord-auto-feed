@@ -1981,7 +1981,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793395050.2704,
+ "congress_last_check": 1793396887.3147528,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2013,7 +2013,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793396509.424327,
+ "earnings_last_check": 1793397127.5059032,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2214,7 +2214,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793395650.6561198,
+ "gas_last_check": 1793396887.9724793,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3427,8 +3427,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143344",
-  "tg:FinancialJuice/143343",
   "tg:FinancialJuice/143360",
   "tg:FinancialJuice/143359",
   "tg:FinancialJuice/143358",
@@ -4226,7 +4224,9 @@
   "tg:FinancialJuice/144138",
   "tg:FinancialJuice/144137",
   "tg:FinancialJuice/144142",
-  "tg:FinancialJuice/144141"
+  "tg:FinancialJuice/144141",
+  "tg:FinancialJuice/144144",
+  "tg:FinancialJuice/144143"
  ],
  "shows_v4": 1
 }
