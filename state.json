@@ -1835,7 +1835,8 @@
   "tg:WatcherGuru/15731",
   "tg:WatcherGuru/15732",
   "tg:WatcherGuru/15733",
-  "tg:WatcherGuru/15735"
+  "tg:WatcherGuru/15735",
+  "tg:WatcherGuru/15736"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1980,7 +1981,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793393196.0358286,
+ "congress_last_check": 1793395050.2704,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2012,7 +2013,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793394733.2066352,
+ "earnings_last_check": 1793395650.397335,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2213,7 +2214,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793394436.931489,
+ "gas_last_check": 1793395650.6561198,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3426,10 +3427,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143334",
-  "tg:FinancialJuice/143333",
-  "tg:FinancialJuice/143332",
-  "tg:FinancialJuice/143331",
   "tg:FinancialJuice/143330",
   "tg:FinancialJuice/143329",
   "tg:FinancialJuice/143344",
@@ -4225,7 +4222,11 @@
   "tg:FinancialJuice/144136",
   "tg:FinancialJuice/144135",
   "tg:FinancialJuice/144134",
-  "tg:FinancialJuice/144133"
+  "tg:FinancialJuice/144133",
+  "tg:FinancialJuice/144140",
+  "tg:FinancialJuice/144139",
+  "tg:FinancialJuice/144138",
+  "tg:FinancialJuice/144137"
  ],
  "shows_v4": 1
 }
