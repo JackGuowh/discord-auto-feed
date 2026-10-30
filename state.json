@@ -1884,7 +1884,7 @@
   "uw:reddit-require-users-log-in-logged-in-only-experience-huffman",
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc"
  ],
- "congress_last_check": 1793338191.7666082,
+ "congress_last_check": 1793340031.3536863,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1912,7 +1912,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793339170.541182,
+ "earnings_last_check": 1793340031.646715,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2104,7 +2104,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793338750.816326,
+ "gas_last_check": 1793339968.8881674,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3265,9 +3265,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143081",
-  "tg:FinancialJuice/143093",
-  "tg:FinancialJuice/143092",
   "tg:FinancialJuice/143095",
   "tg:FinancialJuice/143094",
   "tg:FinancialJuice/143096",
@@ -4064,7 +4061,10 @@
   "tg:FinancialJuice/143888",
   "tg:FinancialJuice/143887",
   "tg:FinancialJuice/143886",
-  "tg:FinancialJuice/143890"
+  "tg:FinancialJuice/143890",
+  "tg:FinancialJuice/143893",
+  "tg:FinancialJuice/143892",
+  "tg:FinancialJuice/143891"
  ],
  "shows_v4": 1
 }
