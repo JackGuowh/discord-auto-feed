@@ -444,11 +444,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186367",
-  "wscn:3186366",
-  "wscn:3186365",
-  "wscn:3186364",
-  "wscn:3186375",
   "wscn:3186374",
   "wscn:3186373",
   "wscn:3186372",
@@ -1243,7 +1238,12 @@
   "wscn:3191722",
   "wscn:3191719",
   "wscn:3191718",
-  "wscn:3191725"
+  "wscn:3191725",
+  "wscn:3191737",
+  "wscn:3191736",
+  "wscn:3191734",
+  "wscn:3191733",
+  "wscn:3191727"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1792,7 +1792,9 @@
   "tg:WatcherGuru/15710",
   "tg:WatcherGuru/15712",
   "tg:WatcherGuru/15713",
-  "tg:WatcherGuru/15714"
+  "tg:WatcherGuru/15714",
+  "tg:WatcherGuru/15717",
+  "tg:WatcherGuru/15715"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1967,7 +1969,7 @@
   "movers_pre:2026-10-30",
   "market_fg:2026-10-30"
  ],
- "earnings_last_check": 1793367977.4730334,
+ "earnings_last_check": 1793368834.7216136,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2168,7 +2170,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793367041.8958757,
+ "gas_last_check": 1793368295.193628,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2207,7 +2209,8 @@
   "gas:https://www.cganet.com/cga-releases-p-98-guideline-for-pressure-testing-of-field-installed-piping-and-equipment/",
   "gas:https://www.cganet.com/cga-launches-semiconductor-standards-library-to-support-safety-and-reliability-in-semiconductor-manufacturing/",
   "gas:https://www.cganet.com/u-s-department-of-energy-designates-helium-as-a-critical-material/",
-  "gas:https://www.cganet.com/home-oxygen-safety-five-simple-habits-that-make-a-difference/"
+  "gas:https://www.cganet.com/home-oxygen-safety-five-simple-habits-that-make-a-difference/",
+  "gas:https://www.cganet.com/cylinder-and-equipment-safety-six-simple-practices-that-make-a-difference/"
  ],
  "gas:Google 新闻": [
   "gas:CBMiUkFVX3lxTE8yMnp4VzR1UU8yWUhHdDJoQzhYV2FhUFlxTVVjd0JEdzl5cnp6MGV5Nkl5X2lPVGIyZ0prV2FhVlVxdHQ3dkRjSEJHSE5jaG92VkE",
@@ -2551,7 +2554,9 @@
   "gas:CBMizgFBVV95cUxPcHpRWHZmdlM1MW9ZaXp1bUEtMHM4VnNiR3NGQVVhOFJsUlp3QTZYV3l3ZjVQbmFIdVlpdWdVaDhmWnpaV3hJWF82Z3M3SWtIOHJpejR5MnVjNXpUeWlTYzNWS0IxUFNQU21pV05qTzRBcHdLbGd0S0ZDTnVBcHRyV09TZGJXeU5QRFFDM1dUN25wazBfeHJQZ1JQek1ReF9Lam1iX3NLb3UxUUxWRmpzMVctaTEwb2tKd3ZfTkZjaGhEaVMxOU5idVNRbFMzdw",
   "gas:CBMirAFBVV95cUxNTEF1V1lJWms4YkZxakN2RmItQ1ZJeWtENVNsdmZzYldWaUQ2TjZSdmRHb2RiZkM1bmliQXlyNzl0Q3RwLWYxdk02SlZIQ0xsM1Q5aXBkMFI4OU9NTFdHbFU4MXctc1hndkFyREdfeU5Vd2ZTVUlRU1Jab0NfNlNHcGl2MlRacXF1WnllN0ljcENESVVZdF9LSC1xU1pNQXFSRjZIdFdrdENkVE5T",
   "gas:CBMivAFBVV95cUxNVVgxdzcwcUZReWRDdGJHTDNyMmJSZVVNQk1pWm4yTmFXYU5FaVQwU0JOWFdtdEFkVmpZMkVBNEJKQzZMdDhxQUFBSDdfRWpjWmpLMWtrY1l6NUc4eEY1M3pxV2sxQ1Q0cGd5WDFtUDRYM25qelJkc2QtQmxRMzdZdDVzT2k5aWNrRWY5S3NtNldhUG1qZlZEcUVIZG9MMVkwczZqZmFGMDI0QTZJWWpkT3Rqa3dwV0lORGxpWg",
-  "gas:CBMilgFBVV95cUxNYzFuZkxvN0RXQnR5cGw3MHBHSHgwNkFiNXVURjc4Ynd0c0lqN25PbkpFdjBuX0xCRkdhZ0I3S0ZwWlR4UTVQUENvLWRoamxLMVR6eTllUGhBLWZ0OXVULVllZ0dVNEtpWUpxMTNXZElPQ0w5M3pWVGZib3VSNEd2QWZCM3NieGtDcVhNbXNIMFp3VHRPbWc"
+  "gas:CBMilgFBVV95cUxNYzFuZkxvN0RXQnR5cGw3MHBHSHgwNkFiNXVURjc4Ynd0c0lqN25PbkpFdjBuX0xCRkdhZ0I3S0ZwWlR4UTVQUENvLWRoamxLMVR6eTllUGhBLWZ0OXVULVllZ0dVNEtpWUpxMTNXZElPQ0w5M3pWVGZib3VSNEd2QWZCM3NieGtDcVhNbXNIMFp3VHRPbWc",
+  "gas:CBMipwFBVV95cUxPUkJObkM0RDcxSGd6Z2EzRERvV0pEYTZ4MjMtVkNlNUtIUmd0OFlVQk9lXzFiNnM4SWVlelVBczVUN1BEYXY1aGFmNnhIS3NGblNPeExhV2hKWF9VRW1ZYXZDU1MzcVNNSG14cnBtUXN3dkFiT2V1a21KN1JIR3RseUdKNVZ2N3hSLVN6VWg5T3dxeVBjUTVQQnJ0MkVraHdZWnM0XzRlTQ",
+  "gas:CBMihwJBVV95cUxQRHNjeEN1ZGNyRzRhNWRDSjZwTWxpS1NYaHFSNWwtQU8zOXg2NkRQakdRcGhtbTQ3Uzlsd1I4Nm1nTjI3bkRRcVg4N1RDY0NidnEzQ1J4TFFMVjZKM3RrX2VNQy0wLS1RU2JqSDhMY2o4TVBRNlRzSWpYMnNRaFBCYXh6S1FOeGJRZktIenBtLXVnaXNqNDBZMnVVTk5JWm1oT2QzbUlJQVhVUTJaV0Q4X0xMU0JPdEtiUEs0YktQbG5STTNzemZBMzlySGxwYVZvZF80bW5mOW9yTnBfeXBRR2tOMzViUlVBM2RoaFRENl9MZnBCWWpsSUJfQnJHUUxROFQxSGtNSQ"
  ],
  "shows_last_day": "2026-10-30",
  "shows_init": "2026-10-22",
@@ -3350,9 +3355,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143236",
-  "tg:FinancialJuice/143235",
-  "tg:FinancialJuice/143234",
   "tg:FinancialJuice/143233",
   "tg:FinancialJuice/143232",
   "tg:FinancialJuice/143231",
@@ -4149,7 +4151,10 @@
   "tg:FinancialJuice/144016",
   "tg:FinancialJuice/144015",
   "tg:FinancialJuice/144014",
-  "tg:FinancialJuice/144013"
+  "tg:FinancialJuice/144013",
+  "tg:FinancialJuice/144027",
+  "tg:FinancialJuice/144026",
+  "tg:FinancialJuice/144025"
  ],
  "shows_v4": 1
 }
