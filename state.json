@@ -2005,7 +2005,7 @@
   "movers_pre:2026-10-30",
   "market_fg:2026-10-30"
  ],
- "earnings_last_check": 1793388458.84628,
+ "earnings_last_check": 1793389319.341393,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3093,7 +3093,8 @@
   "tg:disclosetv/21992",
   "tg:disclosetv/21993",
   "tg:disclosetv/21994",
-  "tg:disclosetv/21995"
+  "tg:disclosetv/21995",
+  "tg:disclosetv/21996"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -3411,7 +3412,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143319",
   "tg:FinancialJuice/143318",
   "tg:FinancialJuice/143317",
   "tg:FinancialJuice/143316",
@@ -4210,7 +4210,8 @@
   "tg:FinancialJuice/144111",
   "tg:FinancialJuice/144110",
   "tg:FinancialJuice/144112",
-  "tg:FinancialJuice/144113"
+  "tg:FinancialJuice/144113",
+  "tg:FinancialJuice/144114"
  ],
  "shows_v4": 1
 }
