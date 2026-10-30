@@ -1739,7 +1739,8 @@
   "tg:WatcherGuru/15699",
   "tg:WatcherGuru/15703",
   "tg:WatcherGuru/15704",
-  "tg:WatcherGuru/15705"
+  "tg:WatcherGuru/15705",
+  "tg:WatcherGuru/15706"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1911,7 +1912,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793336894.4905844,
+ "earnings_last_check": 1793337514.0553486,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2103,7 +2104,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793336294.438809,
+ "gas_last_check": 1793337514.6451335,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2477,7 +2478,8 @@
   "gas:CBMimgFBVV95cUxNZHJiUi1pSWlER1ZubXZpYjczYS1LWlpDSkE3RFFQWk9SZVNQTS12eEpfTDFYbW1HaWIzM3NsVV9ad3c5SndXemZmbXVabzNfbVowQkRvbnRkOFpIcFN1RUt4OXZjR0hSdzdMVEdvSmVmdnM1cEUzLWd2cFdYV3doLTNFaG9TU2tWaEdUTkE2eFliUGRSZVdSS0JR",
   "gas:CBMi0wFBVV95cUxORFhoQ092Z3EtQ19yZm44ckt6eHlYVFRvbjFUY0NEU1pBRU5mcGdIejFkOGphc2JLODRIeXFnZWE5bkpGNW9BRzZhYjhud0lCcWstMDJsMjctSUE2SlFWYjU5c1ZJeFBlczhMYlN2WmhfNm5FOTh1MzZvX3F3ODB5NGRIX3UzTlgyRXFBdk1RcW1TcURDMWRYMk9fdmtNZXF1VnNBRm1KQ0YyUURTWFdyTjl5ZHR5a01RRUdYVHU3Q0ZtVTdOV25ZYk9hanNnNWtEQXU4",
   "gas:CBMiZEFVX3lxTE03ZVFVWHhiOVJRQmYyTndRZldnWUxia1dydHV4U0hneF9PeFRWSDJwME81VWllRTNuN3pQVnBqcHFCbjBFSVQ5NUFUU1FCWklHRmdkOFdwZUd6SHdYLVFXeWtRdVA",
-  "gas:CBMiUEFVX3lxTE1jWmp6dnE2bGs3UUxsSzRudXp0X05sUGJPZERnd3NrTG1PQkFPMTViVUI4cU1TaDc3UlI2bmxOMVVXcmh0Yy16VGtpMkdfbE1R"
+  "gas:CBMiUEFVX3lxTE1jWmp6dnE2bGs3UUxsSzRudXp0X05sUGJPZERnd3NrTG1PQkFPMTViVUI4cU1TaDc3UlI2bmxOMVVXcmh0Yy16VGtpMkdfbE1R",
+  "gas:CBMiY0FVX3lxTE1LSVh0dUlPNktxTjl6bUs4WjdGXzVyeFVzLVcydWU5QmJKRDhfUW9mOHBxN1pxZk9VNmFEVm14YlRkclVkcU5rNklWc0xYdkE5VGJORjA3aE5FODRDZzZaZlN0aw"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
