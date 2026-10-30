@@ -1873,7 +1873,7 @@
   "uw:jensen-huang-target-chinese-spy-operation-new-york-times",
   "uw:iran-war-cost-us-47-billion-washington-post"
  ],
- "congress_last_check": 1793318047.912789,
+ "congress_last_check": 1793319901.503205,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1901,7 +1901,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793319214.7498648,
+ "earnings_last_check": 1793320081.491497,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3248,7 +3248,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143007",
   "tg:FinancialJuice/143006",
   "tg:FinancialJuice/143005",
   "tg:FinancialJuice/143004",
@@ -4047,7 +4046,8 @@
   "tg:FinancialJuice/143801",
   "tg:FinancialJuice/143800",
   "tg:FinancialJuice/143799",
-  "tg:FinancialJuice/143798"
+  "tg:FinancialJuice/143798",
+  "tg:FinancialJuice/143808"
  ],
  "shows_v4": 1
 }
