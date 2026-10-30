@@ -444,8 +444,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186357",
-  "wscn:3186354",
   "wscn:3186363",
   "wscn:3186362",
   "wscn:3186361",
@@ -1243,7 +1241,9 @@
   "wscn:3191640",
   "wscn:3191672",
   "wscn:3191680",
-  "wscn:3191702"
+  "wscn:3191702",
+  "wscn:3191716",
+  "wscn:3191711"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1682,7 +1682,8 @@
   "tg:WalterBloomberg/37645",
   "tg:WalterBloomberg/37649",
   "tg:WalterBloomberg/37648",
-  "tg:WalterBloomberg/37647"
+  "tg:WalterBloomberg/37647",
+  "tg:WalterBloomberg/37650"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1960,9 +1961,10 @@
   "market_fg:2026-10-29",
   "market_close:2026-10-29",
   "movers_post:2026-10-29",
-  "movers_pre:2026-10-30"
+  "movers_pre:2026-10-30",
+  "market_fg:2026-10-30"
  ],
- "earnings_last_check": 1793366423.1354523,
+ "earnings_last_check": 1793367350.2788491,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2163,7 +2165,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793365823.0994534,
+ "gas_last_check": 1793367041.8958757,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3021,7 +3023,8 @@
   "tg:disclosetv/21988",
   "tg:disclosetv/21989",
   "tg:disclosetv/21990",
-  "tg:disclosetv/21991"
+  "tg:disclosetv/21991",
+  "tg:disclosetv/21992"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -3335,9 +3338,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143211",
-  "tg:FinancialJuice/143210",
-  "tg:FinancialJuice/143212",
   "tg:FinancialJuice/143216",
   "tg:FinancialJuice/143215",
   "tg:FinancialJuice/143214",
@@ -4134,7 +4134,10 @@
   "tg:FinancialJuice/144005",
   "tg:FinancialJuice/144004",
   "tg:FinancialJuice/144009",
-  "tg:FinancialJuice/144008"
+  "tg:FinancialJuice/144008",
+  "tg:FinancialJuice/144012",
+  "tg:FinancialJuice/144011",
+  "tg:FinancialJuice/144010"
  ],
  "shows_v4": 1
 }
