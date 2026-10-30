@@ -1834,7 +1834,8 @@
   "tg:WatcherGuru/15727",
   "tg:WatcherGuru/15731",
   "tg:WatcherGuru/15732",
-  "tg:WatcherGuru/15733"
+  "tg:WatcherGuru/15733",
+  "tg:WatcherGuru/15735"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2011,7 +2012,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793394112.626391,
+ "earnings_last_check": 1793394733.2066352,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2212,7 +2213,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793393196.4106965,
+ "gas_last_check": 1793394436.931489,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2616,7 +2617,9 @@
   "gas:CBMilAFBVV95cUxNYkh3R2c2WVllcjBsVjNObmNndEpKU01yOEVOYllZZ2R1MHhnLW9RUDhLRHdIXzc5VU02dFFvcnJtMHVKbVdtUGo1eDhuV0h0RWF6bFVfeHIxY0Q4Z3p3OWZNekFhMXV5TTB4N3dNNVQ0b3BkYWVqYmFvdG5LQTY3ZkNKMjFnZFU4dXpraUR2dDNCQ0ph0gGaAUFVX3lxTE9HM2IzU3l2R3N5Ny1INktYanF2NU45TUlFcEQzUk5UeGlhSlBIYXkxWVJuU2hYR1JXQ0lvanVvWm1iZk5nNGVZa1d0MnpLSklrcGdTN3NfZWttS0lxQUxDSlJsSG5TRzlMTExDTk5scWtJLS13anpIcTQzVGY5aUdzVzlSNGZudjJsOVhiQUVjazlLMGhYdXY0RFE",
   "gas:CBMi7wFBVV95cUxON2dEUWpEc2x5WmVqTWNUcGw5WUdyV1NTaEpfaEYxajg1LXFfWjdSUnh0dElqTXBvU3lqd3JVVFVXTjI0YnlMYm0zZXRNeXNPMUpKdTA5RGxMZDRoS3F6N0xqQjlXYjJNZ2gtVEEzX1l4WGh1YWI1THl6eHhKNm5pZlNXNU1FQzVrazNQVGJuUGZrWDFFLXFBbkVqZDRJOVgzTnBYcTk0amE2bHdKNzVYUnRGQXRSOWtRT29CVU1oUmx3Y0tFTVRaVXVrUjJOLUtZNnVOOXlOd3c0ZnNSVG9pT1NkTGJtZ1c5c0VYVkJzOA",
   "gas:CBMivgFBVV95cUxPckZlMkJodlVRVXV6amRleUF4UWRHVWYzc0xMVVhxb1VlaVpKTjhFUEx2RUdwYmFXNUlxbEg3UGlMUWlGSUlMLUlKeHEwWFV5dFpENjJ6bkVJTEhIWXFrYm53UC1DR1ZoaXVBZUdjR3JONzA3NjFsZlpqRUFrRDUzb24yTnQtRWszaFpYeXItX0RnNERIMXFEMTl5VlEyZ0ZIN0piX2Q5MW4xTHVrTXowcENMeHlLNUlETEctTVd3",
-  "gas:CBMirAFBVV95cUxQblBTam5jVG1XX1ZIS3ZFNnhqNC1IYl8xMTc5UjdOT0xwdzFCU2c0MGVNb3ZORjlqTjJybTdKY09SeE5ZTkNKQWlLMENEdktNSkZ1eGcxWkRpTWpQczRLckN4MkZ3NjhfZmxfT2FzN0oyY29DOUpZazYwd3huOTdqcGt4a1dWSWtFVEFRcF9Tay1YcWlUVWYtb0ZmTDlRblVvblhOb0U4eVhjSTky"
+  "gas:CBMirAFBVV95cUxQblBTam5jVG1XX1ZIS3ZFNnhqNC1IYl8xMTc5UjdOT0xwdzFCU2c0MGVNb3ZORjlqTjJybTdKY09SeE5ZTkNKQWlLMENEdktNSkZ1eGcxWkRpTWpQczRLckN4MkZ3NjhfZmxfT2FzN0oyY29DOUpZazYwd3huOTdqcGt4a1dWSWtFVEFRcF9Tay1YcWlUVWYtb0ZmTDlRblVvblhOb0U4eVhjSTky",
+  "gas:CBMivAFBVV95cUxOMHJJbWVCYXk1eFMydVBPdXNwb2J0WTNLWU9Yb3NYLVFodVJ3NGR4TWZkSy1IUldabW1hTjY1UlJDdElUdzFidkY2NGlDNmFWYUZvNHVNaW1EZlphVGVNbG1wOUFRSTVid2M0RmpaSllRVG9BOUJqbXJnT3hxcTlEWjdheWNfTWJIbTV1QXB0ZFNIYWxVaEhNRTkzb2xZOHN5R3FQRFFYOTZfSVM0WHJDRHJvRHV6TDlSQmVGSg",
+  "gas:CBMizgJBVV95cUxPZEJwRGlXUndiLWdtMG4wQnhMZW1rTmx3cWdNUWp3Nzk2VEF2amdSRzF5VUx4c2k0ZDBaNXRaa3Jrc01WeHpNbGt3eHRJTFVnSGM1cm5YU2FxX29TOTFmZmZ6YXVFYWxTTmZIWEJOZl92Ul9XZGlhRndPNDRHQXZCeXhnN3ROZlFZcnVRS052aGpMSFdheDdmcW43OGVnTXV4dktXaE9xQkZiWnlzc1VJZmowOG5xR3NVZE9LTjJJSVVvU0l3bFFGWTI0ZWcxU29VbGhsSFNJRDdfaWgwTXV4c2QyUW12bjVRZndwalRyYWJmbE5rODRLRFdnWFh4YWcwQjBNd095dGxXZTVKdllvckEtZTFVVEJCSFhMS0dScV9xelNTNF9kQlcxc1FrZHRqUEV4dFc1VHVnWThUZjhIRUdGYXJhZHhNdDFheWtR"
  ],
  "shows_last_day": "2026-10-30",
  "shows_init": "2026-10-22",
@@ -3423,10 +3426,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143338",
-  "tg:FinancialJuice/143337",
-  "tg:FinancialJuice/143336",
-  "tg:FinancialJuice/143335",
   "tg:FinancialJuice/143334",
   "tg:FinancialJuice/143333",
   "tg:FinancialJuice/143332",
@@ -4222,7 +4221,11 @@
   "tg:FinancialJuice/144129",
   "tg:FinancialJuice/144128",
   "tg:FinancialJuice/144132",
-  "tg:FinancialJuice/144131"
+  "tg:FinancialJuice/144131",
+  "tg:FinancialJuice/144136",
+  "tg:FinancialJuice/144135",
+  "tg:FinancialJuice/144134",
+  "tg:FinancialJuice/144133"
  ],
  "shows_v4": 1
 }
