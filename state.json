@@ -1882,7 +1882,8 @@
   "uw:iran-war-cost-us-47-billion-washington-post",
   "uw:finland-criminal-probe-environmental-damage-google-data-centre-reuters",
   "uw:reddit-require-users-log-in-logged-in-only-experience-huffman",
-  "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc"
+  "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
+  "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
  "congress_last_check": 1793341838.5795486,
  "scheduler": [
@@ -1912,7 +1913,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793342490.9241023,
+ "earnings_last_check": 1793343179.048598,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3266,11 +3267,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143115",
-  "tg:FinancialJuice/143114",
-  "tg:FinancialJuice/143113",
-  "tg:FinancialJuice/143112",
-  "tg:FinancialJuice/143111",
   "tg:FinancialJuice/143110",
   "tg:FinancialJuice/143109",
   "tg:FinancialJuice/143108",
@@ -4065,7 +4061,12 @@
   "tg:FinancialJuice/143901",
   "tg:FinancialJuice/143900",
   "tg:FinancialJuice/143899",
-  "tg:FinancialJuice/143898"
+  "tg:FinancialJuice/143898",
+  "tg:FinancialJuice/143911",
+  "tg:FinancialJuice/143910",
+  "tg:FinancialJuice/143909",
+  "tg:FinancialJuice/143908",
+  "tg:FinancialJuice/143907"
  ],
  "shows_v4": 1
 }
