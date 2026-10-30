@@ -1735,7 +1735,8 @@
   "tg:WatcherGuru/15695",
   "tg:WatcherGuru/15697",
   "tg:WatcherGuru/15698",
-  "tg:WatcherGuru/15699"
+  "tg:WatcherGuru/15699",
+  "tg:WatcherGuru/15703"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -1876,7 +1877,7 @@
   "uw:jensen-huang-target-chinese-spy-operation-new-york-times",
   "uw:iran-war-cost-us-47-billion-washington-post"
  ],
- "congress_last_check": 1793321701.9559696,
+ "congress_last_check": 1793323534.397112,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1904,7 +1905,7 @@
   "market_close:2026-10-29",
   "movers_post:2026-10-29"
  ],
- "earnings_last_check": 1793323276.111421,
+ "earnings_last_check": 1793323954.4027007,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2096,7 +2097,7 @@
   "er:2026-10-29:COIN",
   "er:2026-10-29:RBLX"
  ],
- "gas_last_check": 1793322736.3724463,
+ "gas_last_check": 1793323974.8510487,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2465,7 +2466,8 @@
   "gas:CBMinAFBVV95cUxPUkZPa0tkUGt4LTQ0bTBuSVB0UnNOZGtOUkM3R3puYmVZUzlDNW84Zjc1NjltcUVCWHctS18tZzlLM1dvQ2JDQW8tb3pRSWozNXdSUHlkWDZvckxtTWRVMUR6WTc2bnhFa2VTYVRXdHNGYWtjeDF5R21Wa0hjbW1jODd6bnM0bzRSWUd4WGpKU3R6V1B0c1lOMF9oY3k",
   "gas:CBMiZEFVX3lxTE95TE84WUdzVkRBMFBnblZmVUp4ekhLNlVwalFqUjg1cUh1RmhEN3V5eENYVGRhOW9mamgtX0NYcG1pd1hNQUVvQUZKUGlPMF81S1FOWWtUblhaMm9uRVplWWQ5c0Y",
   "gas:CBMiY0FVX3lxTE9xZGpSaTVQYzBzcGg3T1Y3cUdCbDEtVjVGVFh1bFdRckY5aWotMElDZUJ3NEktTzFWZVZyVzYyYU5rem02c3hzOEE2dVpwR3BwdUdfbHZEZkt6UFhsRkxlb0hoYw",
-  "gas:CBMiZkFVX3lxTE1XdlVfdlRvczVIdndycnFrMHpyUXVrUzFDUG1PcnBVVkNsNmxWbUNLYlpZdFBYamNWMUpyQkxxSFBBZFRGSkZGUlpILWJzSDV6azJUTk84UzE3OG52NG9SQ0kyV3o5Zw"
+  "gas:CBMiZkFVX3lxTE1XdlVfdlRvczVIdndycnFrMHpyUXVrUzFDUG1PcnBVVkNsNmxWbUNLYlpZdFBYamNWMUpyQkxxSFBBZFRGSkZGUlpILWJzSDV6azJUTk84UzE3OG52NG9SQ0kyV3o5Zw",
+  "gas:CBMixAFBVV95cUxPb2Q5MGlIQ2Z4cklKQUtDNzJwekZrSWN1clA4UHU2OW10ZEpXYnlyS3NvU2xJUlBfaHBhM2E5WVBtUkJ2OTNTb29mY2tYdkV0Y1dsSGhsRmdITnpXVjE2MDlTNUtEOVNTVm5ldEdxN3E2ZVdjSVRSNXlpZktRMVJ2U2k0NHoxaHNIa0tKYzlDUGRhOVF1dG1rYUItRTB6TnhYanF2QUtyb0ZmSVJUNDR6b3g1SmU0M3YycXlOWkttbmNFUV9K"
  ],
  "shows_last_day": "2026-10-29",
  "shows_init": "2026-10-22",
@@ -3251,8 +3253,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143018",
-  "tg:FinancialJuice/143024",
   "tg:FinancialJuice/143023",
   "tg:FinancialJuice/143022",
   "tg:FinancialJuice/143021",
@@ -4050,7 +4050,9 @@
   "tg:FinancialJuice/143818",
   "tg:FinancialJuice/143817",
   "tg:FinancialJuice/143816",
-  "tg:FinancialJuice/143815"
+  "tg:FinancialJuice/143815",
+  "tg:FinancialJuice/143820",
+  "tg:FinancialJuice/143819"
  ],
  "shows_v4": 1
 }
