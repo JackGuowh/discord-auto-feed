@@ -2014,7 +2014,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793399641.0708206,
+ "earnings_last_check": 1793400500.4791749,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3111,7 +3111,8 @@
   "tg:disclosetv/21994",
   "tg:disclosetv/21995",
   "tg:disclosetv/21996",
-  "tg:disclosetv/21997"
+  "tg:disclosetv/21997",
+  "tg:disclosetv/21998"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
