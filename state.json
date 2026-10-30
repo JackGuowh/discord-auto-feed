@@ -444,11 +444,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3186363",
-  "wscn:3186362",
-  "wscn:3186361",
-  "wscn:3186360",
-  "wscn:3186368",
   "wscn:3186367",
   "wscn:3186366",
   "wscn:3186365",
@@ -1243,7 +1238,12 @@
   "wscn:3191680",
   "wscn:3191702",
   "wscn:3191716",
-  "wscn:3191711"
+  "wscn:3191711",
+  "wscn:3191726",
+  "wscn:3191722",
+  "wscn:3191719",
+  "wscn:3191718",
+  "wscn:3191725"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1683,7 +1683,10 @@
   "tg:WalterBloomberg/37649",
   "tg:WalterBloomberg/37648",
   "tg:WalterBloomberg/37647",
-  "tg:WalterBloomberg/37650"
+  "tg:WalterBloomberg/37650",
+  "tg:WalterBloomberg/37653",
+  "tg:WalterBloomberg/37652",
+  "tg:WalterBloomberg/37651"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -1934,7 +1937,7 @@
   "uw:pope-leo-absentee-mail-in-ballot-illinois-midterms-nbc",
   "uw:binance-hacked-6-3-billion-deposits-withdrawals-suspended"
  ],
- "congress_last_check": 1793365625.0453367,
+ "congress_last_check": 1793367438.872799,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -1964,7 +1967,7 @@
   "movers_pre:2026-10-30",
   "market_fg:2026-10-30"
  ],
- "earnings_last_check": 1793367350.2788491,
+ "earnings_last_check": 1793367977.4730334,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2949,7 +2952,15 @@
   "qv:House-A000375-1",
   "qv:House-H001082-1057",
   "qv:House-H001082-1058",
-  "qv:House-H001082-1059"
+  "qv:House-H001082-1059",
+  "qv:House-T000490-236",
+  "qv:House-T000490-237",
+  "qv:House-T000490-238",
+  "qv:House-T000490-240",
+  "qv:House-T000490-239",
+  "qv:House-T000490-241",
+  "qv:House-T000490-235",
+  "qv:House-T000490-242"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
@@ -3024,7 +3035,8 @@
   "tg:disclosetv/21989",
   "tg:disclosetv/21990",
   "tg:disclosetv/21991",
-  "tg:disclosetv/21992"
+  "tg:disclosetv/21992",
+  "tg:disclosetv/21993"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -3338,18 +3350,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143216",
-  "tg:FinancialJuice/143215",
-  "tg:FinancialJuice/143214",
-  "tg:FinancialJuice/143213",
-  "tg:FinancialJuice/143218",
-  "tg:FinancialJuice/143217",
-  "tg:FinancialJuice/143219",
-  "tg:FinancialJuice/143220",
-  "tg:FinancialJuice/143240",
-  "tg:FinancialJuice/143239",
-  "tg:FinancialJuice/143238",
-  "tg:FinancialJuice/143237",
   "tg:FinancialJuice/143236",
   "tg:FinancialJuice/143235",
   "tg:FinancialJuice/143234",
@@ -4137,7 +4137,19 @@
   "tg:FinancialJuice/144008",
   "tg:FinancialJuice/144012",
   "tg:FinancialJuice/144011",
-  "tg:FinancialJuice/144010"
+  "tg:FinancialJuice/144010",
+  "tg:FinancialJuice/144024",
+  "tg:FinancialJuice/144023",
+  "tg:FinancialJuice/144022",
+  "tg:FinancialJuice/144021",
+  "tg:FinancialJuice/144020",
+  "tg:FinancialJuice/144019",
+  "tg:FinancialJuice/144018",
+  "tg:FinancialJuice/144017",
+  "tg:FinancialJuice/144016",
+  "tg:FinancialJuice/144015",
+  "tg:FinancialJuice/144014",
+  "tg:FinancialJuice/144013"
  ],
  "shows_v4": 1
 }
