@@ -1795,7 +1795,12 @@
   "tg:WalterBloomberg/37691",
   "tg:WalterBloomberg/37690",
   "tg:WalterBloomberg/37698",
-  "tg:WalterBloomberg/37697"
+  "tg:WalterBloomberg/37697",
+  "tg:WalterBloomberg/37703",
+  "tg:WalterBloomberg/37702",
+  "tg:WalterBloomberg/37701",
+  "tg:WalterBloomberg/37700",
+  "tg:WalterBloomberg/37699"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2070,7 +2075,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793455731.50591,
+ "congress_last_check": 1793457564.5206769,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2102,7 +2107,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793457188.0560768,
+ "earnings_last_check": 1793457984.5232766,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
