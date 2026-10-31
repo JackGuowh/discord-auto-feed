@@ -487,7 +487,37 @@
   "truth:https://www.trumpstruth.org/statuses/42983",
   "truth:https://www.trumpstruth.org/statuses/42984",
   "truth:https://www.trumpstruth.org/statuses/42982",
-  "truth:https://www.trumpstruth.org/statuses/42985"
+  "truth:https://www.trumpstruth.org/statuses/42985",
+  "truth:https://www.trumpstruth.org/statuses/43007",
+  "truth:https://www.trumpstruth.org/statuses/43008",
+  "truth:https://www.trumpstruth.org/statuses/43009",
+  "truth:https://www.trumpstruth.org/statuses/43010",
+  "truth:https://www.trumpstruth.org/statuses/43011",
+  "truth:https://www.trumpstruth.org/statuses/43012",
+  "truth:https://www.trumpstruth.org/statuses/43013",
+  "truth:https://www.trumpstruth.org/statuses/43003",
+  "truth:https://www.trumpstruth.org/statuses/43004",
+  "truth:https://www.trumpstruth.org/statuses/43005",
+  "truth:https://www.trumpstruth.org/statuses/43006",
+  "truth:https://www.trumpstruth.org/statuses/43014",
+  "truth:https://www.trumpstruth.org/statuses/43015",
+  "truth:https://www.trumpstruth.org/statuses/43001",
+  "truth:https://www.trumpstruth.org/statuses/43002",
+  "truth:https://www.trumpstruth.org/statuses/43000",
+  "truth:https://www.trumpstruth.org/statuses/42996",
+  "truth:https://www.trumpstruth.org/statuses/42992",
+  "truth:https://www.trumpstruth.org/statuses/42993",
+  "truth:https://www.trumpstruth.org/statuses/42994",
+  "truth:https://www.trumpstruth.org/statuses/42995",
+  "truth:https://www.trumpstruth.org/statuses/42997",
+  "truth:https://www.trumpstruth.org/statuses/42998",
+  "truth:https://www.trumpstruth.org/statuses/42999",
+  "truth:https://www.trumpstruth.org/statuses/42989",
+  "truth:https://www.trumpstruth.org/statuses/42990",
+  "truth:https://www.trumpstruth.org/statuses/42991",
+  "truth:https://www.trumpstruth.org/statuses/42988",
+  "truth:https://www.trumpstruth.org/statuses/42987",
+  "truth:https://www.trumpstruth.org/statuses/42986"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1807,7 +1837,8 @@
   "tg:WalterBloomberg/37699",
   "tg:WalterBloomberg/37704",
   "tg:WalterBloomberg/37705",
-  "tg:WalterBloomberg/37706"
+  "tg:WalterBloomberg/37706",
+  "tg:WalterBloomberg/37707"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2115,7 +2146,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793472428.2378871,
+ "earnings_last_check": 1793473180.658558,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2316,7 +2347,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793471888.1339016,
+ "gas_last_check": 1793473120.617258,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3544,9 +3575,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143403",
-  "tg:FinancialJuice/143402",
-  "tg:FinancialJuice/143401",
   "tg:FinancialJuice/143400",
   "tg:FinancialJuice/143399",
   "tg:FinancialJuice/143420",
@@ -4343,7 +4371,10 @@
   "tg:FinancialJuice/144212",
   "tg:FinancialJuice/144211",
   "tg:FinancialJuice/144210",
-  "tg:FinancialJuice/144213"
+  "tg:FinancialJuice/144213",
+  "tg:FinancialJuice/144216",
+  "tg:FinancialJuice/144215",
+  "tg:FinancialJuice/144214"
  ],
  "shows_v4": 1
 }
