@@ -2093,7 +2093,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793450866.8842602,
+ "earnings_last_check": 1793451485.7798955,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2294,7 +2294,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793449771.074293,
+ "gas_last_check": 1793451005.682383,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2709,7 +2709,7 @@
   "gas:CBMiuwFBVV95cUxPdnVtXzZBZldwN3hMX2FvU2pGMVU2bzVLUkZ6eUJFU3RKTjA4OUlaaFhkYjdwMTJsQ1h5aXoxZGhqWXBUbExrMGNsT2RCN2Z4R0txbjZzbmxaSnJib0xuMnprYkJMY2ZxSDZNdFMtaDdhc0xPdmVxX1ZfejY5aEpwNlVUMzJqSzEzLTV1TGFwVVNWWFdrcXllX21seXRiSEMyZnRwdDA2ODBGOVU2UXdHa1lOaWZsVW9IeXo4",
   "gas:CBMigwFBVV95cUxPaW5DSm03VFF6M19fTWE0S3Myb0FGMjdRUUtzc2NSNHM2c05sWWFNakU1SmduMWYydDk5a0dsU3k3dGdDaTJzZ2M0R1JpRkJxc0Npdnc2MXp2QmRQRnpDb0MwWFFmTjZMWmlMVUFXTXVGeTFYOVBLUmNxTGRVTEt0YzJXcw"
  ],
- "shows_last_day": "2026-10-30",
+ "shows_last_day": "2026-10-31",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
