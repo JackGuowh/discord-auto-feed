@@ -2057,7 +2057,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793440991.012735,
+ "congress_last_check": 1793442827.7156374,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2089,7 +2089,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793441910.2938235,
+ "earnings_last_check": 1793442767.9809055,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2290,7 +2290,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793441171.09566,
+ "gas_last_check": 1793442407.7618215,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3513,7 +3513,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143365",
   "tg:FinancialJuice/143364",
   "tg:FinancialJuice/143367",
   "tg:FinancialJuice/143368",
@@ -4312,7 +4311,8 @@
   "tg:FinancialJuice/144160",
   "tg:FinancialJuice/144163",
   "tg:FinancialJuice/144162",
-  "tg:FinancialJuice/144164"
+  "tg:FinancialJuice/144164",
+  "tg:FinancialJuice/144165"
  ],
  "shows_v4": 1
 }
