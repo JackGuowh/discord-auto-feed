@@ -2057,7 +2057,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793429982.661867,
+ "congress_last_check": 1793431793.2009544,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2089,7 +2089,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793431709.2718055,
+ "earnings_last_check": 1793432510.8493197,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
