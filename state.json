@@ -483,7 +483,10 @@
   "truth:https://www.trumpstruth.org/statuses/42954",
   "truth:https://www.trumpstruth.org/statuses/42979",
   "truth:https://www.trumpstruth.org/statuses/42980",
-  "truth:https://www.trumpstruth.org/statuses/42981"
+  "truth:https://www.trumpstruth.org/statuses/42981",
+  "truth:https://www.trumpstruth.org/statuses/42983",
+  "truth:https://www.trumpstruth.org/statuses/42984",
+  "truth:https://www.trumpstruth.org/statuses/42982"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2107,7 +2110,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793457984.5232766,
+ "earnings_last_check": 1793458723.8086603,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2308,7 +2311,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793457128.070494,
+ "gas_last_check": 1793458360.063445,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3533,8 +3536,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143377",
-  "tg:FinancialJuice/143376",
   "tg:FinancialJuice/143375",
   "tg:FinancialJuice/143374",
   "tg:FinancialJuice/143373",
@@ -4332,7 +4333,9 @@
   "tg:FinancialJuice/144185",
   "tg:FinancialJuice/144184",
   "tg:FinancialJuice/144187",
-  "tg:FinancialJuice/144186"
+  "tg:FinancialJuice/144186",
+  "tg:FinancialJuice/144189",
+  "tg:FinancialJuice/144188"
  ],
  "shows_v4": 1
 }
