@@ -1925,7 +1925,8 @@
   "tg:WatcherGuru/15733",
   "tg:WatcherGuru/15735",
   "tg:WatcherGuru/15736",
-  "tg:WatcherGuru/15737"
+  "tg:WatcherGuru/15737",
+  "tg:WatcherGuru/15738"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2079,7 +2080,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793459398.648895,
+ "congress_last_check": 1793461243.6926246,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2111,7 +2112,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793460315.6020741,
+ "earnings_last_check": 1793461123.4227154,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2312,7 +2313,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793459578.665169,
+ "gas_last_check": 1793460823.5530658,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2726,7 +2727,8 @@
   "gas:CBMiyAFBVV95cUxON24wUnlZS0lFLUl2cHJ6UGI0VmYzU0ZjZDlwMzZGQmdRNkZUdVg3cmlORUMxeDgyeENSQ09oQjY4TVUyQmR1Q0J4eHZTWHV5cmFSNW01Z1BsYVc3YTB4WDEydUQ1bUxyLVlucTBUTktFY1gzYVlDazdGNVBwQUtRT3VwazBfeHB6ak41b2kzZWFYRlRpN2dySHRacXhEb2NZYVI4OUNuTTFBbVhXZUNCRllSVmNvenRSZk04ZGNBaDdUQmZuUWlnMA",
   "gas:CBMiuwFBVV95cUxPdnVtXzZBZldwN3hMX2FvU2pGMVU2bzVLUkZ6eUJFU3RKTjA4OUlaaFhkYjdwMTJsQ1h5aXoxZGhqWXBUbExrMGNsT2RCN2Z4R0txbjZzbmxaSnJib0xuMnprYkJMY2ZxSDZNdFMtaDdhc0xPdmVxX1ZfejY5aEpwNlVUMzJqSzEzLTV1TGFwVVNWWFdrcXllX21seXRiSEMyZnRwdDA2ODBGOVU2UXdHa1lOaWZsVW9IeXo4",
   "gas:CBMigwFBVV95cUxPaW5DSm03VFF6M19fTWE0S3Myb0FGMjdRUUtzc2NSNHM2c05sWWFNakU1SmduMWYydDk5a0dsU3k3dGdDaTJzZ2M0R1JpRkJxc0Npdnc2MXp2QmRQRnpDb0MwWFFmTjZMWmlMVUFXTXVGeTFYOVBLUmNxTGRVTEt0YzJXcw",
-  "gas:CBMikwFBVV95cUxQLVJPTHJDX2JTaWJJRlBHd1VDc0p3aXhfZTVhV0lIV080NFRobFE3cW9kZkRQeGJxNEF4UTdocFR1Uk1LNnYwV2tfVU1ZZjJQdVJkMUtQeVc5ODBvWnYwMTFXX0QzTXZRVEVQMFhtWGNOSC1VNmJ5TmZKT0RBOXdraTBaNy1KYWN4MGpiYjhZZVdWNVk"
+  "gas:CBMikwFBVV95cUxQLVJPTHJDX2JTaWJJRlBHd1VDc0p3aXhfZTVhV0lIV080NFRobFE3cW9kZkRQeGJxNEF4UTdocFR1Uk1LNnYwV2tfVU1ZZjJQdVJkMUtQeVc5ODBvWnYwMTFXX0QzTXZRVEVQMFhtWGNOSC1VNmJ5TmZKT0RBOXdraTBaNy1KYWN4MGpiYjhZZVdWNVk",
+  "gas:CBMitwFBVV95cUxQd3pIaUkzUkNkbjlSMHNEYm9LWGJ3dTVNcGNGUDBnajRyTFJLcV85MXI5UzlKRHhERktsN2w0WVFndE9GZmZjSmstNUJsNTZfUnBRM0lkV1cyc3UtOFZCQ0dhU1dLQ3l3aDljVTFMU1FjNVQtbFJmVzNSZ1lLbHNpNEY3UGVnME56Ulg5UTB3TThMcHJMNURQdEh0Q3M1em43SkhWeE54bTVkUHhOazl4bDBrSG9wbHM"
  ],
  "shows_last_day": "2026-10-31",
  "shows_init": "2026-10-22",
