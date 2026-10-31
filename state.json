@@ -1960,7 +1960,8 @@
   "tg:WatcherGuru/15735",
   "tg:WatcherGuru/15736",
   "tg:WatcherGuru/15737",
-  "tg:WatcherGuru/15738"
+  "tg:WatcherGuru/15738",
+  "tg:WatcherGuru/15741"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2114,7 +2115,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793472308.6367013,
+ "congress_last_check": 1793474121.6655622,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2146,7 +2147,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793474045.6523263,
+ "earnings_last_check": 1793474661.9981394,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2347,7 +2348,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793473120.617258,
+ "gas_last_check": 1793474362.0231853,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
