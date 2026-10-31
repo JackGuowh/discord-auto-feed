@@ -2080,7 +2080,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793463102.0778334,
+ "congress_last_check": 1793464940.4532163,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2112,7 +2112,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793464443.346154,
+ "earnings_last_check": 1793465248.8832295,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2313,7 +2313,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793463281.9827633,
+ "gas_last_check": 1793464520.4952302,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3539,14 +3539,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143415",
-  "tg:FinancialJuice/143414",
-  "tg:FinancialJuice/143413",
-  "tg:FinancialJuice/143412",
-  "tg:FinancialJuice/143411",
-  "tg:FinancialJuice/143410",
-  "tg:FinancialJuice/143409",
-  "tg:FinancialJuice/143408",
   "tg:FinancialJuice/143407",
   "tg:FinancialJuice/143406",
   "tg:FinancialJuice/143405",
@@ -4338,7 +4330,15 @@
   "tg:FinancialJuice/144200",
   "tg:FinancialJuice/144199",
   "tg:FinancialJuice/144198",
-  "tg:FinancialJuice/144197"
+  "tg:FinancialJuice/144197",
+  "tg:FinancialJuice/144209",
+  "tg:FinancialJuice/144208",
+  "tg:FinancialJuice/144207",
+  "tg:FinancialJuice/144206",
+  "tg:FinancialJuice/144205",
+  "tg:FinancialJuice/144204",
+  "tg:FinancialJuice/144203",
+  "tg:FinancialJuice/144202"
  ],
  "shows_v4": 1
 }
