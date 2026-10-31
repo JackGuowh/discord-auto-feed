@@ -467,7 +467,18 @@
   "truth:https://www.trumpstruth.org/statuses/42923",
   "truth:https://www.trumpstruth.org/statuses/42924",
   "truth:https://www.trumpstruth.org/statuses/42925",
-  "truth:https://www.trumpstruth.org/statuses/42926"
+  "truth:https://www.trumpstruth.org/statuses/42926",
+  "truth:https://www.trumpstruth.org/statuses/42942",
+  "truth:https://www.trumpstruth.org/statuses/42943",
+  "truth:https://www.trumpstruth.org/statuses/42944",
+  "truth:https://www.trumpstruth.org/statuses/42945",
+  "truth:https://www.trumpstruth.org/statuses/42946",
+  "truth:https://www.trumpstruth.org/statuses/42947",
+  "truth:https://www.trumpstruth.org/statuses/42948",
+  "truth:https://www.trumpstruth.org/statuses/42949",
+  "truth:https://www.trumpstruth.org/statuses/42950",
+  "truth:https://www.trumpstruth.org/statuses/42951",
+  "truth:https://www.trumpstruth.org/statuses/42952"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2040,7 +2051,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793413403.9429886,
+ "congress_last_check": 1793415244.056222,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2072,7 +2083,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793414926.6739876,
+ "earnings_last_check": 1793415604.182588,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2273,7 +2284,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793414124.0831554,
+ "gas_last_check": 1793415364.4776676,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
