@@ -2189,7 +2189,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793487457.3321474,
+ "earnings_last_check": 1793488315.1760285,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2390,7 +2390,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793486648.9362962,
+ "gas_last_check": 1793487895.5148287,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3457,7 +3457,8 @@
   "tg:insiderpaper/45605",
   "tg:insiderpaper/45606",
   "tg:insiderpaper/45607",
-  "tg:insiderpaper/45608"
+  "tg:insiderpaper/45608",
+  "tg:insiderpaper/45609"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
