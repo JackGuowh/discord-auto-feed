@@ -2013,7 +2013,8 @@
   "tg:WatcherGuru/15742",
   "tg:WatcherGuru/15744",
   "tg:WatcherGuru/15745",
-  "tg:WatcherGuru/15746"
+  "tg:WatcherGuru/15746",
+  "tg:WatcherGuru/15747"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2199,7 +2200,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793546646.3819153,
+ "earnings_last_check": 1793547444.174763,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2400,7 +2401,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793546045.7470992,
+ "gas_last_check": 1793547264.2688918,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3650,7 +3651,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143439",
   "tg:FinancialJuice/143438",
   "tg:FinancialJuice/143437",
   "tg:FinancialJuice/143436",
@@ -4449,7 +4449,8 @@
   "tg:FinancialJuice/144231",
   "tg:FinancialJuice/144232",
   "tg:FinancialJuice/144233",
-  "tg:FinancialJuice/144234"
+  "tg:FinancialJuice/144234",
+  "tg:FinancialJuice/144235"
  ],
  "shows_v4": 1
 }
