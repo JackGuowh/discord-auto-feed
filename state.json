@@ -2157,7 +2157,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793492623.0204878,
+ "congress_last_check": 1793493243.502442,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2189,7 +2189,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793493101.0911207,
+ "earnings_last_check": 1793493897.8889887,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2390,7 +2390,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793492801.1216884,
+ "gas_last_check": 1793493245.563245,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2808,7 +2808,9 @@
   "gas:CBMitwFBVV95cUxQd3pIaUkzUkNkbjlSMHNEYm9LWGJ3dTVNcGNGUDBnajRyTFJLcV85MXI5UzlKRHhERktsN2w0WVFndE9GZmZjSmstNUJsNTZfUnBRM0lkV1cyc3UtOFZCQ0dhU1dLQ3l3aDljVTFMU1FjNVQtbFJmVzNSZ1lLbHNpNEY3UGVnME56Ulg5UTB3TThMcHJMNURQdEh0Q3M1em43SkhWeE54bTVkUHhOazl4bDBrSG9wbHM",
   "gas:CBMihgJBVV95cUxNb0R1UlROQUhtOHFUcFhMVkJyaGlSTlVXLUJrZDdCZE9rWEdVN2tqYjhTa1NGQjJEcTRoakpIQXo5aEZ0NGY0MzNVZnhGb0NueTNZeF80QWJLcVJ1SkM5ZVMxcWtxbTA2aUdEanNidlRRUnNZaHNPSHVEdndwbkRmWnZIb1pVTHVmSW5BWmFwMTdPbk4zZmViS2JrMjJlLVB6OVVfVWo1RTNWSllCTGpTNWFGbHU0bVd6ZjZVaXMyMVpFTUptanNKSTdDWDI3YTBFZ0NTWF9sM2RKa2RDamhJNHFRNGZjc2lLRFdpR05EakdfeHBrSk5CZXNoMEFGcVl3UHNLMG5B",
   "gas:CBMiwgFBVV95cUxPT3YtRDBiX0EyNDNLS1VDRElFRGRIb1Q2Nmx6c05KRjJOY3Q3cG45VDlIbld2WlVGYnh2MTRlQ3RKTXVQcUp2SUw1Rk53cGRjWkdnM2dQMzlSZWZnVmhIYnRJR0J1dG5semFiQjhqM1JTbndicXNlZ2hpS1JwYTRRckNOZjN1OWRqZW1sQS1GMXJVNzZtZHByUXdKckZMNUh6V3ZSWXRkY3QzT0hBX252ajJzbVJleXJZOXRLdVFiYjludw",
-  "gas:CBMiY0FVX3lxTE1CcEZSMldhRkRmdUVDQUp4dEV2eFNkRzZ1dzdPc3gzQ1dxWnMzc2ttSVVYc2xGM2UzOVhxdXRMeE1VVDFLOTdkUWR5ZS1xemdrX1NXTnhpWWdGcEJVWFpnMkxuTQ"
+  "gas:CBMiY0FVX3lxTE1CcEZSMldhRkRmdUVDQUp4dEV2eFNkRzZ1dzdPc3gzQ1dxWnMzc2ttSVVYc2xGM2UzOVhxdXRMeE1VVDFLOTdkUWR5ZS1xemdrX1NXTnhpWWdGcEJVWFpnMkxuTQ",
+  "gas:CBMivwFBVV95cUxPM2VXYUlFNHNlYUhmYnlRYjVIM2c2Q1p2QVo0Y09IZl9FbHV5N2tlMmNBa2dmQnFwSnVST1ljeWhHN0Q1LVVGYm1yVEI2eDBlMENKQm9qM3ZPaW9FUHdvMEhtbE5UdGNFdGxfckxnTHB2YTlpZlBmSE42MjVPb1FtdDlGVGlsNnhZYjB0Ujk5WW85QXNyc21tWm9QdkY4QWkwRlJnbEY3Z1piNkZtMl9vcFM5SnlpWkFHbjZBdHUwMA",
+  "gas:CBMiZEFVX3lxTFAzck1EYmhJSkZFLWh2N0dfVmtiSk5tZ1pVZ3o5OWt5S0NwMXBwcVNMc0tfRnNaeU9ZMHlzbUxUUFBEVV9zTVFNZ3E5NEU4NFpxNHJRbG1SN3FTWloyLW41MzFQeHc"
  ],
  "shows_last_day": "2026-10-31",
  "shows_init": "2026-10-22",
@@ -3460,7 +3462,8 @@
   "tg:insiderpaper/45607",
   "tg:insiderpaper/45608",
   "tg:insiderpaper/45609",
-  "tg:insiderpaper/45610"
+  "tg:insiderpaper/45610",
+  "tg:insiderpaper/45611"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
