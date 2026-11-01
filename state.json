@@ -2158,7 +2158,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793498762.3132813,
+ "congress_last_check": 1793500615.258625,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2190,7 +2190,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793500298.387962,
+ "earnings_last_check": 1793501095.4391418,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2391,7 +2391,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793499379.6827247,
+ "gas_last_check": 1793500615.7069035,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2811,7 +2811,8 @@
   "gas:CBMiwgFBVV95cUxPT3YtRDBiX0EyNDNLS1VDRElFRGRIb1Q2Nmx6c05KRjJOY3Q3cG45VDlIbld2WlVGYnh2MTRlQ3RKTXVQcUp2SUw1Rk53cGRjWkdnM2dQMzlSZWZnVmhIYnRJR0J1dG5semFiQjhqM1JTbndicXNlZ2hpS1JwYTRRckNOZjN1OWRqZW1sQS1GMXJVNzZtZHByUXdKckZMNUh6V3ZSWXRkY3QzT0hBX252ajJzbVJleXJZOXRLdVFiYjludw",
   "gas:CBMiY0FVX3lxTE1CcEZSMldhRkRmdUVDQUp4dEV2eFNkRzZ1dzdPc3gzQ1dxWnMzc2ttSVVYc2xGM2UzOVhxdXRMeE1VVDFLOTdkUWR5ZS1xemdrX1NXTnhpWWdGcEJVWFpnMkxuTQ",
   "gas:CBMivwFBVV95cUxPM2VXYUlFNHNlYUhmYnlRYjVIM2c2Q1p2QVo0Y09IZl9FbHV5N2tlMmNBa2dmQnFwSnVST1ljeWhHN0Q1LVVGYm1yVEI2eDBlMENKQm9qM3ZPaW9FUHdvMEhtbE5UdGNFdGxfckxnTHB2YTlpZlBmSE42MjVPb1FtdDlGVGlsNnhZYjB0Ujk5WW85QXNyc21tWm9QdkY4QWkwRlJnbEY3Z1piNkZtMl9vcFM5SnlpWkFHbjZBdHUwMA",
-  "gas:CBMiZEFVX3lxTFAzck1EYmhJSkZFLWh2N0dfVmtiSk5tZ1pVZ3o5OWt5S0NwMXBwcVNMc0tfRnNaeU9ZMHlzbUxUUFBEVV9zTVFNZ3E5NEU4NFpxNHJRbG1SN3FTWloyLW41MzFQeHc"
+  "gas:CBMiZEFVX3lxTFAzck1EYmhJSkZFLWh2N0dfVmtiSk5tZ1pVZ3o5OWt5S0NwMXBwcVNMc0tfRnNaeU9ZMHlzbUxUUFBEVV9zTVFNZ3E5NEU4NFpxNHJRbG1SN3FTWloyLW41MzFQeHc",
+  "gas:CBMiZkFVX3lxTE5lbS1zeXFBdWplWHhmd1dJeURzZTN2dXpOYkozeXViaVE1R3U5ZmZHSVUzRUhCZFc3UXhVMk9kaEpPQWo3VzIydWlEbC1ERjlTazJnWXRqUDJISEdLMUZXdmVydnNqdw"
  ],
  "shows_last_day": "2026-10-31",
  "shows_init": "2026-10-22",
