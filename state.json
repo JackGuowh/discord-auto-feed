@@ -2196,7 +2196,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793522633.5467505,
+ "earnings_last_check": 1793523431.7198603,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3473,7 +3473,8 @@
   "tg:insiderpaper/45608",
   "tg:insiderpaper/45609",
   "tg:insiderpaper/45610",
-  "tg:insiderpaper/45611"
+  "tg:insiderpaper/45611",
+  "tg:insiderpaper/45612"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
