@@ -2198,7 +2198,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793541121.7418735,
+ "earnings_last_check": 1793541921.3494322,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2831,7 +2831,7 @@
   "gas:CBMi1gFBVV95cUxOYkpfbHlzdUhHZHBMZmFMQ0g3ZDNFbDVNajJELXhJbkRRaklSQmI0UFhEMDdlcXAxZ3pNaC1WZ1U3MWtVMnhXYVhuQUJCanRqcUJPb1RmRUF3T2JFYW45dl8tT1REUnBTa1hkc3VFSFlPWUdyMks2d0pUNzMycHFINFZWMlpZV0FlRVpnNlR2T25hSzN5cGItWjhCb2E3ZkdUYXJtekxvM1EwZXFwMmU0dlozUWIwMC1BaS10WEVpQzdxMjNSZEFVbmdCZlNaWnJiV3ZhXzVB0gHWAUFVX3lxTE5iSl9seXN1SEdkcExmYUxDSDdkM0VsNU1qMkQteEluRFFqSVJCYjRQWEQwN2VxcDFnek1oLVZnVTcxa1UyeFdhWG5BQkJqdGpxQk9vVGZFQXdPYkVhbjl2Xy1PVERScFNrWGRzdUVIWU9ZR3IySzZ3SlQ3MzJwcUg0VlYyWllXQWVFWmc2VHZPbmFLM3lwYi1aOEJvYTdmR1Rhcm16TG8zUTBlcXAyZTR2WjNRYjAwLUFpLXRYRWlDN3EyM1JkQVVuZ0JmU1pacmJXdmFfNUE",
   "gas:CBMivAFBVV95cUxNT1NnMUIxWXVsd1pWcFlBcFllSlZFbnk2VlplRlhiX09SSEdCS0JEbzgxeDhIMGNhVExqODVpbHlpR3lLTldEZVRPSXF5WlVQODdaaTB1a0dKbTllZXZscHg1X0xUTDRNVGR5UGg4c3U4b0lKLVlEbldXX0Zmb2Z0NVVQVklRUHlWcXNnNzdaM3JUbGhTdncwVjdhNVFabnVIb3ZibFd2NVpKdUJSRDBXWFRyaHZMdXJqUlRwUQ"
  ],
- "shows_last_day": "2026-10-31",
+ "shows_last_day": "2026-11-01",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
@@ -2845,7 +2845,8 @@
   "ACS Spring 2027（美国化学会春季大会）|180",
   "CGA Annual Meeting 2027|180",
   "SpaceCom Expo 2027|180",
-  "SpaceCom Expo 2027|90"
+  "SpaceCom Expo 2027|90",
+  "SPIE Photonics West 2027|90"
  ],
  "shows_v2": 1,
  "reset_id": "2026-10-22-1",
@@ -3644,7 +3645,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143442",
   "tg:FinancialJuice/143441",
   "tg:FinancialJuice/143440",
   "tg:FinancialJuice/143439",
@@ -4443,7 +4443,8 @@
   "tg:FinancialJuice/144227",
   "tg:FinancialJuice/144230",
   "tg:FinancialJuice/144229",
-  "tg:FinancialJuice/144231"
+  "tg:FinancialJuice/144231",
+  "tg:FinancialJuice/144232"
  ],
  "shows_v4": 1
 }
