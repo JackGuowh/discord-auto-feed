@@ -564,7 +564,23 @@
   "truth:https://www.trumpstruth.org/statuses/43090",
   "truth:https://www.trumpstruth.org/statuses/43091",
   "truth:https://www.trumpstruth.org/statuses/43093",
-  "truth:https://www.trumpstruth.org/statuses/43092"
+  "truth:https://www.trumpstruth.org/statuses/43092",
+  "truth:https://www.trumpstruth.org/statuses/43104",
+  "truth:https://www.trumpstruth.org/statuses/43105",
+  "truth:https://www.trumpstruth.org/statuses/43106",
+  "truth:https://www.trumpstruth.org/statuses/43101",
+  "truth:https://www.trumpstruth.org/statuses/43102",
+  "truth:https://www.trumpstruth.org/statuses/43103",
+  "truth:https://www.trumpstruth.org/statuses/43107",
+  "truth:https://www.trumpstruth.org/statuses/43108",
+  "truth:https://www.trumpstruth.org/statuses/43109",
+  "truth:https://www.trumpstruth.org/statuses/43100",
+  "truth:https://www.trumpstruth.org/statuses/43095",
+  "truth:https://www.trumpstruth.org/statuses/43096",
+  "truth:https://www.trumpstruth.org/statuses/43094",
+  "truth:https://www.trumpstruth.org/statuses/43097",
+  "truth:https://www.trumpstruth.org/statuses/43098",
+  "truth:https://www.trumpstruth.org/statuses/43099"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2169,7 +2185,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793550291.6643445,
+ "congress_last_check": 1793552133.4477077,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2201,7 +2217,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793551392.1966238,
+ "earnings_last_check": 1793552251.2553892,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2402,7 +2418,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793550972.6699393,
+ "gas_last_check": 1793552190.7961743,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3494,7 +3510,8 @@
   "tg:insiderpaper/45609",
   "tg:insiderpaper/45610",
   "tg:insiderpaper/45611",
-  "tg:insiderpaper/45612"
+  "tg:insiderpaper/45612",
+  "tg:insiderpaper/45613"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
