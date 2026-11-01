@@ -1907,7 +1907,8 @@
   "tg:WalterBloomberg/37706",
   "tg:WalterBloomberg/37707",
   "tg:WalterBloomberg/37708",
-  "tg:WalterBloomberg/37709"
+  "tg:WalterBloomberg/37709",
+  "tg:WalterBloomberg/37710"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2222,7 +2223,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793563366.7600067,
+ "earnings_last_check": 1793564161.237322,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
