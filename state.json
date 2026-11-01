@@ -639,10 +639,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187733",
-  "wscn:3187732",
-  "wscn:3187731",
-  "wscn:3187727",
   "wscn:3187726",
   "wscn:3187725",
   "wscn:3187737",
@@ -1438,7 +1434,11 @@
   "wscn:3192097",
   "wscn:3192096",
   "wscn:3192095",
-  "wscn:3192094"
+  "wscn:3192094",
+  "wscn:3192101",
+  "wscn:3192103",
+  "wscn:3192104",
+  "wscn:3192105"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2254,7 +2254,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793570560.6582317,
+ "earnings_last_check": 1793571359.9243617,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
