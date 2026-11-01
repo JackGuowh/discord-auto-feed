@@ -2164,7 +2164,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793517178.9456835,
+ "congress_last_check": 1793519030.5840657,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2196,7 +2196,7 @@
   "market_close:2026-10-30",
   "movers_post:2026-10-30"
  ],
- "earnings_last_check": 1793518653.7834954,
+ "earnings_last_check": 1793519510.600196,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2397,7 +2397,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793517797.451185,
+ "gas_last_check": 1793519031.1030622,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2819,7 +2819,8 @@
   "gas:CBMivwFBVV95cUxPM2VXYUlFNHNlYUhmYnlRYjVIM2c2Q1p2QVo0Y09IZl9FbHV5N2tlMmNBa2dmQnFwSnVST1ljeWhHN0Q1LVVGYm1yVEI2eDBlMENKQm9qM3ZPaW9FUHdvMEhtbE5UdGNFdGxfckxnTHB2YTlpZlBmSE42MjVPb1FtdDlGVGlsNnhZYjB0Ujk5WW85QXNyc21tWm9QdkY4QWkwRlJnbEY3Z1piNkZtMl9vcFM5SnlpWkFHbjZBdHUwMA",
   "gas:CBMiZEFVX3lxTFAzck1EYmhJSkZFLWh2N0dfVmtiSk5tZ1pVZ3o5OWt5S0NwMXBwcVNMc0tfRnNaeU9ZMHlzbUxUUFBEVV9zTVFNZ3E5NEU4NFpxNHJRbG1SN3FTWloyLW41MzFQeHc",
   "gas:CBMiZkFVX3lxTE5lbS1zeXFBdWplWHhmd1dJeURzZTN2dXpOYkozeXViaVE1R3U5ZmZHSVUzRUhCZFc3UXhVMk9kaEpPQWo3VzIydWlEbC1ERjlTazJnWXRqUDJISEdLMUZXdmVydnNqdw",
-  "gas:CBMijAFBVV95cUxOT2pXVmNrMGZVRklwNkVmZURzN0E3Q2RUWVNEN3NVRU9RM1NRbFF3NHZlV0M0SDFVYWJuclJWYVk3ZnhvbnFVTnJBd3p2dHlvVXczQ2FxSm9ncTVucHh2ZEdZZ2h0THgwdlNTcFF0LVl6bnl6X3lVamRXTnNvSTNVYU1MX28xbDlTaVgyQw"
+  "gas:CBMijAFBVV95cUxOT2pXVmNrMGZVRklwNkVmZURzN0E3Q2RUWVNEN3NVRU9RM1NRbFF3NHZlV0M0SDFVYWJuclJWYVk3ZnhvbnFVTnJBd3p2dHlvVXczQ2FxSm9ncTVucHh2ZEdZZ2h0THgwdlNTcFF0LVl6bnl6X3lVamRXTnNvSTNVYU1MX28xbDlTaVgyQw",
+  "gas:CBMipAFBVV95cUxOQ2dYZGV6Y3RJdzRsSVBpd1RsMFFTV29ya1ZXTU9tdDUwcU5pR0c1ZzlZenBwSUd4WjFmRzRHUmpRWWxxNXc4S3EzdHh0SVIxY2N3Y1VPSXlqUFZwTHZWOHp2dElsSjdFcF9TMmZWY0lJU3BUX25va0tqc1FIOVBSYUd1cUFEc09mSkY4Z19nQ1pOWjB5eTFjejlhb2pJLUJ6NVRtaA"
  ],
  "shows_last_day": "2026-10-31",
  "shows_init": "2026-10-22",
@@ -3633,7 +3634,6 @@
   "SNDK": 10.6
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143430",
   "tg:FinancialJuice/143429",
   "tg:FinancialJuice/143428",
   "tg:FinancialJuice/143427",
@@ -4432,7 +4432,8 @@
   "tg:FinancialJuice/144221",
   "tg:FinancialJuice/144220",
   "tg:FinancialJuice/144219",
-  "tg:FinancialJuice/144222"
+  "tg:FinancialJuice/144222",
+  "tg:FinancialJuice/144223"
  ],
  "shows_v4": 1
 }
