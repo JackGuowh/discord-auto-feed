@@ -1960,7 +1960,10 @@
   "tg:WalterBloomberg/37719",
   "tg:WalterBloomberg/37718",
   "tg:WalterBloomberg/37717",
-  "tg:WalterBloomberg/37716"
+  "tg:WalterBloomberg/37716",
+  "tg:WalterBloomberg/37723",
+  "tg:WalterBloomberg/37722",
+  "tg:WalterBloomberg/37721"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2243,7 +2246,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793618278.3171499,
+ "congress_last_check": 1793620086.7367013,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2276,7 +2279,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793619470.788069,
+ "earnings_last_check": 1793620209.6184533,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2480,7 +2483,7 @@
   "er:2026-11-02:EL",
   "er:2026-11-02:ETR"
  ],
- "gas_last_check": 1793618758.4259648,
+ "gas_last_check": 1793619966.7659745,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2938,7 +2941,8 @@
   "gas:CBMijwFBVV95cUxPcEZsZ2dfeGc5WDlScWR4WW02ZFkwTW4zWG1xc1BMc29ObTgtU2RidWRUWFgzSEVFUVJxTlF6dXNZTXlnNXFEcVJBOG1QVkhWeTNLbUNZRV8wcWYxR0Rqa0VCR1lOejBGazRfb2VxYTJJTHJ3TjVkTnVoaDZrMFJlenZyVldSSl9hb1NNMXF1Yw",
   "gas:CBMivgFBVV95cUxNSXdqMENUdG5fNDYxZUZnSXVmejBjMnlMNmFWZGFEd0FIRFFEOU1tMGJxLVJxczNNWWxDOV9QUHo4bkpQUXpqWjNEc0o4OC1uODBWYzBDNkVpM201RHFqYXpwRi1KWGctdkhadS1kelROT3ZFYzNGN1dIUkxmYlBxVWM4Q2pDMi0taGhKVmVQdjN6UHVqaXBWSkpVLTJjaTZiWnQ3UGZuYlpHd2FYMGxxWlI0ZzZUZmpxZjRKRUxR",
   "gas:CBMi7wFBVV95cUxNUmlyQlRLXzlienJ2WGxqaW42R3ZqanhmVUhNOVVwX2lJb0x2YmxlUTVwRG83M2dKVVpNa080N2dPZ3hNYU14N2FwWHB3UHJGTGZzVTFwek90VHZQMHZpbF9jSDMtUHIydDJzbFFsVS1Ycy1vN0ZwRzRldzhJanJFbERyNHZpRnhCeHROVXFHQUJXUWhjclFFb1BGeVd6X3l1TldwRTNfazN1MS1rVy1SM3AzN2JST3FheVB5SVpaV2Fxa0NwbGNBdjQzcHlWTkgyd0hPMk0zakZKeWdYVWVjc3V4MFlfU2pmbDNUMEd4VQ",
-  "gas:CBMiygFBVV95cUxPRV9KYURUdDVRXzdBV3dtamtmYllOVDRJYmN2ZUtDTS1fOWdfQWFwTEhpNmEydUtVUERlc3Q4ekxfdWFjTEUzOGo0aUJWTjFYazBzVl9Da080TWlhQ2ptRWFWdDJXYXF6Z0hPT0drQzU4Q2hmSkhXSEhXTWU3anBhOHZjeHpvMzV6R204cDBVNVpYTjV4TW53bG1YYXdIZzRIZnI2T2N5d0oxR0E4MWx6blplVlpIN1hxbTJlOHZiZk5Sei1Nd0JIZllB"
+  "gas:CBMiygFBVV95cUxPRV9KYURUdDVRXzdBV3dtamtmYllOVDRJYmN2ZUtDTS1fOWdfQWFwTEhpNmEydUtVUERlc3Q4ekxfdWFjTEUzOGo0aUJWTjFYazBzVl9Da080TWlhQ2ptRWFWdDJXYXF6Z0hPT0drQzU4Q2hmSkhXSEhXTWU3anBhOHZjeHpvMzV6R204cDBVNVpYTjV4TW53bG1YYXdIZzRIZnI2T2N5d0oxR0E4MWx6blplVlpIN1hxbTJlOHZiZk5Sei1Nd0JIZllB",
+  "gas:CBMijgFBVV95cUxONFhjMjREMWlWOXA4ZWN0ZTNWaXd5c1k5WXB5U0NMZUF0M1RCOGxFNi1nQXZEdEpQOHFVSXNOMTF6VGt4Y2VFeGJPaEpiU1VQQXk4Z09Qb1ljbUdoTmdCRTYtX2FGS0RGS2VPaEsxSGRYZTdYY0NnWXpNLVdTeG42UWxQY2NhcXoyYzZOZV9R"
  ],
  "shows_last_day": "2026-11-01",
  "shows_init": "2026-10-22",
