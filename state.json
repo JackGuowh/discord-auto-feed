@@ -695,9 +695,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3188026",
-  "wscn:3188098",
-  "wscn:3188115",
   "wscn:3188116",
   "wscn:3188114",
   "wscn:3188118",
@@ -1494,7 +1491,10 @@
   "wscn:3192859",
   "wscn:3192864",
   "wscn:3192863",
-  "wscn:3192862"
+  "wscn:3192862",
+  "wscn:3192867",
+  "wscn:3192866",
+  "wscn:3192865"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2383,7 +2383,9 @@
   "uw:iran-us-naval-blockade-end-hormuz-reopening-wapo",
   "uw:anthropic-q3-2026-revenue-17-billion-net-loss",
   "uw:maximum-social-security-benefit-up-86-percent-brookings",
-  "uw:trump-protective-pardons-musk-aides-democrats-congress"
+  "uw:trump-protective-pardons-musk-aides-democrats-congress",
+  "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
+  "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
  "congress_last_check": 1793656793.4957995,
  "scheduler": [
@@ -2422,7 +2424,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793657393.4785552,
+ "earnings_last_check": 1793658314.5242023,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2639,7 +2641,7 @@
   "er:2026-11-02:ON",
   "er:2026-11-02:AAPL"
  ],
- "gas_last_check": 1793657033.7100356,
+ "gas_last_check": 1793658252.575159,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3970,8 +3972,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143533",
-  "tg:FinancialJuice/143537",
   "tg:FinancialJuice/143536",
   "tg:FinancialJuice/143535",
   "tg:FinancialJuice/143534",
@@ -4769,7 +4769,9 @@
   "tg:FinancialJuice/144330",
   "tg:FinancialJuice/144329",
   "tg:FinancialJuice/144328",
-  "tg:FinancialJuice/144332"
+  "tg:FinancialJuice/144332",
+  "tg:FinancialJuice/144334",
+  "tg:FinancialJuice/144333"
  ],
  "shows_v4": 1
 }
