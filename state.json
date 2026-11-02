@@ -695,9 +695,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187967",
-  "wscn:3187965",
-  "wscn:3187976",
   "wscn:3187984",
   "wscn:3187983",
   "wscn:3187982",
@@ -1494,7 +1491,10 @@
   "wscn:3192842",
   "wscn:3192841",
   "wscn:3192840",
-  "wscn:3192839"
+  "wscn:3192839",
+  "wscn:3192852",
+  "wscn:3192851",
+  "wscn:3192848"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2209,7 +2209,8 @@
   "tg:WatcherGuru/15767",
   "tg:WatcherGuru/15768",
   "tg:WatcherGuru/15770",
-  "tg:WatcherGuru/15771"
+  "tg:WatcherGuru/15771",
+  "tg:WatcherGuru/15773"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2370,9 +2371,12 @@
   "uw:anthropic-claude-blocks-game-cloning-reverse-engineering",
   "uw:bull-market-unlike-any-seen-before-cnbc",
   "uw:judge-orders-trump-administration-stop-threatening-election-officials",
-  "uw:ceo-trust-gap-bcg-insomnia-index"
+  "uw:ceo-trust-gap-bcg-insomnia-index",
+  "uw:capitalism-needs-newer-pitch-socialism-gains-ground-fox",
+  "uw:canada-housing-crash-approaching-2008-bust-bmo",
+  "uw:americans-oppose-ai-data-centers-gallup"
  ],
- "congress_last_check": 1793653129.2034388,
+ "congress_last_check": 1793654972.7555466,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2405,9 +2409,10 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01",
   "movers_pre:2026-11-02",
-  "market_fg:2026-11-02"
+  "market_fg:2026-11-02",
+  "market_close:2026-11-02"
  ],
- "earnings_last_check": 1793654290.9554236,
+ "earnings_last_check": 1793654916.563564,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2620,9 +2625,10 @@
   "er:2026-11-02:AEHR",
   "er:2026-11-02:ROKU",
   "er:2026-11-02:FN",
-  "er:2026-11-02:O"
+  "er:2026-11-02:O",
+  "er:2026-11-02:ON"
  ],
- "gas_last_check": 1793653307.6456583,
+ "gas_last_check": 1793654551.139989,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3948,7 +3954,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143527",
   "tg:FinancialJuice/143529",
   "tg:FinancialJuice/143528",
   "tg:FinancialJuice/143531",
@@ -4747,7 +4752,8 @@
   "tg:FinancialJuice/144323",
   "tg:FinancialJuice/144326",
   "tg:FinancialJuice/144325",
-  "tg:FinancialJuice/144324"
+  "tg:FinancialJuice/144324",
+  "tg:FinancialJuice/144327"
  ],
  "shows_v4": 1
 }
