@@ -651,7 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187768",
   "wscn:3187767",
   "wscn:3187766",
   "wscn:3187765",
@@ -1450,7 +1449,8 @@
   "wscn:3192241",
   "wscn:3192257",
   "wscn:3192312",
-  "wscn:3192329"
+  "wscn:3192329",
+  "wscn:3192443"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2267,7 +2267,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793609847.869564,
+ "earnings_last_check": 1793610648.2992587,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2468,7 +2468,7 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV"
  ],
- "gas_last_check": 1793608854.094289,
+ "gas_last_check": 1793610108.2134366,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -2922,7 +2922,8 @@
   "gas:CBMimwFBVV95cUxNTjE0TlpJcVdpRVpCYndJQVBHT1R1R0ZhbDYxTUlXN2VGZURfX29VTjhQNG9IM0IwdGJVQ3pEd01RTUVwbVp4SmlxdG12WnluWS1sVnNoUEtpR2l3WWJ6OS1JZlZmNGdiQlJkM3dZTjVhUENJOUZ5Y0FmNmNwdTlUdDRsTFRKeDhOSGVyUGpIMXVCY2c3VWJBQldZUQ",
   "gas:CBMihAFBVV95cUxQWjBmdi1pVU10N1E3OEpDTGJsMDRKbDR6TGlQeWw2Rno2YS03ZmtOR2tGYTdEODZEcFBFckphQjk3UFJBUjNJQUdUYzBrQU05d19sUUlHelptOHYycDV6QzJ3MXhRTS1QODZxSm9QTXE3YklobVRFTkE4RHNSeDA1MmVvY0I",
   "gas:CBMixAJBVV95cUxQazVCaFd5Sk9VRzlSRWYzTUFPT21Pb0NQOERaX1gwTlNqTTNad0hPMFM5LTktZXF6YzhtYWZrWlNUalZrUENQYlV6NF84QXFLVmhGTm85cFpaVDhmTDE4a0drd2NSUVhuMWktSzhDVEhrNDZUWnBWd0hFc1RncThaM0V5SHBMcEt1VlBvZjZQeDJmeHYxbUNtUFBmYTJ2X0I1VkNwOXl5UXBnaUdBOXk2Ri1ERFV6QTdBOHZKdjN2VFJaLWhtNnF6b3JEaG5CTVg1M0RwQ25OUno3QThKN0tmY2Q5RjJ0X0ZUOW1zeTBsSEVTRVVPcDNaWnFhaHpmQ0tmQTFXNUJrMWRKRUphWWFZeEhncmpFM1doMkY3UmFRV1hpa2hvbXBLSEx0MkpMeUdwd2Z5OEhwdkdRWUYzckEtM0VJMS0",
-  "gas:CBMia0FVX3lxTE9ReHBKaWpPM2xiWlQ0QVdVOWlJQ3Z2X192OC1WdjdfOEV6Snc5cHA5ZjZTSF9UcE8yTDFfT0F5Wm0yY1Q2VmRWS0lvYnBodmJXazd1ZEVaclZyMmxsU1pNWGltNl9zODMyYjhZ"
+  "gas:CBMia0FVX3lxTE9ReHBKaWpPM2xiWlQ0QVdVOWlJQ3Z2X192OC1WdjdfOEV6Snc5cHA5ZjZTSF9UcE8yTDFfT0F5Wm0yY1Q2VmRWS0lvYnBodmJXazd1ZEVaclZyMmxsU1pNWGltNl9zODMyYjhZ",
+  "gas:CBMijwFBVV95cUxPcEZsZ2dfeGc5WDlScWR4WW02ZFkwTW4zWG1xc1BMc29ObTgtU2RidWRUWFgzSEVFUVJxTlF6dXNZTXlnNXFEcVJBOG1QVkhWeTNLbUNZRV8wcWYxR0Rqa0VCR1lOejBGazRfb2VxYTJJTHJ3TjVkTnVoaDZrMFJlenZyVldSSl9hb1NNMXF1Yw"
  ],
  "shows_last_day": "2026-11-01",
  "shows_init": "2026-10-22",
@@ -3580,7 +3581,8 @@
   "tg:insiderpaper/45612",
   "tg:insiderpaper/45613",
   "tg:insiderpaper/45614",
-  "tg:insiderpaper/45615"
+  "tg:insiderpaper/45615",
+  "tg:insiderpaper/45616"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
