@@ -626,7 +626,37 @@
   "truth:https://www.trumpstruth.org/statuses/43154",
   "truth:https://www.trumpstruth.org/statuses/43155",
   "truth:https://www.trumpstruth.org/statuses/43157",
-  "truth:https://www.trumpstruth.org/statuses/43156"
+  "truth:https://www.trumpstruth.org/statuses/43156",
+  "truth:https://www.trumpstruth.org/statuses/43183",
+  "truth:https://www.trumpstruth.org/statuses/43184",
+  "truth:https://www.trumpstruth.org/statuses/43178",
+  "truth:https://www.trumpstruth.org/statuses/43179",
+  "truth:https://www.trumpstruth.org/statuses/43180",
+  "truth:https://www.trumpstruth.org/statuses/43181",
+  "truth:https://www.trumpstruth.org/statuses/43182",
+  "truth:https://www.trumpstruth.org/statuses/43185",
+  "truth:https://www.trumpstruth.org/statuses/43186",
+  "truth:https://www.trumpstruth.org/statuses/43187",
+  "truth:https://www.trumpstruth.org/statuses/43177",
+  "truth:https://www.trumpstruth.org/statuses/43167",
+  "truth:https://www.trumpstruth.org/statuses/43169",
+  "truth:https://www.trumpstruth.org/statuses/43170",
+  "truth:https://www.trumpstruth.org/statuses/43164",
+  "truth:https://www.trumpstruth.org/statuses/43165",
+  "truth:https://www.trumpstruth.org/statuses/43166",
+  "truth:https://www.trumpstruth.org/statuses/43171",
+  "truth:https://www.trumpstruth.org/statuses/43172",
+  "truth:https://www.trumpstruth.org/statuses/43162",
+  "truth:https://www.trumpstruth.org/statuses/43163",
+  "truth:https://www.trumpstruth.org/statuses/43168",
+  "truth:https://www.trumpstruth.org/statuses/43173",
+  "truth:https://www.trumpstruth.org/statuses/43174",
+  "truth:https://www.trumpstruth.org/statuses/43175",
+  "truth:https://www.trumpstruth.org/statuses/43176",
+  "truth:https://www.trumpstruth.org/statuses/43159",
+  "truth:https://www.trumpstruth.org/statuses/43160",
+  "truth:https://www.trumpstruth.org/statuses/43161",
+  "truth:https://www.trumpstruth.org/statuses/43158"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -651,9 +681,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187869",
-  "wscn:3187835",
-  "wscn:3187876",
   "wscn:3187874",
   "wscn:3187873",
   "wscn:3187872",
@@ -1450,7 +1477,10 @@
   "wscn:3192760",
   "wscn:3192757",
   "wscn:3192756",
-  "wscn:3192755"
+  "wscn:3192755",
+  "wscn:3192763",
+  "wscn:3192762",
+  "wscn:3192761"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2154,7 +2184,8 @@
   "tg:WatcherGuru/15756",
   "tg:WatcherGuru/15757",
   "tg:WatcherGuru/15759",
-  "tg:WatcherGuru/15761"
+  "tg:WatcherGuru/15761",
+  "tg:WatcherGuru/15762"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2308,7 +2339,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793636644.7509174,
+ "congress_last_check": 1793638502.7858136,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2343,7 +2374,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793638059.8186305,
+ "earnings_last_check": 1793638923.48497,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2551,7 +2582,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793637256.875183,
+ "gas_last_check": 1793638503.8185406,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3703,7 +3734,8 @@
   "tg:insiderpaper/45627",
   "tg:insiderpaper/45628",
   "tg:insiderpaper/45629",
-  "tg:insiderpaper/45630"
+  "tg:insiderpaper/45630",
+  "tg:insiderpaper/45631"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
