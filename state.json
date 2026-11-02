@@ -651,7 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187787",
   "wscn:3187786",
   "wscn:3187784",
   "wscn:3187783",
@@ -1450,7 +1449,8 @@
   "wscn:3192619",
   "wscn:3192631",
   "wscn:3192629",
-  "wscn:3192634"
+  "wscn:3192634",
+  "wscn:3192641"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1967,7 +1967,10 @@
   "tg:WalterBloomberg/37727",
   "tg:WalterBloomberg/37726",
   "tg:WalterBloomberg/37725",
-  "tg:WalterBloomberg/37724"
+  "tg:WalterBloomberg/37724",
+  "tg:WalterBloomberg/37730",
+  "tg:WalterBloomberg/37729",
+  "tg:WalterBloomberg/37728"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2096,7 +2099,8 @@
   "tg:WatcherGuru/15745",
   "tg:WatcherGuru/15746",
   "tg:WatcherGuru/15747",
-  "tg:WatcherGuru/15748"
+  "tg:WatcherGuru/15748",
+  "tg:WatcherGuru/15749"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2283,7 +2287,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793622599.4361868,
+ "earnings_last_check": 1793623457.9967635,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3615,7 +3619,8 @@
   "tg:insiderpaper/45618",
   "tg:insiderpaper/45619",
   "tg:insiderpaper/45620",
-  "tg:insiderpaper/45621"
+  "tg:insiderpaper/45621",
+  "tg:insiderpaper/45622"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
