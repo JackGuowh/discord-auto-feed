@@ -651,12 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187848",
-  "wscn:3187859",
-  "wscn:3187858",
-  "wscn:3187862",
-  "wscn:3187861",
-  "wscn:3187864",
   "wscn:3187863",
   "wscn:3187867",
   "wscn:3187866",
@@ -1450,7 +1444,13 @@
   "wscn:3192741",
   "wscn:3192740",
   "wscn:3192747",
-  "wscn:3192745"
+  "wscn:3192745",
+  "wscn:3192754",
+  "wscn:3192753",
+  "wscn:3192752",
+  "wscn:3192751",
+  "wscn:3192750",
+  "wscn:3192749"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2010,7 +2010,12 @@
   "tg:WalterBloomberg/37766",
   "tg:WalterBloomberg/37769",
   "tg:WalterBloomberg/37768",
-  "tg:WalterBloomberg/37770"
+  "tg:WalterBloomberg/37770",
+  "tg:WalterBloomberg/37775",
+  "tg:WalterBloomberg/37774",
+  "tg:WalterBloomberg/37773",
+  "tg:WalterBloomberg/37772",
+  "tg:WalterBloomberg/37771"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2302,7 +2307,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793634805.8045883,
+ "congress_last_check": 1793636644.7509174,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2337,7 +2342,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793636493.8327937,
+ "earnings_last_check": 1793637308.5082426,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2545,7 +2550,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793636018.989424,
+ "gas_last_check": 1793637256.875183,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3695,7 +3700,8 @@
   "tg:insiderpaper/45625",
   "tg:insiderpaper/45626",
   "tg:insiderpaper/45627",
-  "tg:insiderpaper/45628"
+  "tg:insiderpaper/45628",
+  "tg:insiderpaper/45629"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
@@ -3856,14 +3862,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143485",
-  "tg:FinancialJuice/143484",
-  "tg:FinancialJuice/143483",
-  "tg:FinancialJuice/143482",
-  "tg:FinancialJuice/143481",
-  "tg:FinancialJuice/143480",
-  "tg:FinancialJuice/143479",
-  "tg:FinancialJuice/143478",
   "tg:FinancialJuice/143491",
   "tg:FinancialJuice/143490",
   "tg:FinancialJuice/143489",
@@ -4655,7 +4653,15 @@
   "tg:FinancialJuice/144276",
   "tg:FinancialJuice/144275",
   "tg:FinancialJuice/144278",
-  "tg:FinancialJuice/144277"
+  "tg:FinancialJuice/144277",
+  "tg:FinancialJuice/144286",
+  "tg:FinancialJuice/144285",
+  "tg:FinancialJuice/144284",
+  "tg:FinancialJuice/144283",
+  "tg:FinancialJuice/144282",
+  "tg:FinancialJuice/144281",
+  "tg:FinancialJuice/144280",
+  "tg:FinancialJuice/144279"
  ],
  "shows_v4": 1
 }
