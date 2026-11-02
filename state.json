@@ -651,10 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187855",
-  "wscn:3187854",
-  "wscn:3187853",
-  "wscn:3187852",
   "wscn:3187850",
   "wscn:3187849",
   "wscn:3187848",
@@ -1450,7 +1446,11 @@
   "wscn:3192727",
   "wscn:3192739",
   "wscn:3192738",
-  "wscn:3192735"
+  "wscn:3192735",
+  "wscn:3192744",
+  "wscn:3192743",
+  "wscn:3192741",
+  "wscn:3192740"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2007,7 +2007,9 @@
   "tg:WalterBloomberg/37763",
   "tg:WalterBloomberg/37762",
   "tg:WalterBloomberg/37767",
-  "tg:WalterBloomberg/37766"
+  "tg:WalterBloomberg/37766",
+  "tg:WalterBloomberg/37769",
+  "tg:WalterBloomberg/37768"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2144,7 +2146,8 @@
   "tg:WatcherGuru/15754",
   "tg:WatcherGuru/15756",
   "tg:WatcherGuru/15757",
-  "tg:WatcherGuru/15759"
+  "tg:WatcherGuru/15759",
+  "tg:WatcherGuru/15761"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2333,7 +2336,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793634806.1590962,
+ "earnings_last_check": 1793635627.539302,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3510,7 +3513,8 @@
   "tg:disclosetv/21997",
   "tg:disclosetv/21998",
   "tg:disclosetv/21999",
-  "tg:disclosetv/22000"
+  "tg:disclosetv/22000",
+  "tg:disclosetv/22001"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -3851,8 +3855,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143477",
-  "tg:FinancialJuice/143476",
   "tg:FinancialJuice/143475",
   "tg:FinancialJuice/143486",
   "tg:FinancialJuice/143485",
@@ -4650,7 +4652,9 @@
   "tg:FinancialJuice/144274",
   "tg:FinancialJuice/144273",
   "tg:FinancialJuice/144272",
-  "tg:FinancialJuice/144271"
+  "tg:FinancialJuice/144271",
+  "tg:FinancialJuice/144276",
+  "tg:FinancialJuice/144275"
  ],
  "shows_v4": 1
 }
