@@ -687,10 +687,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187932",
-  "wscn:3187940",
-  "wscn:3187938",
-  "wscn:3187937",
   "wscn:3187941",
   "wscn:3187942",
   "wscn:3187953",
@@ -1486,7 +1482,11 @@
   "wscn:3192819",
   "wscn:3192818",
   "wscn:3192825",
-  "wscn:3192824"
+  "wscn:3192824",
+  "wscn:3192829",
+  "wscn:3192828",
+  "wscn:3192827",
+  "wscn:3192826"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2353,7 +2353,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793649486.6571004,
+ "congress_last_check": 1793651324.0075474,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2388,7 +2388,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793651004.6884415,
+ "earnings_last_check": 1793651864.2140465,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3920,11 +3920,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143515",
-  "tg:FinancialJuice/143521",
-  "tg:FinancialJuice/143520",
-  "tg:FinancialJuice/143519",
-  "tg:FinancialJuice/143522",
   "tg:FinancialJuice/143524",
   "tg:FinancialJuice/143523",
   "tg:FinancialJuice/143525",
@@ -4719,7 +4714,12 @@
   "tg:FinancialJuice/144313",
   "tg:FinancialJuice/144312",
   "tg:FinancialJuice/144311",
-  "tg:FinancialJuice/144317"
+  "tg:FinancialJuice/144317",
+  "tg:FinancialJuice/144322",
+  "tg:FinancialJuice/144321",
+  "tg:FinancialJuice/144320",
+  "tg:FinancialJuice/144319",
+  "tg:FinancialJuice/144318"
  ],
  "shows_v4": 1
 }
