@@ -687,11 +687,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187906",
-  "wscn:3187929",
-  "wscn:3187928",
-  "wscn:3187927",
-  "wscn:3187926",
   "wscn:3187935",
   "wscn:3187933",
   "wscn:3187932",
@@ -1486,7 +1481,12 @@
   "wscn:3192807",
   "wscn:3192806",
   "wscn:3192815",
-  "wscn:3192814"
+  "wscn:3192814",
+  "wscn:3192822",
+  "wscn:3192821",
+  "wscn:3192820",
+  "wscn:3192819",
+  "wscn:3192818"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2353,7 +2353,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793647680.5129163,
+ "congress_last_check": 1793649486.6571004,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2388,7 +2388,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793649351.4597447,
+ "earnings_last_check": 1793650145.5711164,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2596,7 +2596,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793648367.3717048,
+ "gas_last_check": 1793649608.6732004,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3062,7 +3062,8 @@
   "gas:CBMiVEFVX3lxTE9teWpkS3YtTUJzemJ6MFM5OXVBa2EyT3ZnSFdfRmtja1FzaG05RnZZbnV4U0JBWVdMQ3lnSUd0QkQ1WTQwbTlHcGNsZ0I5cTREaWNaUg",
   "gas:CBMiggJBVV95cUxOYnRDdkYtUWlSTjdSZVEtaHlYT1g2Ri1fVzhBcHdFWU5SelI4YngzOFJHWTZtaXh3dXFScDM5a3Jia2lCNmNueXpUOUVMR3NxZDR0c3VtSU5OVGo2Vk04UHVJMnJzTUlodGxKQmdxNzlCS0FaTWRvQXJpRHdkUWdGSjh4VDJNdGw4c09hMWdIT0U1dUxGMnJMWXFLWlV6ZEdmTXd3V1lCMEhUR2RaLTJEb01OaGRhdXRha2ItOTVVRy16Y2NYMzU3WEhIekQydnlEb01ncWl6a2txTGxKcGoySVdweTN5cjVucThubGZ4YmItczlKNk1fWWNONmx3UUNmV2c",
   "gas:CBMiuwFBVV95cUxOMjBTdzQ5aTBWT1ZjSGFUYVV1ZzV4N3FGMzNJYUNuNnJrYUF6dUlOZ3QydUxWbVU3TG5VTW5iS2kxM3hfUlh1d3FUeE15T1E3MXdEUExfUlVmNzJKem45QVRjTXItUjRXOS0tMDJuMHlaX0E3VUtmQ3NabnBuMnZyekphRExiTkQxMlVwZXlmc3llcDJwX3BHb2owLWRSUzZFV2JoNVFwelJ1dkZqNVJYNy1odmIwZ2hobnUw",
-  "gas:CBMi0wFBVV95cUxOc2xTWV9YaUxNQVNYdXdvYk8xNFdDOUwwdGxrcHRTVnRleU5Xd3ZId2cyQm95aUxKQm1DOXA2UU4tVU1xRjQxdUVvVU05V0REVWUwQ2pFbjQ4cldpUGtidk9lUDBvVVZ5QkFoaHdROVJCZTBwUlhFR3lmb3UtVUVEZjdya2xoWnYwVzQ2MnRxajFXeWhpZGpyd3hQWWVsdnBaUmtpZjF2QzRqWWZheEdMalgzYjRHeFFjZVE3RzhwS2pFaG92d2lYbHJEU2M3YTRtMVpZ"
+  "gas:CBMi0wFBVV95cUxOc2xTWV9YaUxNQVNYdXdvYk8xNFdDOUwwdGxrcHRTVnRleU5Xd3ZId2cyQm95aUxKQm1DOXA2UU4tVU1xRjQxdUVvVU05V0REVWUwQ2pFbjQ4cldpUGtidk9lUDBvVVZ5QkFoaHdROVJCZTBwUlhFR3lmb3UtVUVEZjdya2xoWnYwVzQ2MnRxajFXeWhpZGpyd3hQWWVsdnBaUmtpZjF2QzRqWWZheEdMalgzYjRHeFFjZVE3RzhwS2pFaG92d2lYbHJEU2M3YTRtMVpZ",
+  "gas:CBMi0wFBVV95cUxQYVd6dHV1OTlHR0ZuWV9OX1REM1pKTkN3T25UVkFlLWhmc2pZOTF0OVJNemNUZ0FxMVpIeXJPN1E5N2lQOExTUzJLUmpfMHdxU3ktMVgzNVRKNGhIbzBwT2ZhNXNtWmp1Ump2Yko2YVVGZm5wd3ExU0lDaTVXLVpsdGh3MlpMVDZyRlJFcDlXSVYtekEtUTZ4MEMwcmEtR3NhVUM5RWRiRXBUNUE5a3NQRlA0eWQ4bWxQMnp3cnZ0N2diakx5bGtIMTQxcGlzcnFvcDhB0gHYAUFVX3lxTE1JbExhRVFUT3ZNWV9vQ0diaTNuX0UydmIzWFNPbGthX01wRGdsMWtqRGpndVlfekhDZl8xc2U0bHUwMnJ4eDVWQy1UYm1RbUpFQzJJYmNEZzVVdktCakd4cW42QklRS0FKVkFiNmtSSGk3NWJNcmd1TDhzWThPaWN6VkVWbG5UaTVNaUpwMTA1NVZDT0tEUnkwNVNHZTh0aXNiclhoeHJXMXNTNkRxYXpfZFRfWFJrb0xXMVdMZkN0VDV3cmdBYTRoQmk2VVFYLVhtU1JDM1ZRRg"
  ],
  "shows_last_day": "2026-11-02",
  "shows_init": "2026-10-22",
@@ -3756,7 +3757,8 @@
   "tg:insiderpaper/45633",
   "tg:insiderpaper/45634",
   "tg:insiderpaper/45635",
-  "tg:insiderpaper/45636"
+  "tg:insiderpaper/45636",
+  "tg:insiderpaper/45637"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
@@ -3917,12 +3919,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143511",
-  "tg:FinancialJuice/143510",
-  "tg:FinancialJuice/143509",
-  "tg:FinancialJuice/143508",
-  "tg:FinancialJuice/143518",
-  "tg:FinancialJuice/143517",
   "tg:FinancialJuice/143516",
   "tg:FinancialJuice/143515",
   "tg:FinancialJuice/143521",
@@ -4716,7 +4712,13 @@
   "tg:FinancialJuice/144310",
   "tg:FinancialJuice/144309",
   "tg:FinancialJuice/144308",
-  "tg:FinancialJuice/144307"
+  "tg:FinancialJuice/144307",
+  "tg:FinancialJuice/144316",
+  "tg:FinancialJuice/144315",
+  "tg:FinancialJuice/144314",
+  "tg:FinancialJuice/144313",
+  "tg:FinancialJuice/144312",
+  "tg:FinancialJuice/144311"
  ],
  "shows_v4": 1
 }
