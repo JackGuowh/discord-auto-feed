@@ -695,9 +695,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187998",
-  "wscn:3188006",
-  "wscn:3188003",
   "wscn:3188001",
   "wscn:3188015",
   "wscn:3188028",
@@ -1494,7 +1491,10 @@
   "wscn:3192857",
   "wscn:3192856",
   "wscn:3192855",
-  "wscn:3192853"
+  "wscn:3192853",
+  "wscn:3192861",
+  "wscn:3192860",
+  "wscn:3192859"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2378,7 +2378,10 @@
   "uw:americans-oppose-ai-data-centers-gallup",
   "uw:iran-threatens-us-bases-europe-trump-strikes-reuters",
   "uw:goldman-sachs-restricts-staff-ai-coding-tools-bloomberg",
-  "uw:tucker-carlson-claims-us-nuclear-strike-iran-unconfirmed"
+  "uw:tucker-carlson-claims-us-nuclear-strike-iran-unconfirmed",
+  "uw:trump-veto-everything-democrats-win-midterms",
+  "uw:iran-us-naval-blockade-end-hormuz-reopening-wapo",
+  "uw:anthropic-q3-2026-revenue-17-billion-net-loss"
  ],
  "congress_last_check": 1793654972.7555466,
  "scheduler": [
@@ -2417,7 +2420,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793655726.4312658,
+ "earnings_last_check": 1793656525.5803714,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3801,7 +3804,9 @@
   "tg:insiderpaper/45637",
   "tg:insiderpaper/45638",
   "tg:insiderpaper/45640",
-  "tg:insiderpaper/45639"
+  "tg:insiderpaper/45639",
+  "tg:insiderpaper/45642",
+  "tg:insiderpaper/45641"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
@@ -3962,7 +3967,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143532",
   "tg:FinancialJuice/143533",
   "tg:FinancialJuice/143537",
   "tg:FinancialJuice/143536",
@@ -4761,7 +4765,8 @@
   "tg:FinancialJuice/144331",
   "tg:FinancialJuice/144330",
   "tg:FinancialJuice/144329",
-  "tg:FinancialJuice/144328"
+  "tg:FinancialJuice/144328",
+  "tg:FinancialJuice/144332"
  ],
  "shows_v4": 1
 }
