@@ -624,7 +624,9 @@
   "truth:https://www.trumpstruth.org/statuses/43150",
   "truth:https://www.trumpstruth.org/statuses/43151",
   "truth:https://www.trumpstruth.org/statuses/43154",
-  "truth:https://www.trumpstruth.org/statuses/43155"
+  "truth:https://www.trumpstruth.org/statuses/43155",
+  "truth:https://www.trumpstruth.org/statuses/43157",
+  "truth:https://www.trumpstruth.org/statuses/43156"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2265,7 +2267,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793609034.1846495,
+ "earnings_last_check": 1793609847.869564,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
