@@ -651,7 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187786",
   "wscn:3187784",
   "wscn:3187783",
   "wscn:3187781",
@@ -1450,7 +1449,8 @@
   "wscn:3192631",
   "wscn:3192629",
   "wscn:3192634",
-  "wscn:3192641"
+  "wscn:3192641",
+  "wscn:3192658"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1971,7 +1971,11 @@
   "tg:WalterBloomberg/37730",
   "tg:WalterBloomberg/37729",
   "tg:WalterBloomberg/37728",
-  "tg:WalterBloomberg/37731"
+  "tg:WalterBloomberg/37731",
+  "tg:WalterBloomberg/37735",
+  "tg:WalterBloomberg/37734",
+  "tg:WalterBloomberg/37733",
+  "tg:WalterBloomberg/37732"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2101,7 +2105,8 @@
   "tg:WatcherGuru/15746",
   "tg:WatcherGuru/15747",
   "tg:WatcherGuru/15748",
-  "tg:WatcherGuru/15749"
+  "tg:WatcherGuru/15749",
+  "tg:WatcherGuru/15750"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2288,7 +2293,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793624318.0395765,
+ "earnings_last_check": 1793625187.3379378,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2495,7 +2500,7 @@
   "er:2026-11-02:MAR",
   "er:2026-11-02:TSEM"
  ],
- "gas_last_check": 1793623661.9248428,
+ "gas_last_check": 1793624887.5006108,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
