@@ -695,10 +695,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187984",
-  "wscn:3187983",
-  "wscn:3187982",
-  "wscn:3187999",
   "wscn:3187998",
   "wscn:3188006",
   "wscn:3188003",
@@ -1494,7 +1490,11 @@
   "wscn:3192839",
   "wscn:3192852",
   "wscn:3192851",
-  "wscn:3192848"
+  "wscn:3192848",
+  "wscn:3192857",
+  "wscn:3192856",
+  "wscn:3192855",
+  "wscn:3192853"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2065,7 +2065,8 @@
   "tg:WalterBloomberg/37778",
   "tg:WalterBloomberg/37777",
   "tg:WalterBloomberg/37780",
-  "tg:WalterBloomberg/37781"
+  "tg:WalterBloomberg/37781",
+  "tg:WalterBloomberg/37782"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2374,7 +2375,10 @@
   "uw:ceo-trust-gap-bcg-insomnia-index",
   "uw:capitalism-needs-newer-pitch-socialism-gains-ground-fox",
   "uw:canada-housing-crash-approaching-2008-bust-bmo",
-  "uw:americans-oppose-ai-data-centers-gallup"
+  "uw:americans-oppose-ai-data-centers-gallup",
+  "uw:iran-threatens-us-bases-europe-trump-strikes-reuters",
+  "uw:goldman-sachs-restricts-staff-ai-coding-tools-bloomberg",
+  "uw:tucker-carlson-claims-us-nuclear-strike-iran-unconfirmed"
  ],
  "congress_last_check": 1793654972.7555466,
  "scheduler": [
@@ -2410,9 +2414,10 @@
   "weekly:2026-11-01",
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02",
-  "market_close:2026-11-02"
+  "market_close:2026-11-02",
+  "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793654916.563564,
+ "earnings_last_check": 1793655726.4312658,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2626,9 +2631,10 @@
   "er:2026-11-02:ROKU",
   "er:2026-11-02:FN",
   "er:2026-11-02:O",
-  "er:2026-11-02:ON"
+  "er:2026-11-02:ON",
+  "er:2026-11-02:AAPL"
  ],
- "gas_last_check": 1793654551.139989,
+ "gas_last_check": 1793655782.6549973,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3095,7 +3101,9 @@
   "gas:CBMiggJBVV95cUxOYnRDdkYtUWlSTjdSZVEtaHlYT1g2Ri1fVzhBcHdFWU5SelI4YngzOFJHWTZtaXh3dXFScDM5a3Jia2lCNmNueXpUOUVMR3NxZDR0c3VtSU5OVGo2Vk04UHVJMnJzTUlodGxKQmdxNzlCS0FaTWRvQXJpRHdkUWdGSjh4VDJNdGw4c09hMWdIT0U1dUxGMnJMWXFLWlV6ZEdmTXd3V1lCMEhUR2RaLTJEb01OaGRhdXRha2ItOTVVRy16Y2NYMzU3WEhIekQydnlEb01ncWl6a2txTGxKcGoySVdweTN5cjVucThubGZ4YmItczlKNk1fWWNONmx3UUNmV2c",
   "gas:CBMiuwFBVV95cUxOMjBTdzQ5aTBWT1ZjSGFUYVV1ZzV4N3FGMzNJYUNuNnJrYUF6dUlOZ3QydUxWbVU3TG5VTW5iS2kxM3hfUlh1d3FUeE15T1E3MXdEUExfUlVmNzJKem45QVRjTXItUjRXOS0tMDJuMHlaX0E3VUtmQ3NabnBuMnZyekphRExiTkQxMlVwZXlmc3llcDJwX3BHb2owLWRSUzZFV2JoNVFwelJ1dkZqNVJYNy1odmIwZ2hobnUw",
   "gas:CBMi0wFBVV95cUxOc2xTWV9YaUxNQVNYdXdvYk8xNFdDOUwwdGxrcHRTVnRleU5Xd3ZId2cyQm95aUxKQm1DOXA2UU4tVU1xRjQxdUVvVU05V0REVWUwQ2pFbjQ4cldpUGtidk9lUDBvVVZ5QkFoaHdROVJCZTBwUlhFR3lmb3UtVUVEZjdya2xoWnYwVzQ2MnRxajFXeWhpZGpyd3hQWWVsdnBaUmtpZjF2QzRqWWZheEdMalgzYjRHeFFjZVE3RzhwS2pFaG92d2lYbHJEU2M3YTRtMVpZ",
-  "gas:CBMi0wFBVV95cUxQYVd6dHV1OTlHR0ZuWV9OX1REM1pKTkN3T25UVkFlLWhmc2pZOTF0OVJNemNUZ0FxMVpIeXJPN1E5N2lQOExTUzJLUmpfMHdxU3ktMVgzNVRKNGhIbzBwT2ZhNXNtWmp1Ump2Yko2YVVGZm5wd3ExU0lDaTVXLVpsdGh3MlpMVDZyRlJFcDlXSVYtekEtUTZ4MEMwcmEtR3NhVUM5RWRiRXBUNUE5a3NQRlA0eWQ4bWxQMnp3cnZ0N2diakx5bGtIMTQxcGlzcnFvcDhB0gHYAUFVX3lxTE1JbExhRVFUT3ZNWV9vQ0diaTNuX0UydmIzWFNPbGthX01wRGdsMWtqRGpndVlfekhDZl8xc2U0bHUwMnJ4eDVWQy1UYm1RbUpFQzJJYmNEZzVVdktCakd4cW42QklRS0FKVkFiNmtSSGk3NWJNcmd1TDhzWThPaWN6VkVWbG5UaTVNaUpwMTA1NVZDT0tEUnkwNVNHZTh0aXNiclhoeHJXMXNTNkRxYXpfZFRfWFJrb0xXMVdMZkN0VDV3cmdBYTRoQmk2VVFYLVhtU1JDM1ZRRg"
+  "gas:CBMi0wFBVV95cUxQYVd6dHV1OTlHR0ZuWV9OX1REM1pKTkN3T25UVkFlLWhmc2pZOTF0OVJNemNUZ0FxMVpIeXJPN1E5N2lQOExTUzJLUmpfMHdxU3ktMVgzNVRKNGhIbzBwT2ZhNXNtWmp1Ump2Yko2YVVGZm5wd3ExU0lDaTVXLVpsdGh3MlpMVDZyRlJFcDlXSVYtekEtUTZ4MEMwcmEtR3NhVUM5RWRiRXBUNUE5a3NQRlA0eWQ4bWxQMnp3cnZ0N2diakx5bGtIMTQxcGlzcnFvcDhB0gHYAUFVX3lxTE1JbExhRVFUT3ZNWV9vQ0diaTNuX0UydmIzWFNPbGthX01wRGdsMWtqRGpndVlfekhDZl8xc2U0bHUwMnJ4eDVWQy1UYm1RbUpFQzJJYmNEZzVVdktCakd4cW42QklRS0FKVkFiNmtSSGk3NWJNcmd1TDhzWThPaWN6VkVWbG5UaTVNaUpwMTA1NVZDT0tEUnkwNVNHZTh0aXNiclhoeHJXMXNTNkRxYXpfZFRfWFJrb0xXMVdMZkN0VDV3cmdBYTRoQmk2VVFYLVhtU1JDM1ZRRg",
+  "gas:CBMiZEFVX3lxTE1PZXRkZkp2VUZVUVN2RGhkNUMxd0N0dmlYaWhvZkxCWlM5TmI1ODFSTFFzRTdSYzZFWktJTHlFX3lHTktvc2JQRlRiLTBwdGRmakhjNGJ0SGZsczNISXY1cjM2Mk0",
+  "gas:CBMi0gFBVV95cUxPdEV5bzJOUHRjeVpKWlBwaUp3dU5QQ1lqcWR4dDhYcHBSYzB4Qmx5R3pLNlFlcHRUVWMybXNBdDFyR0NHYjJfdGtWSVJYdEJiU3JjRVJSSTM3OFppb2dWNXZvUzJZaVZLT0ktWUwxa3pJTGg2OGRuTEpNRm15b0Jac25nVTBXbTE1S2VYZDNHekNJVmVNRlBhNC1oV1ZfczY5RE9UWDZUQlJtSnRhREZObExwV2x3aUhiVTJDTXlndHZmaVhtLWt4bkU0SVpGWVg0dXc"
  ],
  "shows_last_day": "2026-11-02",
  "shows_init": "2026-10-22",
@@ -3954,10 +3962,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143529",
-  "tg:FinancialJuice/143528",
-  "tg:FinancialJuice/143531",
-  "tg:FinancialJuice/143530",
   "tg:FinancialJuice/143532",
   "tg:FinancialJuice/143533",
   "tg:FinancialJuice/143537",
@@ -4753,7 +4757,11 @@
   "tg:FinancialJuice/144326",
   "tg:FinancialJuice/144325",
   "tg:FinancialJuice/144324",
-  "tg:FinancialJuice/144327"
+  "tg:FinancialJuice/144327",
+  "tg:FinancialJuice/144331",
+  "tg:FinancialJuice/144330",
+  "tg:FinancialJuice/144329",
+  "tg:FinancialJuice/144328"
  ],
  "shows_v4": 1
 }
