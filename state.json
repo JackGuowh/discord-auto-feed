@@ -662,7 +662,15 @@
   "truth:https://www.trumpstruth.org/statuses/43188",
   "truth:https://www.trumpstruth.org/statuses/43189",
   "truth:https://www.trumpstruth.org/statuses/43190",
-  "truth:https://www.trumpstruth.org/statuses/43191"
+  "truth:https://www.trumpstruth.org/statuses/43191",
+  "truth:https://www.trumpstruth.org/statuses/43196",
+  "truth:https://www.trumpstruth.org/statuses/43197",
+  "truth:https://www.trumpstruth.org/statuses/43198",
+  "truth:https://www.trumpstruth.org/statuses/43199",
+  "truth:https://www.trumpstruth.org/statuses/43200",
+  "truth:https://www.trumpstruth.org/statuses/43201",
+  "truth:https://www.trumpstruth.org/statuses/43195",
+  "truth:https://www.trumpstruth.org/statuses/43194"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -687,8 +695,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187941",
-  "wscn:3187942",
   "wscn:3187953",
   "wscn:3187947",
   "wscn:3187950",
@@ -1486,7 +1492,9 @@
   "wscn:3192829",
   "wscn:3192828",
   "wscn:3192827",
-  "wscn:3192826"
+  "wscn:3192826",
+  "wscn:3192833",
+  "wscn:3192832"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2351,7 +2359,9 @@
   "uw:families-pay-nearly-7500-year-health-insurance-kff",
   "uw:record-47-9-million-americans-voted-early-us-midterms-afp",
   "uw:us-treasury-record-839-billion-auctions-week",
-  "uw:sam-altman-ram-personal-computers-waste-dram-supply"
+  "uw:sam-altman-ram-personal-computers-waste-dram-supply",
+  "uw:cbo-big-beautiful-bill-poorest-richest",
+  "uw:trump-daycare-medicaid-medicare-wars"
  ],
  "congress_last_check": 1793651324.0075474,
  "scheduler": [
@@ -2388,7 +2398,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793651864.2140465,
+ "earnings_last_check": 1793652679.022301,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2596,7 +2606,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793650823.519852,
+ "gas_last_check": 1793652078.0285082,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
