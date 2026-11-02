@@ -2,6 +2,21 @@
   "_说明": "展会清单（人工核实）。fee 为每人参会费用（不含差旅、展位）。verified 为核实日期。有新展会或信息变化，直接改这个文件即可。 short / fee_short 用于总表的一行显示。",
   "shows": [
     {
+      "name": "Glass Expo Midwest 2026",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "USGlass 主办的区域玻璃展，中西部玻璃加工商和门窗厂，开车可达，适合现场踩点",
+      "start": "2026-11-04",
+      "end": "2026-11-05",
+      "city": "Columbus, OH",
+      "venue": "Greater Columbus Convention Center",
+      "fee": "参观需在官网注册（费用见官网）",
+      "url": "https://www.usglassmag.com/events/",
+      "verified": "2026-11-02",
+      "short": "Glass Expo Midwest",
+      "fee_short": "见官网"
+    },
+    {
       "name": "SpaceCom Expo 2027",
       "category": "航天",
       "gases": "He（火箭增压/吹扫）、Xe、Kr（电推进）",
@@ -30,6 +45,51 @@
       "verified": "2026-10-22",
       "short": "SPIE Photonics West",
       "fee_short": "展区免费"
+    },
+    {
+      "name": "NGA Glass Conference: Charlotte 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "美国玻璃协会（NGA）会议，玻璃加工企业高层，适合会上社交",
+      "start": "2027-02-01",
+      "end": "2027-02-01",
+      "city": "Charlotte, NC",
+      "venue": "",
+      "fee": "见 NGA 官网（官网只列开始日期，结束日期待确认）",
+      "url": "https://www.glass.org/events",
+      "verified": "2026-11-02",
+      "short": "NGA Glass Conference",
+      "fee_short": "见官网"
+    },
+    {
+      "name": "FGIA Annual Conference 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "门窗玻璃行业协会年会（原 IGMA 中空玻璃协会已并入 FGIA），门窗和中空玻璃厂的技术、采购负责人集中",
+      "start": "2027-02-08",
+      "end": "2027-02-12",
+      "city": "Cape Coral, FL",
+      "venue": "Westin Cape Coral",
+      "fee": "非会员可报名，费用见 FGIA 官网",
+      "url": "https://fgiaonline.org",
+      "verified": "2026-11-02",
+      "short": "FGIA Annual",
+      "fee_short": "见官网"
+    },
+    {
+      "name": "Glass Expo West 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "USGlass 主办的西部区域玻璃展",
+      "start": "2027-02-10",
+      "end": "2027-02-11",
+      "city": "Ontario, CA",
+      "venue": "",
+      "fee": "⚠️ 日期待官网确认（来自你的调研表，官网活动页暂未列出）",
+      "url": "https://www.usglassmag.com/events/",
+      "verified": "2026-11-02",
+      "short": "Glass Expo West",
+      "fee_short": "待确认"
     },
     {
       "name": "SPIE Advanced Lithography + Patterning 2027",
@@ -167,6 +227,36 @@
       "fee_short": "见官网"
     },
     {
+      "name": "FGIA Summer Summit 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "FGIA 夏季会议，5/13 同地有东南区会议",
+      "start": "2027-05-10",
+      "end": "2027-05-12",
+      "city": "Tampa, FL",
+      "venue": "Hilton Tampa Downtown",
+      "fee": "费用见 FGIA 官网",
+      "url": "https://fgiaonline.org",
+      "verified": "2026-11-02",
+      "short": "FGIA Summer Summit",
+      "fee_short": "见官网"
+    },
+    {
+      "name": "Glass TEXpo 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "USGlass 主办的德州区域玻璃展，南方以双层玻璃为主，氪气需求偏低",
+      "start": "2027-05-14",
+      "end": "2027-05-15",
+      "city": "San Antonio, TX",
+      "venue": "",
+      "fee": "⚠️ 日期待官网确认（来自你的调研表，官网暂未公布细节）",
+      "url": "https://www.usglassmag.com/events/",
+      "verified": "2026-11-02",
+      "short": "Glass TEXpo",
+      "fee_short": "待确认"
+    },
+    {
       "name": "AIAA ASCEND 2027",
       "category": "航天",
       "gases": "Xe、Kr（电推进）、He",
@@ -225,6 +315,21 @@
       "verified": "2026-10-22",
       "short": "CEC/ICMC 低温大会",
       "fee_short": "待公布"
+    },
+    {
+      "name": "NGA Glass Fabricator (GFAB) Conference 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "NGA 新办的三天会议，专门面向玻璃加工和中空玻璃厂的决策者、技术和生产人员，最对口",
+      "start": "2027-06-21",
+      "end": "2027-06-23",
+      "city": "Dallas, TX",
+      "venue": "",
+      "fee": "见 NGA 官网（官网写明为三天会议，起始 6/21）",
+      "url": "https://www.glass.org/events",
+      "verified": "2026-11-02",
+      "short": "NGA GFAB",
+      "fee_short": "见官网"
     },
     {
       "name": "GAWDA East/Midwest Regional Meeting 2027",
@@ -330,6 +435,21 @@
       "verified": "2026-10-22",
       "short": "FABTECH",
       "fee_short": "展区免费"
+    },
+    {
+      "name": "FGIA Fall Conference 2027",
+      "category": "玻璃 / 门窗",
+      "gases": "Kr（中空玻璃填充隔热）",
+      "why": "FGIA 秋季会议，门窗和中空玻璃厂技术、采购负责人",
+      "start": "2027-09-20",
+      "end": "2027-09-23",
+      "city": "Bellevue (Seattle), WA",
+      "venue": "Hyatt Regency Bellevue",
+      "fee": "费用见 FGIA 官网",
+      "url": "https://fgiaonline.org",
+      "verified": "2026-11-02",
+      "short": "FGIA Fall",
+      "fee_short": "见官网"
     },
     {
       "name": "GAWDA Annual Convention 2027",
