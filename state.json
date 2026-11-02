@@ -695,9 +695,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3188001",
-  "wscn:3188015",
-  "wscn:3188028",
   "wscn:3188026",
   "wscn:3188098",
   "wscn:3188115",
@@ -1494,7 +1491,10 @@
   "wscn:3192853",
   "wscn:3192861",
   "wscn:3192860",
-  "wscn:3192859"
+  "wscn:3192859",
+  "wscn:3192864",
+  "wscn:3192863",
+  "wscn:3192862"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2381,9 +2381,11 @@
   "uw:tucker-carlson-claims-us-nuclear-strike-iran-unconfirmed",
   "uw:trump-veto-everything-democrats-win-midterms",
   "uw:iran-us-naval-blockade-end-hormuz-reopening-wapo",
-  "uw:anthropic-q3-2026-revenue-17-billion-net-loss"
+  "uw:anthropic-q3-2026-revenue-17-billion-net-loss",
+  "uw:maximum-social-security-benefit-up-86-percent-brookings",
+  "uw:trump-protective-pardons-musk-aides-democrats-congress"
  ],
- "congress_last_check": 1793654972.7555466,
+ "congress_last_check": 1793656793.4957995,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2420,7 +2422,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793656525.5803714,
+ "earnings_last_check": 1793657393.4785552,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2637,7 +2639,7 @@
   "er:2026-11-02:ON",
   "er:2026-11-02:AAPL"
  ],
- "gas_last_check": 1793655782.6549973,
+ "gas_last_check": 1793657033.7100356,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3806,7 +3808,8 @@
   "tg:insiderpaper/45640",
   "tg:insiderpaper/45639",
   "tg:insiderpaper/45642",
-  "tg:insiderpaper/45641"
+  "tg:insiderpaper/45641",
+  "tg:insiderpaper/45643"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
