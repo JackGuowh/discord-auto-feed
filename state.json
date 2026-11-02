@@ -651,8 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187799",
-  "wscn:3187798",
   "wscn:3187797",
   "wscn:3187802",
   "wscn:3187809",
@@ -1450,7 +1448,9 @@
   "wscn:3192277",
   "wscn:3192678",
   "wscn:3192671",
-  "wscn:3192670"
+  "wscn:3192670",
+  "wscn:3192682",
+  "wscn:3192681"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1978,7 +1978,11 @@
   "tg:WalterBloomberg/37732",
   "tg:WalterBloomberg/37736",
   "tg:WalterBloomberg/37738",
-  "tg:WalterBloomberg/37737"
+  "tg:WalterBloomberg/37737",
+  "tg:WalterBloomberg/37742",
+  "tg:WalterBloomberg/37741",
+  "tg:WalterBloomberg/37740",
+  "tg:WalterBloomberg/37739"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2264,7 +2268,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793625638.114297,
+ "congress_last_check": 1793627480.8051317,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2297,7 +2301,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793626798.4176686,
+ "earnings_last_check": 1793627481.2014422,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2505,7 +2509,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793626134.9423463,
+ "gas_last_check": 1793627364.6110055,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3631,7 +3635,8 @@
   "tg:insiderpaper/45619",
   "tg:insiderpaper/45620",
   "tg:insiderpaper/45621",
-  "tg:insiderpaper/45622"
+  "tg:insiderpaper/45622",
+  "tg:insiderpaper/45623"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
