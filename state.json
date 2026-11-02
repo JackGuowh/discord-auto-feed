@@ -1955,7 +1955,12 @@
   "tg:WalterBloomberg/37715",
   "tg:WalterBloomberg/37714",
   "tg:WalterBloomberg/37713",
-  "tg:WalterBloomberg/37712"
+  "tg:WalterBloomberg/37712",
+  "tg:WalterBloomberg/37720",
+  "tg:WalterBloomberg/37719",
+  "tg:WalterBloomberg/37718",
+  "tg:WalterBloomberg/37717",
+  "tg:WalterBloomberg/37716"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2271,7 +2276,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793618638.33664,
+ "earnings_last_check": 1793619470.788069,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2472,7 +2477,8 @@
   "er:2026-10-30:CNI",
   "er:2026-10-30:ABBV",
   "er:2026-11-02:CHKP",
-  "er:2026-11-02:EL"
+  "er:2026-11-02:EL",
+  "er:2026-11-02:ETR"
  ],
  "gas_last_check": 1793618758.4259648,
  "gas:GAWDA Media": [
@@ -3594,7 +3600,8 @@
   "tg:insiderpaper/45616",
   "tg:insiderpaper/45617",
   "tg:insiderpaper/45618",
-  "tg:insiderpaper/45619"
+  "tg:insiderpaper/45619",
+  "tg:insiderpaper/45620"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
