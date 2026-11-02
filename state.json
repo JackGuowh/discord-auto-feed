@@ -651,16 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187816",
-  "wscn:3187829",
-  "wscn:3187828",
-  "wscn:3187826",
-  "wscn:3187825",
-  "wscn:3187824",
-  "wscn:3187823",
-  "wscn:3187833",
-  "wscn:3187832",
-  "wscn:3187831",
   "wscn:3187830",
   "wscn:3187841",
   "wscn:3187840",
@@ -1450,7 +1440,17 @@
   "wscn:3192702",
   "wscn:3192701",
   "wscn:3192700",
-  "wscn:3192697"
+  "wscn:3192697",
+  "wscn:3192715",
+  "wscn:3192714",
+  "wscn:3192713",
+  "wscn:3192712",
+  "wscn:3192711",
+  "wscn:3192709",
+  "wscn:3192708",
+  "wscn:3192705",
+  "wscn:3192707",
+  "wscn:3192710"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2128,7 +2128,8 @@
   "tg:WatcherGuru/15751",
   "tg:WatcherGuru/15753",
   "tg:WatcherGuru/15754",
-  "tg:WatcherGuru/15756"
+  "tg:WatcherGuru/15756",
+  "tg:WatcherGuru/15757"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2282,7 +2283,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793629285.0374937,
+ "congress_last_check": 1793631141.0562503,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2317,7 +2318,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793630762.4268458,
+ "earnings_last_check": 1793631637.758972,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2525,7 +2526,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793629827.3952734,
+ "gas_last_check": 1793631081.1725907,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3493,7 +3494,8 @@
   "tg:disclosetv/21996",
   "tg:disclosetv/21997",
   "tg:disclosetv/21998",
-  "tg:disclosetv/21999"
+  "tg:disclosetv/21999",
+  "tg:disclosetv/22000"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -3669,7 +3671,8 @@
   "tg:insiderpaper/45621",
   "tg:insiderpaper/45622",
   "tg:insiderpaper/45623",
-  "tg:insiderpaper/45624"
+  "tg:insiderpaper/45624",
+  "tg:insiderpaper/45625"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
@@ -3830,8 +3833,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143458",
-  "tg:FinancialJuice/143457",
   "tg:FinancialJuice/143456",
   "tg:FinancialJuice/143455",
   "tg:FinancialJuice/143454",
@@ -4629,7 +4630,9 @@
   "tg:FinancialJuice/144241",
   "tg:FinancialJuice/144240",
   "tg:FinancialJuice/144243",
-  "tg:FinancialJuice/144242"
+  "tg:FinancialJuice/144242",
+  "tg:FinancialJuice/144245",
+  "tg:FinancialJuice/144244"
  ],
  "shows_v4": 1
 }
