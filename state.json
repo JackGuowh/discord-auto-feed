@@ -651,8 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187779",
-  "wscn:3187774",
   "wscn:3187776",
   "wscn:3187787",
   "wscn:3187786",
@@ -1450,7 +1448,9 @@
   "wscn:3192532",
   "wscn:3192577",
   "wscn:3192592",
-  "wscn:3192619"
+  "wscn:3192619",
+  "wscn:3192631",
+  "wscn:3192629"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2250,7 +2250,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793620086.7367013,
+ "congress_last_check": 1793621922.1411285,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2283,7 +2283,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793621064.260289,
+ "earnings_last_check": 1793621922.4728954,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
