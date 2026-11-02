@@ -651,10 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187805",
-  "wscn:3187804",
-  "wscn:3187814",
-  "wscn:3187812",
   "wscn:3187811",
   "wscn:3187822",
   "wscn:3187821",
@@ -1450,7 +1446,11 @@
   "wscn:3192685",
   "wscn:3192683",
   "wscn:3192690",
-  "wscn:3192687"
+  "wscn:3192687",
+  "wscn:3192699",
+  "wscn:3192695",
+  "wscn:3192694",
+  "wscn:3192693"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -1983,7 +1983,16 @@
   "tg:WalterBloomberg/37741",
   "tg:WalterBloomberg/37740",
   "tg:WalterBloomberg/37739",
-  "tg:WalterBloomberg/37743"
+  "tg:WalterBloomberg/37743",
+  "tg:WalterBloomberg/37752",
+  "tg:WalterBloomberg/37751",
+  "tg:WalterBloomberg/37750",
+  "tg:WalterBloomberg/37749",
+  "tg:WalterBloomberg/37748",
+  "tg:WalterBloomberg/37747",
+  "tg:WalterBloomberg/37746",
+  "tg:WalterBloomberg/37745",
+  "tg:WalterBloomberg/37744"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2116,7 +2125,8 @@
   "tg:WatcherGuru/15749",
   "tg:WatcherGuru/15750",
   "tg:WatcherGuru/15751",
-  "tg:WatcherGuru/15753"
+  "tg:WatcherGuru/15753",
+  "tg:WatcherGuru/15754"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2270,7 +2280,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793627480.8051317,
+ "congress_last_check": 1793629285.0374937,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2304,7 +2314,7 @@
   "weekly:2026-11-01",
   "movers_pre:2026-11-02"
  ],
- "earnings_last_check": 1793629081.7080898,
+ "earnings_last_check": 1793629944.0552557,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2512,7 +2522,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793628601.8388574,
+ "gas_last_check": 1793629827.3952734,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3386,7 +3396,19 @@
   "qv:House-T000490-239",
   "qv:House-T000490-241",
   "qv:House-T000490-235",
-  "qv:House-T000490-242"
+  "qv:House-T000490-242",
+  "qv:House-M001239-23",
+  "qv:House-M001239-24",
+  "qv:House-M001239-25",
+  "qv:House-M001239-26",
+  "qv:House-B001292-982",
+  "qv:House-K000398-190",
+  "qv:House-K000398-191",
+  "qv:House-M001205-124",
+  "qv:House-K000398-192",
+  "qv:House-K000398-193",
+  "qv:House-K000398-194",
+  "qv:House-K000398-195"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
@@ -3467,7 +3489,8 @@
   "tg:disclosetv/21995",
   "tg:disclosetv/21996",
   "tg:disclosetv/21997",
-  "tg:disclosetv/21998"
+  "tg:disclosetv/21998",
+  "tg:disclosetv/21999"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
