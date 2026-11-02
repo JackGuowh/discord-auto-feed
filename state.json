@@ -651,11 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187834",
-  "wscn:3187827",
-  "wscn:3187846",
-  "wscn:3187845",
-  "wscn:3187844",
   "wscn:3187843",
   "wscn:3187842",
   "wscn:3187856",
@@ -1450,7 +1445,12 @@
   "wscn:3192721",
   "wscn:3192720",
   "wscn:3192719",
-  "wscn:3192717"
+  "wscn:3192717",
+  "wscn:3192736",
+  "wscn:3192734",
+  "wscn:3192730",
+  "wscn:3192729",
+  "wscn:3192727"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2001,7 +2001,11 @@
   "tg:WalterBloomberg/37757",
   "tg:WalterBloomberg/37756",
   "tg:WalterBloomberg/37755",
-  "tg:WalterBloomberg/37754"
+  "tg:WalterBloomberg/37754",
+  "tg:WalterBloomberg/37765",
+  "tg:WalterBloomberg/37764",
+  "tg:WalterBloomberg/37763",
+  "tg:WalterBloomberg/37762"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2292,7 +2296,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793631141.0562503,
+ "congress_last_check": 1793632946.8427904,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2327,7 +2331,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793632326.9670134,
+ "earnings_last_check": 1793633130.4509573,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3843,18 +3847,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143443",
-  "tg:FinancialJuice/143464",
-  "tg:FinancialJuice/143463",
-  "tg:FinancialJuice/143462",
-  "tg:FinancialJuice/143461",
-  "tg:FinancialJuice/143460",
-  "tg:FinancialJuice/143469",
-  "tg:FinancialJuice/143468",
-  "tg:FinancialJuice/143467",
-  "tg:FinancialJuice/143466",
-  "tg:FinancialJuice/143465",
-  "tg:FinancialJuice/143474",
   "tg:FinancialJuice/143473",
   "tg:FinancialJuice/143472",
   "tg:FinancialJuice/143471",
@@ -4642,7 +4634,19 @@
   "tg:FinancialJuice/144249",
   "tg:FinancialJuice/144248",
   "tg:FinancialJuice/144247",
-  "tg:FinancialJuice/144246"
+  "tg:FinancialJuice/144246",
+  "tg:FinancialJuice/144270",
+  "tg:FinancialJuice/144269",
+  "tg:FinancialJuice/144268",
+  "tg:FinancialJuice/144267",
+  "tg:FinancialJuice/144266",
+  "tg:FinancialJuice/144265",
+  "tg:FinancialJuice/144264",
+  "tg:FinancialJuice/144263",
+  "tg:FinancialJuice/144262",
+  "tg:FinancialJuice/144261",
+  "tg:FinancialJuice/144260",
+  "tg:FinancialJuice/144259"
  ],
  "shows_v4": 1
 }
