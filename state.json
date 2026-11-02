@@ -2267,7 +2267,7 @@
   "movers_post:2026-10-30",
   "weekly:2026-11-01"
  ],
- "earnings_last_check": 1793613133.7460067,
+ "earnings_last_check": 1793613823.4409723,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2466,9 +2466,10 @@
   "er:2026-10-30:REGN",
   "er:2026-10-30:GD",
   "er:2026-10-30:CNI",
-  "er:2026-10-30:ABBV"
+  "er:2026-10-30:ABBV",
+  "er:2026-11-02:CHKP"
  ],
- "gas_last_check": 1793612593.9621973,
+ "gas_last_check": 1793613825.5588412,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3585,7 +3586,8 @@
   "tg:insiderpaper/45615",
   "tg:insiderpaper/45616",
   "tg:insiderpaper/45617",
-  "tg:insiderpaper/45618"
+  "tg:insiderpaper/45618",
+  "tg:insiderpaper/45619"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
