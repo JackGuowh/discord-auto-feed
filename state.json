@@ -651,8 +651,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187850",
-  "wscn:3187849",
   "wscn:3187848",
   "wscn:3187859",
   "wscn:3187858",
@@ -1450,7 +1448,9 @@
   "wscn:3192744",
   "wscn:3192743",
   "wscn:3192741",
-  "wscn:3192740"
+  "wscn:3192740",
+  "wscn:3192747",
+  "wscn:3192745"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2009,7 +2009,8 @@
   "tg:WalterBloomberg/37767",
   "tg:WalterBloomberg/37766",
   "tg:WalterBloomberg/37769",
-  "tg:WalterBloomberg/37768"
+  "tg:WalterBloomberg/37768",
+  "tg:WalterBloomberg/37770"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2336,7 +2337,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793635627.539302,
+ "earnings_last_check": 1793636493.8327937,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2544,7 +2545,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793634806.574991,
+ "gas_last_check": 1793636018.989424,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3855,8 +3856,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143475",
-  "tg:FinancialJuice/143486",
   "tg:FinancialJuice/143485",
   "tg:FinancialJuice/143484",
   "tg:FinancialJuice/143483",
@@ -4654,7 +4653,9 @@
   "tg:FinancialJuice/144272",
   "tg:FinancialJuice/144271",
   "tg:FinancialJuice/144276",
-  "tg:FinancialJuice/144275"
+  "tg:FinancialJuice/144275",
+  "tg:FinancialJuice/144278",
+  "tg:FinancialJuice/144277"
  ],
  "shows_v4": 1
 }
