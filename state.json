@@ -687,14 +687,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3187914",
-  "wscn:3187912",
-  "wscn:3187911",
-  "wscn:3187910",
-  "wscn:3187918",
-  "wscn:3187917",
-  "wscn:3187916",
-  "wscn:3187923",
   "wscn:3187922",
   "wscn:3187921",
   "wscn:3187906",
@@ -1486,7 +1478,15 @@
   "wscn:3192796",
   "wscn:3192805",
   "wscn:3192804",
-  "wscn:3192801"
+  "wscn:3192801",
+  "wscn:3192813",
+  "wscn:3192812",
+  "wscn:3192811",
+  "wscn:3192810",
+  "wscn:3192809",
+  "wscn:3192808",
+  "wscn:3192807",
+  "wscn:3192806"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2353,7 +2353,7 @@
   "uw:us-treasury-record-839-billion-auctions-week",
   "uw:sam-altman-ram-personal-computers-waste-dram-supply"
  ],
- "congress_last_check": 1793645831.4143982,
+ "congress_last_check": 1793647680.5129163,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2388,7 +2388,7 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02"
  ],
- "earnings_last_check": 1793647055.9056346,
+ "earnings_last_check": 1793647742.6912909,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2596,7 +2596,7 @@
   "er:2026-11-02:TSEM",
   "er:2026-11-02:FOXA"
  ],
- "gas_last_check": 1793645891.5624764,
+ "gas_last_check": 1793647141.9927404,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3060,7 +3060,8 @@
   "gas:CBMi6gFBVV95cUxNWTJFanpqYXlYSE9wTFRHMDloaG1CQ21FejZlX1BKcUxRRmRmR0QxT21kVnZpRnZ3Zk5Ucmt2NU1aNXhwd3J2VkNaZV9IRFlZRk1IMlE3aUlndWJPT1M4WUY0emIwbDRzc1VkSlVIbS12VUlVV01nWjNBUzZjbjA4ZDZ2Tjd4X3BfRnhiR3I4eGZ0cVhmbV9xRUtyWHNaMzJkS0hFV0t6T3BJeFh6TWloZFVOT3Yxa1lrV0NCVzUyaGg4elBUXzAxRHV3X1o0aXpIMHNsUzhFRzA2OEZiaHBheGdNZXVxNVQyVmc",
   "gas:CBMiwgFBVV95cUxPb0Y4Rkg4NWhnbFU3LXhua1VIYVcya0JhZTFXNmw5Mk9VWjNJX1pTZmRUZ051NjdNQXlZaEM0QXlLVFlxRHVpakZDOWhXN1ZRV0JPX0Fwd05oSVVXZFYxRFBlTmlSVGRCUXc2cWJXLWV5cExRamxlTnhmR3ZubzRrQ3l5NHdDWjZFMDFPTkxoSG1Hbi1TLThmdEdOamVCbjNmQ3dKWFd1VXNnRW1wVEUxUU1KemMzSlEtVHh5eWstNnI2Zw",
   "gas:CBMiVEFVX3lxTE9teWpkS3YtTUJzemJ6MFM5OXVBa2EyT3ZnSFdfRmtja1FzaG05RnZZbnV4U0JBWVdMQ3lnSUd0QkQ1WTQwbTlHcGNsZ0I5cTREaWNaUg",
-  "gas:CBMiggJBVV95cUxOYnRDdkYtUWlSTjdSZVEtaHlYT1g2Ri1fVzhBcHdFWU5SelI4YngzOFJHWTZtaXh3dXFScDM5a3Jia2lCNmNueXpUOUVMR3NxZDR0c3VtSU5OVGo2Vk04UHVJMnJzTUlodGxKQmdxNzlCS0FaTWRvQXJpRHdkUWdGSjh4VDJNdGw4c09hMWdIT0U1dUxGMnJMWXFLWlV6ZEdmTXd3V1lCMEhUR2RaLTJEb01OaGRhdXRha2ItOTVVRy16Y2NYMzU3WEhIekQydnlEb01ncWl6a2txTGxKcGoySVdweTN5cjVucThubGZ4YmItczlKNk1fWWNONmx3UUNmV2c"
+  "gas:CBMiggJBVV95cUxOYnRDdkYtUWlSTjdSZVEtaHlYT1g2Ri1fVzhBcHdFWU5SelI4YngzOFJHWTZtaXh3dXFScDM5a3Jia2lCNmNueXpUOUVMR3NxZDR0c3VtSU5OVGo2Vk04UHVJMnJzTUlodGxKQmdxNzlCS0FaTWRvQXJpRHdkUWdGSjh4VDJNdGw4c09hMWdIT0U1dUxGMnJMWXFLWlV6ZEdmTXd3V1lCMEhUR2RaLTJEb01OaGRhdXRha2ItOTVVRy16Y2NYMzU3WEhIekQydnlEb01ncWl6a2txTGxKcGoySVdweTN5cjVucThubGZ4YmItczlKNk1fWWNONmx3UUNmV2c",
+  "gas:CBMiuwFBVV95cUxOMjBTdzQ5aTBWT1ZjSGFUYVV1ZzV4N3FGMzNJYUNuNnJrYUF6dUlOZ3QydUxWbVU3TG5VTW5iS2kxM3hfUlh1d3FUeE15T1E3MXdEUExfUlVmNzJKem45QVRjTXItUjRXOS0tMDJuMHlaX0E3VUtmQ3NabnBuMnZyekphRExiTkQxMlVwZXlmc3llcDJwX3BHb2owLWRSUzZFV2JoNVFwelJ1dkZqNVJYNy1odmIwZ2hobnUw"
  ],
  "shows_last_day": "2026-11-02",
  "shows_init": "2026-10-22",
@@ -3753,7 +3754,8 @@
   "tg:insiderpaper/45632",
   "tg:insiderpaper/45633",
   "tg:insiderpaper/45634",
-  "tg:insiderpaper/45635"
+  "tg:insiderpaper/45635",
+  "tg:insiderpaper/45636"
  ],
  "opt_daily": "2026-10-30",
  "opt_flow_last": 1793045302.4056692,
@@ -3914,10 +3916,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143494",
-  "tg:FinancialJuice/143493",
-  "tg:FinancialJuice/143502",
-  "tg:FinancialJuice/143501",
   "tg:FinancialJuice/143500",
   "tg:FinancialJuice/143499",
   "tg:FinancialJuice/143498",
@@ -4713,7 +4711,11 @@
   "tg:FinancialJuice/144292",
   "tg:FinancialJuice/144293",
   "tg:FinancialJuice/144295",
-  "tg:FinancialJuice/144294"
+  "tg:FinancialJuice/144294",
+  "tg:FinancialJuice/144299",
+  "tg:FinancialJuice/144298",
+  "tg:FinancialJuice/144297",
+  "tg:FinancialJuice/144296"
  ],
  "shows_v4": 1
 }
