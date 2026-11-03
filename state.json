@@ -743,7 +743,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189063",
   "wscn:3189101",
   "wscn:3189099",
   "wscn:3189111",
@@ -1542,7 +1541,8 @@
   "wscn:3192905",
   "wscn:3192909",
   "wscn:3192941",
-  "wscn:3192947"
+  "wscn:3192947",
+  "wscn:3192971"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2436,7 +2436,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793669683.4405835,
+ "congress_last_check": 1793671518.7944632,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2473,7 +2473,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793671079.7360935,
+ "earnings_last_check": 1793671879.4693382,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2690,7 +2690,7 @@
   "er:2026-11-02:ON",
   "er:2026-11-02:AAPL"
  ],
- "gas_last_check": 1793670600.0711422,
+ "gas_last_check": 1793671818.9658413,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3163,7 +3163,8 @@
   "gas:CBMi8gFBVV95cUxPaWY1YWdWSWVoM00xcFN6YmtiWV8yaHRwam0zaXhSaGZHQ2RrUEhxYWFQX19tVk9xY3ZkRTgwaWt3QmdwbW5qWWNzMUV4QVl2ZVRFdTg0U0V5Mi1Mb3Z6ZlBSb0dERjNlUTJGcXFDMml3eUtMT3B5d3Bmb29raXBoVmdDcS1FOTVjSVNZcVdmOFRrTHJIN3hjVm5sMjY4Y2xSY2RneXRVLWI3WlJtTmE1Y3dPNEtZaWV4WWtVaHlIYlpROFhOenhQQlFZWktGXzV3U0JKeWpXa0RDRXNvLXAzTnpwSk40clNFRUdmUXpObmNSQdIB9wFBVV95cUxOTzhzVjk0ckFaU0VSeUFma3N5Y1hDR0dvQ0RLdjRwd2luRFJhYVBTVFUyZHVjUERHNFZhNENTMTA0LUhaR2llOGZFOGJPQjdKZ3VqRGJPNmg1VmVQQVBsR2RYc1ZGa1hHQjZ1X1NSQlNvMVlDZDM3amQzeDFlTXVpWTJ1WEV1ZW1POFhFcmJvWV9CdXM5MWlPTGtuSGtQVUxoT2JwdDg5TWdBWGRVdlVWcEdiTk4xYWdpb3RJaFdpT1hUV1dGX3EtZXNmVGJ1NW50LTlrN1dJcnpReGZDU1F4TWhwVGpnc2JfUF9vbENDQlNPNmxFN2xN",
   "gas:CBMimgFBVV95cUxPZG5GUExKS0pXSjM5QlRyc1RiMkJIM1JqbVB2MDdUTmFaRVpXcnBlMzNueG9QN2duUzJOODdXOGFBNWNQRE9DT2xtVUxQcUExVC1UYTJRYV95cGdrdTlUNmdyUHJiMmRoRV9feXVpVDRMT0tjX3lmd0FsUV9ybGpUTDJfU3pIWFBtek9ZVHhVdHRVdlJtTnFhbTlR",
   "gas:CBMi9wFBVV95cUxOTzhzVjk0ckFaU0VSeUFma3N5Y1hDR0dvQ0RLdjRwd2luRFJhYVBTVFUyZHVjUERHNFZhNENTMTA0LUhaR2llOGZFOGJPQjdKZ3VqRGJPNmg1VmVQQVBsR2RYc1ZGa1hHQjZ1X1NSQlNvMVlDZDM3amQzeDFlTXVpWTJ1WEV1ZW1POFhFcmJvWV9CdXM5MWlPTGtuSGtQVUxoT2JwdDg5TWdBWGRVdlVWcEdiTk4xYWdpb3RJaFdpT1hUV1dGX3EtZXNmVGJ1NW50LTlrN1dJcnpReGZDU1F4TWhwVGpnc2JfUF9vbENDQlNPNmxFN2xN0gH3AUFVX3lxTE5POHNWOTRyQVpTRVJ5QWZrc3ljWENHR29DREt2NHB3aW5EUmFhUFNUVTJkdWNQREc0VmE0Q1MxMDQtSFpHaWU4ZkU4Yk9CN0pndWpEYk82aDVWZVBBUGxHZFhzVkZrWEdCNnVfU1JCU28xWUNkMzdqZDN4MWVNdWlZMnVYRXVlbU84WEVyYm9ZX0J1czkxaU9Ma25Ia1BVTGhPYnB0ODlNZ0FYZFV2VVZwR2JOTjFhZ2lvdEloV2lPWFRXV0ZfcS1lc2ZUYnU1bnQtOWs3V0lyelF4ZkNTUXhNaHBUamdzYl9QX29sQ0NCU082bEU3bE0",
-  "gas:CBMi2AFBVV95cUxPeG5lYUwwS2lockdod0lqTXpCcloxQldldDJ0ZGZvb0dGN1B1X2tDanQ4YXpmY3RuSld2Q0VsdHdfb29vbjVJVnFtcDdTbi02TFdpQ2d5UjczQkxFcExaNmJhSGNqemhmLWctbXBCcVRJTENScThIQjhOQmxWczNDWmlqdjBBZnJjUVA0Z3o5VmxsY29fd09LOVdaRnF5WUNmV1l0S2tOaWlrS04wS0NoVXBsTWRQbkttWndTN1ZEbmlqZmdqbk1PVVhiZURXVzJaSG8yRXBjX1k"
+  "gas:CBMi2AFBVV95cUxPeG5lYUwwS2lockdod0lqTXpCcloxQldldDJ0ZGZvb0dGN1B1X2tDanQ4YXpmY3RuSld2Q0VsdHdfb29vbjVJVnFtcDdTbi02TFdpQ2d5UjczQkxFcExaNmJhSGNqemhmLWctbXBCcVRJTENScThIQjhOQmxWczNDWmlqdjBBZnJjUVA0Z3o5VmxsY29fd09LOVdaRnF5WUNmV1l0S2tOaWlrS04wS0NoVXBsTWRQbkttWndTN1ZEbmlqZmdqbk1PVVhiZURXVzJaSG8yRXBjX1k",
+  "gas:CBMiugFBVV95cUxQWU93Snh4WlVkaTZKdmJvbG5udlVqZnpDMmJZcVJfTDlqRGFqQVN2aEtzbDdFRkxCc1dOZGFMaTFWNklhVTB0RWRVdVlvX2NZb0pjVFk5YUEybC1xeTU4S2NKVERkTHludV9zRzctNGFlZGVPSGIyVEhYR0RGRndfUTF2Z1QtWFB6dTZMQnpFMW9lbG1KUnBGLU1LX1h4REJMVnJfR081MXF0ZEsxZUhEQk00dmliRzRHeFE"
  ],
  "shows_last_day": "2026-11-02",
  "shows_init": "2026-10-22",
@@ -4029,7 +4030,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143580",
   "tg:FinancialJuice/143579",
   "tg:FinancialJuice/143581",
   "tg:FinancialJuice/143583",
@@ -4828,7 +4828,8 @@
   "tg:FinancialJuice/144378",
   "tg:FinancialJuice/144377",
   "tg:FinancialJuice/144376",
-  "tg:FinancialJuice/144375"
+  "tg:FinancialJuice/144375",
+  "tg:FinancialJuice/144379"
  ],
  "shows_v4": 1
 }
