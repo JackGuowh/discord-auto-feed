@@ -823,8 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189393",
-  "wscn:3189392",
   "wscn:3189389",
   "wscn:3189388",
   "wscn:3189387",
@@ -1622,7 +1620,9 @@
   "wscn:3193552",
   "wscn:3193550",
   "wscn:3193558",
-  "wscn:3193557"
+  "wscn:3193557",
+  "wscn:3193560",
+  "wscn:3193559"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2577,7 +2577,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793733976.6558056,
+ "congress_last_check": 1793735808.5501783,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2616,7 +2616,7 @@
   "movers_pre:2026-11-03",
   "market_fg:2026-11-03"
  ],
- "earnings_last_check": 1793735350.0915484,
+ "earnings_last_check": 1793736168.5962496,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2843,7 +2843,7 @@
   "er:2026-11-03:DOCN",
   "er:2026-11-03:YUM"
  ],
- "gas_last_check": 1793734630.1686537,
+ "gas_last_check": 1793735868.4510076,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3333,7 +3333,8 @@
   "gas:CBMiZkFVX3lxTE5yQVMwWS13RThId0dWZnFoTkdaUkN1R1h6MVhuOVJCOG92N1duZmJac0szZzBUYWJSa29obnZraWx5Uzg3eVQtMkc2TWMtZjkyMjdtT041ekExN0licXZLRTBnRnFKUQ",
   "gas:CBMiogFBVV95cUxORk85dFVzZFpVb2FsRkJxUmxjNWxJU295NVdqNV92QlplaFRfWmJTVkt2VHJXSFZjcWZWOEtTTnFyZ1NkZjRaZlFPTEJDSmRQVmtSamt4X2lkVzlFUFZTLUFXYUVkZUpiaUlrb05pSkFHTDVKTVM1VUY4WnQ4dzduMENJQVQ4ZkEybEZmLUhlOUdVVUl0SEJINW1IRjVERi1GS2c",
   "gas:CBMisgFBVV95cUxOcl9jbU1QRGFkMUZncGlJODJkOWliT0hEdzU0emR2UUZzMTktU1hJRW5vMXFSM0luZS1FMnRYYmxraWhOSG1ySG9BRHJ0a1ZZLWo1ZzU4SW82NTBNdm0xVm4zQnNGb3JXRC1Yd1U3bGltVmFpWHlPeGtYS3RRVGM0ZTQ4X19zZXRYOEk2YjZhQU00R1huTUhtM2gwYl83WUc0ekZzSUJCWHNENl9zN0tTcnZn",
-  "gas:CBMibkFVX3lxTE5vT2hHeUVqbGZqczdwbnltalVKdVdadl9iR1pEYW5fRkNvc0tST19uV1ZDLWhsYjZLQ1RHdkxrMjRCYlp0RlFLZ0ZRTDV1ZVRpQzBraXgtcklLQXg2aVZuMlZGTkZoaUVTYWJmX0N3"
+  "gas:CBMibkFVX3lxTE5vT2hHeUVqbGZqczdwbnltalVKdVdadl9iR1pEYW5fRkNvc0tST19uV1ZDLWhsYjZLQ1RHdkxrMjRCYlp0RlFLZ0ZRTDV1ZVRpQzBraXgtcklLQXg2aVZuMlZGTkZoaUVTYWJmX0N3",
+  "gas:CBMieEFVX3lxTE8tR19RTS1RRHJ2cGdPcjR0akc5RHZOUEZXV1NrRFp6VkFpdXdrT29sclFnWDhjaWdnRHNfc0lfX2NMRDRfdDVSOFJTbkRzQm93OVU1bUpmQmJxdjZfdEhCQzNJQUdqRUxtczdjQ2FTQ0Q2b2pqWndEbQ"
  ],
  "shows_last_day": "2026-11-03",
  "shows_init": "2026-10-22",
