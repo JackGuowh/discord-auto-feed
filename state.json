@@ -738,7 +738,12 @@
   "truth:https://www.trumpstruth.org/statuses/43289",
   "truth:https://www.trumpstruth.org/statuses/43290",
   "truth:https://www.trumpstruth.org/statuses/43291",
-  "truth:https://www.trumpstruth.org/statuses/43292"
+  "truth:https://www.trumpstruth.org/statuses/43292",
+  "truth:https://www.trumpstruth.org/statuses/43297",
+  "truth:https://www.trumpstruth.org/statuses/43296",
+  "truth:https://www.trumpstruth.org/statuses/43295",
+  "truth:https://www.trumpstruth.org/statuses/43293",
+  "truth:https://www.trumpstruth.org/statuses/43294"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2456,7 +2461,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793686272.2870862,
+ "congress_last_check": 1793688121.4803607,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2493,7 +2498,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793687864.2614863,
+ "earnings_last_check": 1793688721.627985,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4058,10 +4063,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143653",
-  "tg:FinancialJuice/143652",
-  "tg:FinancialJuice/143651",
-  "tg:FinancialJuice/143650",
   "tg:FinancialJuice/143649",
   "tg:FinancialJuice/143648",
   "tg:FinancialJuice/143647",
@@ -4857,7 +4858,11 @@
   "tg:FinancialJuice/144441",
   "tg:FinancialJuice/144444",
   "tg:FinancialJuice/144443",
-  "tg:FinancialJuice/144445"
+  "tg:FinancialJuice/144445",
+  "tg:FinancialJuice/144449",
+  "tg:FinancialJuice/144448",
+  "tg:FinancialJuice/144447",
+  "tg:FinancialJuice/144446"
  ],
  "shows_v4": 1
 }
