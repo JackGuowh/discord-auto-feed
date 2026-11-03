@@ -786,10 +786,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189278",
-  "wscn:3189277",
-  "wscn:3189276",
-  "wscn:3189275",
   "wscn:3189285",
   "wscn:3189284",
   "wscn:3189283",
@@ -1585,7 +1581,11 @@
   "wscn:3193400",
   "wscn:3193403",
   "wscn:3193402",
-  "wscn:3193401"
+  "wscn:3193401",
+  "wscn:3193410",
+  "wscn:3193408",
+  "wscn:3193406",
+  "wscn:3193404"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2516,7 +2516,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793713843.2479744,
+ "congress_last_check": 1793715684.62107,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2554,7 +2554,7 @@
   "movers_post:2026-11-02",
   "movers_pre:2026-11-03"
  ],
- "earnings_last_check": 1793715004.310522,
+ "earnings_last_check": 1793715866.160669,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3697,7 +3697,8 @@
   "qv:House-K000398-192",
   "qv:House-K000398-193",
   "qv:House-K000398-194",
-  "qv:House-K000398-195"
+  "qv:House-K000398-195",
+  "qv:House-W000812-11"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
@@ -3995,7 +3996,8 @@
   "tg:insiderpaper/45652",
   "tg:insiderpaper/45653",
   "tg:insiderpaper/45655",
-  "tg:insiderpaper/45654"
+  "tg:insiderpaper/45654",
+  "tg:insiderpaper/45656"
  ],
  "opt_daily": "2026-11-02",
  "opt_flow_last": 1793045302.4056692,
@@ -4156,9 +4158,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143724",
-  "tg:FinancialJuice/143729",
-  "tg:FinancialJuice/143728",
   "tg:FinancialJuice/143727",
   "tg:FinancialJuice/143726",
   "tg:FinancialJuice/143725",
@@ -4955,7 +4954,10 @@
   "tg:FinancialJuice/144522",
   "tg:FinancialJuice/144521",
   "tg:FinancialJuice/144520",
-  "tg:FinancialJuice/144519"
+  "tg:FinancialJuice/144519",
+  "tg:FinancialJuice/144526",
+  "tg:FinancialJuice/144525",
+  "tg:FinancialJuice/144524"
  ],
  "shows_v4": 1
 }
