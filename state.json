@@ -823,9 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189424",
-  "wscn:3189422",
-  "wscn:3189421",
   "wscn:3189420",
   "wscn:3189419",
   "wscn:3189418",
@@ -1622,7 +1619,10 @@
   "wscn:3193591",
   "wscn:3193600",
   "wscn:3193595",
-  "wscn:3193594"
+  "wscn:3193594",
+  "wscn:3193605",
+  "wscn:3193603",
+  "wscn:3193601"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2577,7 +2577,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793741301.735098,
+ "congress_last_check": 1793743149.4761643,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2618,7 +2618,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793742650.0520697,
+ "earnings_last_check": 1793743449.2157307,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2851,7 +2851,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793742048.4587038,
+ "gas_last_check": 1793743271.2056408,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3776,7 +3776,28 @@
   "qv:House-K000398-193",
   "qv:House-K000398-194",
   "qv:House-K000398-195",
-  "qv:House-W000812-11"
+  "qv:House-W000812-11",
+  "qv:Senate-W000802-1039",
+  "qv:Senate-W000802-1038",
+  "qv:Senate-M001243-428",
+  "qv:Senate-M001243-429",
+  "qv:Senate-M001243-430",
+  "qv:Senate-M001243-431",
+  "qv:Senate-M001243-432",
+  "qv:Senate-M001243-414",
+  "qv:Senate-M001243-415",
+  "qv:Senate-M001243-416",
+  "qv:Senate-M001243-417",
+  "qv:Senate-M001243-418",
+  "qv:Senate-M001243-419",
+  "qv:Senate-M001243-420",
+  "qv:Senate-M001243-421",
+  "qv:Senate-M001243-422",
+  "qv:Senate-M001243-423",
+  "qv:Senate-M001243-424",
+  "qv:Senate-M001243-425",
+  "qv:Senate-M001243-426",
+  "qv:Senate-M001243-427"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
@@ -4095,7 +4116,8 @@
   "tg:insiderpaper/45672",
   "tg:insiderpaper/45671",
   "tg:insiderpaper/45673",
-  "tg:insiderpaper/45674"
+  "tg:insiderpaper/45674",
+  "tg:insiderpaper/45675"
  ],
  "opt_daily": "2026-11-02",
  "opt_flow_last": 1793045302.4056692,
@@ -4256,17 +4278,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143797",
-  "tg:FinancialJuice/143796",
-  "tg:FinancialJuice/143807",
-  "tg:FinancialJuice/143806",
-  "tg:FinancialJuice/143805",
-  "tg:FinancialJuice/143804",
-  "tg:FinancialJuice/143803",
-  "tg:FinancialJuice/143802",
-  "tg:FinancialJuice/143801",
-  "tg:FinancialJuice/143800",
-  "tg:FinancialJuice/143799",
   "tg:FinancialJuice/143798",
   "tg:FinancialJuice/143808",
   "tg:FinancialJuice/143814",
@@ -5055,7 +5066,18 @@
   "tg:FinancialJuice/144589",
   "tg:FinancialJuice/144595",
   "tg:FinancialJuice/144594",
-  "tg:FinancialJuice/144593"
+  "tg:FinancialJuice/144593",
+  "tg:FinancialJuice/144606",
+  "tg:FinancialJuice/144605",
+  "tg:FinancialJuice/144604",
+  "tg:FinancialJuice/144603",
+  "tg:FinancialJuice/144602",
+  "tg:FinancialJuice/144601",
+  "tg:FinancialJuice/144600",
+  "tg:FinancialJuice/144599",
+  "tg:FinancialJuice/144598",
+  "tg:FinancialJuice/144597",
+  "tg:FinancialJuice/144596"
  ],
  "shows_v4": 1
 }
