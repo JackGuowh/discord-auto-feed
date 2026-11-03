@@ -823,9 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189351",
-  "wscn:3189350",
-  "wscn:3189349",
   "wscn:3189348",
   "wscn:3189347",
   "wscn:3189346",
@@ -1622,7 +1619,10 @@
   "wscn:3193511",
   "wscn:3193510",
   "wscn:3193509",
-  "wscn:3193508"
+  "wscn:3193508",
+  "wscn:3193519",
+  "wscn:3193518",
+  "wscn:3193517"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2232,7 +2232,11 @@
   "tg:WalterBloomberg/37818",
   "tg:WalterBloomberg/37817",
   "tg:WalterBloomberg/37819",
-  "tg:WalterBloomberg/37820"
+  "tg:WalterBloomberg/37820",
+  "tg:WalterBloomberg/37824",
+  "tg:WalterBloomberg/37823",
+  "tg:WalterBloomberg/37822",
+  "tg:WalterBloomberg/37821"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2564,7 +2568,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793726627.372008,
+ "congress_last_check": 1793728482.951786,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2603,7 +2607,7 @@
   "movers_pre:2026-11-03",
   "market_fg:2026-11-03"
  ],
- "earnings_last_check": 1793728035.3569796,
+ "earnings_last_check": 1793728661.3222327,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2830,7 +2834,7 @@
   "er:2026-11-03:DOCN",
   "er:2026-11-03:YUM"
  ],
- "gas_last_check": 1793727167.3627598,
+ "gas_last_check": 1793728419.4885738,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4224,8 +4228,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143776",
-  "tg:FinancialJuice/143775",
   "tg:FinancialJuice/143774",
   "tg:FinancialJuice/143773",
   "tg:FinancialJuice/143772",
@@ -5023,7 +5025,9 @@
   "tg:FinancialJuice/144561",
   "tg:FinancialJuice/144564",
   "tg:FinancialJuice/144563",
-  "tg:FinancialJuice/144565"
+  "tg:FinancialJuice/144565",
+  "tg:FinancialJuice/144567",
+  "tg:FinancialJuice/144566"
  ],
  "shows_v4": 1
 }
