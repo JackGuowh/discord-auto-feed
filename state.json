@@ -823,11 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189432",
-  "wscn:3189437",
-  "wscn:3189440",
-  "wscn:3189439",
-  "wscn:3189438",
   "wscn:3189448",
   "wscn:3189447",
   "wscn:3189445",
@@ -1622,7 +1617,12 @@
   "wscn:3193612",
   "wscn:3193620",
   "wscn:3193618",
-  "wscn:3193627"
+  "wscn:3193627",
+  "wscn:3193635",
+  "wscn:3193634",
+  "wscn:3193633",
+  "wscn:3193632",
+  "wscn:3193628"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2618,7 +2618,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793747527.5338206,
+ "earnings_last_check": 1793748267.546706,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2851,7 +2851,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793746987.3894603,
+ "gas_last_check": 1793748205.911245,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4120,7 +4120,9 @@
   "tg:insiderpaper/45674",
   "tg:insiderpaper/45675",
   "tg:insiderpaper/45676",
-  "tg:insiderpaper/45677"
+  "tg:insiderpaper/45677",
+  "tg:insiderpaper/45679",
+  "tg:insiderpaper/45678"
  ],
  "opt_daily": "2026-11-03",
  "opt_flow_last": 1793045302.4056692,
