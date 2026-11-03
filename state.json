@@ -761,7 +761,37 @@
   "truth:https://www.trumpstruth.org/statuses/43302",
   "truth:https://www.trumpstruth.org/statuses/43303",
   "truth:https://www.trumpstruth.org/statuses/43298",
-  "truth:https://www.trumpstruth.org/statuses/43299"
+  "truth:https://www.trumpstruth.org/statuses/43299",
+  "truth:https://www.trumpstruth.org/statuses/43325",
+  "truth:https://www.trumpstruth.org/statuses/43326",
+  "truth:https://www.trumpstruth.org/statuses/43327",
+  "truth:https://www.trumpstruth.org/statuses/43328",
+  "truth:https://www.trumpstruth.org/statuses/43329",
+  "truth:https://www.trumpstruth.org/statuses/43330",
+  "truth:https://www.trumpstruth.org/statuses/43331",
+  "truth:https://www.trumpstruth.org/statuses/43332",
+  "truth:https://www.trumpstruth.org/statuses/43333",
+  "truth:https://www.trumpstruth.org/statuses/43334",
+  "truth:https://www.trumpstruth.org/statuses/43335",
+  "truth:https://www.trumpstruth.org/statuses/43336",
+  "truth:https://www.trumpstruth.org/statuses/43337",
+  "truth:https://www.trumpstruth.org/statuses/43338",
+  "truth:https://www.trumpstruth.org/statuses/43339",
+  "truth:https://www.trumpstruth.org/statuses/43340",
+  "truth:https://www.trumpstruth.org/statuses/43341",
+  "truth:https://www.trumpstruth.org/statuses/43342",
+  "truth:https://www.trumpstruth.org/statuses/43343",
+  "truth:https://www.trumpstruth.org/statuses/43344",
+  "truth:https://www.trumpstruth.org/statuses/43345",
+  "truth:https://www.trumpstruth.org/statuses/43346",
+  "truth:https://www.trumpstruth.org/statuses/43347",
+  "truth:https://www.trumpstruth.org/statuses/43317",
+  "truth:https://www.trumpstruth.org/statuses/43318",
+  "truth:https://www.trumpstruth.org/statuses/43319",
+  "truth:https://www.trumpstruth.org/statuses/43320",
+  "truth:https://www.trumpstruth.org/statuses/43321",
+  "truth:https://www.trumpstruth.org/statuses/43322",
+  "truth:https://www.trumpstruth.org/statuses/43323"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -786,10 +816,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189294",
-  "wscn:3189290",
-  "wscn:3189289",
-  "wscn:3189292",
   "wscn:3189302",
   "wscn:3189301",
   "wscn:3189300",
@@ -1585,7 +1611,11 @@
   "wscn:3193416",
   "wscn:3193415",
   "wscn:3193414",
-  "wscn:3193413"
+  "wscn:3193413",
+  "wscn:3193432",
+  "wscn:3193429",
+  "wscn:3193427",
+  "wscn:3193426"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2342,7 +2372,8 @@
   "tg:WatcherGuru/15779",
   "tg:WatcherGuru/15780",
   "tg:WatcherGuru/15782",
-  "tg:WatcherGuru/15783"
+  "tg:WatcherGuru/15783",
+  "tg:WatcherGuru/15784"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2518,7 +2549,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793715684.62107,
+ "congress_last_check": 1793717504.5822759,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2557,7 +2588,7 @@
   "movers_pre:2026-11-03",
   "market_fg:2026-11-03"
  ],
- "earnings_last_check": 1793716731.449543,
+ "earnings_last_check": 1793717567.1181104,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2784,7 +2815,7 @@
   "er:2026-11-03:DOCN",
   "er:2026-11-03:YUM"
  ],
- "gas_last_check": 1793716129.1319585,
+ "gas_last_check": 1793717351.685017,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4162,7 +4193,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143738",
   "tg:FinancialJuice/143746",
   "tg:FinancialJuice/143745",
   "tg:FinancialJuice/143744",
@@ -4961,7 +4991,8 @@
   "tg:FinancialJuice/144530",
   "tg:FinancialJuice/144529",
   "tg:FinancialJuice/144528",
-  "tg:FinancialJuice/144527"
+  "tg:FinancialJuice/144527",
+  "tg:FinancialJuice/144539"
  ],
  "shows_v4": 1
 }
