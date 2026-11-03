@@ -768,8 +768,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189242",
-  "wscn:3189241",
   "wscn:3189240",
   "wscn:3189239",
   "wscn:3189238",
@@ -1567,7 +1565,9 @@
   "wscn:3193267",
   "wscn:3193279",
   "wscn:3193276",
-  "wscn:3193275"
+  "wscn:3193275",
+  "wscn:3193286",
+  "wscn:3193282"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2462,7 +2462,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793700932.3171914,
+ "congress_last_check": 1793702772.4223378,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2499,7 +2499,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793702212.0479982,
+ "earnings_last_check": 1793703012.7200027,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2717,7 +2717,7 @@
   "er:2026-11-02:AAPL",
   "er:2026-11-02:GRAB"
  ],
- "gas_last_check": 1793701352.1870475,
+ "gas_last_check": 1793702595.2325013,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4070,8 +4070,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143677",
-  "tg:FinancialJuice/143676",
   "tg:FinancialJuice/143675",
   "tg:FinancialJuice/143674",
   "tg:FinancialJuice/143693",
@@ -4869,7 +4867,9 @@
   "tg:FinancialJuice/144473",
   "tg:FinancialJuice/144480",
   "tg:FinancialJuice/144479",
-  "tg:FinancialJuice/144478"
+  "tg:FinancialJuice/144478",
+  "tg:FinancialJuice/144482",
+  "tg:FinancialJuice/144481"
  ],
  "shows_v4": 1
 }
