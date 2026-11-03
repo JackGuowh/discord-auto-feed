@@ -823,9 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189430",
-  "wscn:3189429",
-  "wscn:3189436",
   "wscn:3189435",
   "wscn:3189434",
   "wscn:3189433",
@@ -1622,7 +1619,10 @@
   "wscn:3193611",
   "wscn:3193610",
   "wscn:3193609",
-  "wscn:3193606"
+  "wscn:3193606",
+  "wscn:3193616",
+  "wscn:3193615",
+  "wscn:3193612"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2577,7 +2577,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793743149.4761643,
+ "congress_last_check": 1793744997.8591592,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2618,7 +2618,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793744378.486291,
+ "earnings_last_check": 1793745180.7939954,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2851,7 +2851,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793743271.2056408,
+ "gas_last_check": 1793744517.6940374,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4117,9 +4117,10 @@
   "tg:insiderpaper/45671",
   "tg:insiderpaper/45673",
   "tg:insiderpaper/45674",
-  "tg:insiderpaper/45675"
+  "tg:insiderpaper/45675",
+  "tg:insiderpaper/45676"
  ],
- "opt_daily": "2026-11-02",
+ "opt_daily": "2026-11-03",
  "opt_flow_last": 1793045302.4056692,
  "opt_flow": [
   "2026-10-23:META:2026-10-26:C:647.5",
@@ -4278,7 +4279,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143812",
   "tg:FinancialJuice/143811",
   "tg:FinancialJuice/143810",
   "tg:FinancialJuice/143809",
@@ -5077,7 +5077,8 @@
   "tg:FinancialJuice/144610",
   "tg:FinancialJuice/144609",
   "tg:FinancialJuice/144608",
-  "tg:FinancialJuice/144607"
+  "tg:FinancialJuice/144607",
+  "tg:FinancialJuice/144611"
  ],
  "shows_v4": 1
 }
