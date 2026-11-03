@@ -718,7 +718,27 @@
   "truth:https://www.trumpstruth.org/statuses/43247",
   "truth:https://www.trumpstruth.org/statuses/43248",
   "truth:https://www.trumpstruth.org/statuses/43249",
-  "truth:https://www.trumpstruth.org/statuses/43250"
+  "truth:https://www.trumpstruth.org/statuses/43250",
+  "truth:https://www.trumpstruth.org/statuses/43272",
+  "truth:https://www.trumpstruth.org/statuses/43274",
+  "truth:https://www.trumpstruth.org/statuses/43275",
+  "truth:https://www.trumpstruth.org/statuses/43276",
+  "truth:https://www.trumpstruth.org/statuses/43277",
+  "truth:https://www.trumpstruth.org/statuses/43278",
+  "truth:https://www.trumpstruth.org/statuses/43279",
+  "truth:https://www.trumpstruth.org/statuses/43280",
+  "truth:https://www.trumpstruth.org/statuses/43281",
+  "truth:https://www.trumpstruth.org/statuses/43282",
+  "truth:https://www.trumpstruth.org/statuses/43283",
+  "truth:https://www.trumpstruth.org/statuses/43284",
+  "truth:https://www.trumpstruth.org/statuses/43285",
+  "truth:https://www.trumpstruth.org/statuses/43286",
+  "truth:https://www.trumpstruth.org/statuses/43287",
+  "truth:https://www.trumpstruth.org/statuses/43288",
+  "truth:https://www.trumpstruth.org/statuses/43289",
+  "truth:https://www.trumpstruth.org/statuses/43290",
+  "truth:https://www.trumpstruth.org/statuses/43291",
+  "truth:https://www.trumpstruth.org/statuses/43292"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -743,7 +763,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189219",
   "wscn:3189231",
   "wscn:3189229",
   "wscn:3189228",
@@ -1542,7 +1561,8 @@
   "wscn:3193027",
   "wscn:3193047",
   "wscn:3193063",
-  "wscn:3193060"
+  "wscn:3193060",
+  "wscn:3193067"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2473,7 +2493,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793680737.9228952,
+ "earnings_last_check": 1793681536.7205875,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4035,15 +4055,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143615",
-  "tg:FinancialJuice/143614",
-  "tg:FinancialJuice/143613",
-  "tg:FinancialJuice/143612",
-  "tg:FinancialJuice/143611",
-  "tg:FinancialJuice/143610",
-  "tg:FinancialJuice/143609",
-  "tg:FinancialJuice/143625",
-  "tg:FinancialJuice/143632",
   "tg:FinancialJuice/143631",
   "tg:FinancialJuice/143630",
   "tg:FinancialJuice/143629",
@@ -4834,7 +4845,16 @@
   "tg:FinancialJuice/144414",
   "tg:FinancialJuice/144413",
   "tg:FinancialJuice/144412",
-  "tg:FinancialJuice/144411"
+  "tg:FinancialJuice/144411",
+  "tg:FinancialJuice/144426",
+  "tg:FinancialJuice/144425",
+  "tg:FinancialJuice/144424",
+  "tg:FinancialJuice/144423",
+  "tg:FinancialJuice/144422",
+  "tg:FinancialJuice/144421",
+  "tg:FinancialJuice/144420",
+  "tg:FinancialJuice/144419",
+  "tg:FinancialJuice/144418"
  ],
  "shows_v4": 1
 }
