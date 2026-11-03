@@ -816,18 +816,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189302",
-  "wscn:3189301",
-  "wscn:3189300",
-  "wscn:3189299",
-  "wscn:3189298",
-  "wscn:3189304",
-  "wscn:3189303",
-  "wscn:3189305",
-  "wscn:3189310",
-  "wscn:3189308",
-  "wscn:3189307",
-  "wscn:3189306",
   "wscn:3189314",
   "wscn:3189313",
   "wscn:3189312",
@@ -1615,7 +1603,19 @@
   "wscn:3193432",
   "wscn:3193429",
   "wscn:3193427",
-  "wscn:3193426"
+  "wscn:3193426",
+  "wscn:3193449",
+  "wscn:3193448",
+  "wscn:3193446",
+  "wscn:3193443",
+  "wscn:3193442",
+  "wscn:3193441",
+  "wscn:3193440",
+  "wscn:3193439",
+  "wscn:3193438",
+  "wscn:3193437",
+  "wscn:3193434",
+  "wscn:3193433"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2219,7 +2219,9 @@
   "tg:WalterBloomberg/37808",
   "tg:WalterBloomberg/37813",
   "tg:WalterBloomberg/37812",
-  "tg:WalterBloomberg/37814"
+  "tg:WalterBloomberg/37814",
+  "tg:WalterBloomberg/37816",
+  "tg:WalterBloomberg/37815"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2588,7 +2590,7 @@
   "movers_pre:2026-11-03",
   "market_fg:2026-11-03"
  ],
- "earnings_last_check": 1793717567.1181104,
+ "earnings_last_check": 1793718247.8933609,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4193,12 +4195,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143746",
-  "tg:FinancialJuice/143745",
-  "tg:FinancialJuice/143744",
-  "tg:FinancialJuice/143743",
-  "tg:FinancialJuice/143742",
-  "tg:FinancialJuice/143741",
   "tg:FinancialJuice/143740",
   "tg:FinancialJuice/143754",
   "tg:FinancialJuice/143753",
@@ -4992,7 +4988,13 @@
   "tg:FinancialJuice/144529",
   "tg:FinancialJuice/144528",
   "tg:FinancialJuice/144527",
-  "tg:FinancialJuice/144539"
+  "tg:FinancialJuice/144539",
+  "tg:FinancialJuice/144545",
+  "tg:FinancialJuice/144544",
+  "tg:FinancialJuice/144543",
+  "tg:FinancialJuice/144542",
+  "tg:FinancialJuice/144541",
+  "tg:FinancialJuice/144540"
  ],
  "shows_v4": 1
 }
