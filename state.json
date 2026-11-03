@@ -768,9 +768,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189236",
-  "wscn:3189232",
-  "wscn:3189243",
   "wscn:3189242",
   "wscn:3189241",
   "wscn:3189240",
@@ -1567,7 +1564,10 @@
   "wscn:3193261",
   "wscn:3193271",
   "wscn:3193268",
-  "wscn:3193267"
+  "wscn:3193267",
+  "wscn:3193279",
+  "wscn:3193276",
+  "wscn:3193275"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2499,7 +2499,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793701412.2117357,
+ "earnings_last_check": 1793702212.0479982,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4070,9 +4070,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143680",
-  "tg:FinancialJuice/143679",
-  "tg:FinancialJuice/143678",
   "tg:FinancialJuice/143677",
   "tg:FinancialJuice/143676",
   "tg:FinancialJuice/143675",
@@ -4869,7 +4866,10 @@
   "tg:FinancialJuice/144476",
   "tg:FinancialJuice/144475",
   "tg:FinancialJuice/144474",
-  "tg:FinancialJuice/144473"
+  "tg:FinancialJuice/144473",
+  "tg:FinancialJuice/144480",
+  "tg:FinancialJuice/144479",
+  "tg:FinancialJuice/144478"
  ],
  "shows_v4": 1
 }
