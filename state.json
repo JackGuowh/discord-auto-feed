@@ -743,7 +743,25 @@
   "truth:https://www.trumpstruth.org/statuses/43296",
   "truth:https://www.trumpstruth.org/statuses/43295",
   "truth:https://www.trumpstruth.org/statuses/43293",
-  "truth:https://www.trumpstruth.org/statuses/43294"
+  "truth:https://www.trumpstruth.org/statuses/43294",
+  "truth:https://www.trumpstruth.org/statuses/43307",
+  "truth:https://www.trumpstruth.org/statuses/43308",
+  "truth:https://www.trumpstruth.org/statuses/43309",
+  "truth:https://www.trumpstruth.org/statuses/43310",
+  "truth:https://www.trumpstruth.org/statuses/43311",
+  "truth:https://www.trumpstruth.org/statuses/43312",
+  "truth:https://www.trumpstruth.org/statuses/43313",
+  "truth:https://www.trumpstruth.org/statuses/43314",
+  "truth:https://www.trumpstruth.org/statuses/43315",
+  "truth:https://www.trumpstruth.org/statuses/43304",
+  "truth:https://www.trumpstruth.org/statuses/43305",
+  "truth:https://www.trumpstruth.org/statuses/43306",
+  "truth:https://www.trumpstruth.org/statuses/43300",
+  "truth:https://www.trumpstruth.org/statuses/43301",
+  "truth:https://www.trumpstruth.org/statuses/43302",
+  "truth:https://www.trumpstruth.org/statuses/43303",
+  "truth:https://www.trumpstruth.org/statuses/43298",
+  "truth:https://www.trumpstruth.org/statuses/43299"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -768,7 +786,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189247",
   "wscn:3189245",
   "wscn:3189260",
   "wscn:3189259",
@@ -1567,7 +1584,8 @@
   "wscn:3193316",
   "wscn:3193337",
   "wscn:3193336",
-  "wscn:3193334"
+  "wscn:3193334",
+  "wscn:3193363"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2148,7 +2166,9 @@
   "tg:WalterBloomberg/37790",
   "tg:WalterBloomberg/37789",
   "tg:WalterBloomberg/37788",
-  "tg:WalterBloomberg/37791"
+  "tg:WalterBloomberg/37791",
+  "tg:WalterBloomberg/37793",
+  "tg:WalterBloomberg/37792"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2296,7 +2316,8 @@
   "tg:WatcherGuru/15773",
   "tg:WatcherGuru/15775",
   "tg:WatcherGuru/15776",
-  "tg:WatcherGuru/15777"
+  "tg:WatcherGuru/15777",
+  "tg:WatcherGuru/15778"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2472,7 +2493,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793708299.9977407,
+ "congress_last_check": 1793710146.0948663,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2509,7 +2530,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793709338.6828513,
+ "earnings_last_check": 1793710200.8387735,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2736,7 +2757,7 @@
   "er:2026-11-03:DOCN",
   "er:2026-11-03:YUM"
  ],
- "gas_last_check": 1793708714.850843,
+ "gas_last_check": 1793709958.0035903,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4097,10 +4118,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143691",
-  "tg:FinancialJuice/143690",
-  "tg:FinancialJuice/143689",
-  "tg:FinancialJuice/143688",
   "tg:FinancialJuice/143687",
   "tg:FinancialJuice/143686",
   "tg:FinancialJuice/143685",
@@ -4896,7 +4913,11 @@
   "tg:FinancialJuice/144485",
   "tg:FinancialJuice/144484",
   "tg:FinancialJuice/144483",
-  "tg:FinancialJuice/144486"
+  "tg:FinancialJuice/144486",
+  "tg:FinancialJuice/144490",
+  "tg:FinancialJuice/144489",
+  "tg:FinancialJuice/144488",
+  "tg:FinancialJuice/144487"
  ],
  "shows_v4": 1
 }
