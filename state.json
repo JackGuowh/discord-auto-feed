@@ -791,7 +791,14 @@
   "truth:https://www.trumpstruth.org/statuses/43320",
   "truth:https://www.trumpstruth.org/statuses/43321",
   "truth:https://www.trumpstruth.org/statuses/43322",
-  "truth:https://www.trumpstruth.org/statuses/43323"
+  "truth:https://www.trumpstruth.org/statuses/43323",
+  "truth:https://www.trumpstruth.org/statuses/43348",
+  "truth:https://www.trumpstruth.org/statuses/43349",
+  "truth:https://www.trumpstruth.org/statuses/43350",
+  "truth:https://www.trumpstruth.org/statuses/43351",
+  "truth:https://www.trumpstruth.org/statuses/43352",
+  "truth:https://www.trumpstruth.org/statuses/43353",
+  "truth:https://www.trumpstruth.org/statuses/43354"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -816,9 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189345",
-  "wscn:3189344",
-  "wscn:3189342",
   "wscn:3189341",
   "wscn:3189357",
   "wscn:3189356",
@@ -1615,7 +1619,10 @@
   "wscn:3193493",
   "wscn:3193491",
   "wscn:3193490",
-  "wscn:3193489"
+  "wscn:3193489",
+  "wscn:3193498",
+  "wscn:3193497",
+  "wscn:3193495"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2556,7 +2563,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793722979.3837323,
+ "congress_last_check": 1793724821.4707198,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2595,7 +2602,7 @@
   "movers_pre:2026-11-03",
   "market_fg:2026-11-03"
  ],
- "earnings_last_check": 1793723842.032984,
+ "earnings_last_check": 1793724663.3279278,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2822,7 +2829,7 @@
   "er:2026-11-03:DOCN",
   "er:2026-11-03:YUM"
  ],
- "gas_last_check": 1793723480.638624,
+ "gas_last_check": 1793724701.4824376,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
