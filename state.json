@@ -823,11 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189366",
-  "wscn:3189365",
-  "wscn:3189364",
-  "wscn:3189362",
-  "wscn:3189361",
   "wscn:3189360",
   "wscn:3189359",
   "wscn:3189358",
@@ -1622,7 +1617,12 @@
   "wscn:3193526",
   "wscn:3193525",
   "wscn:3193524",
-  "wscn:3193523"
+  "wscn:3193523",
+  "wscn:3193531",
+  "wscn:3193530",
+  "wscn:3193529",
+  "wscn:3193528",
+  "wscn:3193516"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2238,7 +2238,10 @@
   "tg:WalterBloomberg/37822",
   "tg:WalterBloomberg/37821",
   "tg:WalterBloomberg/37826",
-  "tg:WalterBloomberg/37825"
+  "tg:WalterBloomberg/37825",
+  "tg:WalterBloomberg/37829",
+  "tg:WalterBloomberg/37828",
+  "tg:WalterBloomberg/37827"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2570,7 +2573,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793728482.951786,
+ "congress_last_check": 1793730340.306441,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2609,7 +2612,7 @@
   "movers_pre:2026-11-03",
   "market_fg:2026-11-03"
  ],
- "earnings_last_check": 1793729530.4573479,
+ "earnings_last_check": 1793730340.7093263,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4231,7 +4234,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143771",
   "tg:FinancialJuice/143770",
   "tg:FinancialJuice/143769",
   "tg:FinancialJuice/143768",
@@ -5030,7 +5032,8 @@
   "tg:FinancialJuice/144566",
   "tg:FinancialJuice/144570",
   "tg:FinancialJuice/144569",
-  "tg:FinancialJuice/144568"
+  "tg:FinancialJuice/144568",
+  "tg:FinancialJuice/144571"
  ],
  "shows_v4": 1
 }
