@@ -786,9 +786,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189270",
-  "wscn:3189268",
-  "wscn:3189266",
   "wscn:3189278",
   "wscn:3189277",
   "wscn:3189276",
@@ -1585,7 +1582,10 @@
   "wscn:3193395",
   "wscn:3193394",
   "wscn:3193392",
-  "wscn:3193400"
+  "wscn:3193400",
+  "wscn:3193403",
+  "wscn:3193402",
+  "wscn:3193401"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2186,7 +2186,9 @@
   "tg:WalterBloomberg/37811",
   "tg:WalterBloomberg/37810",
   "tg:WalterBloomberg/37809",
-  "tg:WalterBloomberg/37808"
+  "tg:WalterBloomberg/37808",
+  "tg:WalterBloomberg/37813",
+  "tg:WalterBloomberg/37812"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2337,7 +2339,8 @@
   "tg:WatcherGuru/15777",
   "tg:WatcherGuru/15778",
   "tg:WatcherGuru/15779",
-  "tg:WatcherGuru/15780"
+  "tg:WatcherGuru/15780",
+  "tg:WatcherGuru/15782"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2548,9 +2551,10 @@
   "movers_pre:2026-11-02",
   "market_fg:2026-11-02",
   "market_close:2026-11-02",
-  "movers_post:2026-11-02"
+  "movers_post:2026-11-02",
+  "movers_pre:2026-11-03"
  ],
- "earnings_last_check": 1793714322.5934017,
+ "earnings_last_check": 1793715004.310522,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2777,7 +2781,7 @@
   "er:2026-11-03:DOCN",
   "er:2026-11-03:YUM"
  ],
- "gas_last_check": 1793713662.9610076,
+ "gas_last_check": 1793714881.9355872,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3265,7 +3269,7 @@
   "gas:CBMioAFBVV95cUxPLXIzSDl3clVoQldJOElfREVSQXpqMEZsZDVaREVzd3dOVE5hVFhUTzhFb3hKdnhxd0E3c1k0WjV2blhEbjc0djNQS2xaMmxoUW5ON1E1ZVJRSzhIaHE5TUZOaDAyQnVuTWthaG5mcFY2eFBhLUxXZFd0VmJtX1I4VlByMGlLTFY4cFpCWUg5VzhGdEh5LW5NUlctcW1mcEtl",
   "gas:CBMixAFBVV95cUxOOTNXSDlpeUpuTm9IVVp5WW1NR0RURkpmZFJ4b2haMmg2OXdOSVFmNHpSSHZ6a2Z1dFhuQUdoWHAtN3VvRDdHQmdzOTVuZG51d2k4Vjk0STEzU0VRLVQ5djQwMENyLXctVF8yQ2ZuM05CT0RIWXNNSmVkMmtiU1dvS19OYjROckQ3YTNqLTktenpWOTBhcW9Fc1g4clpYTlR0ZjJVa0dwT2R2UHdqMmJYeU1wbkROdDlJQUdQZGNmNTRLR3N4"
  ],
- "shows_last_day": "2026-11-02",
+ "shows_last_day": "2026-11-03",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
@@ -3280,7 +3284,15 @@
   "CGA Annual Meeting 2027|180",
   "SpaceCom Expo 2027|180",
   "SpaceCom Expo 2027|90",
-  "SPIE Photonics West 2027|90"
+  "SPIE Photonics West 2027|90",
+  "FGIA Annual Conference 2027|180",
+  "Glass Expo Midwest 2026|180",
+  "Glass Expo Midwest 2026|30",
+  "Glass Expo Midwest 2026|7",
+  "Glass Expo Midwest 2026|90",
+  "Glass Expo West 2027|180",
+  "NGA Glass Conference: Charlotte 2027|180",
+  "NGA Glass Conference: Charlotte 2027|90"
  ],
  "shows_v2": 1,
  "reset_id": "2026-10-22-1",
@@ -4144,11 +4156,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143717",
-  "tg:FinancialJuice/143723",
-  "tg:FinancialJuice/143722",
-  "tg:FinancialJuice/143721",
-  "tg:FinancialJuice/143720",
   "tg:FinancialJuice/143724",
   "tg:FinancialJuice/143729",
   "tg:FinancialJuice/143728",
@@ -4943,7 +4950,12 @@
   "tg:FinancialJuice/144512",
   "tg:FinancialJuice/144511",
   "tg:FinancialJuice/144518",
-  "tg:FinancialJuice/144517"
+  "tg:FinancialJuice/144517",
+  "tg:FinancialJuice/144523",
+  "tg:FinancialJuice/144522",
+  "tg:FinancialJuice/144521",
+  "tg:FinancialJuice/144520",
+  "tg:FinancialJuice/144519"
  ],
  "shows_v4": 1
 }
