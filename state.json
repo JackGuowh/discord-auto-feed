@@ -823,14 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189401",
-  "wscn:3189400",
-  "wscn:3189399",
-  "wscn:3189398",
-  "wscn:3189405",
-  "wscn:3189404",
-  "wscn:3189403",
-  "wscn:3189402",
   "wscn:3189409",
   "wscn:3189407",
   "wscn:3189406",
@@ -1622,7 +1614,15 @@
   "wscn:3193564",
   "wscn:3193572",
   "wscn:3193571",
-  "wscn:3193562"
+  "wscn:3193562",
+  "wscn:3193575",
+  "wscn:3193581",
+  "wscn:3193580",
+  "wscn:3193579",
+  "wscn:3193578",
+  "wscn:3193577",
+  "wscn:3193576",
+  "wscn:3193574"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2616,7 +2616,7 @@
   "movers_pre:2026-11-03",
   "market_fg:2026-11-03"
  ],
- "earnings_last_check": 1793739451.1284585,
+ "earnings_last_check": 1793740316.2918785,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2841,9 +2841,13 @@
   "er:2026-11-03:SHOP",
   "er:2026-11-03:FISV",
   "er:2026-11-03:DOCN",
-  "er:2026-11-03:YUM"
+  "er:2026-11-03:YUM",
+  "er:2026-11-03:SMCI",
+  "er:2026-11-03:ANET",
+  "er:2026-11-03:ALAB",
+  "er:2026-11-03:AMGN"
  ],
- "gas_last_check": 1793738337.911393,
+ "gas_last_check": 1793739596.387625,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
