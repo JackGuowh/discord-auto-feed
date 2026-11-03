@@ -786,10 +786,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189259",
-  "wscn:3189255",
-  "wscn:3189253",
-  "wscn:3189263",
   "wscn:3189262",
   "wscn:3189273",
   "wscn:3189272",
@@ -1585,7 +1581,11 @@
   "wscn:3193334",
   "wscn:3193363",
   "wscn:3193369",
-  "wscn:3193368"
+  "wscn:3193368",
+  "wscn:3193387",
+  "wscn:3193386",
+  "wscn:3193383",
+  "wscn:3193378"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2169,7 +2169,14 @@
   "tg:WalterBloomberg/37791",
   "tg:WalterBloomberg/37793",
   "tg:WalterBloomberg/37792",
-  "tg:WalterBloomberg/37794"
+  "tg:WalterBloomberg/37794",
+  "tg:WalterBloomberg/37801",
+  "tg:WalterBloomberg/37800",
+  "tg:WalterBloomberg/37799",
+  "tg:WalterBloomberg/37798",
+  "tg:WalterBloomberg/37797",
+  "tg:WalterBloomberg/37796",
+  "tg:WalterBloomberg/37795"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2319,7 +2326,8 @@
   "tg:WatcherGuru/15776",
   "tg:WatcherGuru/15777",
   "tg:WatcherGuru/15778",
-  "tg:WatcherGuru/15779"
+  "tg:WatcherGuru/15779",
+  "tg:WatcherGuru/15780"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2495,7 +2503,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793710146.0948663,
+ "congress_last_check": 1793712003.5573745,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2532,7 +2540,7 @@
   "market_close:2026-11-02",
   "movers_post:2026-11-02"
  ],
- "earnings_last_check": 1793711739.5033076,
+ "earnings_last_check": 1793712542.0305004,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2759,7 +2767,7 @@
   "er:2026-11-03:DOCN",
   "er:2026-11-03:YUM"
  ],
- "gas_last_check": 1793711197.154697,
+ "gas_last_check": 1793712420.3718426,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4122,16 +4130,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143701",
-  "tg:FinancialJuice/143700",
-  "tg:FinancialJuice/143699",
-  "tg:FinancialJuice/143704",
-  "tg:FinancialJuice/143707",
-  "tg:FinancialJuice/143706",
-  "tg:FinancialJuice/143705",
-  "tg:FinancialJuice/143710",
-  "tg:FinancialJuice/143709",
-  "tg:FinancialJuice/143708",
   "tg:FinancialJuice/143711",
   "tg:FinancialJuice/143716",
   "tg:FinancialJuice/143715",
@@ -4921,7 +4919,17 @@
   "tg:FinancialJuice/144497",
   "tg:FinancialJuice/144496",
   "tg:FinancialJuice/144495",
-  "tg:FinancialJuice/144494"
+  "tg:FinancialJuice/144494",
+  "tg:FinancialJuice/144510",
+  "tg:FinancialJuice/144509",
+  "tg:FinancialJuice/144508",
+  "tg:FinancialJuice/144507",
+  "tg:FinancialJuice/144506",
+  "tg:FinancialJuice/144505",
+  "tg:FinancialJuice/144504",
+  "tg:FinancialJuice/144503",
+  "tg:FinancialJuice/144502",
+  "tg:FinancialJuice/144501"
  ],
  "shows_v4": 1
 }
