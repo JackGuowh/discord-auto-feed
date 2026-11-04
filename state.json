@@ -828,7 +828,11 @@
   "truth:https://www.trumpstruth.org/statuses/43465",
   "truth:https://www.trumpstruth.org/statuses/43466",
   "truth:https://www.trumpstruth.org/statuses/43467",
-  "truth:https://www.trumpstruth.org/statuses/43468"
+  "truth:https://www.trumpstruth.org/statuses/43468",
+  "truth:https://www.trumpstruth.org/statuses/43483",
+  "truth:https://www.trumpstruth.org/statuses/43482",
+  "truth:https://www.trumpstruth.org/statuses/43481",
+  "truth:https://www.trumpstruth.org/statuses/43480"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2455,7 +2459,8 @@
   "tg:WatcherGuru/15785",
   "tg:WatcherGuru/15786",
   "tg:WatcherGuru/15788",
-  "tg:WatcherGuru/15789"
+  "tg:WatcherGuru/15789",
+  "tg:WatcherGuru/15791"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2672,7 +2677,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793767450.9217749,
+ "earnings_last_check": 1793768432.877214,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2905,7 +2910,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793766703.013543,
+ "gas_last_check": 1793767950.7915564,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4223,7 +4228,8 @@
   "tg:insiderpaper/45709",
   "tg:insiderpaper/45708",
   "tg:insiderpaper/45707",
-  "tg:insiderpaper/45706"
+  "tg:insiderpaper/45706",
+  "tg:insiderpaper/45710"
  ],
  "opt_daily": "2026-11-03",
  "opt_flow_last": 1793045302.4056692,
