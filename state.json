@@ -823,9 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189701",
-  "wscn:3189971",
-  "wscn:3189967",
   "wscn:3190209",
   "wscn:3190205",
   "wscn:3190307",
@@ -1622,7 +1619,10 @@
   "wscn:3193739",
   "wscn:3193736",
   "wscn:3193735",
-  "wscn:3193757"
+  "wscn:3193757",
+  "wscn:3193767",
+  "wscn:3193766",
+  "wscn:3193761"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2596,7 +2596,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793757817.0651598,
+ "congress_last_check": 1793759625.7844722,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2637,7 +2637,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793759603.0296695,
+ "earnings_last_check": 1793760228.839492,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3920,7 +3920,8 @@
   "tg:disclosetv/22016",
   "tg:disclosetv/22020",
   "tg:disclosetv/22019",
-  "tg:disclosetv/22018"
+  "tg:disclosetv/22018",
+  "tg:disclosetv/22021"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -4329,8 +4330,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143847",
-  "tg:FinancialJuice/143846",
   "tg:FinancialJuice/143845",
   "tg:FinancialJuice/143844",
   "tg:FinancialJuice/143843",
@@ -5128,7 +5127,9 @@
   "tg:FinancialJuice/144649",
   "tg:FinancialJuice/144648",
   "tg:FinancialJuice/144647",
-  "tg:FinancialJuice/144646"
+  "tg:FinancialJuice/144646",
+  "tg:FinancialJuice/144651",
+  "tg:FinancialJuice/144650"
  ],
  "shows_v4": 1
 }
