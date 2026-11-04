@@ -823,10 +823,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3189445",
-  "wscn:3189444",
-  "wscn:3189465",
-  "wscn:3189463",
   "wscn:3189456",
   "wscn:3189467",
   "wscn:3189466",
@@ -1622,7 +1618,11 @@
   "wscn:3193632",
   "wscn:3193628",
   "wscn:3193639",
-  "wscn:3193638"
+  "wscn:3193638",
+  "wscn:3193648",
+  "wscn:3193647",
+  "wscn:3193645",
+  "wscn:3193642"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2248,7 +2248,9 @@
   "tg:WalterBloomberg/37832",
   "tg:WalterBloomberg/37836",
   "tg:WalterBloomberg/37835",
-  "tg:WalterBloomberg/37834"
+  "tg:WalterBloomberg/37834",
+  "tg:WalterBloomberg/37838",
+  "tg:WalterBloomberg/37837"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2580,7 +2582,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793748646.9219081,
+ "congress_last_check": 1793750491.0450864,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2621,7 +2623,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793749988.090774,
+ "earnings_last_check": 1793750789.8835745,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2854,7 +2856,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793749448.1195168,
+ "gas_last_check": 1793750668.19131,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4128,7 +4130,8 @@
   "tg:insiderpaper/45679",
   "tg:insiderpaper/45678",
   "tg:insiderpaper/45681",
-  "tg:insiderpaper/45680"
+  "tg:insiderpaper/45680",
+  "tg:insiderpaper/45682"
  ],
  "opt_daily": "2026-11-03",
  "opt_flow_last": 1793045302.4056692,
@@ -4289,8 +4292,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143815",
-  "tg:FinancialJuice/143820",
   "tg:FinancialJuice/143819",
   "tg:FinancialJuice/143821",
   "tg:FinancialJuice/143824",
@@ -5088,7 +5089,9 @@
   "tg:FinancialJuice/144614",
   "tg:FinancialJuice/144613",
   "tg:FinancialJuice/144617",
-  "tg:FinancialJuice/144616"
+  "tg:FinancialJuice/144616",
+  "tg:FinancialJuice/144619",
+  "tg:FinancialJuice/144618"
  ],
  "shows_v4": 1
 }
