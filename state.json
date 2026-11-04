@@ -2293,7 +2293,10 @@
   "tg:WalterBloomberg/37848",
   "tg:WalterBloomberg/37849",
   "tg:WalterBloomberg/37850",
-  "tg:WalterBloomberg/37851"
+  "tg:WalterBloomberg/37851",
+  "tg:WalterBloomberg/37854",
+  "tg:WalterBloomberg/37853",
+  "tg:WalterBloomberg/37852"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2626,7 +2629,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793759625.7844722,
+ "congress_last_check": 1793761478.1013157,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2667,7 +2670,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793761155.3666408,
+ "earnings_last_check": 1793761840.475558,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2900,7 +2903,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793760545.997012,
+ "gas_last_check": 1793761778.0473428,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3951,7 +3954,9 @@
   "tg:disclosetv/22020",
   "tg:disclosetv/22019",
   "tg:disclosetv/22018",
-  "tg:disclosetv/22021"
+  "tg:disclosetv/22021",
+  "tg:disclosetv/22023",
+  "tg:disclosetv/22022"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -4200,7 +4205,8 @@
   "tg:insiderpaper/45697",
   "tg:insiderpaper/45696",
   "tg:insiderpaper/45695",
-  "tg:insiderpaper/45698"
+  "tg:insiderpaper/45698",
+  "tg:insiderpaper/45699"
  ],
  "opt_daily": "2026-11-03",
  "opt_flow_last": 1793045302.4056692,
@@ -4361,10 +4367,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143841",
-  "tg:FinancialJuice/143840",
-  "tg:FinancialJuice/143839",
-  "tg:FinancialJuice/143878",
   "tg:FinancialJuice/143877",
   "tg:FinancialJuice/143876",
   "tg:FinancialJuice/143875",
@@ -5160,7 +5162,11 @@
   "tg:FinancialJuice/144655",
   "tg:FinancialJuice/144654",
   "tg:FinancialJuice/144653",
-  "tg:FinancialJuice/144652"
+  "tg:FinancialJuice/144652",
+  "tg:FinancialJuice/144659",
+  "tg:FinancialJuice/144658",
+  "tg:FinancialJuice/144657",
+  "tg:FinancialJuice/144656"
  ],
  "shows_v4": 1
 }
