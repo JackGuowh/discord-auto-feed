@@ -798,7 +798,37 @@
   "truth:https://www.trumpstruth.org/statuses/43351",
   "truth:https://www.trumpstruth.org/statuses/43352",
   "truth:https://www.trumpstruth.org/statuses/43353",
-  "truth:https://www.trumpstruth.org/statuses/43354"
+  "truth:https://www.trumpstruth.org/statuses/43354",
+  "truth:https://www.trumpstruth.org/statuses/43438",
+  "truth:https://www.trumpstruth.org/statuses/43439",
+  "truth:https://www.trumpstruth.org/statuses/43440",
+  "truth:https://www.trumpstruth.org/statuses/43441",
+  "truth:https://www.trumpstruth.org/statuses/43442",
+  "truth:https://www.trumpstruth.org/statuses/43443",
+  "truth:https://www.trumpstruth.org/statuses/43444",
+  "truth:https://www.trumpstruth.org/statuses/43446",
+  "truth:https://www.trumpstruth.org/statuses/43447",
+  "truth:https://www.trumpstruth.org/statuses/43448",
+  "truth:https://www.trumpstruth.org/statuses/43445",
+  "truth:https://www.trumpstruth.org/statuses/43449",
+  "truth:https://www.trumpstruth.org/statuses/43450",
+  "truth:https://www.trumpstruth.org/statuses/43451",
+  "truth:https://www.trumpstruth.org/statuses/43452",
+  "truth:https://www.trumpstruth.org/statuses/43453",
+  "truth:https://www.trumpstruth.org/statuses/43454",
+  "truth:https://www.trumpstruth.org/statuses/43455",
+  "truth:https://www.trumpstruth.org/statuses/43456",
+  "truth:https://www.trumpstruth.org/statuses/43457",
+  "truth:https://www.trumpstruth.org/statuses/43459",
+  "truth:https://www.trumpstruth.org/statuses/43460",
+  "truth:https://www.trumpstruth.org/statuses/43461",
+  "truth:https://www.trumpstruth.org/statuses/43462",
+  "truth:https://www.trumpstruth.org/statuses/43463",
+  "truth:https://www.trumpstruth.org/statuses/43464",
+  "truth:https://www.trumpstruth.org/statuses/43465",
+  "truth:https://www.trumpstruth.org/statuses/43466",
+  "truth:https://www.trumpstruth.org/statuses/43467",
+  "truth:https://www.trumpstruth.org/statuses/43468"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -823,9 +853,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3190209",
-  "wscn:3190205",
-  "wscn:3190307",
   "wscn:3190306",
   "wscn:3190372",
   "wscn:3190401",
@@ -1622,7 +1649,10 @@
   "wscn:3193757",
   "wscn:3193767",
   "wscn:3193766",
-  "wscn:3193761"
+  "wscn:3193761",
+  "wscn:3193778",
+  "wscn:3193776",
+  "wscn:3193771"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2637,7 +2667,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793760228.839492,
+ "earnings_last_check": 1793761155.3666408,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2870,7 +2900,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793759301.480892,
+ "gas_last_check": 1793760545.997012,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4169,7 +4199,8 @@
   "tg:insiderpaper/45693",
   "tg:insiderpaper/45697",
   "tg:insiderpaper/45696",
-  "tg:insiderpaper/45695"
+  "tg:insiderpaper/45695",
+  "tg:insiderpaper/45698"
  ],
  "opt_daily": "2026-11-03",
  "opt_flow_last": 1793045302.4056692,
@@ -4330,10 +4361,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143845",
-  "tg:FinancialJuice/143844",
-  "tg:FinancialJuice/143843",
-  "tg:FinancialJuice/143842",
   "tg:FinancialJuice/143841",
   "tg:FinancialJuice/143840",
   "tg:FinancialJuice/143839",
@@ -5129,7 +5156,11 @@
   "tg:FinancialJuice/144647",
   "tg:FinancialJuice/144646",
   "tg:FinancialJuice/144651",
-  "tg:FinancialJuice/144650"
+  "tg:FinancialJuice/144650",
+  "tg:FinancialJuice/144655",
+  "tg:FinancialJuice/144654",
+  "tg:FinancialJuice/144653",
+  "tg:FinancialJuice/144652"
  ],
  "shows_v4": 1
 }
