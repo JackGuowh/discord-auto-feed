@@ -2636,7 +2636,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793766969.1302035,
+ "congress_last_check": 1793768816.93883,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2677,7 +2677,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793768432.877214,
+ "earnings_last_check": 1793769055.405337,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2910,7 +2910,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793767950.7915564,
+ "gas_last_check": 1793769174.2642221,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4390,16 +4390,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/143883",
-  "tg:FinancialJuice/143882",
-  "tg:FinancialJuice/143889",
-  "tg:FinancialJuice/143888",
-  "tg:FinancialJuice/143887",
-  "tg:FinancialJuice/143886",
-  "tg:FinancialJuice/143890",
-  "tg:FinancialJuice/143893",
-  "tg:FinancialJuice/143892",
-  "tg:FinancialJuice/143891",
   "tg:FinancialJuice/143895",
   "tg:FinancialJuice/143894",
   "tg:FinancialJuice/143897",
@@ -5189,7 +5179,17 @@
   "tg:FinancialJuice/144676",
   "tg:FinancialJuice/144683",
   "tg:FinancialJuice/144682",
-  "tg:FinancialJuice/144681"
+  "tg:FinancialJuice/144681",
+  "tg:FinancialJuice/144693",
+  "tg:FinancialJuice/144692",
+  "tg:FinancialJuice/144691",
+  "tg:FinancialJuice/144690",
+  "tg:FinancialJuice/144689",
+  "tg:FinancialJuice/144688",
+  "tg:FinancialJuice/144687",
+  "tg:FinancialJuice/144686",
+  "tg:FinancialJuice/144685",
+  "tg:FinancialJuice/144684"
  ],
  "shows_v4": 1
 }
