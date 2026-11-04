@@ -832,7 +832,8 @@
   "truth:https://www.trumpstruth.org/statuses/43483",
   "truth:https://www.trumpstruth.org/statuses/43482",
   "truth:https://www.trumpstruth.org/statuses/43481",
-  "truth:https://www.trumpstruth.org/statuses/43480"
+  "truth:https://www.trumpstruth.org/statuses/43480",
+  "truth:https://www.trumpstruth.org/statuses/43484"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -857,7 +858,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3190578",
   "wscn:3190576",
   "wscn:3190574",
   "wscn:3190573",
@@ -1656,7 +1656,8 @@
   "wscn:3193928",
   "wscn:3193924",
   "wscn:3193923",
-  "wscn:3193922"
+  "wscn:3193922",
+  "wscn:3193937"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2677,7 +2678,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793774701.736339,
+ "earnings_last_check": 1793775624.1779947,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -2910,7 +2911,7 @@
   "er:2026-11-03:AMD",
   "er:2026-11-03:BKNG"
  ],
- "gas_last_check": 1793774104.5312188,
+ "gas_last_check": 1793775319.5280538,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
