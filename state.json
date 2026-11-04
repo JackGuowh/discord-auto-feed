@@ -853,7 +853,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3190508",
   "wscn:3190541",
   "wscn:3190540",
   "wscn:3190539",
@@ -1652,7 +1651,8 @@
   "wscn:3193826",
   "wscn:3193824",
   "wscn:3193823",
-  "wscn:3193822"
+  "wscn:3193822",
+  "wscn:3193834"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2631,7 +2631,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1793765166.557469,
+ "congress_last_check": 1793766969.1302035,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2672,7 +2672,7 @@
   "market_close:2026-11-03",
   "movers_post:2026-11-03"
  ],
- "earnings_last_check": 1793766643.8446066,
+ "earnings_last_check": 1793767450.9217749,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4219,7 +4219,11 @@
   "tg:insiderpaper/45703",
   "tg:insiderpaper/45702",
   "tg:insiderpaper/45705",
-  "tg:insiderpaper/45704"
+  "tg:insiderpaper/45704",
+  "tg:insiderpaper/45709",
+  "tg:insiderpaper/45708",
+  "tg:insiderpaper/45707",
+  "tg:insiderpaper/45706"
  ],
  "opt_daily": "2026-11-03",
  "opt_flow_last": 1793045302.4056692,
