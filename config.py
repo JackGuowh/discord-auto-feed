@@ -32,27 +32,47 @@ TELEGRAM_CHANNELS = [
 # 只推美股相关：包含股票代码（如 $TSLA）或下列任一关键词的才推送
 UNUSUAL_WHALES = True   # Unusual Whales 新闻（官网抓取，没有 Telegram 频道）
 # 只推美股相关的关键词（Telegram 和 Unusual Whales 共用）
-TELEGRAM_KEYWORDS = [
-    "🇺🇸", "U.S.", "US", "USA", "AMERICA", "FED", "FOMC", "POWELL", "TREASURY", "YIELD",
-    "S&P", "SPX", "NASDAQ", "DOW", "WALL STREET", "STOCK", "SHARES", "EARNINGS", "REVENUE",
-    "EPS", "GUIDANCE", "IPO", "SEC ", "TRUMP", "WHITE HOUSE", "TARIFF", "CPI", "PCE", "JOBS",
-    "PAYROLL", "UNEMPLOYMENT", "GDP", "INFLATION", "RATE CUT", "RATE HIKE", "BUYBACK",
-    "MARKETS", "CONGRESS", "WALL ST", "RALLY", "SELLOFF", "SELL-OFF",
-    # 公司（美股市值靠前 + 热门/即将上市）
+# ---- 突发新闻「美股相关」判断（三档关键词，英文整词匹配，自动兼容复数）----
+# ① 美国市场专属词：出现任一个就推（公司、人物、美股指数、美联储……）
+NEWS_US_ANCHORS = [
+    "S&P", "SPX", "NASDAQ", "DOW", "DOW JONES", "WALL STREET", "WALL ST", "NYSE", "RUSSELL 2000",
+    "FED", "FEDERAL RESERVE", "FOMC", "POWELL", "WARSH", "BESSENT", "TREASURY", "TREASURIES", "SEC",
+    "NONFARM", "PAYROLL", "JOBLESS CLAIMS",
     "TESLA", "NVIDIA", "APPLE", "MICROSOFT", "AMAZON", "META", "GOOGLE", "ALPHABET", "BROADCOM",
     "NETFLIX", "AMD", "INTEL", "ORACLE", "PALANTIR", "MICRON", "QUALCOMM", "SALESFORCE", "ADOBE",
     "COINBASE", "ROBINHOOD", "BERKSHIRE", "JPMORGAN", "GOLDMAN", "MORGAN STANLEY", "BANK OF AMERICA",
     "CITIGROUP", "WELLS FARGO", "BLACKROCK", "WALMART", "COSTCO", "BOEING", "LOCKHEED", "EXXON",
-    "CHEVRON", "PFIZER", "ELI LILLY", "NOVO NORDISK", "UNITEDHEALTH", "DISNEY", "NIKE", "STARBUCKS",
-    "MCDONALD", "UBER", "AIRBNB", "TSMC", "SUPERMICRO", "COREWEAVE", "ARM HOLDINGS",
+    "CHEVRON", "PFIZER", "ELI LILLY", "UNITEDHEALTH", "DISNEY", "NIKE", "STARBUCKS",
+    "MCDONALD", "UBER", "AIRBNB", "SUPERMICRO", "COREWEAVE", "DRAFTKINGS", "ATLASSIAN",
     "OPENAI", "ANTHROPIC", "SPACEX", "XAI", "WAYMO", "ROBOTAXI", "STARLINK", "CHATGPT",
-    # 人物
     "MUSK", "JENSEN HUANG", "ZUCKERBERG", "BEZOS", "TIM COOK", "SAM ALTMAN", "BUFFETT",
-    "CRAMER", "DAN IVES", "BESSENT", "WARSH",
+    "CRAMER", "DAN IVES",
 ]
-# 包含这些词的不推（过滤加密货币等非美股内容）
+# ② 通用市场词：没有外国市场词时才推（来源都是美国财经账号，默认指美股）
+NEWS_MARKET_WORDS = [
+    "STOCK", "SHARES", "EARNINGS", "REVENUE", "EPS", "GUIDANCE", "IPO", "YIELD", "RALLY", "SELLOFF",
+    "SELL-OFF", "CPI", "PCE", "GDP", "INFLATION", "RATE CUT", "RATE HIKE", "UNEMPLOYMENT", "TARIFF",
+    "BUYBACK", "MARKET", "FUTURES", "BOND", "RECESSION", "ANALYST", "UPGRADE", "DOWNGRADE", "PRICE TARGET",
+]
+# ③ 泛美国词（美国、特朗普、白宫、国会）：必须同时带经济词才推，避免纯政治新闻
+NEWS_US_WEAK = ["U.S.", "US", "USA", "AMERICA", "AMERICAN", "TRUMP", "WHITE HOUSE", "CONGRESS", "SENATE"]
+NEWS_ECON_WORDS = ["ECONOMY", "ECONOMIC", "TRADE", "OIL", "CRUDE", "TAX", "DEAL", "BUDGET", "DEBT", "DEFICIT",
+                   "SHUTDOWN", "JOBS", "BANK", "RATE", "DOLLAR", "CHIP", "SEMICONDUCTOR", "AI", "EXPORT",
+                   "SANCTION", "INVEST", "INVESTMENT", "BILLION", "TRILLION", "PRICE", "401(K)", "MERGER",
+                   "ACQUISITION", "ANTITRUST", "SUBSIDY"]
+# 外国市场词：出现这些、又没有①里的美国专属词 → 不推（如日本/韩国数据、韩国财长讲话）
+NEWS_FOREIGN_WORDS = ["JAPAN", "JAPANESE", "NIKKEI", "YEN", "BOJ", "KOREA", "KOREAN", "KOSPI", "EUROPE",
+                      "EUROPEAN", "ECB", "EUROZONE", "UK", "BRITAIN", "BRITISH", "BOE", "FTSE", "DAX",
+                      "GERMANY", "GERMAN", "FRANCE", "FRENCH", "INDIA", "INDIAN", "RBI", "AUSTRALIA", "RBA",
+                      "CANADA", "CANADIAN", "HONG KONG", "HANG SENG", "SWISS", "SNB", "BRAZIL", "MEXICO",
+                      "TURKEY", "RUSSIA", "UKRAINE", "NEW ZEALAND", "RBNZ", "PBOC", "YUAN", "TAIWAN"]
+# 包含这些词的不推（加密货币）
 TELEGRAM_EXCLUDE = ["BITCOIN", "$BTC", "$ETH", "ETHEREUM", "CRYPTO", "$SOL", "$XRP", "$DOGE",
-                    "MEMECOIN", "STABLECOIN", "BINANCE", "COINBASE WALLET"]
+                    "MEMECOIN", "STABLECOIN", "BINANCE", "COINBASE WALLET", "HYPERLIQUID", "PERPETUAL",
+                    "DEFI", "TOKEN", "ALTCOIN", "SOLANA", "XRP"]
+# 不同来源的同一条新闻：3 小时内文字重合度 ≥ 50% 的只推一次
+NEWS_DEDUP_HOURS = 3
+NEWS_DEDUP_SIMILARITY = 0.5
 # 首次运行时每个来源只补发最新几条，避免刷屏
 FIRST_RUN_BACKFILL = 3
 
