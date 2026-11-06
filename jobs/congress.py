@@ -115,11 +115,12 @@ def committees_of(bioguide):
     if _COMMITTEES is None:
         _COMMITTEES = {}
         try:
-            base = "https://theunitedstates.io/congress-legislators/"
+            import yaml
+            base = "https://raw.githubusercontent.com/unitedstates/congress-legislators/main/"
             names = {c["thomas_id"]: re.sub(r"^(House|Senate)( Select| Permanent Select)? Committee on (the )?", "",
                                              c["name"]).strip()
-                     for c in get(base + "committees-current.json", timeout=30).json()}
-            for cid, members in get(base + "committee-membership-current.json", timeout=30).json().items():
+                     for c in yaml.safe_load(get(base + "committees-current.yaml", timeout=30).text)}
+            for cid, members in yaml.safe_load(get(base + "committee-membership-current.yaml", timeout=30).text).items():
                 if cid in names:  # 只要主委员会，不要小组委员会
                     for m in members:
                         _COMMITTEES.setdefault(m.get("bioguide"), []).append(names[cid])
