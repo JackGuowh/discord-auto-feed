@@ -47,6 +47,9 @@ def run_wscn(state):
             if (any(w in body for w in C.WSCN_EXCLUDE)
                     and not any(w in body for w in C.WSCN_US_HINTS)):
                 continue  # 非美市场快讯
+            from jobs.telegram import is_duplicate_zh
+            if is_duplicate_zh(state, body):
+                continue
             important = (r.get("score") or 1) >= 2
             ts = datetime.fromtimestamp(r["display_time"], timezone.utc).isoformat()
             imgs = r.get("images") or []

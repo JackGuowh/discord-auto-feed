@@ -100,6 +100,30 @@ def _tokens(text):
     return {w for w in re.findall(r"[a-z0-9$]{3,}", text.lower()) if w not in _STOP}
 
 
+def _bigrams(text):
+    s = re.sub(r"[^\u4e00-\u9fffA-Za-z0-9]", "", text)
+    return {s[i:i + 2] for i in range(len(s) - 1)}
+
+
+def is_duplicate_zh(state, text):
+    """中文快讯去重（华尔街见闻 / 富途常报同一条）：3 小时内两字词重合度高的只推一次。"""
+    import time
+    now = time.time()
+    grams = _bigrams(text)
+    recent = [r for r in state.get("news_recent_zh", []) if now - r[0] < C.NEWS_DEDUP_HOURS * 3600]
+    dup = False
+    if len(grams) >= 8:
+        for _, prev in recent:
+            p = set(prev.split("|"))
+            if p and len(grams & p) / min(len(grams), len(p)) >= C.NEWS_DEDUP_SIMILARITY_ZH:
+                dup = True
+                break
+    if not dup:
+        recent.append([now, "|".join(sorted(grams))])
+    state["news_recent_zh"] = recent[-150:]
+    return dup
+
+
 def is_duplicate(state, text):
     """不同来源转发的同一条新闻只推一次（英文原文词语重合度判断）。"""
     import time
