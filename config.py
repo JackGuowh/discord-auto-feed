@@ -73,6 +73,10 @@ TELEGRAM_EXCLUDE = ["BITCOIN", "$BTC", "$ETH", "ETHEREUM", "CRYPTO", "$SOL", "$X
 # 不同来源的同一条新闻：3 小时内文字重合度 ≥ 50% 的只推一次
 NEWS_DEDUP_HOURS = 3
 NEWS_DEDUP_SIMILARITY = 0.5
+NEWS_DEDUP_SIMILARITY_ZH = 0.6   # 中文快讯（华尔街见闻 / 富途）去重阈值
+# 富途牛牛 7×24 快讯：只推带美股代码的；相关美股涨跌 ≥ 3% 标为「异动直击」
+FUTU_NEWS = True
+FUTU_MOVE_PCT = 3
 # 首次运行时每个来源只补发最新几条，避免刷屏
 FIRST_RUN_BACKFILL = 3
 
