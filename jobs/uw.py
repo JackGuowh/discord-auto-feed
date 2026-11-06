@@ -35,6 +35,9 @@ def run(state):
         if not title or (C.NEWS_US_ONLY and not policy
                          and not us_related(title + " " + " ".join(a.get("tags") or []))):
             continue
+        from jobs.telegram import is_duplicate
+        if is_duplicate(state, title):
+            continue
         zh = translate(title)
         e = embed(description="快讯：" + (zh or title),
                   url=f"https://unusualwhales.com/news/{a['slug']}",

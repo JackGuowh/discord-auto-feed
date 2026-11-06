@@ -49,31 +49,74 @@ def clean(text, channel):
     text = re.sub(r"\s*@" + re.escape(channel) + r"\s*$", "", text, flags=re.I)
     text = re.sub(r"\s*\(?@\w+\)?\s*$", "", text)    # 结尾的 @账号 / (@账号)
     text = re.sub(r"^\*+\s*", "", text)                 # Walter Bloomberg 的 * 开头
+    text = re.sub(r"\s*\|?\s*(\$macro|\|?\s*FJ)\s*$", "", text, flags=re.I)  # FinancialJuice 结尾标签
     return text.strip()
 
 
 CRYPTO_TICKERS = {"BTC", "ETH", "SOL", "XRP", "DOGE", "BNB", "ADA", "AAVE", "USDT", "USDC", "PEPE", "SHIB"}
 
 
-def us_related(text):
-    """只保留美股相关：含美股代码（$TSLA）或美股/美国宏观关键词，且不含加密货币词。"""
-    up = text.upper()
-    if any(x.upper() in up for x in C.TELEGRAM_EXCLUDE):
-        return False
-    tickers = set(re.findall(r"\$([A-Z]{1,5})\b", text))
-    if tickers - CRYPTO_TICKERS:
-        return True
-    for k in C.TELEGRAM_KEYWORDS:
+FAKE_TICKERS = {"MACRO", "FJ", "NEWS", "USD", "JPY", "EUR", "GBP", "CNH", "CNY", "SPX"}
+
+
+def _has(words, up):
+    for k in words:
         k = k.strip().upper()
         if not k:
             continue
-        if k[0].isalpha():  # 英文关键词按整词匹配，避免 FUTURES 里的 US 被误判
-            # 允许复数/所有格：STOCK → STOCKS、TESLA → TESLA'S
-            if re.search(r"(?<![A-Z])" + re.escape(k) + r"(?:S|ES|'S)?(?![A-Z])", up):
+        if k[0].isalnum():  # 英文整词匹配，兼容复数/所有格（STOCK → STOCKS、TESLA'S）
+            if re.search(r"(?<![A-Z0-9])" + re.escape(k) + r"(?:S|ES|'S)?(?![A-Z0-9])", up):
                 return True
         elif k in up:
             return True
     return False
+
+
+def us_related(text):
+    """只保留美股相关：
+    ① 有美股代码或美国市场专属词（公司、美联储、标普…）→ 推
+    ② 有外国市场词但没有①           → 不推（日本/韩国数据等）
+    ③ 有通用市场词（股票、财报、通胀…）→ 推
+    ④ 只有泛美国词（美国、特朗普、国会）→ 必须同时带经济词才推，纯政治新闻不推"""
+    up = text.upper()
+    if _has(C.TELEGRAM_EXCLUDE, up):
+        return False
+    tickers = set(re.findall(r"\$([A-Z]{1,5})\b", text)) - CRYPTO_TICKERS - FAKE_TICKERS
+    if tickers or _has(C.NEWS_US_ANCHORS, up):
+        return True
+    if _has(C.NEWS_FOREIGN_WORDS, up):
+        # 例外：美国 + 关税/贸易协定（如"美加接近达成关税协议"）仍然推
+        return _has(C.NEWS_US_WEAK, up) and _has(["TARIFF", "TRADE DEAL", "TRADE AGREEMENT", "TRADE WAR"], up)
+    if _has(C.NEWS_MARKET_WORDS, up):
+        return True
+    return _has(C.NEWS_US_WEAK, up) and _has(C.NEWS_ECON_WORDS, up)
+
+
+_STOP = set("the a an and or of to in on for with by at from as is are was were be been has have had it its this that "
+            "says said after over into amid just new will would could than more most about report reports per".split())
+
+
+def _tokens(text):
+    return {w for w in re.findall(r"[a-z0-9$]{3,}", text.lower()) if w not in _STOP}
+
+
+def is_duplicate(state, text):
+    """不同来源转发的同一条新闻只推一次（英文原文词语重合度判断）。"""
+    import time
+    now = time.time()
+    toks = _tokens(text)
+    recent = [r for r in state.get("news_recent", []) if now - r[0] < C.NEWS_DEDUP_HOURS * 3600]
+    dup = False
+    if len(toks) >= 4:
+        for _, prev in recent:
+            p = set(prev.split())
+            if p and len(toks & p) / len(toks | p) >= C.NEWS_DEDUP_SIMILARITY:
+                dup = True
+                break
+    if not dup:
+        recent.append([now, " ".join(sorted(toks))])
+    state["news_recent"] = recent[-200:]
+    return dup
 
 
 def to_chinese(text):
@@ -108,6 +151,8 @@ def run_telegram(state):
                 continue
             policy = hook == WEBHOOK and re.search(C.WHITEHOUSE_POLICY_PATTERN, text.upper())
             if us_only and not us_related(text) and not policy:
+                continue
+            if text and is_duplicate(state, text):
                 continue
             zh, ok = to_chinese(text) if text else ("", False)
             ts = None
