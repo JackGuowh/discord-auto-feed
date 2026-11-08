@@ -2486,7 +2486,8 @@
   "tg:WalterBloomberg/38039",
   "tg:WalterBloomberg/38038",
   "tg:WalterBloomberg/38037",
-  "tg:WalterBloomberg/38054"
+  "tg:WalterBloomberg/38054",
+  "tg:WalterBloomberg/38055"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2931,7 +2932,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794163895.3905754,
+ "earnings_last_check": 1794164636.9988027,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4918,9 +4919,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144169",
-  "tg:FinancialJuice/144168",
-  "tg:FinancialJuice/144167",
   "tg:FinancialJuice/144166",
   "tg:FinancialJuice/144171",
   "tg:FinancialJuice/144170",
@@ -5717,7 +5715,10 @@
   "tg:FinancialJuice/145546",
   "tg:FinancialJuice/145548",
   "tg:FinancialJuice/145547",
-  "tg:FinancialJuice/145549"
+  "tg:FinancialJuice/145549",
+  "tg:FinancialJuice/145552",
+  "tg:FinancialJuice/145551",
+  "tg:FinancialJuice/145550"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6360,7 +6361,9 @@
   "futu:1003824674",
   "futu:1003824817",
   "futu:1003825004",
-  "futu:1003824978"
+  "futu:1003824978",
+  "futu:1003825150",
+  "futu:1003825148"
  ],
  "news_recent": [
   [
