@@ -2892,7 +2892,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794170904.8571496,
+ "congress_last_check": 1794172742.086428,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2936,7 +2936,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794171944.6435657,
+ "earnings_last_check": 1794172562.6811316,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3204,7 +3204,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794171345.0288322,
+ "gas_last_check": 1794172563.1535034,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3806,7 +3806,8 @@
   "gas:CBMilAFBVV95cUxPRWRTVGh3OGc2cWNjVExyUkU2dE9LWjVGUDhNRV9jRTdSVXBzQ2ZrU2lzSE9nV0V0ekZHNVQ0UHAxdy1sVU1lYTZiU3Q1c2dYV0x6SUpTZXpGV1ZzeVhnZ3d2NWJmSHJpSXh0S0UwY3F5SzVSRWc4Qm5RVEhyTnlaY0FlWHpxb01VTVpMYk1jYm42TlpV",
   "gas:CBMikAFBVV95cUxOaHZCVURIbURINDhJNHBDTGVfVGwtTkpPTmFicDkzOEdIOTVxNl9KY1RPOUIxYTM1OG5uVUVpa1hueW9PSnR5QVd5YkZZSnV0aklFMnhUaWIyQ0xQYW9BVW5zclpXMmdGY1V6c1g1dFpWb2tpSkN0LWxERGgyeGFCRTk2S011NWJxOUFqRm9XY0c",
   "gas:CBMihwJBVV95cUxQSzZ3bVlxMGRNaFl5emh2VmIwMmpuYUZGLWdOMVFWUWg0WXNzZHZTOVJqVnVYSDkyTHBENDJFX1EtQTF1amM0d3d0TGpVOHM2VWJuRzQ5cVlYVzc0bTlZcGZRRHRHSExZTDlnSmFyaGluMElKYWJhZHB4TENzWVVib3RvaHYxT1N3X3Z2NVgwa2o3ZFZvZzV5eWE2b081SHhjalZQT3VDbnhhSldXd3hiWFJyTGJySG9vdDdhSW5SWWM3TlhzWl9mTE9OZE0tdnUzQjdZVzF4dl85YUtpelY1dTN4MkVGbGpNOVI1SUs2TzdaeTV1REVyckgyY1ZnbGpvZmJZeGFWYw",
-  "gas:CBMiU0FVX3lxTFBwU2pmZkNHSFA0cEFkSmhRUE5rNTFZN3hjOFhsVjFhX2NKLXI2NVlQdXlBZU5HLVJUZUFrZS1mQ1I5VEhZaS1KYnNZQ0NwdXZTM3lZ"
+  "gas:CBMiU0FVX3lxTFBwU2pmZkNHSFA0cEFkSmhRUE5rNTFZN3hjOFhsVjFhX2NKLXI2NVlQdXlBZU5HLVJUZUFrZS1mQ1I5VEhZaS1KYnNZQ0NwdXZTM3lZ",
+  "gas:CBMiswFBVV95cUxNUElQd3JIbFVPSXJKV0daTjV4YUNRUkowcjE2WWw2NTlPQWhuRFNBZlBLSlU2NjhFSFIwbGhGUEVVaTJnVmNTY1psY0o0c2NPcHZNbVl5eEkyMk51S1RVTl8yMU83Q0hESXliQlA0MWNFLTdVbnVKSzJaalJiSXFfSTZ5eFZCSmY3R25md0pUZ2NjYlNMZHU4UmJTbTI3ZmU2QVdvMXJZWVFqcTlHLTFBQ0sxaw"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4432,7 +4433,8 @@
   "tg:disclosetv/22067",
   "tg:disclosetv/22066",
   "tg:disclosetv/22065",
-  "tg:disclosetv/22079"
+  "tg:disclosetv/22079",
+  "tg:disclosetv/22080"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -6399,7 +6401,8 @@
   "futu:1003825870",
   "futu:1003825871",
   "futu:1003826049",
-  "futu:1003826019"
+  "futu:1003826019",
+  "futu:1003826126"
  ],
  "news_recent": [
   [
@@ -6625,6 +6628,10 @@
   [
    1794170340.1484363,
    "$nvda acknowledged being ceo committed company continue despite emphasized employees full fully his huang interruption investigation jensen leading message news nvidia pledged probe rebuild remain remains responsibility role spokesperson took trust unfaithful wife without"
+  ],
+  [
+   1794172501.2576988,
+   "accused admitted affair businesswoman china chinese disclose having here https huang independent investigation jensen launches nvidia read spying www x1jdnbityh"
   ]
  ]
 }
