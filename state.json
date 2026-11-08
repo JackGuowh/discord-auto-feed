@@ -901,9 +901,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191873",
-  "wscn:3191891",
-  "wscn:3191889",
   "wscn:3191890",
   "wscn:3191915",
   "wscn:3191934",
@@ -1700,7 +1697,10 @@
   "wscn:3196490",
   "wscn:3196494",
   "wscn:3196495",
-  "wscn:3196498"
+  "wscn:3196498",
+  "wscn:3196502",
+  "wscn:3196501",
+  "wscn:3196500"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2886,7 +2886,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794157992.763473,
+ "congress_last_check": 1794159833.800031,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2930,7 +2930,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794158974.8410614,
+ "earnings_last_check": 1794159834.2101212,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4914,7 +4914,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144163",
   "tg:FinancialJuice/144162",
   "tg:FinancialJuice/144164",
   "tg:FinancialJuice/144165",
@@ -5713,7 +5712,8 @@
   "tg:FinancialJuice/145544",
   "tg:FinancialJuice/145543",
   "tg:FinancialJuice/145542",
-  "tg:FinancialJuice/145545"
+  "tg:FinancialJuice/145545",
+  "tg:FinancialJuice/145546"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6100,6 +6100,18 @@
   [
    1794158971.0232644,
    "中心|击彭|利雅|厦在|在利|大厦|彭博|得金|心遭|沙特|特阿|罕见|美大|融中|袭击|见袭|遇罕|遭遇|金融|阿美|雅得"
+  ],
+  [
+   1794159407.4276278,
+   "事装|伊朗|军事|卫队|向工|命卫|国军|在对|备进|对缴|工程|朗正|朗革|正在|的美|缴获|美国|获的|行逆|装备|进行|逆向|问伊|队顾|革命|顾问"
+  ],
+  [
+   1794159408.8463323,
+   "了他|他们|们的|伊朗|做出|做选|出了|到白|国选|在轮|外长|宫做|已经|拉格|择了|择现|朗外|格齐|民已|现在|白宫|的选|经做|美国|轮到|选择|选民|长阿|阿拉|齐美"
+  ],
+  [
+   1794159830.2192917,
+   "一轮|上周|下令|事打|他下|他称|令对|以及|伊朗|低他|低美|兹海|军事|击的|切希|划以|判取|协议|及重|取得|可能|启军|周日|围绕|国总|如果|实施|对伊|尔木|展他|展重|峡的|希望|开放|得进|性极|总统|成协|打击|放霍|新一|新开|施新|日表|普上|普若|朗实|朗普|朗核|朗谈|朗迫|望达|木兹|极低|果围|核计|海峡|特朗|的协|的可|示如|称伊|绕伊|统特|美国|能性|若伊|表示|计划|议谈|谈判|轮军|达成|进展|迫切|重启|重新|霍尔"
   ]
  ],
  "futu": [
@@ -6317,7 +6329,9 @@
   "futu:1003824237",
   "futu:1003824110",
   "futu:1003824027",
-  "futu:1003824348"
+  "futu:1003824348",
+  "futu:1003824491",
+  "futu:1003824450"
  ],
  "news_recent": [
   [
