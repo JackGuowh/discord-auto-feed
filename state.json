@@ -901,7 +901,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191935",
   "wscn:3191947",
   "wscn:3191951",
   "wscn:3191956",
@@ -1700,7 +1699,8 @@
   "wscn:3196500",
   "wscn:3196504",
   "wscn:3196503",
-  "wscn:3196505"
+  "wscn:3196505",
+  "wscn:3196507"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2887,7 +2887,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794161682.7588997,
+ "congress_last_check": 1794163534.761253,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2931,7 +2931,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794163038.406586,
+ "earnings_last_check": 1794163895.3905754,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3199,7 +3199,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794162751.3989072,
+ "gas_last_check": 1794163954.9094946,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4918,7 +4918,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144165",
   "tg:FinancialJuice/144169",
   "tg:FinancialJuice/144168",
   "tg:FinancialJuice/144167",
@@ -5717,7 +5716,8 @@
   "tg:FinancialJuice/145545",
   "tg:FinancialJuice/145546",
   "tg:FinancialJuice/145548",
-  "tg:FinancialJuice/145547"
+  "tg:FinancialJuice/145547",
+  "tg:FinancialJuice/145549"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6128,6 +6128,10 @@
   [
    1794162376.4369817,
    "业界|中期|主任|主党|举失|任米|企业|克白|党中|党拟|公厅|共和|办公|勒及|厅主|及美|后民|和党|国企|国共|失败|宫办|对马|展开|开调|拟对|斯克|期选|民主|界展|白宫|米勒|美国|调查|败后|选举|马斯"
+  ],
+  [
+   1794163232.9250653,
+   "与伊|两个|个开|仅保|伊拉|伊朗|保留|克关|克外|关闭|分边|口岸|国财|境口|外长|大部|岸仅|开放|拉克|政部|朗的|求伊|留两|的大|示美|美国|表示|要求|财政|边境|部分|部要|长表|闭与"
   ]
  ],
  "futu": [
@@ -6354,7 +6358,9 @@
   "futu:1003824699",
   "futu:1003824686",
   "futu:1003824674",
-  "futu:1003824817"
+  "futu:1003824817",
+  "futu:1003825004",
+  "futu:1003824978"
  ],
  "news_recent": [
   [
@@ -6520,6 +6526,10 @@
   [
    1794151620.1233578,
    "block budget democrats donald military president trillion trump"
+  ],
+  [
+   1794163175.4312146,
+   "asked border crossings foreign iran iraq iraqi jazeera keep minister open shut tells treasury two"
   ]
  ]
 }
