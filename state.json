@@ -876,7 +876,8 @@
   "truth:https://www.trumpstruth.org/statuses/43524",
   "truth:https://www.trumpstruth.org/statuses/43525",
   "truth:https://www.trumpstruth.org/statuses/43527",
-  "truth:https://www.trumpstruth.org/statuses/43526"
+  "truth:https://www.trumpstruth.org/statuses/43526",
+  "truth:https://www.trumpstruth.org/statuses/43528"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -901,7 +902,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191956",
   "wscn:3191953",
   "wscn:3191964",
   "wscn:3191972",
@@ -1700,7 +1700,8 @@
   "wscn:3196505",
   "wscn:3196507",
   "wscn:3196511",
-  "wscn:3196510"
+  "wscn:3196510",
+  "wscn:3196515"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2896,7 +2897,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794174600.5937736,
+ "congress_last_check": 1794176436.8778067,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2940,7 +2941,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794175879.2755146,
+ "earnings_last_check": 1794176620.1914473,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3208,7 +3209,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794175020.3069677,
+ "gas_last_check": 1794176257.4706888,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3811,7 +3812,8 @@
   "gas:CBMikAFBVV95cUxOaHZCVURIbURINDhJNHBDTGVfVGwtTkpPTmFicDkzOEdIOTVxNl9KY1RPOUIxYTM1OG5uVUVpa1hueW9PSnR5QVd5YkZZSnV0aklFMnhUaWIyQ0xQYW9BVW5zclpXMmdGY1V6c1g1dFpWb2tpSkN0LWxERGgyeGFCRTk2S011NWJxOUFqRm9XY0c",
   "gas:CBMihwJBVV95cUxQSzZ3bVlxMGRNaFl5emh2VmIwMmpuYUZGLWdOMVFWUWg0WXNzZHZTOVJqVnVYSDkyTHBENDJFX1EtQTF1amM0d3d0TGpVOHM2VWJuRzQ5cVlYVzc0bTlZcGZRRHRHSExZTDlnSmFyaGluMElKYWJhZHB4TENzWVVib3RvaHYxT1N3X3Z2NVgwa2o3ZFZvZzV5eWE2b081SHhjalZQT3VDbnhhSldXd3hiWFJyTGJySG9vdDdhSW5SWWM3TlhzWl9mTE9OZE0tdnUzQjdZVzF4dl85YUtpelY1dTN4MkVGbGpNOVI1SUs2TzdaeTV1REVyckgyY1ZnbGpvZmJZeGFWYw",
   "gas:CBMiU0FVX3lxTFBwU2pmZkNHSFA0cEFkSmhRUE5rNTFZN3hjOFhsVjFhX2NKLXI2NVlQdXlBZU5HLVJUZUFrZS1mQ1I5VEhZaS1KYnNZQ0NwdXZTM3lZ",
-  "gas:CBMiswFBVV95cUxNUElQd3JIbFVPSXJKV0daTjV4YUNRUkowcjE2WWw2NTlPQWhuRFNBZlBLSlU2NjhFSFIwbGhGUEVVaTJnVmNTY1psY0o0c2NPcHZNbVl5eEkyMk51S1RVTl8yMU83Q0hESXliQlA0MWNFLTdVbnVKSzJaalJiSXFfSTZ5eFZCSmY3R25md0pUZ2NjYlNMZHU4UmJTbTI3ZmU2QVdvMXJZWVFqcTlHLTFBQ0sxaw"
+  "gas:CBMiswFBVV95cUxNUElQd3JIbFVPSXJKV0daTjV4YUNRUkowcjE2WWw2NTlPQWhuRFNBZlBLSlU2NjhFSFIwbGhGUEVVaTJnVmNTY1psY0o0c2NPcHZNbVl5eEkyMk51S1RVTl8yMU83Q0hESXliQlA0MWNFLTdVbnVKSzJaalJiSXFfSTZ5eFZCSmY3R25md0pUZ2NjYlNMZHU4UmJTbTI3ZmU2QVdvMXJZWVFqcTlHLTFBQ0sxaw",
+  "gas:CBMi8AFBVV95cUxQRHR0VHlUZzd4Y04yQzdyWVZqZUxPRHYxam9wZDU4ajMzVDU5M3FXdTk1MWs0Z1Y4VHp5X1JPWXFrZm5XWTJEcVhnYS1mbkxLWXM1bFhkQlVpSVRLbWZJQktqM3I2SmRYZ3BTdVNFcHl2N0drN2F3aFF3TlZpbUE5TjFVT0lseDZFQ1VZMjZEa0ZDNk5ZVFFteTduejVOUy1CeXZyajdzUzF3UVAyVEU1YXVBQVBaUTg3azRGX1hFNWdQZ2xGUUdkbGd0eHI0U3NCX0VrUnhOa0ZVbFo4NWU4bUhBSkRrdkh2cXI1ZzNaUkXSAfABQVVfeXFMUER0dFR5VGc3eGNOMkM3cllWamVMT0R2MWpvcGQ1OGozM1Q1OTNxV3U5NTFrNGdWOFR6eV9ST1lxa2ZuV1kyRHFYZ2EtZm5MS1lzNWxYZEJVaUlUS21mSUJLajNyNkpkWGdwU3VTRXB5djdHazdhd2hRd05WaW1BOU4xVU9JbHg2RUNVWTI2RGtGQzZOWVRRbXk3bno1TlMtQnl2cmo3c1Mxd1FQMlRFNWF1QUFQWlE4N2s0Rl9YRTVnUGdsRlFHZGxndHhyNFNzQl9Fa1J4TmtGVWxaODVlOG1IQUpEa3ZIdnFyNWczWlJF"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6162,6 +6164,10 @@
   [
    1794175398.0100026,
    "0个|0加|12|15|17|1月|1累|20|22|25|2月|50|52|5个|67|71|77|78|7累|8美|CM|E美|ME|不变|个基|为1|为2|为7|储1|储到|储观|利率|到明|加息|变的|基点|察美|年1|息2|息5|持利|据C|明年|月维|概率|点的|率1|率6|率不|率为|的概|累计|维持|美联|联储|观察|计加"
+  ],
+  [
+   1794175954.9766665,
+   "不可|些时|些甚|交解|交途|人愤|令人|们将|伊朗|会我|候外|决伊|决方|务卿|卿鲁|可笑|可行|国务|国国|在机|外交|奥伊|如果|存在|将探|径解|愤慨|慨有|我们|探索|方案|方面|时候|有些|朗方|朗问|机会|果存|案不|比奥|求令|甚至|的要|笑有|索通|美国|至荒|荒谬|行如|要求|解决|谬可|过外|途径|通过|问题|面的|鲁比"
   ]
  ],
  "futu": [
@@ -6418,7 +6424,10 @@
   "futu:1003826594",
   "futu:1003826552",
   "futu:1003826541",
-  "futu:1003826532"
+  "futu:1003826532",
+  "futu:1003826677",
+  "futu:1003826646",
+  "futu:1003826610"
  ],
  "news_recent": [
   [
