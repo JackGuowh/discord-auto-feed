@@ -901,7 +901,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191934",
   "wscn:3191935",
   "wscn:3191947",
   "wscn:3191951",
@@ -1700,7 +1699,8 @@
   "wscn:3196501",
   "wscn:3196500",
   "wscn:3196504",
-  "wscn:3196503"
+  "wscn:3196503",
+  "wscn:3196505"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2931,7 +2931,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794162181.9789906,
+ "earnings_last_check": 1794163038.406586,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3199,7 +3199,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794161483.7563498,
+ "gas_last_check": 1794162751.3989072,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3799,7 +3799,8 @@
   "gas:CBMiZkFVX3lxTFBrNy1LYWxZajJrZUs5d29VeDBtNGdYRFhkY01MZjd3cTB1a0xsdXBLeVBjOTV3VG41MGlheURlWkxrNFN6anF4S19saHFRNEdtR19OUFNyM1dsODdrUGNmMERTeTBFUQ",
   "gas:CBMihAFBVV95cUxOMkNDSVA3UHBfdXJ1ZzZoajA5Mk56OWdBcTJHcGxZOTBRY0MwU3VheXRBbFRUbGlrbVpoN3dJLUxHbG1mcnBzbFFTa1lXS3draHhDeFdDRXdQb3VxOXc2b0pVRjl6elpZWHd0b0JCT0x4UF9pV1pUMGJIZzM3WGpINGVsRk4",
   "gas:CBMilAFBVV95cUxPRWRTVGh3OGc2cWNjVExyUkU2dE9LWjVGUDhNRV9jRTdSVXBzQ2ZrU2lzSE9nV0V0ekZHNVQ0UHAxdy1sVU1lYTZiU3Q1c2dYV0x6SUpTZXpGV1ZzeVhnZ3d2NWJmSHJpSXh0S0UwY3F5SzVSRWc4Qm5RVEhyTnlaY0FlWHpxb01VTVpMYk1jYm42TlpV",
-  "gas:CBMikAFBVV95cUxOaHZCVURIbURINDhJNHBDTGVfVGwtTkpPTmFicDkzOEdIOTVxNl9KY1RPOUIxYTM1OG5uVUVpa1hueW9PSnR5QVd5YkZZSnV0aklFMnhUaWIyQ0xQYW9BVW5zclpXMmdGY1V6c1g1dFpWb2tpSkN0LWxERGgyeGFCRTk2S011NWJxOUFqRm9XY0c"
+  "gas:CBMikAFBVV95cUxOaHZCVURIbURINDhJNHBDTGVfVGwtTkpPTmFicDkzOEdIOTVxNl9KY1RPOUIxYTM1OG5uVUVpa1hueW9PSnR5QVd5YkZZSnV0aklFMnhUaWIyQ0xQYW9BVW5zclpXMmdGY1V6c1g1dFpWb2tpSkN0LWxERGgyeGFCRTk2S011NWJxOUFqRm9XY0c",
+  "gas:CBMihwJBVV95cUxQSzZ3bVlxMGRNaFl5emh2VmIwMmpuYUZGLWdOMVFWUWg0WXNzZHZTOVJqVnVYSDkyTHBENDJFX1EtQTF1amM0d3d0TGpVOHM2VWJuRzQ5cVlYVzc0bTlZcGZRRHRHSExZTDlnSmFyaGluMElKYWJhZHB4TENzWVVib3RvaHYxT1N3X3Z2NVgwa2o3ZFZvZzV5eWE2b081SHhjalZQT3VDbnhhSldXd3hiWFJyTGJySG9vdDdhSW5SWWM3TlhzWl9mTE9OZE0tdnUzQjdZVzF4dl85YUtpelY1dTN4MkVGbGpNOVI1SUs2TzdaeTV1REVyckgyY1ZnbGpvZmJZeGFWYw"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6123,6 +6124,10 @@
   [
    1794161541.5486903,
    "Ax|io|os|xi|与以|中表|亚胡|以色|其加|内塔|划A|列总|加沙|动落|取措|周四|和平|四与|国总|在周|塔尼|实其|尼亚|希望|平计|总理|总统|推动|措施|施推|普在|朗普|望内|沙和|特朗|理内|的通|示希|统特|美国|胡的|胡采|色列|落实|表示|计划|话中|通话|采取"
+  ],
+  [
+   1794162376.4369817,
+   "业界|中期|主任|主党|举失|任米|企业|克白|党中|党拟|公厅|共和|办公|勒及|厅主|及美|后民|和党|国企|国共|失败|宫办|对马|展开|开调|拟对|斯克|期选|民主|界展|白宫|米勒|美国|调查|败后|选举|马斯"
   ]
  ],
  "futu": [
