@@ -2714,7 +2714,8 @@
   "tg:WatcherGuru/15874",
   "tg:WatcherGuru/15875",
   "tg:WatcherGuru/15876",
-  "tg:WatcherGuru/15878"
+  "tg:WatcherGuru/15878",
+  "tg:WatcherGuru/15879"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2890,7 +2891,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794167224.096925,
+ "congress_last_check": 1794169064.3726978,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2934,7 +2935,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794168625.4251955,
+ "earnings_last_check": 1794169543.7236702,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3202,7 +3203,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794167644.2306728,
+ "gas_last_check": 1794168883.805303,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4922,8 +4923,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144178",
-  "tg:FinancialJuice/144177",
   "tg:FinancialJuice/144176",
   "tg:FinancialJuice/144175",
   "tg:FinancialJuice/144174",
@@ -5721,7 +5720,9 @@
   "tg:FinancialJuice/145557",
   "tg:FinancialJuice/145556",
   "tg:FinancialJuice/145555",
-  "tg:FinancialJuice/145554"
+  "tg:FinancialJuice/145554",
+  "tg:FinancialJuice/145564",
+  "tg:FinancialJuice/145563"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6375,7 +6376,10 @@
   "futu:1003825173",
   "futu:1003825343",
   "futu:1003825349",
-  "futu:1003825449"
+  "futu:1003825449",
+  "futu:1003825689",
+  "futu:1003825664",
+  "futu:1003825657"
  ],
  "news_recent": [
   [
@@ -6581,6 +6585,10 @@
   [
    1794168564.8977246,
    "board confidence expresses jensen leadership needed nvidia provide team updates"
+  ],
+  [
+   1794169183.1053095,
+   "$nvda actions back being ceo children chinese committed confidence did earn employees excuse female fully her huang hurt jensen letter nvidia our sends spy targeted there unfaithful what wife work your"
   ]
  ]
 }
