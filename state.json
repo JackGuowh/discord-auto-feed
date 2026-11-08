@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794115832.8047698,
+ "earnings_last_check": 1794116517.955002,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4900,7 +4900,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144144",
   "tg:FinancialJuice/144143",
   "tg:FinancialJuice/144145",
   "tg:FinancialJuice/144146",
@@ -5699,7 +5698,8 @@
   "tg:FinancialJuice/145523",
   "tg:FinancialJuice/145524",
   "tg:FinancialJuice/145526",
-  "tg:FinancialJuice/145525"
+  "tg:FinancialJuice/145525",
+  "tg:FinancialJuice/145527"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6141,7 +6141,8 @@
   "futu:1003816004",
   "futu:1003816443",
   "futu:1003816507",
-  "futu:1003816653"
+  "futu:1003816653",
+  "futu:1003816870"
  ],
  "news_recent": [
   [
