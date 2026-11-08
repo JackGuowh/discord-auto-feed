@@ -2937,7 +2937,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794173365.0475938,
+ "earnings_last_check": 1794174219.3951821,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3205,7 +3205,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794172563.1535034,
+ "gas_last_check": 1794173799.8336945,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4435,7 +4435,8 @@
   "tg:disclosetv/22066",
   "tg:disclosetv/22065",
   "tg:disclosetv/22079",
-  "tg:disclosetv/22080"
+  "tg:disclosetv/22080",
+  "tg:disclosetv/22081"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -6639,6 +6640,10 @@
   [
    1794173479.2884238,
    "$nvda admitted affair apologized authorities believe bloomberg board ceo chinese company compromised cooperate employees espionage executive extramarital former fully huang independent intelligence investigation involving jensen launches launching links megaspeed national nvidia operation probe reason remain reportedly secrets security suspect targeted whether"
+  ],
+  [
+   1794173678.0949345,
+   "can disclose during files here https icymi livestreams microsoft patent people read real rewrite say time vlxsjq2bwb what www"
   ]
  ]
 }
