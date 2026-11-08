@@ -898,7 +898,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191882",
   "wscn:3191867",
   "wscn:3191881",
   "wscn:3191868",
@@ -1697,7 +1696,8 @@
   "wscn:3196444",
   "wscn:3196451",
   "wscn:3196455",
-  "wscn:3196456"
+  "wscn:3196456",
+  "wscn:3196457"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794122979.847498,
+ "earnings_last_check": 1794123657.5229425,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3192,7 +3192,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794122000.2099614,
+ "gas_last_check": 1794123237.7210965,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3783,7 +3783,8 @@
   "gas:CBMikAFBVV95cUxQb1BmaW54UDJNUF9pT05wRmFaR2lsN3lGMER1ekIySFZDcFZ0aDRFMW13cXIxZjN0NkY2aUdzbV9RaFpvbk4xNUdMWDBYUDFlMUNmZzFKM3VldDZJZXpnZHhzYVZJNDRqdEtHV19QOGxKZGc1VTd2aTllRUJRR015ZXgwZmxhb1VxMWlIZGVodXk",
   "gas:CBMinAFBVV95cUxOZ3Fxd3JraDZwWnNGTjc4WEhVZUUyZ0tBRXZIRXUtNjB4RkROUjZjblU3alRrVlhMS3RWRkNYUVg2cXhCNDV0TW9zeTZ6bmlBay1NaDRtRjF6LUVMNk4zb0NLN0k2WG91cnNCY2Z1UHZ0WFZYa21YN1hUQktVeXozSWRiNFZHdFN3Y2RKX0ZiYW5NNEJqN1YxTVZZM3I",
   "gas:CBMimAFBVV95cUxNdC1tSk9qeUs1cWdCc1JEYWUyeWpoMXJPN05SVWdLU2syRm15eWxlaURRQU00WU9DSzFpc0VNVVRYR0hLVk5DQk9NVTJTWVZiNFlvdDFaQ0Z0M3JXMWZFVmc1OG91cHRqTlZqNlJqaTNXRmNhMGFUOGxBTjIxei1rMUpPTzdvbzVBOFdCQzlIa1FJa0J6aXBJcw",
-  "gas:CBMiY0FVX3lxTFA1bVEtMnhjUG5LVHZzS1plMlJtVXhhUy1ldHVUdUlEZl9xYVNZSlllTENiZVduVkRfcVoxZFhvdWdYdDNZZlppdW9qSUNFMTFndWF1eUxURVpCODFHOUE1cXpubw"
+  "gas:CBMiY0FVX3lxTFA1bVEtMnhjUG5LVHZzS1plMlJtVXhhUy1ldHVUdUlEZl9xYVNZSlllTENiZVduVkRfcVoxZFhvdWdYdDNZZlppdW9qSUNFMTFndWF1eUxURVpCODFHOUE1cXpubw",
+  "gas:CBMikAFBVV95cUxOZXpOaVZmY3pEbmpPT1VkS2RQaW9lejJNS0ZMQ1dZWE1QRGJwbHVEQnctX1AzeFBqYWVVTUFkakF1TEtBUU4zS3RUbGh3RFQ0RllTMl8wLVhIX1o3MkRUbllsdmlIb3c2SEJaekZMRlFMeUgwdWdxUnB4VkN4RW1Ja3ZLY3JyamttSEtqUXl2Ukg"
  ],
  "shows_last_day": "2026-11-07",
  "shows_init": "2026-10-22",
@@ -6035,6 +6036,10 @@
   [
    1794122497.518416,
    "0年|10|7日|8家|一款|一轮|上发|与新|与核|与美|业运|中心|为期|举行|了为|以助|任务|会上|佛罗|公司|划合|划并|划美|制以|力月|务竞|务计|动力|助力|参与|及基|发射|发布|司参|司等|合同|同框|商业|国航|国蓝|在佛|地建|基地|基础|备及|天中|天在|天局|天展|学载|定8|定美|宣布|家公|射新|将科|尼迪|局7|局当|局月|展会|州肯|已选|布了|布已|布月|年的|并推|建设|当天|心举|技术|推进|新一|新规|施运|日宣|月球|服务|期1|术设|架选|标负|核动|框架|款核|源公|物运|球商|球基|球表|球车|的新|的研|的航|研制|础设|科学|空航|竞标|等8|罗里|美发|美国|肯尼|至月|航天|航空|色起|荷技|蓝色|行的|表面|规划|计划|设与|设备|设施|设美|负责|责将|货物|起源|车发|车的|轮月|载服|载荷|达州|运载|运送|进一|迪航|送任|送至|选定|里达|面货"
+  ],
+  [
+   1794123115.2052636,
+   "11|1月|8日|上午|两枚|为首|也门|了两|人图|以沙|传出|军又|军发|出多|利基|利雅|区传|区和|区拦|午沙|南部|危险|又宣|发射|发布|发言|后利|后宣|后联|向利|向首|和沙|响当|响民|国联|图尔|在利|在危|地区|地时|基表|基马|塞武|声巨|多国|多声|多枚|天以|宣布|导弹|射的|尔基|巡航|巨响|市区|布危|布在|布潜|并摧|弹利|弹道|弹随|当地|当天|得发|得地|得市|截多|截并|拦截|摧毁|日上|时间|月8|枚导|枚巡|枚由|此后|武装|毁两|毁了|民防|沙特|潜在|特为|特南|特民|特称|由也|的多|的弹|示防|称拦|空部|联军|胡塞|航导|表示|装向|解除|言人|警随|道导|部地|部门|部队|都利|门向|门此|门胡|间1|队拦|防空|防部|除当|险解|险预|随后|雅得|预警|首的|首都|马利"
   ]
  ],
  "futu": [
@@ -6161,7 +6166,9 @@
   "futu:1003817893",
   "futu:1003817847",
   "futu:1003818158",
-  "futu:1003818000"
+  "futu:1003818000",
+  "futu:1003818298",
+  "futu:1003818207"
  ],
  "news_recent": [
   [
