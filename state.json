@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794132531.28113,
+ "earnings_last_check": 1794133332.465239,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3192,7 +3192,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794131845.6046271,
+ "gas_last_check": 1794133091.2343402,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -6196,7 +6196,8 @@
   "futu:1003819538",
   "futu:1003819669",
   "futu:1003819644",
-  "futu:1003819626"
+  "futu:1003819626",
+  "futu:1003819815"
  ],
  "news_recent": [
   [
