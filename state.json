@@ -902,9 +902,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191977",
-  "wscn:3191984",
-  "wscn:3191982",
   "wscn:3191988",
   "wscn:3192001",
   "wscn:3192000",
@@ -1701,7 +1698,10 @@
   "wscn:3196523",
   "wscn:3196526",
   "wscn:3196532",
-  "wscn:3196531"
+  "wscn:3196531",
+  "wscn:3196536",
+  "wscn:3196535",
+  "wscn:3196534"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2897,7 +2897,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794178279.8996084,
+ "congress_last_check": 1794180081.137658,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2942,7 +2942,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794179759.964206,
+ "earnings_last_check": 1794180620.7767463,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4936,12 +4936,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144201",
-  "tg:FinancialJuice/144200",
-  "tg:FinancialJuice/144199",
-  "tg:FinancialJuice/144198",
-  "tg:FinancialJuice/144197",
-  "tg:FinancialJuice/144209",
   "tg:FinancialJuice/144208",
   "tg:FinancialJuice/144207",
   "tg:FinancialJuice/144206",
@@ -5735,7 +5729,13 @@
   "tg:FinancialJuice/145579",
   "tg:FinancialJuice/145578",
   "tg:FinancialJuice/145577",
-  "tg:FinancialJuice/145576"
+  "tg:FinancialJuice/145576",
+  "tg:FinancialJuice/145586",
+  "tg:FinancialJuice/145585",
+  "tg:FinancialJuice/145584",
+  "tg:FinancialJuice/145583",
+  "tg:FinancialJuice/145582",
+  "tg:FinancialJuice/145581"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6202,6 +6202,18 @@
   [
    1794179398.2698166,
    "三大|前纳|均转|大股|指期|期货|此前|涨此|纳指|美股|股三|股指|货均|货跌|跌近|转涨|近1"
+  ],
+  [
+   1794180318.575828,
+   "AI|CE|EO|I抛|O在|不太|关注|利率|到通|及A|和利|售潮|回到|在被|场关|太担|将重|市场|并不|心市|抛售|担心|新回|时表|注点|潮时|点将|率上|瑞银|示并|胀和|表示|被问|通胀|重新|银C|问及"
+  ],
+  [
+   1794180438.5979717,
+   "一事|书一|事我|任新|只是|在开|开玩|怀特|我只|新闻|是在|普谈|朗普|特任|特朗|玩笑|秘书|纳怀|谈达|达纳|闻秘"
+  ],
+  [
+   1794180498.5527785,
+   "CE|EO|为黄|仁勋|任英|伟达|勋应|勋谈|和黄|国总|应该|总统|担任|普还|有和|朗普|没有|特朗|统特|继续|续担|美国|英伟|认为|话认|该继|谈过|达C|过话|还没|黄仁"
   ]
  ],
  "futu": [
@@ -6480,7 +6492,12 @@
   "futu:1003827103",
   "futu:1003827354",
   "futu:1003827248",
-  "futu:1003827241"
+  "futu:1003827241",
+  "futu:1003827619",
+  "futu:1003827610",
+  "futu:1003827563",
+  "futu:1003827548",
+  "futu:1003827503"
  ],
  "news_recent": [
   [
@@ -6718,6 +6735,18 @@
   [
    1794173678.0949345,
    "can disclose during files here https icymi livestreams microsoft patent people read real rewrite say time vlxsjq2bwb what www"
+  ],
+  [
+   1794180322.0222912,
+   "allegations ceo discussed him huang not nvidia trump"
+  ],
+  [
+   1794180380.4605536,
+   "ceo good huang nvidia person trump"
+  ],
+  [
+   1794180501.832159,
+   "asia but don him huang join know nvidia take trip trump"
   ]
  ]
 }
