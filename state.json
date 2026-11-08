@@ -898,7 +898,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191880",
   "wscn:3191879",
   "wscn:3191882",
   "wscn:3191867",
@@ -1697,7 +1696,8 @@
   "wscn:3196443",
   "wscn:3196446",
   "wscn:3196444",
-  "wscn:3196451"
+  "wscn:3196451",
+  "wscn:3196455"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794121321.0696795,
+ "earnings_last_check": 1794122179.4858105,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3192,7 +3192,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794120779.1240563,
+ "gas_last_check": 1794122000.2099614,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3782,7 +3782,8 @@
   "gas:CBMikAFBVV95cUxOS1RkM0ZQTjZvSTBqSDRRRl9DU2dxNGp2Z1FZcldzMERXT0ZYYmFkd1pLMURNT3pFMFNtVWg5WHgxSE1Ma1Fmc3hwbFVTT2ktbTJlOUM1cTYwNVVxZmFFOWRzRzlBUWFWUi1pV3ctai1rLWxvcDc5QXpuTjF5bjd6OHNGMGVqa182WnhWbFM1RDM",
   "gas:CBMikAFBVV95cUxQb1BmaW54UDJNUF9pT05wRmFaR2lsN3lGMER1ekIySFZDcFZ0aDRFMW13cXIxZjN0NkY2aUdzbV9RaFpvbk4xNUdMWDBYUDFlMUNmZzFKM3VldDZJZXpnZHhzYVZJNDRqdEtHV19QOGxKZGc1VTd2aTllRUJRR015ZXgwZmxhb1VxMWlIZGVodXk",
   "gas:CBMinAFBVV95cUxOZ3Fxd3JraDZwWnNGTjc4WEhVZUUyZ0tBRXZIRXUtNjB4RkROUjZjblU3alRrVlhMS3RWRkNYUVg2cXhCNDV0TW9zeTZ6bmlBay1NaDRtRjF6LUVMNk4zb0NLN0k2WG91cnNCY2Z1UHZ0WFZYa21YN1hUQktVeXozSWRiNFZHdFN3Y2RKX0ZiYW5NNEJqN1YxTVZZM3I",
-  "gas:CBMimAFBVV95cUxNdC1tSk9qeUs1cWdCc1JEYWUyeWpoMXJPN05SVWdLU2syRm15eWxlaURRQU00WU9DSzFpc0VNVVRYR0hLVk5DQk9NVTJTWVZiNFlvdDFaQ0Z0M3JXMWZFVmc1OG91cHRqTlZqNlJqaTNXRmNhMGFUOGxBTjIxei1rMUpPTzdvbzVBOFdCQzlIa1FJa0J6aXBJcw"
+  "gas:CBMimAFBVV95cUxNdC1tSk9qeUs1cWdCc1JEYWUyeWpoMXJPN05SVWdLU2syRm15eWxlaURRQU00WU9DSzFpc0VNVVRYR0hLVk5DQk9NVTJTWVZiNFlvdDFaQ0Z0M3JXMWZFVmc1OG91cHRqTlZqNlJqaTNXRmNhMGFUOGxBTjIxei1rMUpPTzdvbzVBOFdCQzlIa1FJa0J6aXBJcw",
+  "gas:CBMiY0FVX3lxTFA1bVEtMnhjUG5LVHZzS1plMlJtVXhhUy1ldHVUdUlEZl9xYVNZSlllTENiZVduVkRfcVoxZFhvdWdYdDNZZlppdW9qSUNFMTFndWF1eUxURVpCODFHOUE1cXpubw"
  ],
  "shows_last_day": "2026-11-07",
  "shows_init": "2026-10-22",
@@ -6026,6 +6027,10 @@
   [
    1794117633.3922741,
    "11|1月|Po|co|ic|it|li|ol|ti|两国|中旬|于1|价展|品定|商讨|国将|定价|将于|就药|展开|开商|德两|旬就|月中|美德|药品|讨P"
+  ],
+  [
+   1794121577.8564067,
+   "上升|上美|不仅|不希|不我|且统|业不|业和|业总|业眼|业问|中中|中国|中有|中贸|为合|主义|义抬|也不|了总|争力|仅是|今年|他们|他表|们中|们喜|们每|们的|企不|企业|会会|会找|会让|会调|会长|何结|作不|作会|作因|作规|你猜|保护|全国|全球|关税|其全|到方|到贸|力当|升双|升这|双方|受了|变得|台记|合作|吗当|吗肯|员会|味着|和中|喜欢|因为|国企|国在|国委|国际|在上|在今|在其|在持|在自|坛上|多重|央视|头在|头美|如何|委员|定也|对接|希望|年的|年都|式对|强央|当中|当然|得更|性如|总会|总台|意味|我们|战略|找到|护主|抬头|持续|据显|接受|接合|摩擦|擦吗|数据|新闻|方变|方合|方式|易保|易全|易摩|是在|是持|显示|更强|有多|望看|果是|桥国|森我|森接|模在|欢关|欢贸|每年|然不|猜美|球战|球竞|略全|略里|的企|的虹|的采|的重|看到|眼中|着我|研美|示合|示美|税吗|竞争|结果|统计|续上|续而|美中|美企|美国|者的|而且|肯定|自身|虹桥|表示|要你|要性|规模|视新|计数|让双|记者|论坛|访他|调研|谭森|贸易|身全|这意|都会|采访|里的|重要|长美|长谭|问他|际论"
   ]
  ],
  "futu": [
@@ -6148,7 +6153,9 @@
   "futu:1003816653",
   "futu:1003816870",
   "futu:1003817662",
-  "futu:1003817762"
+  "futu:1003817762",
+  "futu:1003817893",
+  "futu:1003817847"
  ],
  "news_recent": [
   [
