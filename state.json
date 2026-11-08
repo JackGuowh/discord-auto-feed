@@ -873,7 +873,8 @@
   "truth:https://www.trumpstruth.org/statuses/43499",
   "truth:https://www.trumpstruth.org/statuses/43500",
   "truth:https://www.trumpstruth.org/statuses/43501",
-  "truth:https://www.trumpstruth.org/statuses/43524"
+  "truth:https://www.trumpstruth.org/statuses/43524",
+  "truth:https://www.trumpstruth.org/statuses/43525"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2704,7 +2705,8 @@
   "tg:WatcherGuru/15871",
   "tg:WatcherGuru/15870",
   "tg:WatcherGuru/15869",
-  "tg:WatcherGuru/15868"
+  "tg:WatcherGuru/15868",
+  "tg:WatcherGuru/15874"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2924,7 +2926,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794146995.4565854,
+ "earnings_last_check": 1794147799.4846494,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3192,7 +3194,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794146694.801085,
+ "gas_last_check": 1794147916.2225916,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -6403,6 +6405,10 @@
   [
    1794135870.42932,
    "4bn agreement anthropic centers data electricity fired gas produce secures"
+  ],
+  [
+   1794147255.1348815,
+   "day elections following lost market midterm president single stock trillion trump"
   ]
  ]
 }
