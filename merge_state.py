@@ -9,8 +9,9 @@ def merge(a, b):
         if k not in out:
             out[k] = v
         elif isinstance(v, list) and isinstance(out[k], list):
-            seen = set(out[k])
-            out[k] = (out[k] + [x for x in v if x not in seen])[-800:]
+            key = lambda x: json.dumps(x, sort_keys=True, ensure_ascii=False)  # 列表里可能有列表/字典
+            seen = {key(x) for x in out[k]}
+            out[k] = (out[k] + [x for x in v if key(x) not in seen])[-800:]
         elif isinstance(v, (int, float)) and isinstance(out[k], (int, float)):
             out[k] = max(v, out[k])
         else:
