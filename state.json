@@ -2939,9 +2939,10 @@
   "movers_post:2026-11-03",
   "market_close:2026-11-04",
   "movers_post:2026-11-04",
-  "market_fg:2026-11-06"
+  "market_fg:2026-11-06",
+  "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794178280.339164,
+ "earnings_last_check": 1794179138.2775095,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3209,7 +3210,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794177477.8130734,
+ "gas_last_check": 1794178718.7869158,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4934,11 +4935,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144193",
-  "tg:FinancialJuice/144192",
-  "tg:FinancialJuice/144191",
-  "tg:FinancialJuice/144196",
-  "tg:FinancialJuice/144195",
   "tg:FinancialJuice/144201",
   "tg:FinancialJuice/144200",
   "tg:FinancialJuice/144199",
@@ -5733,7 +5729,12 @@
   "tg:FinancialJuice/145573",
   "tg:FinancialJuice/145572",
   "tg:FinancialJuice/145571",
-  "tg:FinancialJuice/145570"
+  "tg:FinancialJuice/145570",
+  "tg:FinancialJuice/145580",
+  "tg:FinancialJuice/145579",
+  "tg:FinancialJuice/145578",
+  "tg:FinancialJuice/145577",
+  "tg:FinancialJuice/145576"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6180,6 +6181,14 @@
   [
    1794177619.4012845,
    "AO|ET|ME|Me|Mu|O正|Pl|TA|aP|at|et|e人|fo|la|ms|or|rm|sM|se|ta|tf|us|人工|准备|出M|助手|国推|国泰|在英|士报|备在|工智|报M|推出|晤士|智能|正准|泰晤|能助|英国"
+  ],
+  [
+   1794179017.1264765,
+   "1道|一低|低开|周一|开近|微跌|指期|期货|纳指|货周|货微|近1|道指"
+  ],
+  [
+   1794179077.0821002,
+   "04|4以|以内|幅收|指期|收窄|期货|窄至|纳指|至0|货跌|跌幅"
   ]
  ],
  "futu": [
@@ -6448,7 +6457,14 @@
   "futu:1003826791",
   "futu:1003826792",
   "futu:1003826756",
-  "futu:1003826914"
+  "futu:1003826914",
+  "futu:1003827164",
+  "futu:1003827160",
+  "futu:1003827147",
+  "futu:1003827132",
+  "futu:1003827129",
+  "futu:1003827126",
+  "futu:1003827103"
  ],
  "news_recent": [
   [
