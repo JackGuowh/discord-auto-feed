@@ -898,7 +898,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191849",
   "wscn:3191880",
   "wscn:3191879",
   "wscn:3191882",
@@ -1697,7 +1696,8 @@
   "wscn:3196265",
   "wscn:3196443",
   "wscn:3196446",
-  "wscn:3196444"
+  "wscn:3196444",
+  "wscn:3196451"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2880,7 +2880,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794115710.4478762,
+ "congress_last_check": 1794117516.0174162,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794117378.381346,
+ "earnings_last_check": 1794118177.0705063,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4900,7 +4900,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144143",
   "tg:FinancialJuice/144145",
   "tg:FinancialJuice/144146",
   "tg:FinancialJuice/144147",
@@ -5699,7 +5698,8 @@
   "tg:FinancialJuice/145524",
   "tg:FinancialJuice/145526",
   "tg:FinancialJuice/145525",
-  "tg:FinancialJuice/145527"
+  "tg:FinancialJuice/145527",
+  "tg:FinancialJuice/145528"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6022,6 +6022,10 @@
   [
    1794111826.3253734,
    "Ax|io|os|xi|僚长|副幕|即将|宫副|将离|尔特|幕僚|斯即|沃尔|特斯|白宫|离职|职A|长沃"
+  ],
+  [
+   1794117633.3922741,
+   "11|1月|Po|co|ic|it|li|ol|ti|两国|中旬|于1|价展|品定|商讨|国将|定价|将于|就药|展开|开商|德两|旬就|月中|美德|药品|讨P"
   ]
  ],
  "futu": [
