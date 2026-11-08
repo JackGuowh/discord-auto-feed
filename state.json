@@ -901,8 +901,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191947",
-  "wscn:3191951",
   "wscn:3191956",
   "wscn:3191953",
   "wscn:3191964",
@@ -1700,7 +1698,9 @@
   "wscn:3196504",
   "wscn:3196503",
   "wscn:3196505",
-  "wscn:3196507"
+  "wscn:3196507",
+  "wscn:3196511",
+  "wscn:3196510"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2888,7 +2888,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794163534.761253,
+ "congress_last_check": 1794165371.60559,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2932,7 +2932,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794164636.9988027,
+ "earnings_last_check": 1794165491.5125344,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3200,7 +3200,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794163954.9094946,
+ "gas_last_check": 1794165191.132668,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -6133,6 +6133,10 @@
   [
    1794163232.9250653,
    "与伊|两个|个开|仅保|伊拉|伊朗|保留|克关|克外|关闭|分边|口岸|国财|境口|外长|大部|岸仅|开放|拉克|政部|朗的|求伊|留两|的大|示美|美国|表示|要求|财政|边境|部分|部要|长表|闭与"
+  ],
+  [
+   1794165129.1409135,
+   "00|0亿|60|与美|业务|中断|争及|亿美|仍在|伊拉|伊朗|允许|克因|克外|克已|兹海|出口|务中|务仍|及石|口业|口出|因伊|国达|在持|外长|失已|尔木|峡经|已与|已达|成的|成谅|战争|拉克|持续|损失|断造|曼的|朗战|木兹|油出|油通|海峡|的损|的航|石油|经靠|续进|美元|美国|航道|行伊|解允|许石|谅解|达6|达成|过霍|近阿|进行|通过|造成|道出|长伊|阿曼|霍尔|靠近"
   ]
  ],
  "futu": [
@@ -6363,7 +6367,9 @@
   "futu:1003825004",
   "futu:1003824978",
   "futu:1003825150",
-  "futu:1003825148"
+  "futu:1003825148",
+  "futu:1003825179",
+  "futu:1003825173"
  ],
  "news_recent": [
   [
