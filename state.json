@@ -902,7 +902,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191953",
   "wscn:3191964",
   "wscn:3191972",
   "wscn:3191978",
@@ -1701,7 +1700,8 @@
   "wscn:3196507",
   "wscn:3196511",
   "wscn:3196510",
-  "wscn:3196515"
+  "wscn:3196515",
+  "wscn:3196523"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2941,7 +2941,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794176620.1914473,
+ "earnings_last_check": 1794177477.3134134,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3209,7 +3209,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794176257.4706888,
+ "gas_last_check": 1794177477.8130734,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4934,12 +4934,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144187",
-  "tg:FinancialJuice/144186",
-  "tg:FinancialJuice/144189",
-  "tg:FinancialJuice/144188",
-  "tg:FinancialJuice/144190",
-  "tg:FinancialJuice/144194",
   "tg:FinancialJuice/144193",
   "tg:FinancialJuice/144192",
   "tg:FinancialJuice/144191",
@@ -5733,7 +5727,13 @@
   "tg:FinancialJuice/145567",
   "tg:FinancialJuice/145566",
   "tg:FinancialJuice/145565",
-  "tg:FinancialJuice/145569"
+  "tg:FinancialJuice/145569",
+  "tg:FinancialJuice/145575",
+  "tg:FinancialJuice/145574",
+  "tg:FinancialJuice/145573",
+  "tg:FinancialJuice/145572",
+  "tg:FinancialJuice/145571",
+  "tg:FinancialJuice/145570"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6168,6 +6168,10 @@
   [
    1794175954.9766665,
    "不可|些时|些甚|交解|交途|人愤|令人|们将|伊朗|会我|候外|决伊|决方|务卿|卿鲁|可笑|可行|国务|国国|在机|外交|奥伊|如果|存在|将探|径解|愤慨|慨有|我们|探索|方案|方面|时候|有些|朗方|朗问|机会|果存|案不|比奥|求令|甚至|的要|笑有|索通|美国|至荒|荒谬|行如|要求|解决|谬可|过外|途径|通过|问题|面的|鲁比"
+  ],
+  [
+   1794177175.0073373,
+   "00|01|02|09|0中|0德|0月|0欧|0美|10|11|12|15|17|1年|1月|20|23|25|27|30|50|52|5英|73|7年|93|9月|CP|C票|FO|I1|IP|MC|OM|PI|PP|Se|en|ix|nt|ti|x投|下均|中国|为北|主席|了解|京时|以下|信小|信心|储1|储主|元区|关注|内请|利就|加哥|北京|区1|历了|发表|发销|古尔|哥联|售2|国1|国9|国央|均为|士满|央行|委芝|委里|小程|尔斯|尔金|就央|巴尔|帐1|席古|席巴|年F|年通|序搜|微信|德国|心指|性发|批发|投资|指数|提醒|搜索|数2|斯比|日0|日内|时间|易帐|更多|月C|月S|月批|月纽|月贸|期次|次日|欧元|比发|注以|满联|点关|独立|票委|程序|立性|索见|约联|纽约|美国|者信|联储|胀预|芝加|英国|行独|行行|行长|表讲|见闻|解更|讲话|话微|话次|请重|贝利|贸易|资者|通胀|醒日|里士|重点|金发|销售|长贝|间0|闻历|预期"
   ]
  ],
  "futu": [
@@ -6427,7 +6431,15 @@
   "futu:1003826532",
   "futu:1003826677",
   "futu:1003826646",
-  "futu:1003826610"
+  "futu:1003826610",
+  "futu:1003826895",
+  "futu:1003826805",
+  "futu:1003826806",
+  "futu:1003826803",
+  "futu:1003826793",
+  "futu:1003826791",
+  "futu:1003826792",
+  "futu:1003826756"
  ],
  "news_recent": [
   [
