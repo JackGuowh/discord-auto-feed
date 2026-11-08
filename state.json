@@ -898,7 +898,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191881",
   "wscn:3191868",
   "wscn:3191877",
   "wscn:3191866",
@@ -1697,7 +1696,8 @@
   "wscn:3196455",
   "wscn:3196456",
   "wscn:3196457",
-  "wscn:3196471"
+  "wscn:3196471",
+  "wscn:3196474"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794134209.847956,
+ "earnings_last_check": 1794135051.1317005,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3192,7 +3192,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794133091.2343402,
+ "gas_last_check": 1794134329.077958,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3784,7 +3784,10 @@
   "gas:CBMinAFBVV95cUxOZ3Fxd3JraDZwWnNGTjc4WEhVZUUyZ0tBRXZIRXUtNjB4RkROUjZjblU3alRrVlhMS3RWRkNYUVg2cXhCNDV0TW9zeTZ6bmlBay1NaDRtRjF6LUVMNk4zb0NLN0k2WG91cnNCY2Z1UHZ0WFZYa21YN1hUQktVeXozSWRiNFZHdFN3Y2RKX0ZiYW5NNEJqN1YxTVZZM3I",
   "gas:CBMimAFBVV95cUxNdC1tSk9qeUs1cWdCc1JEYWUyeWpoMXJPN05SVWdLU2syRm15eWxlaURRQU00WU9DSzFpc0VNVVRYR0hLVk5DQk9NVTJTWVZiNFlvdDFaQ0Z0M3JXMWZFVmc1OG91cHRqTlZqNlJqaTNXRmNhMGFUOGxBTjIxei1rMUpPTzdvbzVBOFdCQzlIa1FJa0J6aXBJcw",
   "gas:CBMiY0FVX3lxTFA1bVEtMnhjUG5LVHZzS1plMlJtVXhhUy1ldHVUdUlEZl9xYVNZSlllTENiZVduVkRfcVoxZFhvdWdYdDNZZlppdW9qSUNFMTFndWF1eUxURVpCODFHOUE1cXpubw",
-  "gas:CBMikAFBVV95cUxOZXpOaVZmY3pEbmpPT1VkS2RQaW9lejJNS0ZMQ1dZWE1QRGJwbHVEQnctX1AzeFBqYWVVTUFkakF1TEtBUU4zS3RUbGh3RFQ0RllTMl8wLVhIX1o3MkRUbllsdmlIb3c2SEJaekZMRlFMeUgwdWdxUnB4VkN4RW1Ja3ZLY3JyamttSEtqUXl2Ukg"
+  "gas:CBMikAFBVV95cUxOZXpOaVZmY3pEbmpPT1VkS2RQaW9lejJNS0ZMQ1dZWE1QRGJwbHVEQnctX1AzeFBqYWVVTUFkakF1TEtBUU4zS3RUbGh3RFQ0RllTMl8wLVhIX1o3MkRUbllsdmlIb3c2SEJaekZMRlFMeUgwdWdxUnB4VkN4RW1Ja3ZLY3JyamttSEtqUXl2Ukg",
+  "gas:CBMilgFBVV95cUxPSXhkYjFOZERkdUZ0Njkzb0ZZVFdRTDFzbkZjSTV0MkpiZFhRdVBENlFUUk1DTnlYRmx3X1VBdC00Wld4VlgtVkFZclZGYmlYZUpKUW5qVloxX1FMMF9XNzQ0NlpIWGtWNlo1VXpxOGNPMGh1dHNJanQtZl9Ha3BhaDRtX2k5YWNpaVNDQkFZWGFybnlIeEE",
+  "gas:CBMi6wFBVV95cUxPeTBCRnFtXzlTcVExQTBLT3l0T3JIeTZ0bVcxUUZqNjFqOGowX05VeWlzWHh4emRIcml3dkZ3VnZuRUtWbUdSMEFFVUtpb1hqWlFOakVKZlJzdjhTcDBfcDBlVzdCNzdmUlM4N2pIN1BJMktHY09QVlQ4WUtOSll4alRvUzdXVksxd1h5N0dsekE2ZkpRUUxIU3JCZ3lOeWN5akUxVHZFYXI2ejVVX3pRZXlGcEtTWloxcVAzbmNxNXBCUGwwbHVOVFg5Ql9UeUhfM2RCdDA3cFNYWjdpODlveUhGQU5yTnlHSmpv0gHwAUFVX3lxTFBEdHRUeVRnN3hjTjJDN3JZVmplTE9EdjFqb3BkNThqMzNUNTkzcVd1OTUxazRnVjhUenlfUk9ZcWtmbldZMkRxWGdhLWZuTEtZczVsWGRCVWlJVEttZklCS2ozcjZKZFhncFN1U0VweXY3R2s3YXdoUXdOVmltQTlOMVVPSWx4NkVDVVkyNkRrRkM2TllUUW15N256NU5TLUJ5dnJqN3NTMXdRUDJURTVhdUFBUFpRODdrNEZfWEU1Z1BnbEZRR2RsZ3R4cjRTc0JfRWtSeE5rRlVsWjg1ZThtSEFKRGt2SHZxcjVnM1pSRQ",
+  "gas:CBMiswFBVV95cUxNQ2VaV0xya0NfdkJjMWRrVUpVUjhmSDVpZkJvSGFsT0oxcVFnLVZYd0k1SUt3UG9LVDFCUUh1UXEtdjhYVGZxcDd0RVZBMUhQRERiX2V4YWd3dEx5NkZyREFTQ2oyUVF1cnZXRzRNMC13cWl0RFdwSWhSQUJwOXJKTGhyQnpMVzBiWVlCZTVVQlJFUHFlWHhtZUN6MHczWXBEUW14WFVxbDZTZmllRkotb1FTUQ"
  ],
  "shows_last_day": "2026-11-07",
  "shows_init": "2026-10-22",
@@ -6044,6 +6047,14 @@
   [
    1794130305.9613094,
    "6日|7日|9日|一他|中期|中遭|主任|举中|之一|于6|交辞|亲近|从9|他的|任新|任沃|任理|任白|任的|任米|任苏|克西|党在|公厅|共和|出任|副主|办公|助手|勒团|勒将|华国|即将|卸任|厅主|厅副|呈沃|味着|和党|团队|国共|国总|国阿|国际|在中|多核|奥斯|媒称|宣布|宫办|将从|将卸|将接|将离|尔斯|尔特|已于|布白|德沃|心职|怀尔|总统|惨败|意味|手之|手更|报道|据美|接任|接手|接替|政治|斯出|斯将|斯已|斯新|斯是|斯最|斯蒂|新华|新闻|日宣|日报|日起|日递|是即|普6|更多|替怀|最亲|朗普|期选|查德|核心|沃尔|治助|特斯|特朗|理查|白宫|的政|的斯|的白|的离|着即|离职|称白|站7|米勒|统特|网站|美国|美媒|职意|职报|职据|职责|芬米|苏茜|茜怀|蒂芬|西奥|说沃|责美|败美|起接|辞呈|近的|选举|递交|遇惨|道白|道说|遭遇|闻网|队将|阿克"
+  ],
+  [
+   1794134566.50066,
+   "11|13|14|1月|3日|45|4日|4时|5分|6时|75|CX|O称|PC|SP|Sp|XO|XS|X称|X计|ac|ce|eX|pa|上6|下S|下午|中部|于1|于美|五发|京时|六早|准的|分北|分开|分钟|划最|划首|前提|助推|北京|午4|发射|口持|启S|周五|周六|和超|器均|回发|回收|国中|在获|场并|均返|型助|射场|射星|射窗|将于|尝试|并通|开启|得监|批准|持续|捕获|推器|提下|日周|早上|早于|时4|时间|星舰|最早|月1|次发|次尝|次飞|此次|的前|监管|称在|称此|窗口|管部|续7|置回|美国|舰和|舰此|获得|获装|行计|装置|计划|让星|试让|超重|过捕|返回|通过|部时|部门|重型|钟将|门批|间1|间下|飞行|首次"
+  ],
+  [
+   1794135046.6430051,
+   "02|20|28|8年|也在|亚州|佐治|加2|华盛|参加|参议|员竞|国佐|在考|坎普|州州|州长|布莱|年总|年的|总统|恩坎|普也|普正|正考|治亚|的参|盛顿|竞选|统竞|美国|考虑|莱恩|虑参|议员|选华|选坎|邮报|长布|顿邮"
   ]
  ],
  "futu": [
@@ -6197,7 +6208,9 @@
   "futu:1003819669",
   "futu:1003819644",
   "futu:1003819626",
-  "futu:1003819815"
+  "futu:1003819815",
+  "futu:1003820196",
+  "futu:1003820125"
  ],
  "news_recent": [
   [
