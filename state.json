@@ -2926,7 +2926,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794147799.4846494,
+ "earnings_last_check": 1794148543.7308285,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -6247,7 +6247,9 @@
   "futu:1003822167",
   "futu:1003822245",
   "futu:1003822242",
-  "futu:1003822192"
+  "futu:1003822192",
+  "futu:1003822720",
+  "futu:1003822703"
  ],
  "news_recent": [
   [
