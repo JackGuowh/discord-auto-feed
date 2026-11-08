@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794130849.2037609,
+ "earnings_last_check": 1794131707.2033203,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3192,7 +3192,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794130608.3533757,
+ "gas_last_check": 1794131845.6046271,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4902,11 +4902,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144153",
-  "tg:FinancialJuice/144152",
-  "tg:FinancialJuice/144151",
-  "tg:FinancialJuice/144150",
-  "tg:FinancialJuice/144149",
   "tg:FinancialJuice/144148",
   "tg:FinancialJuice/144154",
   "tg:FinancialJuice/144155",
@@ -5701,7 +5696,12 @@
   "tg:FinancialJuice/145528",
   "tg:FinancialJuice/145531",
   "tg:FinancialJuice/145530",
-  "tg:FinancialJuice/145529"
+  "tg:FinancialJuice/145529",
+  "tg:FinancialJuice/145536",
+  "tg:FinancialJuice/145535",
+  "tg:FinancialJuice/145534",
+  "tg:FinancialJuice/145533",
+  "tg:FinancialJuice/145532"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6189,7 +6189,11 @@
   "futu:1003819260",
   "futu:1003819249",
   "futu:1003819246",
-  "futu:1003819424"
+  "futu:1003819424",
+  "futu:1003819583",
+  "futu:1003819548",
+  "futu:1003819543",
+  "futu:1003819538"
  ],
  "news_recent": [
   [
@@ -6339,6 +6343,10 @@
   [
    1794104672.773235,
    "around being currently deadly dozen emergency hospital including injured killed krakow least main market now officers people perpetrator police scene services shooting shot square still taken working"
+  ],
+  [
+   1794131107.2558973,
+   "achieve blockade cannot economic fars guards iran neighbors revolutionary sever spokesperson tehran ties"
   ]
  ]
 }
