@@ -2485,7 +2485,8 @@
   "tg:WalterBloomberg/38040",
   "tg:WalterBloomberg/38039",
   "tg:WalterBloomberg/38038",
-  "tg:WalterBloomberg/38037"
+  "tg:WalterBloomberg/38037",
+  "tg:WalterBloomberg/38054"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2886,7 +2887,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794159833.800031,
+ "congress_last_check": 1794161682.7588997,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2930,7 +2931,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794161425.3650084,
+ "earnings_last_check": 1794162181.9789906,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4916,8 +4917,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144162",
-  "tg:FinancialJuice/144164",
   "tg:FinancialJuice/144165",
   "tg:FinancialJuice/144169",
   "tg:FinancialJuice/144168",
@@ -5715,7 +5714,9 @@
   "tg:FinancialJuice/145543",
   "tg:FinancialJuice/145542",
   "tg:FinancialJuice/145545",
-  "tg:FinancialJuice/145546"
+  "tg:FinancialJuice/145546",
+  "tg:FinancialJuice/145548",
+  "tg:FinancialJuice/145547"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6347,7 +6348,8 @@
   "futu:1003824741",
   "futu:1003824699",
   "futu:1003824686",
-  "futu:1003824674"
+  "futu:1003824674",
+  "futu:1003824817"
  ],
  "news_recent": [
   [
