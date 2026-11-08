@@ -2489,7 +2489,8 @@
   "tg:WalterBloomberg/38054",
   "tg:WalterBloomberg/38055",
   "tg:WalterBloomberg/38056",
-  "tg:WalterBloomberg/38057"
+  "tg:WalterBloomberg/38057",
+  "tg:WalterBloomberg/38058"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2936,7 +2937,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794172562.6811316,
+ "earnings_last_check": 1794173365.0475938,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -6402,7 +6403,9 @@
   "futu:1003825871",
   "futu:1003826049",
   "futu:1003826019",
-  "futu:1003826126"
+  "futu:1003826126",
+  "futu:1003826226",
+  "futu:1003826174"
  ],
  "news_recent": [
   [
@@ -6632,6 +6635,10 @@
   [
    1794172501.2576988,
    "accused admitted affair businesswoman china chinese disclose having here https huang independent investigation jensen launches nvidia read spying www x1jdnbityh"
+  ],
+  [
+   1794173479.2884238,
+   "$nvda admitted affair apologized authorities believe bloomberg board ceo chinese company compromised cooperate employees espionage executive extramarital former fully huang independent intelligence investigation involving jensen launches launching links megaspeed national nvidia operation probe reason remain reportedly secrets security suspect targeted whether"
   ]
  ]
 }
