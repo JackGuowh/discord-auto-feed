@@ -2924,7 +2924,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794135051.1317005,
+ "earnings_last_check": 1794135873.3290398,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3192,7 +3192,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794134329.077958,
+ "gas_last_check": 1794135571.0700119,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4905,7 +4905,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144148",
   "tg:FinancialJuice/144154",
   "tg:FinancialJuice/144155",
   "tg:FinancialJuice/144157",
@@ -5704,7 +5703,8 @@
   "tg:FinancialJuice/145535",
   "tg:FinancialJuice/145534",
   "tg:FinancialJuice/145533",
-  "tg:FinancialJuice/145532"
+  "tg:FinancialJuice/145532",
+  "tg:FinancialJuice/145537"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6210,7 +6210,9 @@
   "futu:1003819626",
   "futu:1003819815",
   "futu:1003820196",
-  "futu:1003820125"
+  "futu:1003820125",
+  "futu:1003820327",
+  "futu:1003820315"
  ],
  "news_recent": [
   [
@@ -6364,6 +6366,10 @@
   [
    1794131107.2558973,
    "achieve blockade cannot economic fars guards iran neighbors revolutionary sever spokesperson tehran ties"
+  ],
+  [
+   1794135870.42932,
+   "4bn agreement anthropic centers data electricity fired gas produce secures"
   ]
  ]
 }
