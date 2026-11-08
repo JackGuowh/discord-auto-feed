@@ -2884,7 +2884,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794150584.1997082,
+ "congress_last_check": 1794152438.1505737,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2928,7 +2928,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794151861.1320033,
+ "earnings_last_check": 1794152678.1111598,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -6265,7 +6265,10 @@
   "futu:1003823181",
   "futu:1003823170",
   "futu:1003823164",
-  "futu:1003823147"
+  "futu:1003823147",
+  "futu:1003823351",
+  "futu:1003823347",
+  "futu:1003823346"
  ],
  "news_recent": [
   [
