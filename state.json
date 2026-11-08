@@ -2713,7 +2713,8 @@
   "tg:WatcherGuru/15868",
   "tg:WatcherGuru/15874",
   "tg:WatcherGuru/15875",
-  "tg:WatcherGuru/15876"
+  "tg:WatcherGuru/15876",
+  "tg:WatcherGuru/15878"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2933,7 +2934,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794167824.3090005,
+ "earnings_last_check": 1794168625.4251955,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4427,7 +4428,8 @@
   "tg:disclosetv/22068",
   "tg:disclosetv/22067",
   "tg:disclosetv/22066",
-  "tg:disclosetv/22065"
+  "tg:disclosetv/22065",
+  "tg:disclosetv/22079"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -4920,15 +4922,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144171",
-  "tg:FinancialJuice/144170",
-  "tg:FinancialJuice/144173",
-  "tg:FinancialJuice/144172",
-  "tg:FinancialJuice/144183",
-  "tg:FinancialJuice/144182",
-  "tg:FinancialJuice/144181",
-  "tg:FinancialJuice/144180",
-  "tg:FinancialJuice/144179",
   "tg:FinancialJuice/144178",
   "tg:FinancialJuice/144177",
   "tg:FinancialJuice/144176",
@@ -5719,7 +5712,16 @@
   "tg:FinancialJuice/145552",
   "tg:FinancialJuice/145551",
   "tg:FinancialJuice/145550",
-  "tg:FinancialJuice/145553"
+  "tg:FinancialJuice/145553",
+  "tg:FinancialJuice/145562",
+  "tg:FinancialJuice/145561",
+  "tg:FinancialJuice/145560",
+  "tg:FinancialJuice/145559",
+  "tg:FinancialJuice/145558",
+  "tg:FinancialJuice/145557",
+  "tg:FinancialJuice/145556",
+  "tg:FinancialJuice/145555",
+  "tg:FinancialJuice/145554"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6543,6 +6545,42 @@
   [
    1794163175.4312146,
    "asked border crossings foreign iran iraq iraqi jazeera keep minister open shut tells treasury two"
+  ],
+  [
+   1794168082.4917896,
+   "access blog daybreak expanding frontier hacktron models openai red via"
+  ],
+  [
+   1794168084.6062639,
+   "anthropic begin information ipo next roadshow week"
+  ],
+  [
+   1794168086.6141214,
+   "board directors nvidia statement"
+  ],
+  [
+   1794168202.3636599,
+   "board ceo foreign independent intelligence launches nvidia probe targeting"
+  ],
+  [
+   1794168204.355172,
+   "counsel directors external independent investigation nvidia supervise"
+  ],
+  [
+   1794168262.1706896,
+   "board breach company compromised national nvidia secrets security signs"
+  ],
+  [
+   1794168502.8287072,
+   "backs cooperation fully jensen nvidia pledges review"
+  ],
+  [
+   1794168561.2939677,
+   "$nvda admits affair board ceo chinese having huang investigation jensen launches nvidia relationship spy"
+  ],
+  [
+   1794168564.8977246,
+   "board confidence expresses jensen leadership needed nvidia provide team updates"
   ]
  ]
 }
