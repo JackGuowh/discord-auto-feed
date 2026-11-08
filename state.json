@@ -901,8 +901,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191872",
-  "wscn:3191871",
   "wscn:3191888",
   "wscn:3191883",
   "wscn:3191875",
@@ -1700,7 +1698,9 @@
   "wscn:3196475",
   "wscn:3196479",
   "wscn:3196489",
-  "wscn:3196488"
+  "wscn:3196488",
+  "wscn:3196491",
+  "wscn:3196490"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2930,7 +2930,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794154975.8439598,
+ "earnings_last_check": 1794155832.061664,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3198,7 +3198,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794154117.9092317,
+ "gas_last_check": 1794155351.8503268,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3794,7 +3794,8 @@
   "gas:CBMilgFBVV95cUxPSXhkYjFOZERkdUZ0Njkzb0ZZVFdRTDFzbkZjSTV0MkpiZFhRdVBENlFUUk1DTnlYRmx3X1VBdC00Wld4VlgtVkFZclZGYmlYZUpKUW5qVloxX1FMMF9XNzQ0NlpIWGtWNlo1VXpxOGNPMGh1dHNJanQtZl9Ha3BhaDRtX2k5YWNpaVNDQkFZWGFybnlIeEE",
   "gas:CBMi6wFBVV95cUxPeTBCRnFtXzlTcVExQTBLT3l0T3JIeTZ0bVcxUUZqNjFqOGowX05VeWlzWHh4emRIcml3dkZ3VnZuRUtWbUdSMEFFVUtpb1hqWlFOakVKZlJzdjhTcDBfcDBlVzdCNzdmUlM4N2pIN1BJMktHY09QVlQ4WUtOSll4alRvUzdXVksxd1h5N0dsekE2ZkpRUUxIU3JCZ3lOeWN5akUxVHZFYXI2ejVVX3pRZXlGcEtTWloxcVAzbmNxNXBCUGwwbHVOVFg5Ql9UeUhfM2RCdDA3cFNYWjdpODlveUhGQU5yTnlHSmpv0gHwAUFVX3lxTFBEdHRUeVRnN3hjTjJDN3JZVmplTE9EdjFqb3BkNThqMzNUNTkzcVd1OTUxazRnVjhUenlfUk9ZcWtmbldZMkRxWGdhLWZuTEtZczVsWGRCVWlJVEttZklCS2ozcjZKZFhncFN1U0VweXY3R2s3YXdoUXdOVmltQTlOMVVPSWx4NkVDVVkyNkRrRkM2TllUUW15N256NU5TLUJ5dnJqN3NTMXdRUDJURTVhdUFBUFpRODdrNEZfWEU1Z1BnbEZRR2RsZ3R4cjRTc0JfRWtSeE5rRlVsWjg1ZThtSEFKRGt2SHZxcjVnM1pSRQ",
   "gas:CBMiswFBVV95cUxNQ2VaV0xya0NfdkJjMWRrVUpVUjhmSDVpZkJvSGFsT0oxcVFnLVZYd0k1SUt3UG9LVDFCUUh1UXEtdjhYVGZxcDd0RVZBMUhQRERiX2V4YWd3dEx5NkZyREFTQ2oyUVF1cnZXRzRNMC13cWl0RFdwSWhSQUJwOXJKTGhyQnpMVzBiWVlCZTVVQlJFUHFlWHhtZUN6MHczWXBEUW14WFVxbDZTZmllRkotb1FTUQ",
-  "gas:CBMickFVX3lxTFBfVUNUY0wxQmx5Z1R3RlB3WGlXRVlrNFFCYkFINV9mZlNTUG0tYWdsb043M2RscWNOZlZaZzU2VVh2Y3FSR2NnbTNTT2ZjaTVUa2dqalNoclRobk1aNGFUU0JHaEN4QzRlcVA5SV9Penc2dw"
+  "gas:CBMickFVX3lxTFBfVUNUY0wxQmx5Z1R3RlB3WGlXRVlrNFFCYkFINV9mZlNTUG0tYWdsb043M2RscWNOZlZaZzU2VVh2Y3FSR2NnbTNTT2ZjaTVUa2dqalNoclRobk1aNGFUU0JHaEN4QzRlcVA5SV9Penc2dw",
+  "gas:CBMiZkFVX3lxTFBrNy1LYWxZajJrZUs5d29VeDBtNGdYRFhkY01MZjd3cTB1a0xsdXBLeVBjOTV3VG41MGlheURlWkxrNFN6anF4S19saHFRNEdtR19OUFNyM1dsODdrUGNmMERTeTBFUQ"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6082,6 +6083,14 @@
   [
    1794154735.760323,
    "1期|3的|73|A应|PS|SA|am|as|g联|ig|it|mi|pa|ri|sr|ta|中取|临床|公司|列腺|前列|原P|取得|司p|合疗|在1|床试|应答|异性|强生|得7|性抗|抗原|期临|法在|特异|生公|疗法|的前|答率|联合|腺特|试验|验中"
+  ],
+  [
+   1794155469.6077957,
+   "一艘|东触|以东|伊朗|兹海|军称|在霍|尔木|峡以|朗海|木兹|油轮|海军|海峡|称一|艘油|触雷|起火|轮在|雷起|霍尔"
+  ],
+  [
+   1794155589.5282233,
+   "4次|8日|一轮|三轮|下午|东部|严重|中心|中目|为回|主导|也门|了四|了沙|事行|二轮|于也|于布|亡沙|亡的|亡第|人员|人机|以及|伤亡|位于|使用|储油|公司|内目|军事|军位|击也|击了|击命|则针|利雅|动4|动了|动则|动及|动声|动打|动的|动针|区的|午发|卜省|及也|及造|及金|发动|发火|发表|司位|司储|员伤|命中|和无|和马|哈立|四轮|回应|国王|国际|地区|地时|场沙|塞武|境内|声明|大量|夫省|央视|失第|季省|对也|对此|对沙|导弹|导的|巡航|巴地|布盖|平民|并引|并造|应央|应沙|引发|弹和|弹巡|弹道|当地|得的|德国|心称|成严|成大|成平|打击|拉巴|拉赫|损失|方面|施声|无人|无回|日下|时间|明称|暂无|机场|机对|标发|标并|格的|次打|此暂|武装|民伤|沙特|油公|油罐|火灾|灾第|点造|焦夫|特主|特及|特对|特方|特阿|特首|王国|用弹|的军|的哈|的空|的联|的设|的部|盖格|目标|省东|省的|省穆|石油|称为|称对|称打|称第|穆达|空袭|立德|第一|第三|第二|第四|结点|罐以|美公|美石|联军|胡塞|航导|融中|行动|表声|袭胡|装使|装当|装称|设施|赫季|轮军|轮行|达拉|造成|道导|部和|部队|都利|里卜|重损|量人|金融|针对|门发|门境|门拉|门焦|门胡|间8|队集|阿美|际机|雅得|集结|面对|首都|马里"
   ]
  ],
  "futu": [
@@ -6288,7 +6297,10 @@
   "futu:1003823739",
   "futu:1003823732",
   "futu:1003823722",
-  "futu:1003823717"
+  "futu:1003823717",
+  "futu:1003823908",
+  "futu:1003823867",
+  "futu:1003823858"
  ],
  "news_recent": [
   [
