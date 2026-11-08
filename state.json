@@ -874,7 +874,9 @@
   "truth:https://www.trumpstruth.org/statuses/43500",
   "truth:https://www.trumpstruth.org/statuses/43501",
   "truth:https://www.trumpstruth.org/statuses/43524",
-  "truth:https://www.trumpstruth.org/statuses/43525"
+  "truth:https://www.trumpstruth.org/statuses/43525",
+  "truth:https://www.trumpstruth.org/statuses/43527",
+  "truth:https://www.trumpstruth.org/statuses/43526"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -899,8 +901,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3191876",
-  "wscn:3191874",
   "wscn:3191872",
   "wscn:3191871",
   "wscn:3191888",
@@ -1698,7 +1698,9 @@
   "wscn:3196474",
   "wscn:3196476",
   "wscn:3196475",
-  "wscn:3196479"
+  "wscn:3196479",
+  "wscn:3196489",
+  "wscn:3196488"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2928,7 +2930,7 @@
   "movers_post:2026-11-04",
   "market_fg:2026-11-06"
  ],
- "earnings_last_check": 1794154298.117294,
+ "earnings_last_check": 1794154975.8439598,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -6072,6 +6074,14 @@
   [
    1794137980.7753766,
    "17|34|4亿|7吉|9月|An|On|PW|RS|R两|R本|R没|So|WR|cO|c于|c并|c斥|eP|hr|ic|io|lu|ne|ns|nt|ol|on|op|pi|ro|s处|th|ti|ut|下旬|东尼|两年|中心|为数|于9|于得|交易|人士|亿美|从总|以3|任何|但这|但需|位于|何员|供应|供电|元购|元采|入A|前就|力据|勒订|包括|卡特|发电|吉瓦|向卡|员工|和施|商O|国金|圣安|型发|士透|处以|备为|备供|奥的|安东|安装|完成|就已|尼奥|州圣|工程|工能|工转|已向|年前|并未|应商|彼勒|得1|得州|心供|总部|情人|成交|所需|才能|承诺|报A|括安|据中|据知|据英|收购|数据|斥资|施工|旬从|时报|易还|月下|有任|未收|本身|机但|机所|机的|气发|没有|燃气|特彼|瓦重|电据|电机|电设|的工|的设|的采|知情|程和|笔交|美元|能力|能完|英国|融时|融资|装发|要融|订购|设备|诺A|购O|购发|购得|购承|购燃|资3|资才|身但|转入|还包|这笔|透露|部位|采购|重型|金融|需的|需要|露O"
+  ],
+  [
+   1794154734.1138375,
+   "一些|不想|些调|人选|会对|但目|体人|具体|前不|可能|国总|对政|府进|总统|想透|政府|整但|普可|朗普|特朗|目前|统特|美国|能会|行一|调整|进行|透露|露具"
+  ],
+  [
+   1794154735.760323,
+   "1期|3的|73|A应|PS|SA|am|as|g联|ig|it|mi|pa|ri|sr|ta|中取|临床|公司|列腺|前列|原P|取得|司p|合疗|在1|床试|应答|异性|强生|得7|性抗|抗原|期临|法在|特异|生公|疗法|的前|答率|联合|腺特|试验|验中"
   ]
  ],
  "futu": [
@@ -6272,7 +6282,13 @@
   "futu:1003823453",
   "futu:1003823452",
   "futu:1003823440",
-  "futu:1003823515"
+  "futu:1003823515",
+  "futu:1003823768",
+  "futu:1003823765",
+  "futu:1003823739",
+  "futu:1003823732",
+  "futu:1003823722",
+  "futu:1003823717"
  ],
  "news_recent": [
   [
