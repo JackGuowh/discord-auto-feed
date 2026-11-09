@@ -906,14 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192712",
-  "wscn:3192711",
-  "wscn:3192709",
-  "wscn:3192708",
-  "wscn:3192705",
-  "wscn:3192707",
-  "wscn:3192710",
-  "wscn:3192722",
   "wscn:3192721",
   "wscn:3192720",
   "wscn:3192719",
@@ -1705,11 +1697,17 @@
   "wscn:3197010",
   "wscn:3197009",
   "wscn:3197007",
-  "wscn:3197006"
+  "wscn:3197006",
+  "wscn:3197023",
+  "wscn:3197022",
+  "wscn:3197019",
+  "wscn:3197017",
+  "wscn:3197016",
+  "wscn:3197015",
+  "wscn:3197014",
+  "wscn:3197012"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37215",
-  "tg:WalterBloomberg/37214",
   "tg:WalterBloomberg/37213",
   "tg:WalterBloomberg/37234",
   "tg:WalterBloomberg/37233",
@@ -2507,7 +2505,9 @@
   "tg:WalterBloomberg/38082",
   "tg:WalterBloomberg/38085",
   "tg:WalterBloomberg/38087",
-  "tg:WalterBloomberg/38086"
+  "tg:WalterBloomberg/38086",
+  "tg:WalterBloomberg/38089",
+  "tg:WalterBloomberg/38088"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2746,7 +2746,8 @@
   "tg:WatcherGuru/15895",
   "tg:WatcherGuru/15896",
   "tg:WatcherGuru/15897",
-  "tg:WatcherGuru/15899"
+  "tg:WatcherGuru/15899",
+  "tg:WatcherGuru/15900"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2969,7 +2970,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794236016.2271233,
+ "earnings_last_check": 1794236824.838429,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3242,7 +3243,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794235360.678855,
+ "gas_last_check": 1794236584.7144423,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3866,7 +3867,9 @@
   "gas:CBMiZEFVX3lxTFBrTGdDS2RUN0poN0FIdHFEVGtUOXFBeTJ2TVRnY1d3OVBIazF2dlpmUTVyZGxIelFxZXFISFl4RlY0VXd5Y243RnhuVnQwR1BUcjlFME1sSlNiaUFaOElRRkFPWEc",
   "gas:CBMi-wFBVV95cUxQRDZIak1YZTc2X0RQNFU3YkVOVmJpTDRNcjBlZERfRE91WFFxR0F4TFVDMHppc05DMWw1dURMbXhUdlk2WWp6bGZETFNYc1JVelJsMVNMUDR0VWFQQnNBY2U5TnFoWTJadlVFTkJCNldrTjB2M0J2bmVROUpGekgzTVFWR0duZEVMbGdvdGFqSmRiNjIwMmFacTRHS1h0SDJxWlZDdnBxc2JLZHFBVm8xcjgwX1N4MWJfaDFwcUNuR0lCUzNwMDM3Y2ZGREFscWt6UllQcVlTb3B1VkpkZjB6WXdZZzBPLUNwR3BKbXc5d2JyNjZvTkZCMzcyZw",
   "gas:CBMirAFBVV95cUxPQUlwV0ZBSzBZZHBoZi1UZWV3XzRPRWItLUYtWGVTOXVfaVBUMUswbkdZU0FJbWZuS2NRSExKZkRvZk1hbUNiNlJ3ZnQ0Xzl0RS15eV9mRm42eFBWSjdBdER2UVlWN01tTVYwV2xhUlhScWh5RGx5ZWlUbmpMRWdwcFFrRXJLOUJQTkRfc05mdmVUdUVUVG5iZ0FMTmpHeTA0aDJhVXNzek1Uczdh",
-  "gas:CBMinAFBVV95cUxOa0Vva28yaTc1WjVrN0pDMmpIb2xJZnRFaVdielV0aHdmUDFNaHQxSzNqM2h6R3hpVUJCMm9mT3IwcTIycDNGSnVsbjlLb1JhZGZoYnlISkcwd3JhVFc4UXhBR3h4Z2Zvd3FLd1l2ZTNBN2pyQUd2WDdSUTI3SUt3Yk1XNFFOVFVnQkd6VnIyWU0xRHNEdHlQcWJlVjg"
+  "gas:CBMinAFBVV95cUxOa0Vva28yaTc1WjVrN0pDMmpIb2xJZnRFaVdielV0aHdmUDFNaHQxSzNqM2h6R3hpVUJCMm9mT3IwcTIycDNGSnVsbjlLb1JhZGZoYnlISkcwd3JhVFc4UXhBR3h4Z2Zvd3FLd1l2ZTNBN2pyQUd2WDdSUTI3SUt3Yk1XNFFOVFVnQkd6VnIyWU0xRHNEdHlQcWJlVjg",
+  "gas:CBMiqgFBVV95cUxOQkV0VU94dU42WVhtVWVTdjBzWDJPV0lnM1pUQW5Eajd3MUFRYUJSSTA2cF9WeDkwc3dEazNBWmFaV1lYMVRQUXotU0ttcmVZTFRweE5CYlNCVllVWjc3N0k4SWpLcmUzTkZEY0twemxhaFlkNGJMckxkUHZhcFcwak5ER2JxMC1tUmJuU0ZtbkRmTmdIQ3lCbDBPOTkxaTd2a1R1TzlLTXZjQQ",
+  "gas:CBMixgFBVV95cUxOM3d6cmRCNHlFT01HUjZ0S2MwY2VzQnNldzRjUjFDQXdJUEpEYm5QU2JvelBBZ3lZMTZQS2lYMjF5STFOVks5RUdQTUZDbTdfSlczS2xQdDBVUE0yQldGNkw1UjVYWnF3MjJIQUhnal9vY2dxNEtfTEtYUjBrVGt2cG81eVFzMTVxLVlpc3R5MG1HUVVKYnZQSlBuR3owZkNfV0NocC0tRTFZNkxwYUEycWxUV2NBb3JPUERaWVpidDVzZXVZYXc"
  ],
  "shows_last_day": "2026-11-09",
  "shows_init": "2026-10-22",
@@ -4834,7 +4837,8 @@
   "tg:insiderpaper/45783",
   "tg:insiderpaper/45786",
   "tg:insiderpaper/45787",
-  "tg:insiderpaper/45788"
+  "tg:insiderpaper/45788",
+  "tg:insiderpaper/45789"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -4995,9 +4999,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144293",
-  "tg:FinancialJuice/144295",
-  "tg:FinancialJuice/144294",
   "tg:FinancialJuice/144299",
   "tg:FinancialJuice/144298",
   "tg:FinancialJuice/144297",
@@ -5794,7 +5795,10 @@
   "tg:FinancialJuice/145672",
   "tg:FinancialJuice/145675",
   "tg:FinancialJuice/145674",
-  "tg:FinancialJuice/145676"
+  "tg:FinancialJuice/145676",
+  "tg:FinancialJuice/145679",
+  "tg:FinancialJuice/145678",
+  "tg:FinancialJuice/145677"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6793,6 +6797,46 @@
   [
    1794236013.4203148,
    "17|3万|43|4盘|5美|78|85|9现|一度|万亿|亿美|伟达|低开|值4|元市|初一|市值|幅收|度跌|开高|报1|收窄|现报|盘初|窄至|美元|至4|英伟|走跌|超9|跌幅|跌超|达低|高走"
+  ],
+  [
+   1794236040.9378753,
+   "1A|26|2T|3C|41|4C|62|73|Ap|BI|CR|Cl|Co|Di|IS|NB|Ne|O上|RW|SO|Sc|Te|VO|WV|Wu|aW|al|av|bi|ci|c上|dD|d股|eC|eS|ea|eb|ed|en|eo|er|ew|fi|f上|gi|ic|ie|if|ig|it|iu|lf|li|lo|l上|nt|oC|or|ou|pl|pp|ra|re|sN|ta|ti|ud|ul|us|ve|we|一周|上涨|下跌|云计|价反|公司|前一|反弹|司N|后新|周大|在此|大幅|幅下|弹N|新云|此前|涨2|涨4|涨6|涨7|算公|股价|计算|跌后"
+  ],
+  [
+   1794236281.2065713,
+   "0分|60|一节|上之|上涨|上谈|不喜|不在|中失|中当|中期|中遭|为美|主要|举中|之一|之外|争不|亚广|人厌|人对|人的|他本|他说|以置|以色|们不|价格|伦比|何分|信的|党在|党失|公司|共和|分析|分钟|列抱|列近|利是|利的|历史|厌恶|原因|去他|及共|及如|史性|司电|名字|后还|和党|哥伦|喜欢|回答|因为|因之|因他|因选|国人|国哥|国总|在中|在美|在选|外背|央视|失利|失败|如何|字不|对以|层次|广播|当被|性失|总统|恶以|恶这|战争|抱有|播公|日美|时特|是共|是因|普共|普回|普在|更深|有更|有难|朗普|期选|本人|析共|格上|次的|欢战|欢汽|比亚|民们|汽油|油价|涨央|深层|特朗|电视|的主|的厌|的原|的名|目6|目中|票上|答说|统特|置信|美国|背后|色列|节目|被问|要原|视节|说美|说除|谈及|败时|近日|还有|这是|选举|选民|选票|遇历|遭遇|钟上|问及|除去|难以"
+  ],
+  [
+   1794236283.83902,
+   "27|39|67|7迈|7高|CO|IN|LO|MO|MR|NT|OM|O上|QC|RV|TC|VL|上涨|价扩|制造|商股|国芯|大涨|威尔|尔I|尔科|幅英|扩大|技M|涨2|涨3|涨6|涨幅|片制|特尔|科技|美国|股价|芯片|英特|迈威|通Q|造商|高通"
+  ],
+  [
+   1794236400.4781685,
+   "03|12|2刷|37|39|77|7点|90|93|9点|下方|低开|体及|其设|制造|刷新|半导|及其|备制|导体|开盘|开高|指数|数低|新日|日高|时跌|涨1|点下|点开|盘时|美股|股半|至9|设备|走涨|跌至|近9|造指|逼近|高走|高逼"
+  ],
+  [
+   1794236401.9564319,
+   "6马|Sp|X将|X涨|ac|ce|eX|pa|两者|中尝|件首|克称|关键|功这|助推|即将|同时|和星|器和|回地|回收|在即|地球|均成|多行|完整|实现|将在|将是|将进|尝试|成功|所有|所需|推器|收超|整返|斯克|时回|星生|星舰|是实|是轨|有部|次完|活所|涨超|火箭|现多|球这|生活|的关|的试|称S|突破|箭所|者均|舰飞|船若|若两|行星|行的|试同|试飞|超6|超重|轨道|返回|这将|这是|进行|道火|部件|重助|键突|需的|飞中|飞船|首次|马斯"
+  ],
+  [
+   1794236459.5444286,
+   "06|07|6初|7预|9月|值0|初值|发库|国9|存环|库存|批发|月批|期0|比终|环比|终值|美国|预期"
+  ],
+  [
+   1794236461.3108141,
+   "18|28|8前|9月|值1|前值|发销|售环|国9|批发|月批|比2|环比|美国|销售"
+  ],
+  [
+   1794236580.5228124,
+   "0成|11|17|1月|1累|20|5日|7失|88|8上|AM|D连|MD|一交|上一|两个|个交|中首|为半|交易|体板|全收|内当|前涨|半导|反弹|只完|地的|块中|复1|大幅|失地|完全|导体|幅反|幅接|弹日|当前|成为|接近|收复|日内|日大|日暴|日涨|易日|暴跌|月5|板块|涨1|涨8|涨幅|的股|累计|续两|股票|计涨|跌1|近2|连续|首只"
+  ],
+  [
+   1794236700.233041,
+   "AI|Ca|C退|I协|LC|LL|Op|Se|aC|al|ap|at|eq|er|ia|io|it|lO|ns|oi|on|pe|pi|qu|ra|sL|ta|ti|uo|伦敦|其美|出英|分欧|前其|协议|团队|国伦|国团|多分|成多|敦此|欧洲|此前|洲A|美国|英国|达成|退出|队达"
+  ],
+  [
+   1794236820.0359585,
+   "00|02|0兆|10|18|1日|20|25|27|42|50|7年|80|8月|91|AS|St|S公|at|et|ne|tA|ta|tn|tt|一暂|一步|中心|中此|为数|之中|于2|于容|停为|停措|停止|停进|兆瓦|入容|入申|入电|全国|公告|关措|前已|前解|力接|包括|告称|商S|国最|在2|增1|增电|处于|外还|威全|威暂|威输|容量|将在|已有|已经|年8|心接|心预|括暂|挪威|据中|排队|接入|措施|数据|新增|新的|施包|施最|日前|时停|暂停|暂时|最迟|最高|月1|有8|有9|有新|止新|此外|步为|瓦处|瓦容|瓦的|用电|申请|电力|电系|电网|电负|留新|留电|留还|留预|略高|的接|的数|的电|的相|目前|相关|称暂|系统|经预|统运|网4|网接|而挪|荷略|营商|解除|计这|请而|负荷|输电|运营|还有|这一|进一|迟将|量已|量挪|量排|量的|量预|队之|除目|预留|预计|高于|高用"
   ]
  ],
  "futu": [
@@ -7501,7 +7545,16 @@
   "futu:1003900303",
   "futu:1003900236",
   "futu:1003900206",
-  "futu:1003900087"
+  "futu:1003900087",
+  "futu:1003902823",
+  "futu:1003902749",
+  "futu:1003902065",
+  "futu:1003902025",
+  "futu:1003902007",
+  "futu:1003901755",
+  "futu:1003901365",
+  "futu:1003901345",
+  "futu:1003901277"
  ],
  "news_recent": [
   [
@@ -7947,6 +8000,14 @@
   [
    1794235658.4418697,
    "$nvda admits affair alleged ceo chinese crashes having huang jensen nvidia open spy"
+  ],
+  [
+   1794236160.7897654,
+   "000 added market open stock"
+  ],
+  [
+   1794236340.6455264,
+   "000 100 300 500 advises approach bank before believes bottom breadth buying chief concerns continues correction dip downside end entering equity expects final finding funding his however infrastructure investors maintaining market mike morgan nearing persist phase potentially rally range sees setting stanley strategist target wait weaken while wilson year"
   ]
  ]
 }
