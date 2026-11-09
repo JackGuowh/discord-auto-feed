@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192031",
   "wscn:3192033",
   "wscn:3192038",
   "wscn:3192040",
@@ -1705,7 +1704,8 @@
   "wscn:3196613",
   "wscn:3196612",
   "wscn:3196625",
-  "wscn:3196624"
+  "wscn:3196624",
+  "wscn:3196630"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2726,7 +2726,8 @@
   "tg:WatcherGuru/15878",
   "tg:WatcherGuru/15879",
   "tg:WatcherGuru/15881",
-  "tg:WatcherGuru/15885"
+  "tg:WatcherGuru/15885",
+  "tg:WatcherGuru/15886"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2902,7 +2903,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794191139.4453475,
+ "congress_last_check": 1794192997.121949,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2947,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794192680.9452667,
+ "earnings_last_check": 1794193537.8024015,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3215,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794192259.4043984,
+ "gas_last_check": 1794193477.1210458,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4946,11 +4947,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144221",
-  "tg:FinancialJuice/144220",
-  "tg:FinancialJuice/144219",
-  "tg:FinancialJuice/144222",
-  "tg:FinancialJuice/144223",
   "tg:FinancialJuice/144224",
   "tg:FinancialJuice/144225",
   "tg:FinancialJuice/144226",
@@ -5745,7 +5741,12 @@
   "tg:FinancialJuice/145594",
   "tg:FinancialJuice/145593",
   "tg:FinancialJuice/145601",
-  "tg:FinancialJuice/145602"
+  "tg:FinancialJuice/145602",
+  "tg:FinancialJuice/145607",
+  "tg:FinancialJuice/145606",
+  "tg:FinancialJuice/145605",
+  "tg:FinancialJuice/145604",
+  "tg:FinancialJuice/145603"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6272,6 +6273,10 @@
   [
    1794192198.4168556,
    "0月|10|11|1月|8名|8日|一名|一架|三国|上一|上午|不清|中旬|临时|为此|亚利|亚和|仍在|仍计|代表|件显|伊冲|伊朗|但航|体遣|全部|公布|公民|关遣|具体|冲突|分被|划代|划将|划经|划通|利桑|前一|前公|前向|前通|动发|动可|午在|午突|原因|原计|反法|发表|取消|可能|吉亚|名伊|名联|后被|向法|和巴|回国|因尚|国一|国国|国土|国政|国方|国的|国遣|土安|在亚|在持|地时|坦飞|基斯|天上|央视|安全|官已|将伊|少8|尚不|就具|尽管|州登|已要|巴基|布的|师认|府截|府提|当地|当天|往伊|律师|息称|息美|截至|报相|拒绝|拘留|持续|据美|提前|政府|文件|斯坦|新闻|方面|日据|旬仍|时取|时间|显示|普政|月8|月中|朗公|朗普|朗的|架原|架计|架遣|格鲁|桑那|楚至|次行|此前|此次|民当|民的|民美|民遣|求央|求美|法官|法院|消原|消当|消息|消消|清楚|然取|特朗|班临|班但|班当|班随|留者|登上|的律|的提|的法|的航|的遣|相关|知要|示尽|称此|突仍|突然|第三|管美|经格|绝就|续特|美伊|美国|者的|联邦|能违|至1|至少|航班|行动|表评|表部|被取|被拘|要求|视新|计划|认为|论此|评论|过第|返伊|返回|返航|返行|返计|违反|通报|通知|通过|遣返|那州|邦法|部分|部拒|间1|院文|院的|院通|随后|面消|飞往|鲁吉"
+  ],
+  [
+   1794192877.109687,
+   "35|5根|AT|Bl|Hy|Oc|S平|TS|an|ce|d的|eO|ea|er|id|iq|li|lu|nA|pe|qu|rl|ue|ui|yp|下跌|中下|交易|价格|伟达|台英|合约|后交|在盘|平台|据B|据H|易中|显示|根据|格显|永续|的价|盘后|示英|票在|约3|约下|续合|股票|英伟|跌约|达永|达股"
   ]
  ],
  "futu": [
@@ -6637,7 +6642,10 @@
   "futu:1003836941",
   "futu:1003838312",
   "futu:1003838194",
-  "futu:1003839395"
+  "futu:1003839395",
+  "futu:1003841449",
+  "futu:1003840968",
+  "futu:1003840969"
  ],
  "news_recent": [
   [
@@ -6911,6 +6919,14 @@
   [
    1794191756.8688865,
    "china extend maintain months nov statement suspension tariffs two"
+  ],
+  [
+   1794192816.414006,
+   "alternative blue hours nvidia ocean shares system trading tumble"
+  ],
+  [
+   1794193176.4313846,
+   "$nvda ceo china chip enemy huang jensen mistake not nvidia policy"
   ]
  ]
 }
