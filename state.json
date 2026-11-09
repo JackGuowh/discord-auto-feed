@@ -907,9 +907,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192812",
-  "wscn:3192811",
-  "wscn:3192810",
   "wscn:3192809",
   "wscn:3192808",
   "wscn:3192807",
@@ -1706,7 +1703,10 @@
   "wscn:3197093",
   "wscn:3197091",
   "wscn:3197090",
-  "wscn:3197089"
+  "wscn:3197089",
+  "wscn:3197098",
+  "wscn:3197097",
+  "wscn:3197096"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37245",
@@ -2753,7 +2753,8 @@
   "tg:WatcherGuru/15903",
   "tg:WatcherGuru/15905",
   "tg:WatcherGuru/15906",
-  "tg:WatcherGuru/15908"
+  "tg:WatcherGuru/15908",
+  "tg:WatcherGuru/15909"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2929,7 +2930,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794246240.3904614,
+ "congress_last_check": 1794248086.2256749,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2976,7 +2977,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794247225.198205,
+ "earnings_last_check": 1794248086.7333117,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3249,7 +3250,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794246480.4121785,
+ "gas_last_check": 1794247726.003919,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -5016,10 +5017,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144371",
-  "tg:FinancialJuice/144370",
-  "tg:FinancialJuice/144369",
-  "tg:FinancialJuice/144378",
   "tg:FinancialJuice/144377",
   "tg:FinancialJuice/144376",
   "tg:FinancialJuice/144375",
@@ -5815,7 +5812,11 @@
   "tg:FinancialJuice/145749",
   "tg:FinancialJuice/145755",
   "tg:FinancialJuice/145754",
-  "tg:FinancialJuice/145753"
+  "tg:FinancialJuice/145753",
+  "tg:FinancialJuice/145759",
+  "tg:FinancialJuice/145758",
+  "tg:FinancialJuice/145757",
+  "tg:FinancialJuice/145756"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7158,16 +7159,21 @@
   [
    1794247279.7761955,
    "02|15|20|27|5刷|7年|于2|免费|公司|出免|划于|刷新|司计|士尼|尼涨|年推|推出|新日|日高|档频|涨1|计划|该公|费档|迪士|频道|高该"
+  ],
+  [
+   1794247363.9354625,
+   "00|06|0亿|0月|10|20|22|25|26|27|32|3前|46|49|53|58|62|6年|6日|71|80|93|三年|为2|为4|亿美|以来|倍数|债得|元三|利率|前次|卖5|国债|国财|年以|年期|得标|投标|拍卖|政部|数2|日为|最高|月6|期国|来最|标倍|标利|次为|率4|美元|美国|财政|部拍|高投"
+  ],
+  [
+   1794247663.8798413,
+   "2B|B阶|Ef|Me|ck|de|du|e2|eg|er|fi|gd|id|in|k的|no|op|pe|rc|ti|ut|临床|主要|实现|床试|段临|现主|的E|终点|要终|试验|阶段|验实"
+  ],
+  [
+   1794247844.6129518,
+   "AO|DA|NV|O首|VD|仁勋|会已|伟达|传唤|唤英|国会|国国|场消|官黄|已传|市场|席执|息美|执行|消息|美国|英伟|行官|达N|首席|黄仁"
   ]
  ],
  "futu": [
-  "futu:1003760710",
-  "futu:1003760433",
-  "futu:1003760309",
-  "futu:1003759719",
-  "futu:1003759583",
-  "futu:1003759473",
-  "futu:1003759432",
   "futu:1003759393",
   "futu:1003759319",
   "futu:1003759254",
@@ -7960,7 +7966,14 @@
   "futu:1003915267",
   "futu:1003915250",
   "futu:1003915236",
-  "futu:1003915229"
+  "futu:1003915229",
+  "futu:1003916494",
+  "futu:1003916307",
+  "futu:1003916079",
+  "futu:1003916061",
+  "futu:1003916032",
+  "futu:1003916026",
+  "futu:1003916025"
  ],
  "news_recent": [
   [
@@ -8598,6 +8611,18 @@
   [
    1794247100.9533973,
    "barkin consumer debt fed government historic level not"
+  ],
+  [
+   1794247306.5877206,
+   "$58 622 auction before billion treasury yield"
+  ],
+  [
+   1794247485.8416295,
+   "$58 627 auction awards bid bids bln bps cover dealers direct high indirect note primary sells tail take yield"
+  ],
+  [
+   1794247605.1360128,
+   "$nvda affair ceo chinese congress huang jensen nvidia spy summons"
   ]
  ]
 }
