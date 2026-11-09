@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192462",
   "wscn:3192542",
   "wscn:3192532",
   "wscn:3192577",
@@ -1705,7 +1704,8 @@
   "wscn:3196782",
   "wscn:3196820",
   "wscn:3196825",
-  "wscn:3196845"
+  "wscn:3196845",
+  "wscn:3196855"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2499,7 +2499,9 @@
   "tg:WalterBloomberg/38060",
   "tg:WalterBloomberg/38059",
   "tg:WalterBloomberg/38062",
-  "tg:WalterBloomberg/38061"
+  "tg:WalterBloomberg/38061",
+  "tg:WalterBloomberg/38064",
+  "tg:WalterBloomberg/38063"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2950,7 +2952,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794217573.258688,
+ "earnings_last_check": 1794218194.522532,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3218,7 +3220,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794216853.8800933,
+ "gas_last_check": 1794218071.985913,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -6441,6 +6443,10 @@
   [
    1794216711.4347994,
    "07|0亿|15|18|20|24|2亿|42|47|4亿|52|56|64|6亿|74|77|7亿|85|W中|W净|中国|为0|为4|买入|亿元|亿港|今日|元1|元2|元小|元港|元腾|入1|入2|入6|净买|净卖|出额|分别|别获|动腾|卖出|南向|向资|团W|国海|国移|小米|居首|控股|方面|日净|沪方|油分|洋石|海洋|深方|港元|港股|石油|移动|米集|美团|股净|股分|股通|腾讯|获净|讯控|资金|通沪|通深|金今|金额|集团|面中|面美|额为|额居|首金"
+  ],
+  [
+   1794217829.1477928,
+   "00|07|0指|0点|10|30|50|71|73|Mi|Wi|ae|ch|el|ha|ic|il|lW|ls|n写|n表|on|so|一个|一区|一美|下行|下调|与其|个完|丹利|为年|些股|们建|优质|会自|估值|值已|其7|其等|写道|准股|几周|出强|利的|利美|加对|劲的|势W|势摩|区间|反弹|口这|可能|同时|周增|周期|回调|国基|基准|增加|士丹|声或|声美|完美|对优|尾声|展现|已接|已显|年末|底部|建议|弹W|弹蓄|强劲|待一|我们|或正|指数|指正|接近|摩根|收益|敞口|数的|整可|料会|时展|显著|普5|期股|未来|末反|来几|标区|标普|根士|正为|正接|每股|点的|现出|的M|的下|的估|的底|的敞|的每|的调|益表|目标|示标|示这|票的|等待|美国|美的|美股|股回|股或|股指|股收|股的|股票|能已|自这|著下|蓄势|行目|表现|表示|议未|调同|调接|调整|质周|近其|近尾|这一|这些|道与|部我|间反|间料"
   ]
  ],
  "futu": [
@@ -6978,7 +6984,11 @@
   "futu:1003872794",
   "futu:1003872291",
   "futu:1003872274",
-  "futu:1003872021"
+  "futu:1003872021",
+  "futu:1003873347",
+  "futu:1003873325",
+  "futu:1003873113",
+  "futu:1003872953"
  ],
  "news_recent": [
   [
@@ -7292,6 +7302,10 @@
   [
    1794217092.2474473,
    "$nvda alice allegations alleged announced authorities board calling ceo china chinese denial denies espionage executive follows foreign former groundless huang independent information intelligence international investigation involving jensen megaspeed nvidia operation providing rejected relationship services slander speculation sunday suspect targeted while"
+  ],
+  [
+   1794218190.0465474,
+   "$190 $40 $spcx access acquire also ambitions arguing billion buy center committed computing create data financing firm gpu growing infrastructure maintains mobile network opportunities orbital permitting potential power price projects qualcomm radio rating reiterates secured sees selection spacex stalled stifel strengthens supplier target tighter while"
   ]
  ]
 }
