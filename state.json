@@ -2903,7 +2903,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794198498.2871883,
+ "congress_last_check": 1794200339.7888467,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794199958.4501088,
+ "earnings_last_check": 1794200761.296056,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4947,8 +4947,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144230",
-  "tg:FinancialJuice/144229",
   "tg:FinancialJuice/144231",
   "tg:FinancialJuice/144232",
   "tg:FinancialJuice/144233",
@@ -5746,7 +5744,9 @@
   "tg:FinancialJuice/145610",
   "tg:FinancialJuice/145609",
   "tg:FinancialJuice/145611",
-  "tg:FinancialJuice/145612"
+  "tg:FinancialJuice/145612",
+  "tg:FinancialJuice/145614",
+  "tg:FinancialJuice/145613"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6696,7 +6696,16 @@
   "futu:1003846062",
   "futu:1003846012",
   "futu:1003845921",
-  "futu:1003846614"
+  "futu:1003846614",
+  "futu:1003847145",
+  "futu:1003847011",
+  "futu:1003846971",
+  "futu:1003846970",
+  "futu:1003846904",
+  "futu:1003846903",
+  "futu:1003846720",
+  "futu:1003846644",
+  "futu:1003846633"
  ],
  "news_recent": [
   [
@@ -6978,6 +6987,10 @@
   [
    1794193176.4313846,
    "$nvda ceo china chip enemy huang jensen mistake not nvidia policy"
+  ],
+  [
+   1794200461.8293436,
+   "announce develop fusion infrastructure nvidia nvlink partnership rebellions sovereign telecom"
   ]
  ]
 }
