@@ -881,7 +881,8 @@
   "truth:https://www.trumpstruth.org/statuses/43532",
   "truth:https://www.trumpstruth.org/statuses/43531",
   "truth:https://www.trumpstruth.org/statuses/43530",
-  "truth:https://www.trumpstruth.org/statuses/43529"
+  "truth:https://www.trumpstruth.org/statuses/43529",
+  "truth:https://www.trumpstruth.org/statuses/43533"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -906,11 +907,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192749",
-  "wscn:3192760",
-  "wscn:3192757",
-  "wscn:3192756",
-  "wscn:3192755",
   "wscn:3192763",
   "wscn:3192762",
   "wscn:3192761",
@@ -1705,11 +1701,14 @@
   "wscn:3197047",
   "wscn:3197045",
   "wscn:3197044",
-  "wscn:3197043"
+  "wscn:3197043",
+  "wscn:3197057",
+  "wscn:3197056",
+  "wscn:3197055",
+  "wscn:3197054",
+  "wscn:3197053"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37239",
-  "tg:WalterBloomberg/37242",
   "tg:WalterBloomberg/37241",
   "tg:WalterBloomberg/37243",
   "tg:WalterBloomberg/37244",
@@ -2507,7 +2506,9 @@
   "tg:WalterBloomberg/38094",
   "tg:WalterBloomberg/38097",
   "tg:WalterBloomberg/38096",
-  "tg:WalterBloomberg/38095"
+  "tg:WalterBloomberg/38095",
+  "tg:WalterBloomberg/38099",
+  "tg:WalterBloomberg/38098"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2748,7 +2749,8 @@
   "tg:WatcherGuru/15897",
   "tg:WatcherGuru/15899",
   "tg:WatcherGuru/15900",
-  "tg:WatcherGuru/15901"
+  "tg:WatcherGuru/15901",
+  "tg:WatcherGuru/15903"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2971,7 +2973,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794240863.5963838,
+ "earnings_last_check": 1794241489.5326285,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3244,7 +3246,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794240328.3115282,
+ "gas_last_check": 1794241549.595334,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3870,7 +3872,9 @@
   "gas:CBMirAFBVV95cUxPQUlwV0ZBSzBZZHBoZi1UZWV3XzRPRWItLUYtWGVTOXVfaVBUMUswbkdZU0FJbWZuS2NRSExKZkRvZk1hbUNiNlJ3ZnQ0Xzl0RS15eV9mRm42eFBWSjdBdER2UVlWN01tTVYwV2xhUlhScWh5RGx5ZWlUbmpMRWdwcFFrRXJLOUJQTkRfc05mdmVUdUVUVG5iZ0FMTmpHeTA0aDJhVXNzek1Uczdh",
   "gas:CBMinAFBVV95cUxOa0Vva28yaTc1WjVrN0pDMmpIb2xJZnRFaVdielV0aHdmUDFNaHQxSzNqM2h6R3hpVUJCMm9mT3IwcTIycDNGSnVsbjlLb1JhZGZoYnlISkcwd3JhVFc4UXhBR3h4Z2Zvd3FLd1l2ZTNBN2pyQUd2WDdSUTI3SUt3Yk1XNFFOVFVnQkd6VnIyWU0xRHNEdHlQcWJlVjg",
   "gas:CBMiqgFBVV95cUxOQkV0VU94dU42WVhtVWVTdjBzWDJPV0lnM1pUQW5Eajd3MUFRYUJSSTA2cF9WeDkwc3dEazNBWmFaV1lYMVRQUXotU0ttcmVZTFRweE5CYlNCVllVWjc3N0k4SWpLcmUzTkZEY0twemxhaFlkNGJMckxkUHZhcFcwak5ER2JxMC1tUmJuU0ZtbkRmTmdIQ3lCbDBPOTkxaTd2a1R1TzlLTXZjQQ",
-  "gas:CBMixgFBVV95cUxOM3d6cmRCNHlFT01HUjZ0S2MwY2VzQnNldzRjUjFDQXdJUEpEYm5QU2JvelBBZ3lZMTZQS2lYMjF5STFOVks5RUdQTUZDbTdfSlczS2xQdDBVUE0yQldGNkw1UjVYWnF3MjJIQUhnal9vY2dxNEtfTEtYUjBrVGt2cG81eVFzMTVxLVlpc3R5MG1HUVVKYnZQSlBuR3owZkNfV0NocC0tRTFZNkxwYUEycWxUV2NBb3JPUERaWVpidDVzZXVZYXc"
+  "gas:CBMixgFBVV95cUxOM3d6cmRCNHlFT01HUjZ0S2MwY2VzQnNldzRjUjFDQXdJUEpEYm5QU2JvelBBZ3lZMTZQS2lYMjF5STFOVks5RUdQTUZDbTdfSlczS2xQdDBVUE0yQldGNkw1UjVYWnF3MjJIQUhnal9vY2dxNEtfTEtYUjBrVGt2cG81eVFzMTVxLVlpc3R5MG1HUVVKYnZQSlBuR3owZkNfV0NocC0tRTFZNkxwYUEycWxUV2NBb3JPUERaWVpidDVzZXVZYXc",
+  "gas:CBMi4gFBVV95cUxOU2M4aVlsbG9YbHNlUjNqempTajVPZUQwZWtWSGpNcUVrcmY5RElZU3BNT2t3Vko1TnBTQUNyX2xFTVdlSFNHZjN1bWJ5dkk4djR6aDZUckJ4dE9iSVRveVc4c3lQa3lWaURwcnZ6Tk95dWpOQnhKVVJfcHNTQTdSM1AtR1hfZzlSVF9sWk9PZFN5S2tkQzFtWExfYU5iLXpISC1mLV9kYzBGa1d4Ykd5cEdycURoRmpEbVlWdjVvRmNKenlNNFRPVWg2OGg4U0psdHJLa2tfczhEUUc2M0VNRDVB",
+  "gas:CBMixgFBVV95cUxNRFFFSFJjYkZRTC1EOVMzSGRNMl9EcXkwcV84NEtxYjRLb2xrUDJrdmpYYW52VDZjZlVFQzFIU0VuRXRNZGlLQUZxckU2YTNyWnJVU3c2VFhFVWFXbURDVldsYkVMMXkwZnVaNkl5M0NYLUw0dVNEWkhaamlzMUh2VTZZb2t0UXF1TUFEQVpMSDdOa1JSczM3ZVd6WmxKZ3c5VmtBUDlvMDZVMTVsd1luLXI2cEU0QzNKNndjZGFlcmpGc0hOaGc"
  ],
  "shows_last_day": "2026-11-09",
  "shows_init": "2026-10-22",
@@ -5002,11 +5006,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144327",
-  "tg:FinancialJuice/144331",
-  "tg:FinancialJuice/144330",
-  "tg:FinancialJuice/144329",
-  "tg:FinancialJuice/144328",
   "tg:FinancialJuice/144332",
   "tg:FinancialJuice/144334",
   "tg:FinancialJuice/144333",
@@ -5801,7 +5800,12 @@
   "tg:FinancialJuice/145701",
   "tg:FinancialJuice/145700",
   "tg:FinancialJuice/145699",
-  "tg:FinancialJuice/145698"
+  "tg:FinancialJuice/145698",
+  "tg:FinancialJuice/145715",
+  "tg:FinancialJuice/145714",
+  "tg:FinancialJuice/145713",
+  "tg:FinancialJuice/145712",
+  "tg:FinancialJuice/145711"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6976,6 +6980,26 @@
   [
    1794240858.5440433,
    "0亿|30|BC|CN|NB|Oh|hi|io|o新|亿美|元C|厂投|国O|对美|将对|工厂|投资|新车|本田|汽车|田汽|美元|美国|装配|资3|车将|车装|配工"
+  ],
+  [
+   1794240944.0878088,
+   "PA|SP|东西|人士|体S|区的|向输|国家|地区|地那|士称|媒体|家媒|息人|沙特|油管|消息|源部|特国|特能|的东|称麦|管道|能源|袭沙|西向|输油|道遭|遭袭|那地|部消|麦地"
+  ],
+  [
+   1794241304.0979223,
+   "不抱|与安|交与|代表|们需|会谈|作出|俄方|全政|出明|卡拉|外交|太高|安全|对阿|布扎|我们|扎比|抱太|拉斯|政策|斯对|方作|明确|望我|期望|欧盟|比会|盟外|确让|策高|级代|表卡|要俄|让步|谈不|阿布|需要|高期|高级"
+  ],
+  [
+   1794241364.8146067,
+   "9日|一系|一道|下中|与加|与对|业圆|两国|中共|中加|中央|中方|中经|主持|举措|了中|二次|互利|互尊|交往|人何|人共|人加|人战|人重|伙伴|会议|伴关|体举|何立|作推|作西|健康|共中|共同|共识|共赢|关系|具体|出席|列互|则深|利共|利合|利求|副总|力本|力构|加中|加关|加商|加强|加拿|加新|加方|加经|加财|务实|务院|动两|动中|助力|努力|化经|华共|华关|华社|协调|原则|双方|双边|发展|取得|合作|同中|同主|同出|同存|员国|和共|哥华|商业|商鹏|回正|国务|国经|国际|国领|圆桌|圜双|在两|在加|型战|域互|域务|域合|大发|大温|大财|央政|头人|好两|委员|存异|定健|实双|实合|实好|实现|对华|对话|导人|尊重|局委|展加|展助|展对|峰与|峰商|峰表|希拓|席了|平等|度重|康发|建中|异的|引领|强政|往重|得更|总理|愿与|愿同|成一|成果|战略|投资|拓展|拿大|持第|推动|措中|政治|政策|政部|新华|新型|方一|方愿|方牵|方达|方领|方高|日在|易部|是落|更大|期间|本次|本着|杜9|杜共|杜表|构建|果和|桌会|次中|次对|正轨|求同|沟通|治局|济关|济财|深化|温哥|牵头|现转|理中|略伙|略对|略引|的具|的原|相互|着相|示加|示在|示希|稳定|立峰|第二|等互|等领|策沟|系列|系取|系商|系实|系愿|系稳|经济|经贸|落实|融投|表示|西杜|要共|视对|议新|识何|识加|识的|话中|话何|话加|话是|话期|调深|财政|财金|贸关|贸易|贸金|贸领|资等|赢成|轨本|转圜|边交|达成|通协|道努|道落|部长|重回|重平|重要|重视|金战|金融|金领|长商|长西|间双|际贸|院副|领下|领域|领导|飞国|飞表|飞西|高度|鹏飞"
+  ],
+  [
+   1794241544.2531664,
+   "CE|EO|O苏|中心|乐观|仍将|保持|力的|和计|国数|对美|将保|巍对|德巍|心和|态度|投资|持乐|持显|据中|数据|显著|模持|的投|盛C|算能|美国|能力|苏德|著规|观态|规模|计算|资仍|高盛"
+  ],
+  [
+   1794241546.6228044,
+   "GS|N首|SN|中心|为美|乐观|仍将|力方|和算|国在|在数|大量|官所|将有|席执|心和|所罗|执行|投资|据中|数据|方面|有大|盛G|算力|罗门|美国|行官|观认|认为|量投|门乐|面仍|首席|高盛"
   ]
  ],
  "futu": [
@@ -7743,7 +7767,15 @@
   "futu:1003908488",
   "futu:1003908402",
   "futu:1003908401",
-  "futu:1003908354"
+  "futu:1003908354",
+  "futu:1003910344",
+  "futu:1003910273",
+  "futu:1003910224",
+  "futu:1003910152",
+  "futu:1003910147",
+  "futu:1003909899",
+  "futu:1003909769",
+  "futu:1003909715"
  ],
  "news_recent": [
   [
@@ -8285,6 +8317,22 @@
   [
    1794240499.1083045,
    "$nvda according accused among authorization case china chinese chip cited commerce concerns contacted counsel department executive former general halt halted intelligence interference intervention investigation investigators involves justice legal links megaspeed nvidia official officials potential preceded probe raising reportedly senior smuggling suspected team times transferred whose york"
+  ],
+  [
+   1794240946.9955215,
+   "500 dow nasdaq"
+  ],
+  [
+   1794241006.08933,
+   "bids bills bln fed month total"
+  ],
+  [
+   1794241367.0347636,
+   "$nvda accused affair alice being ceo china chinese chip executive former halted huang intervened investigation jensen megaspeed nvidia smuggling spy suspected who"
+  ],
+  [
+   1794241485.0389886,
+   "amount capacity centers ceo cnbc compute data goldman interview investment optimistic sachs significant solomon still there"
   ]
  ]
 }
