@@ -906,8 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192660",
-  "wscn:3192649",
   "wscn:3192277",
   "wscn:3192678",
   "wscn:3192671",
@@ -1705,11 +1703,11 @@
   "wscn:3196935",
   "wscn:3196942",
   "wscn:3196949",
-  "wscn:3196956"
+  "wscn:3196956",
+  "wscn:3196963",
+  "wscn:3196959"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37224",
-  "tg:WalterBloomberg/37223",
   "tg:WalterBloomberg/37222",
   "tg:WalterBloomberg/37221",
   "tg:WalterBloomberg/37220",
@@ -2507,7 +2505,9 @@
   "tg:WalterBloomberg/38075",
   "tg:WalterBloomberg/38076",
   "tg:WalterBloomberg/38077",
-  "tg:WalterBloomberg/38078"
+  "tg:WalterBloomberg/38078",
+  "tg:WalterBloomberg/38080",
+  "tg:WalterBloomberg/38079"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2917,7 +2917,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794227810.2234466,
+ "congress_last_check": 1794229616.2107115,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2962,7 +2962,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794229469.3195782,
+ "earnings_last_check": 1794230329.8921206,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3235,7 +3235,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794229171.6755197,
+ "gas_last_check": 1794230392.7324524,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4984,12 +4984,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144259",
-  "tg:FinancialJuice/144274",
-  "tg:FinancialJuice/144273",
-  "tg:FinancialJuice/144272",
-  "tg:FinancialJuice/144271",
-  "tg:FinancialJuice/144276",
   "tg:FinancialJuice/144275",
   "tg:FinancialJuice/144278",
   "tg:FinancialJuice/144277",
@@ -5783,7 +5777,13 @@
   "tg:FinancialJuice/145652",
   "tg:FinancialJuice/145651",
   "tg:FinancialJuice/145650",
-  "tg:FinancialJuice/145649"
+  "tg:FinancialJuice/145649",
+  "tg:FinancialJuice/145659",
+  "tg:FinancialJuice/145658",
+  "tg:FinancialJuice/145657",
+  "tg:FinancialJuice/145656",
+  "tg:FinancialJuice/145655",
+  "tg:FinancialJuice/145654"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6606,6 +6606,22 @@
   [
    1794229586.9755645,
    "8I|8T|AX|IM|MA|PU|TP|TX|U为|U产|X和|X扩|为8|产品|代T|们最|八代|和8|品组|大第|我们|扩大|新的|最新|歌我|的T|第八|组合|谷歌"
+  ],
+  [
+   1794229848.1472766,
+   "与调|中美|人商|仍在|伊朗|伊谈|判仍|协议|卡塔|员美|和伊|商讨|国和|在进|塔尔|官员|尔官|朗正|正与|细节|美伊|美国|行中|解人|讨协|议细|调解|谈判|进行"
+  ],
+  [
+   1794229968.448478,
+   "AI|Cl|GO|I超|Ku|OG|OO|O宣|Pa|at|ay|be|dP|er|es|et|hw|lo|ne|ou|rn|s在|s引|te|th|ub|ud|wa|ys|上正|为谷|云A|云K|全面|在谷|宣布|布C|开放|式全|引擎|心运|成为|擎上|支柱|放成|时支|机的|核心|歌G|歌云|正式|的核|算机|级计|行时|计算|谷歌|超级|运行|面开"
+  ],
+  [
+   1794230268.190461,
+   "CO|IC|IT|LI|OL|PO|TI|为沃|仁勋|伦重|勋可|可能|对象|成为|沃伦|点监|监管|管对|能成|象P|重点|黄仁"
+  ],
+  [
+   1794230270.0480385,
+   "0美|13|14|30|49|9美|MT|N目|TN|WM|上调|从1|价从|元上|团将|将沃|尔玛|标价|沃尔|玛W|瑞银|目标|美元|至1|调至|银集|集团"
   ]
  ],
  "futu": [
@@ -7249,7 +7265,14 @@
   "futu:1003890142",
   "futu:1003890113",
   "futu:1003890058",
-  "futu:1003889985"
+  "futu:1003889985",
+  "futu:1003892376",
+  "futu:1003891478",
+  "futu:1003892257",
+  "futu:1003891899",
+  "futu:1003891860",
+  "futu:1003891817",
+  "futu:1003891747"
  ],
  "news_recent": [
   [
@@ -7639,6 +7662,18 @@
   [
    1794228069.458191,
    "$12 $135 $googl $nvda 2026 2028 8tx advanced alphabet anthropic apple around billion bloomberg certain challenges chip chips competitive computing cost customers efficiency escalates estimates google gpus greater include intelligence launching less major max meta nvidia offering openai oracle performance planning power purchases related reportedly sales secure specialized surge targeting tasks tpu tpus two war while workloads"
+  ],
+  [
+   1794229613.2823136,
+   "$googl 8tx announced eighth expanded generation google max portfolio tpu"
+  ],
+  [
+   1794229789.2011242,
+   "deal details false iran mediators official proposal qatari talking"
+  ],
+  [
+   1794230091.375793,
+   "$nvda admin briefing cbs ceo congressional give nvidia today"
   ]
  ]
 }
