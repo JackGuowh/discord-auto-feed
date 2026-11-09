@@ -906,8 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192008",
-  "wscn:3192011",
   "wscn:3192021",
   "wscn:3192024",
   "wscn:3192031",
@@ -1705,7 +1703,9 @@
   "wscn:3196534",
   "wscn:3196538",
   "wscn:3196553",
-  "wscn:3196591"
+  "wscn:3196591",
+  "wscn:3196613",
+  "wscn:3196612"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2902,7 +2902,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794189302.5672736,
+ "congress_last_check": 1794191139.4453475,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2947,7 +2947,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794190339.5258725,
+ "earnings_last_check": 1794191021.5539992,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3215,7 +3215,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794189799.3314614,
+ "gas_last_check": 1794191021.8053,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3822,7 +3822,8 @@
   "gas:CBMi8AFBVV95cUxQRHR0VHlUZzd4Y04yQzdyWVZqZUxPRHYxam9wZDU4ajMzVDU5M3FXdTk1MWs0Z1Y4VHp5X1JPWXFrZm5XWTJEcVhnYS1mbkxLWXM1bFhkQlVpSVRLbWZJQktqM3I2SmRYZ3BTdVNFcHl2N0drN2F3aFF3TlZpbUE5TjFVT0lseDZFQ1VZMjZEa0ZDNk5ZVFFteTduejVOUy1CeXZyajdzUzF3UVAyVEU1YXVBQVBaUTg3azRGX1hFNWdQZ2xGUUdkbGd0eHI0U3NCX0VrUnhOa0ZVbFo4NWU4bUhBSkRrdkh2cXI1ZzNaUkXSAfABQVVfeXFMUER0dFR5VGc3eGNOMkM3cllWamVMT0R2MWpvcGQ1OGozM1Q1OTNxV3U5NTFrNGdWOFR6eV9ST1lxa2ZuV1kyRHFYZ2EtZm5MS1lzNWxYZEJVaUlUS21mSUJLajNyNkpkWGdwU3VTRXB5djdHazdhd2hRd05WaW1BOU4xVU9JbHg2RUNVWTI2RGtGQzZOWVRRbXk3bno1TlMtQnl2cmo3c1Mxd1FQMlRFNWF1QUFQWlE4N2s0Rl9YRTVnUGdsRlFHZGxndHhyNFNzQl9Fa1J4TmtGVWxaODVlOG1IQUpEa3ZIdnFyNWczWlJF",
   "gas:CBMiWkFVX3lxTE9ncFpuRlc1SHZ0X3JTaFEzOElnS1ZrcVhmamJuQmNYRXg5WllaRXZPY2JNRkdNVnR3TThPb0ZjdlZ5dml2R2RkYWRJS0lqMFZjalBKYVlGSXJ2UQ",
   "gas:CBMiwAFBVV95cUxQdUNLRGhROFVxYnUzYVZSbExGNGV3VW00eXIxRElvT25ZX2xKR2NxX2hiZndhZEVHQXN6QmJkQmFDVWZHSE9UakdjOVh1RV8yc3RDZnRNdU5FbVpPYWV3b0s5dEZXZGdTRi01NEZDUFlUQzdvQ1JpVVRUTTdJaGZDRU5yN0Vod0x2ZUVMQlQzLXZORUpFOHN2MUc5d3pGeE1ucFhhMFZxOGprU0pUb3Z3b0pIQzI4WWtSSHZGaElaMFM",
-  "gas:CBMivwFBVV95cUxNZG9MVk83dnNudW56QTlQZk9OUHVmRlZOMDZ6Z0RHYkdxSExfa2JoeGlBbnlrcEpuMjVYOE1GUU85c2FqOV96cXdVMWc5OUFZWXV2TS1EMTFMQS1iRUstbS1Nd1UtbS1nT0VSX2pPZW1MUDhvVnBGM0wzbFFvak95cnFDQ2hkQWdpWnhVampUTXFSS19WX2JJeHJxMUQ5VzhkdF8zWHN3QmZSNExqTlkzSnRvOS1CTGxyMFlvd2gycw"
+  "gas:CBMivwFBVV95cUxNZG9MVk83dnNudW56QTlQZk9OUHVmRlZOMDZ6Z0RHYkdxSExfa2JoeGlBbnlrcEpuMjVYOE1GUU85c2FqOV96cXdVMWc5OUFZWXV2TS1EMTFMQS1iRUstbS1Nd1UtbS1nT0VSX2pPZW1MUDhvVnBGM0wzbFFvak95cnFDQ2hkQWdpWnhVampUTXFSS19WX2JJeHJxMUQ5VzhkdF8zWHN3QmZSNExqTlkzSnRvOS1CTGxyMFlvd2gycw",
+  "gas:CBMihAFBVV95cUxOdE8xSTRXWWUxci1tX2dZZ0Z1LUVOZnpuSUVsMVY2d3V1YVVjOFc3LXh4ak4wcmVJNURFNnM3cnFyRVhscnFVZjI5eVFiU29aWWJyaTloYWk5Q1MycFdJTDhickU5bkstakFLX2pPSF80d0EweTJKQW1FOUtfMWxOTWQxS28"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6254,6 +6255,14 @@
   [
    1794188624.1980386,
    "GP|PU|U供|不会|业部|产业|从该|会影|伟达|供应|公司|前影|司已|响英|响韩|国产|国从|已签|当前|影响|的G|的问|签约|约的|英伟|该公|达的|部长|长当|问题|韩国|题不"
+  ],
+  [
+   1794190476.7715592,
+   "11|1月|8日|BS|CB|S1|上谈|中失|中期|主要|举中|举失|之一|亚广|人对|他说|以置|以色|伦比|体节|信的|党在|党失|公司|共和|列抱|利原|利的|厌恶|原因|及共|司C|和党|哥伦|因之|因他|因美|国人|国哥|国总|在中|在该|失利|媒体|对以|广播|总统|恶据|恶这|报道|抱有|据美|播公|日报|是共|普在|普谈|月8|有难|朗普|期选|比亚|特朗|的主|的厌|的原|目上|统特|置信|美国|色列|节目|要原|该媒|说美|谈中|谈及|这是|选举|道美|难以"
+  ],
+  [
+   1794190777.0059495,
+   "11|1月|8日|下根|不仅|不切|不大|且在|事的|些情|交手|人无|仅令|他指|令人|伊朗|况下|切实|前结|务卿|卿鲁|受而|国务|国国|在某|外交|大他|大美|奥1|奥对|实际|对伊|情况|成效|战事|手段|指责|接受|效不|方面|无法|日说|月8|朗外|朗战|朗方|本不|束伊|某些|根本|段成|比奥|求不|法接|的外|的要|目前|结束|美国|而且|要求|说目|责伊|面的|鲁比"
   ]
  ],
  "futu": [
@@ -6612,7 +6621,11 @@
   "futu:1003834412",
   "futu:1003833653",
   "futu:1003833516",
-  "futu:1003836673"
+  "futu:1003836673",
+  "futu:1003837553",
+  "futu:1003837449",
+  "futu:1003837238",
+  "futu:1003836941"
  ],
  "news_recent": [
   [
