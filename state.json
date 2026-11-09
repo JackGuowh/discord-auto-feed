@@ -907,13 +907,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192763",
-  "wscn:3192762",
-  "wscn:3192761",
-  "wscn:3192770",
-  "wscn:3192769",
-  "wscn:3192768",
-  "wscn:3192767",
   "wscn:3192765",
   "wscn:3192772",
   "wscn:3192771",
@@ -1706,7 +1699,14 @@
   "wscn:3197056",
   "wscn:3197055",
   "wscn:3197054",
-  "wscn:3197053"
+  "wscn:3197053",
+  "wscn:3197066",
+  "wscn:3197065",
+  "wscn:3197063",
+  "wscn:3197061",
+  "wscn:3197060",
+  "wscn:3197059",
+  "wscn:3197058"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37241",
@@ -2973,7 +2973,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794241489.5326285,
+ "earnings_last_check": 1794242344.4935822,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4845,7 +4845,8 @@
   "tg:insiderpaper/45788",
   "tg:insiderpaper/45789",
   "tg:insiderpaper/45790",
-  "tg:insiderpaper/45791"
+  "tg:insiderpaper/45791",
+  "tg:insiderpaper/45792"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -5006,15 +5007,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144332",
-  "tg:FinancialJuice/144334",
-  "tg:FinancialJuice/144333",
-  "tg:FinancialJuice/144339",
-  "tg:FinancialJuice/144338",
-  "tg:FinancialJuice/144337",
-  "tg:FinancialJuice/144336",
-  "tg:FinancialJuice/144335",
-  "tg:FinancialJuice/144343",
   "tg:FinancialJuice/144342",
   "tg:FinancialJuice/144341",
   "tg:FinancialJuice/144340",
@@ -5805,7 +5797,16 @@
   "tg:FinancialJuice/145714",
   "tg:FinancialJuice/145713",
   "tg:FinancialJuice/145712",
-  "tg:FinancialJuice/145711"
+  "tg:FinancialJuice/145711",
+  "tg:FinancialJuice/145724",
+  "tg:FinancialJuice/145723",
+  "tg:FinancialJuice/145722",
+  "tg:FinancialJuice/145721",
+  "tg:FinancialJuice/145720",
+  "tg:FinancialJuice/145719",
+  "tg:FinancialJuice/145718",
+  "tg:FinancialJuice/145717",
+  "tg:FinancialJuice/145716"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7000,6 +7001,22 @@
   [
    1794241546.6228044,
    "GS|N首|SN|中心|为美|乐观|仍将|力方|和算|国在|在数|大量|官所|将有|席执|心和|所罗|执行|投资|据中|数据|方面|有大|盛G|算力|罗门|美国|行官|观认|认为|量投|门乐|面仍|首席|高盛"
+  ],
+  [
+   1794241803.8959544,
+   "02|20|26|3营|6年|EP|La|PS|Q3|Ro|S美|ab|b2|ck|et|ke|oc|tL|亿美|元同|同比|后E|增长|年Q|收亿|整后|比增|美元|营收|调整|长调"
+  ],
+  [
+   1794241862.0759246,
+   "19|27|2年|5亿|79|82|95|98|A上|EI|IA|上周|为1|亿桶|以来|低水|信息|储备|原油|周美|国战|国能|备的|存降|年以|库存|息署|战略|最低|来最|桶为|水平|油储|油库|源信|略石|的原|石油|署E|美国|能源|至2|降至"
+  ],
+  [
+   1794241982.180474,
+   "06|0投|14|26|29|40|41|45|5投|60|67|7拍|92|三个|个月|倍数|债得|六个|利率|卖三|卖六|国债|国财|得标|投标|拍卖|政部|数2|月期|期国|标倍|标利|率4|美国|财政|部拍"
+  ],
+  [
+   1794242222.1269495,
+   "Ba|ar|ot|ro|rr|t声|伊斯|伊朗|兰革|冰箱|击负|卫队|受的|命卫|国外|声称|外长|对冰|应该|攻击|斯兰|朗伊|法国|的网|称伊|箱遭|络攻|网络|该对|负责|遭受|长B|队应|革命"
   ]
  ],
  "futu": [
@@ -7775,7 +7792,13 @@
   "futu:1003910147",
   "futu:1003909899",
   "futu:1003909769",
-  "futu:1003909715"
+  "futu:1003909715",
+  "futu:1003911105",
+  "futu:1003910874",
+  "futu:1003910873",
+  "futu:1003910880",
+  "futu:1003910581",
+  "futu:1003910490"
  ],
  "news_recent": [
   [
@@ -8333,6 +8356,18 @@
   [
    1794241485.0389886,
    "amount capacity centers ceo cnbc compute data goldman interview investment optimistic sachs significant solomon still there"
+  ],
+  [
+   1794241806.442551,
+   "1982 279 barrels crude fell last lowest mln oil since spr stocks week"
+  ],
+  [
+   1794241985.676859,
+   "$macro 040 actual bill forecast high month previous yield"
+  ],
+  [
+   1794242043.502557,
+   "$95 060 auction awards bid bids bill bln cover high month sells yield"
   ]
  ]
 }
