@@ -2902,7 +2902,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794185616.8422022,
+ "congress_last_check": 1794187456.6306958,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2947,7 +2947,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794187137.4663184,
+ "earnings_last_check": 1794187944.5099204,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3215,7 +3215,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794186096.9430985,
+ "gas_last_check": 1794187337.036414,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4942,14 +4942,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144202",
-  "tg:FinancialJuice/144212",
-  "tg:FinancialJuice/144211",
-  "tg:FinancialJuice/144210",
-  "tg:FinancialJuice/144213",
-  "tg:FinancialJuice/144216",
-  "tg:FinancialJuice/144215",
-  "tg:FinancialJuice/144214",
   "tg:FinancialJuice/144217",
   "tg:FinancialJuice/144218",
   "tg:FinancialJuice/144221",
@@ -5741,7 +5733,15 @@
   "tg:FinancialJuice/145588",
   "tg:FinancialJuice/145590",
   "tg:FinancialJuice/145591",
-  "tg:FinancialJuice/145592"
+  "tg:FinancialJuice/145592",
+  "tg:FinancialJuice/145600",
+  "tg:FinancialJuice/145599",
+  "tg:FinancialJuice/145598",
+  "tg:FinancialJuice/145597",
+  "tg:FinancialJuice/145596",
+  "tg:FinancialJuice/145595",
+  "tg:FinancialJuice/145594",
+  "tg:FinancialJuice/145593"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6565,7 +6565,25 @@
   "futu:1003831037",
   "futu:1003830973",
   "futu:1003830959",
-  "futu:1003830860"
+  "futu:1003830860",
+  "futu:1003831833",
+  "futu:1003831806",
+  "futu:1003831731",
+  "futu:1003831722",
+  "futu:1003831706",
+  "futu:1003831708",
+  "futu:1003831707",
+  "futu:1003831684",
+  "futu:1003831675",
+  "futu:1003831542",
+  "futu:1003831421",
+  "futu:1003831401",
+  "futu:1003831279",
+  "futu:1003831276",
+  "futu:1003831250",
+  "futu:1003831235",
+  "futu:1003831243",
+  "futu:1003831167"
  ],
  "news_recent": [
   [
@@ -6819,6 +6837,18 @@
   [
    1794183018.7983608,
    "but can cbs don guardrails interview managed mind minutes risk trump"
+  ],
+  [
+   1794187936.859168,
+   "china cpi expected october poll rises year"
+  ],
+  [
+   1794187939.4155958,
+   "$macro actual breaking chinese cpi forecast previous yoy"
+  ],
+  [
+   1794187941.8818104,
+   "china cpi matches month october poll previous unchanged"
   ]
  ]
 }
