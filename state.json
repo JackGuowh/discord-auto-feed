@@ -907,9 +907,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192765",
-  "wscn:3192772",
-  "wscn:3192771",
   "wscn:3192775",
   "wscn:3192774",
   "wscn:3192779",
@@ -1706,7 +1703,10 @@
   "wscn:3197061",
   "wscn:3197060",
   "wscn:3197059",
-  "wscn:3197058"
+  "wscn:3197058",
+  "wscn:3197069",
+  "wscn:3197068",
+  "wscn:3197067"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37241",
@@ -2750,7 +2750,8 @@
   "tg:WatcherGuru/15899",
   "tg:WatcherGuru/15900",
   "tg:WatcherGuru/15901",
-  "tg:WatcherGuru/15903"
+  "tg:WatcherGuru/15903",
+  "tg:WatcherGuru/15905"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2926,7 +2927,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794240684.8500416,
+ "congress_last_check": 1794242543.5140367,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2973,7 +2974,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794242344.4935822,
+ "earnings_last_check": 1794243148.6791584,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3246,7 +3247,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794241549.595334,
+ "gas_last_check": 1794242783.5064812,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3874,7 +3875,8 @@
   "gas:CBMiqgFBVV95cUxOQkV0VU94dU42WVhtVWVTdjBzWDJPV0lnM1pUQW5Eajd3MUFRYUJSSTA2cF9WeDkwc3dEazNBWmFaV1lYMVRQUXotU0ttcmVZTFRweE5CYlNCVllVWjc3N0k4SWpLcmUzTkZEY0twemxhaFlkNGJMckxkUHZhcFcwak5ER2JxMC1tUmJuU0ZtbkRmTmdIQ3lCbDBPOTkxaTd2a1R1TzlLTXZjQQ",
   "gas:CBMixgFBVV95cUxOM3d6cmRCNHlFT01HUjZ0S2MwY2VzQnNldzRjUjFDQXdJUEpEYm5QU2JvelBBZ3lZMTZQS2lYMjF5STFOVks5RUdQTUZDbTdfSlczS2xQdDBVUE0yQldGNkw1UjVYWnF3MjJIQUhnal9vY2dxNEtfTEtYUjBrVGt2cG81eVFzMTVxLVlpc3R5MG1HUVVKYnZQSlBuR3owZkNfV0NocC0tRTFZNkxwYUEycWxUV2NBb3JPUERaWVpidDVzZXVZYXc",
   "gas:CBMi4gFBVV95cUxOU2M4aVlsbG9YbHNlUjNqempTajVPZUQwZWtWSGpNcUVrcmY5RElZU3BNT2t3Vko1TnBTQUNyX2xFTVdlSFNHZjN1bWJ5dkk4djR6aDZUckJ4dE9iSVRveVc4c3lQa3lWaURwcnZ6Tk95dWpOQnhKVVJfcHNTQTdSM1AtR1hfZzlSVF9sWk9PZFN5S2tkQzFtWExfYU5iLXpISC1mLV9kYzBGa1d4Ykd5cEdycURoRmpEbVlWdjVvRmNKenlNNFRPVWg2OGg4U0psdHJLa2tfczhEUUc2M0VNRDVB",
-  "gas:CBMixgFBVV95cUxNRFFFSFJjYkZRTC1EOVMzSGRNMl9EcXkwcV84NEtxYjRLb2xrUDJrdmpYYW52VDZjZlVFQzFIU0VuRXRNZGlLQUZxckU2YTNyWnJVU3c2VFhFVWFXbURDVldsYkVMMXkwZnVaNkl5M0NYLUw0dVNEWkhaamlzMUh2VTZZb2t0UXF1TUFEQVpMSDdOa1JSczM3ZVd6WmxKZ3c5VmtBUDlvMDZVMTVsd1luLXI2cEU0QzNKNndjZGFlcmpGc0hOaGc"
+  "gas:CBMixgFBVV95cUxNRFFFSFJjYkZRTC1EOVMzSGRNMl9EcXkwcV84NEtxYjRLb2xrUDJrdmpYYW52VDZjZlVFQzFIU0VuRXRNZGlLQUZxckU2YTNyWnJVU3c2VFhFVWFXbURDVldsYkVMMXkwZnVaNkl5M0NYLUw0dVNEWkhaamlzMUh2VTZZb2t0UXF1TUFEQVpMSDdOa1JSczM3ZVd6WmxKZ3c5VmtBUDlvMDZVMTVsd1luLXI2cEU0QzNKNndjZGFlcmpGc0hOaGc",
+  "gas:CBMikAFBVV95cUxNSHpxaVRuTEFTcW4xeUMzV1RicEplYVFRbGVRa3laNl9CWkZUQjRFRUF4SHVOOW5pM1JYNGtPdEJYSkUwSTM2NjktcVJZWTYzcGptbkhZU0plUjRrajNwMGp3RkViZTRxWGJVM3dVNzFGVDNBYi0wSTlNbm1LSWVZcVR1ckN1cWtfOWtINmYwVFE"
  ],
  "shows_last_day": "2026-11-09",
  "shows_init": "2026-10-22",
@@ -4846,7 +4848,8 @@
   "tg:insiderpaper/45789",
   "tg:insiderpaper/45790",
   "tg:insiderpaper/45791",
-  "tg:insiderpaper/45792"
+  "tg:insiderpaper/45792",
+  "tg:insiderpaper/45793"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -5007,8 +5010,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144342",
-  "tg:FinancialJuice/144341",
   "tg:FinancialJuice/144340",
   "tg:FinancialJuice/144351",
   "tg:FinancialJuice/144350",
@@ -5806,7 +5807,9 @@
   "tg:FinancialJuice/145719",
   "tg:FinancialJuice/145718",
   "tg:FinancialJuice/145717",
-  "tg:FinancialJuice/145716"
+  "tg:FinancialJuice/145716",
+  "tg:FinancialJuice/145726",
+  "tg:FinancialJuice/145725"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7017,6 +7020,14 @@
   [
    1794242222.1269495,
    "Ba|ar|ot|ro|rr|t声|伊斯|伊朗|兰革|冰箱|击负|卫队|受的|命卫|国外|声称|外长|对冰|应该|攻击|斯兰|朗伊|法国|的网|称伊|箱遭|络攻|网络|该对|负责|遭受|长B|队应|革命"
+  ],
+  [
+   1794242841.37174,
+   "11|1日|25|26|3月|4美|68|8美|9月|AA|A数|下旬|下行|下跌|下降|为战|争初|于A|仑2|仑4|仑美|以来|价即|价格|低水|元为|元加|元基|全美|初期|前报|加仑|即将|发价|发市|售均|国汽|场目|均价|基于|将下|将跌|已下|市场|平自|战争|批发|报每|据汽|数据|日以|旬以|最低|月1|月下|期3|来汽|来的|格将|格已|格迎|每加|水平|汽油|油价|油批|的最|目前|破4|破每|美元|美国|美零|自9|行零|超过|跌破|跌超|过2|迎下|降全|零售"
+  ],
+  [
+   1794243262.3342972,
+   "03|06|08|09|0年|10|11|12|13|14|18|19|1月|21|22|25|27|30|36|38|3个|47|4两|4以|50|51|57|5个|5曾|62|6全|71|75|7个|7美|81|84|8个|9个|9日|V形|一1|下跌|两年|个基|之前|于下|京时|以来|低至|债收|全天|出V|利差|刷新|前曾|势2|北京|呈现|周一|国1|国债|基点|处于|天处|尾盘|差跌|市尾|年期|开盘|形走|态北|报3|报4|报5|收益|新日|日低|日欧|时间|曾刷|月9|期国|期英|来呈|欧市|点2|点5|点周|点报|状态|率利|率跌|现出|益率|盘之|盘英|端英|约3|美股|股开|至4|至5|英债|英国|走势|跌0|跌1|跌2|跌状|跌约|长端|间1"
   ]
  ],
  "futu": [
@@ -7798,7 +7809,11 @@
   "futu:1003910873",
   "futu:1003910880",
   "futu:1003910581",
-  "futu:1003910490"
+  "futu:1003910490",
+  "futu:1003912140",
+  "futu:1003912079",
+  "futu:1003911404",
+  "futu:1003911405"
  ],
  "news_recent": [
   [
@@ -8368,6 +8383,10 @@
   [
    1794242043.502557,
    "$95 060 auction awards bid bids bill bln cover high month sells yield"
+  ],
+  [
+   1794243144.4622397,
+   "capacity centers ceo computing continue data david expects goldman investment massive sachs solomon trillion"
   ]
  ]
 }
