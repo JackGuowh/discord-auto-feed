@@ -907,9 +907,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192775",
-  "wscn:3192774",
-  "wscn:3192779",
   "wscn:3192778",
   "wscn:3192777",
   "wscn:3192785",
@@ -1706,11 +1703,12 @@
   "wscn:3197058",
   "wscn:3197069",
   "wscn:3197068",
-  "wscn:3197067"
+  "wscn:3197067",
+  "wscn:3197073",
+  "wscn:3197071",
+  "wscn:3197070"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37241",
-  "tg:WalterBloomberg/37243",
   "tg:WalterBloomberg/37244",
   "tg:WalterBloomberg/37245",
   "tg:WalterBloomberg/37246",
@@ -2508,7 +2506,9 @@
   "tg:WalterBloomberg/38096",
   "tg:WalterBloomberg/38095",
   "tg:WalterBloomberg/38099",
-  "tg:WalterBloomberg/38098"
+  "tg:WalterBloomberg/38098",
+  "tg:WalterBloomberg/38101",
+  "tg:WalterBloomberg/38100"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2751,7 +2751,8 @@
   "tg:WatcherGuru/15900",
   "tg:WatcherGuru/15901",
   "tg:WatcherGuru/15903",
-  "tg:WatcherGuru/15905"
+  "tg:WatcherGuru/15905",
+  "tg:WatcherGuru/15906"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2974,7 +2975,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794243148.6791584,
+ "earnings_last_check": 1794244024.567432,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3247,7 +3248,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794242783.5064812,
+ "gas_last_check": 1794244025.0225224,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3876,7 +3877,8 @@
   "gas:CBMixgFBVV95cUxOM3d6cmRCNHlFT01HUjZ0S2MwY2VzQnNldzRjUjFDQXdJUEpEYm5QU2JvelBBZ3lZMTZQS2lYMjF5STFOVks5RUdQTUZDbTdfSlczS2xQdDBVUE0yQldGNkw1UjVYWnF3MjJIQUhnal9vY2dxNEtfTEtYUjBrVGt2cG81eVFzMTVxLVlpc3R5MG1HUVVKYnZQSlBuR3owZkNfV0NocC0tRTFZNkxwYUEycWxUV2NBb3JPUERaWVpidDVzZXVZYXc",
   "gas:CBMi4gFBVV95cUxOU2M4aVlsbG9YbHNlUjNqempTajVPZUQwZWtWSGpNcUVrcmY5RElZU3BNT2t3Vko1TnBTQUNyX2xFTVdlSFNHZjN1bWJ5dkk4djR6aDZUckJ4dE9iSVRveVc4c3lQa3lWaURwcnZ6Tk95dWpOQnhKVVJfcHNTQTdSM1AtR1hfZzlSVF9sWk9PZFN5S2tkQzFtWExfYU5iLXpISC1mLV9kYzBGa1d4Ykd5cEdycURoRmpEbVlWdjVvRmNKenlNNFRPVWg2OGg4U0psdHJLa2tfczhEUUc2M0VNRDVB",
   "gas:CBMixgFBVV95cUxNRFFFSFJjYkZRTC1EOVMzSGRNMl9EcXkwcV84NEtxYjRLb2xrUDJrdmpYYW52VDZjZlVFQzFIU0VuRXRNZGlLQUZxckU2YTNyWnJVU3c2VFhFVWFXbURDVldsYkVMMXkwZnVaNkl5M0NYLUw0dVNEWkhaamlzMUh2VTZZb2t0UXF1TUFEQVpMSDdOa1JSczM3ZVd6WmxKZ3c5VmtBUDlvMDZVMTVsd1luLXI2cEU0QzNKNndjZGFlcmpGc0hOaGc",
-  "gas:CBMikAFBVV95cUxNSHpxaVRuTEFTcW4xeUMzV1RicEplYVFRbGVRa3laNl9CWkZUQjRFRUF4SHVOOW5pM1JYNGtPdEJYSkUwSTM2NjktcVJZWTYzcGptbkhZU0plUjRrajNwMGp3RkViZTRxWGJVM3dVNzFGVDNBYi0wSTlNbm1LSWVZcVR1ckN1cWtfOWtINmYwVFE"
+  "gas:CBMikAFBVV95cUxNSHpxaVRuTEFTcW4xeUMzV1RicEplYVFRbGVRa3laNl9CWkZUQjRFRUF4SHVOOW5pM1JYNGtPdEJYSkUwSTM2NjktcVJZWTYzcGptbkhZU0plUjRrajNwMGp3RkViZTRxWGJVM3dVNzFGVDNBYi0wSTlNbm1LSWVZcVR1ckN1cWtfOWtINmYwVFE",
+  "gas:CBMimgJBVV95cUxNRmJmcjl2TE9kZC1kUF9NM2o0QnA1QV9BMVI2cDFIQ3NkRFJySnMzTGhZcnBEX0d3ZERRQUdSaVFWRzdvTTJkdXJtd1h5YS1JNjhXdzhCXzJHcHByZG03SzhPV3NpVmVjenN4b1Bzbmh2aU53ODNwcDZydEwxczB3Y2daajNZbEdMRDFHYjVaZ3JhTk5ZXzJIcjZFYTAxN3p4TmtXeDVTdVFqbjAyeGVfVnY2ckMtZEZzVzhYNXEzMTNsX1FscmsxaUR0QWRWbFBmcGpidTE1NWllcEJaQmh4VHRqS19RbHJla2NZOExDTWc1NVNLNlFselhZMVVsam1ZemNvb2FmUVFUaTRsdHlhTXZmNkIwMDVjZ2c"
  ],
  "shows_last_day": "2026-11-09",
  "shows_init": "2026-10-22",
@@ -4849,7 +4851,8 @@
   "tg:insiderpaper/45790",
   "tg:insiderpaper/45791",
   "tg:insiderpaper/45792",
-  "tg:insiderpaper/45793"
+  "tg:insiderpaper/45793",
+  "tg:insiderpaper/45794"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -5010,16 +5013,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144340",
-  "tg:FinancialJuice/144351",
-  "tg:FinancialJuice/144350",
-  "tg:FinancialJuice/144349",
-  "tg:FinancialJuice/144348",
-  "tg:FinancialJuice/144347",
-  "tg:FinancialJuice/144346",
-  "tg:FinancialJuice/144345",
-  "tg:FinancialJuice/144344",
-  "tg:FinancialJuice/144353",
   "tg:FinancialJuice/144352",
   "tg:FinancialJuice/144355",
   "tg:FinancialJuice/144354",
@@ -5809,7 +5802,17 @@
   "tg:FinancialJuice/145717",
   "tg:FinancialJuice/145716",
   "tg:FinancialJuice/145726",
-  "tg:FinancialJuice/145725"
+  "tg:FinancialJuice/145725",
+  "tg:FinancialJuice/145736",
+  "tg:FinancialJuice/145735",
+  "tg:FinancialJuice/145734",
+  "tg:FinancialJuice/145733",
+  "tg:FinancialJuice/145732",
+  "tg:FinancialJuice/145731",
+  "tg:FinancialJuice/145730",
+  "tg:FinancialJuice/145729",
+  "tg:FinancialJuice/145728",
+  "tg:FinancialJuice/145727"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7028,6 +7031,50 @@
   [
    1794243262.3342972,
    "03|06|08|09|0年|10|11|12|13|14|18|19|1月|21|22|25|27|30|36|38|3个|47|4两|4以|50|51|57|5个|5曾|62|6全|71|75|7个|7美|81|84|8个|9个|9日|V形|一1|下跌|两年|个基|之前|于下|京时|以来|低至|债收|全天|出V|利差|刷新|前曾|势2|北京|呈现|周一|国1|国债|基点|处于|天处|尾盘|差跌|市尾|年期|开盘|形走|态北|报3|报4|报5|收益|新日|日低|日欧|时间|曾刷|月9|期国|期英|来呈|欧市|点2|点5|点周|点报|状态|率利|率跌|现出|益率|盘之|盘英|端英|约3|美股|股开|至4|至5|英债|英国|走势|跌0|跌1|跌2|跌状|跌约|长端|间1"
+  ],
+  [
+   1794243945.0911963,
+   "中在|临的|主要|使命|储双|储巴|双重|命面|在通|尔金|巴尔|方面|的风|美联|联储|胀方|要集|通胀|重使|金美|险主|集中|面临|风险"
+  ],
+  [
+   1794244005.099485,
+   "但最|储巴|向明|好谨|尔金|巴尔|币政|慎调|政策|整政|方向|明确|最好|确但|策方|美联|联储|调整|谨慎|货币|金货"
+  ],
+  [
+   1794244006.4617105,
+   "储巴|出相|国经|定性|尔金|巴尔|强的|当强|济表|现出|的稳|相当|稳定|经济|美国|美联|联储|表现|金美"
+  ],
+  [
+   1794244007.9853365,
+   "储巴|到的|力正|压力|听到|在广|尔金|巴尔|广泛|息显|成本|显示|本压|正在|泛蔓|消息|的消|示成|美联|联储|蔓延|金听"
+  ],
+  [
+   1794244009.3645697,
+   "下消|业市|仍在|但在|低迷|保持|信心|储巴|在就|在持|场保|尔金|就业|巴尔|市场|心低|性的|持续|持韧|撑下|支出|支撑|消费|的支|续支|美联|者仍|者信|联储|费者|迷但|金消|韧性"
+  ],
+  [
+   1794244066.964048,
+   "上涨|上行|之成|价带|保持|储巴|加之|压力|在给|尔金|巴尔|带来|性加|成本|持韧|普遍|本普|来上|正在|求保|涨正|物价|给物|美联|联储|行压|遍上|金需|需求|韧性"
+  ],
+  [
+   1794244068.4632883,
+   "上涨|业表|企业|储巴|嫁给|将成|尔金|尝试|巴尔|成本|本上|正尝|消费|涨转|示正|给消|美联|联储|表示|试将|费者|转嫁|金企"
+  ],
+  [
+   1794244069.8948038,
+   "业经|企业|储巴|况良|出色|利表|好盈|尔金|巴尔|当出|状况|现相|盈利|相当|经营|美联|联储|良好|营状|表现|金企"
+  ],
+  [
+   1794244071.30114,
+   "业务|人工|以外|信贷|储备|储巴|充足|务储|域以|备充|外的|家表|尔金|展至|工智|已扩|巴尔|广泛|扩展|智能|款业|求已|泛行|的广|示贷|美联|联储|能领|至人|行业|行家|表示|贷款|贷需|足信|金银|银行|需求|领域"
+  ],
+  [
+   1794244072.6491072,
+   "业裁|仍然|企业|储巴|员规|尔金|巴尔|有限|模仍|然有|美联|联储|裁员|规模|金企"
+  ],
+  [
+   1794244074.1788576,
+   "An|GS|IP|N首|O时|PO|SN|cI|c的|hr|ic|nt|op|pi|ro|th|一步|上市|交易|仍在|他拒|以待|们拭|及A|在被|在进|场是|官在|市场|市计|席执|开放|待他|我们|执行|拒绝|拭目|放的|时表|易仍|是开|步评|的上|的交|盛G|目以|示市|绝进|行官|行我|表示|被问|计划|论A|评论|进一|进行|问及|首席|高盛"
   ]
  ],
  "futu": [
@@ -7813,7 +7860,20 @@
   "futu:1003912140",
   "futu:1003912079",
   "futu:1003911404",
-  "futu:1003911405"
+  "futu:1003911405",
+  "futu:1003913022",
+  "futu:1003912947",
+  "futu:1003912939",
+  "futu:1003912993",
+  "futu:1003912995",
+  "futu:1003912994",
+  "futu:1003912985",
+  "futu:1003912986",
+  "futu:1003912975",
+  "futu:1003912976",
+  "futu:1003912867",
+  "futu:1003912557",
+  "futu:1003912361"
  ],
  "news_recent": [
   [
@@ -8387,6 +8447,54 @@
   [
    1794243144.4622397,
    "capacity centers ceo computing continue data david expects goldman investment massive sachs solomon trillion"
+  ],
+  [
+   1794243948.480008,
+   "barkin based broad businesses calling carefully consumer consumers corporate cost demand describes despite dual earnings economy elevated expenses fed federal healthy higher however inflation layoffs lending mandate monetary move muted pass plans policy president pressures primary remain remains remarkably reserve resilient richmond risk risks sentiment spending stable strong thomas warns weak"
+  ],
+  [
+   1794243951.3230817,
+   "bank barkin central fed inflation lies mandate risk side"
+  ],
+  [
+   1794243953.4997904,
+   "barkin best but care direction fed monetary move policy straightforward"
+  ],
+  [
+   1794243956.2046227,
+   "barkin economy fed remarkably stable"
+  ],
+  [
+   1794243958.3816512,
+   "alongside barkin based broad cost demand fed increases pressure prices putting resilient upward"
+  ],
+  [
+   1794243960.783785,
+   "barkin costs fed firms higher pass say they trying"
+  ],
+  [
+   1794244011.913273,
+   "barkin businesses earnings fed performing remarkable well"
+  ],
+  [
+   1794244014.2326922,
+   "artificial bankers barkin beyond demand extending fed healthy intelligence loan pipelines say well"
+  ],
+  [
+   1794244016.293393,
+   "barkin fed layoffs muted remain"
+  ],
+  [
+   1794244018.525614,
+   "barkin based broad cost fed hearing pressures"
+  ],
+  [
+   1794244021.2711718,
+   "barkin bleak but consumer consumers continue fed job market resilient sentiment spend supported"
+  ],
+  [
+   1794244076.0456412,
+   "anthropic asked ceo cnbc comment declines goldman ipo market occurring open sachs see transactions when"
   ]
  ]
 }
