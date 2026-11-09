@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192661",
   "wscn:3192660",
   "wscn:3192649",
   "wscn:3192277",
@@ -1705,10 +1704,10 @@
   "wscn:3196938",
   "wscn:3196935",
   "wscn:3196942",
-  "wscn:3196949"
+  "wscn:3196949",
+  "wscn:3196956"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37225",
   "tg:WalterBloomberg/37224",
   "tg:WalterBloomberg/37223",
   "tg:WalterBloomberg/37222",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38074",
   "tg:WalterBloomberg/38075",
   "tg:WalterBloomberg/38076",
-  "tg:WalterBloomberg/38077"
+  "tg:WalterBloomberg/38077",
+  "tg:WalterBloomberg/38078"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2740,7 +2740,8 @@
   "tg:WatcherGuru/15886",
   "tg:WatcherGuru/15888",
   "tg:WatcherGuru/15889",
-  "tg:WatcherGuru/15891"
+  "tg:WatcherGuru/15891",
+  "tg:WatcherGuru/15893"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2961,7 +2962,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794228612.0660965,
+ "earnings_last_check": 1794229469.3195782,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3234,7 +3235,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794227931.9232838,
+ "gas_last_check": 1794229171.6755197,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4983,11 +4984,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144264",
-  "tg:FinancialJuice/144263",
-  "tg:FinancialJuice/144262",
-  "tg:FinancialJuice/144261",
-  "tg:FinancialJuice/144260",
   "tg:FinancialJuice/144259",
   "tg:FinancialJuice/144274",
   "tg:FinancialJuice/144273",
@@ -5782,7 +5778,12 @@
   "tg:FinancialJuice/145643",
   "tg:FinancialJuice/145646",
   "tg:FinancialJuice/145648",
-  "tg:FinancialJuice/145647"
+  "tg:FinancialJuice/145647",
+  "tg:FinancialJuice/145653",
+  "tg:FinancialJuice/145652",
+  "tg:FinancialJuice/145651",
+  "tg:FinancialJuice/145650",
+  "tg:FinancialJuice/145649"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6593,6 +6594,18 @@
   [
    1794228670.375839,
    "00|09|0指|11|1标|50|9道|上涨|大至|幅扩|扩大|指数|指期|数期|普5|期货|标普|涨0|涨1|涨幅|纳指|至1|货上|货涨|道指"
+  ],
+  [
+   1794229168.7838778,
+   "03|10|36|37|4枚|50|64|7枚|85|St|at|eg|gy|ra|te|tr|y公|买了|了1|使得|公司|其持|到8|加到|司购|增加|币使|币总|得其|总数|持有|数增|有的|枚比|比特|特币|的比|购买"
+  ],
+  [
+   1794229287.7420337,
+   "14|4个|BE|CD|DN|ER|MC|N为|N指|RN|UB|Ub|be|er|rU|个国|为1|伙伴|作伙|劳M|合作|国家|定U|家的|当劳|指定|的首|选合|首选|麦当"
+  ],
+  [
+   1794229586.9755645,
+   "8I|8T|AX|IM|MA|PU|TP|TX|U为|U产|X和|X扩|为8|产品|代T|们最|八代|和8|品组|大第|我们|扩大|新的|最新|歌我|的T|第八|组合|谷歌"
   ]
  ],
  "futu": [
@@ -7228,7 +7241,15 @@
   "futu:1003889693",
   "futu:1003889113",
   "futu:1003888990",
-  "futu:1003888867"
+  "futu:1003888867",
+  "futu:1003890538",
+  "futu:1003890415",
+  "futu:1003890245",
+  "futu:1003890179",
+  "futu:1003890142",
+  "futu:1003890113",
+  "futu:1003890058",
+  "futu:1003889985"
  ],
  "news_recent": [
   [
