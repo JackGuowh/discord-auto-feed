@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192695",
   "wscn:3192694",
   "wscn:3192693",
   "wscn:3192704",
@@ -1705,7 +1704,8 @@
   "wscn:3196983",
   "wscn:3196982",
   "wscn:3196981",
-  "wscn:3196978"
+  "wscn:3196978",
+  "wscn:3196995"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37218",
@@ -2743,7 +2743,8 @@
   "tg:WatcherGuru/15891",
   "tg:WatcherGuru/15893",
   "tg:WatcherGuru/15894",
-  "tg:WatcherGuru/15895"
+  "tg:WatcherGuru/15895",
+  "tg:WatcherGuru/15896"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2965,7 +2966,7 @@
   "weekly:2026-11-08",
   "movers_pre:2026-11-09"
  ],
- "earnings_last_check": 1794233553.0664847,
+ "earnings_last_check": 1794234352.067158,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3238,7 +3239,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794232894.1257393,
+ "gas_last_check": 1794234113.4057155,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4987,8 +4988,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144289",
-  "tg:FinancialJuice/144288",
   "tg:FinancialJuice/144291",
   "tg:FinancialJuice/144290",
   "tg:FinancialJuice/144292",
@@ -5786,7 +5785,9 @@
   "tg:FinancialJuice/145669",
   "tg:FinancialJuice/145668",
   "tg:FinancialJuice/145667",
-  "tg:FinancialJuice/145666"
+  "tg:FinancialJuice/145666",
+  "tg:FinancialJuice/145673",
+  "tg:FinancialJuice/145672"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6689,6 +6690,14 @@
   [
    1794233549.2491825,
    "9日|下令|不会|于胁|令结|伊朗|会屈|但不|体报|佩泽|判但|半岛|卡塔|台等|和状|塔尔|塔巴|塔斯|姆通|媒体|尔半|尼姆|屈服|岛电|已下|巴已|希齐|并称|态并|态据|总统|意进|愿意|或霸|战非|扬9|报道|据伊|斯尼|日表|最高|服于|朗塔|朗总|朗愿|朗最|束非|杰塔|泽希|状态|电视|示伊|社卡|称伊|穆杰|等媒|结束|统伊|统佩|胁迫|行谈|表示|袖已|袖穆|视台|讯社|谈判|进行|迫或|通讯|道伊|霸凌|非和|非战|领袖|高领|齐扬"
+  ],
+  [
+   1794233809.7084649,
+   "02|20|27|7年|Eq|MS|N将|SN|Vi|in|it|lE|ny|qu|ty|ui|yl|y该|一季|丹利|于2|交易|代理|利M|原生|士丹|字原|季度|完成|将于|将收|年第|度完|户代|摩根|收购|数字|易预|机构|构V|根士|理机|生过|第一|计将|该交|购数|过户|预计"
+  ],
+  [
+   1794234409.1756291,
+   "11|1月|9日|争是|交部|人巴|伊朗|停止|判前|判的|制裁|前提|加埃|动谈|华社|发言|取消|启动|和停|国取|埃1|外交|巴加|战争|提伊|提新|新华|日表|是启|是谈|月9|朗外|朗说|止战|消制|的前|示美|美取|美国|表示|裁停|裁和|言人|说美|谈判|部发"
   ]
  ],
  "futu": [
@@ -7367,7 +7376,11 @@
   "futu:1003896531",
   "futu:1003896520",
   "futu:1003896452",
-  "futu:1003896227"
+  "futu:1003896227",
+  "futu:1003897529",
+  "futu:1003897846",
+  "futu:1003897834",
+  "futu:1003897697"
  ],
  "news_recent": [
   [
@@ -7785,6 +7798,14 @@
   [
    1794233073.331899,
    "$nvda down extend last losses nvidia premarket shares"
+  ],
+  [
+   1794233991.7070878,
+   "9th banks credit dallas federal market november open pilot private reserve statement survey york"
+  ],
+  [
+   1794233993.8722115,
+   "10th cpi november prep"
   ]
  ]
 }
