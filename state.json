@@ -2947,7 +2947,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794191021.5539992,
+ "earnings_last_check": 1794191759.2639363,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4945,7 +4945,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144218",
   "tg:FinancialJuice/144221",
   "tg:FinancialJuice/144220",
   "tg:FinancialJuice/144219",
@@ -5744,7 +5743,8 @@
   "tg:FinancialJuice/145595",
   "tg:FinancialJuice/145594",
   "tg:FinancialJuice/145593",
-  "tg:FinancialJuice/145601"
+  "tg:FinancialJuice/145601",
+  "tg:FinancialJuice/145602"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6625,7 +6625,9 @@
   "futu:1003837553",
   "futu:1003837449",
   "futu:1003837238",
-  "futu:1003836941"
+  "futu:1003836941",
+  "futu:1003838312",
+  "futu:1003838194"
  ],
  "news_recent": [
   [
@@ -6895,6 +6897,10 @@
   [
    1794188683.9940493,
    "contracted country current gpu impact industry issues korea minister nvidia south supply vice won"
+  ],
+  [
+   1794191756.8688865,
+   "china extend maintain months nov statement suspension tariffs two"
   ]
  ]
 }
