@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192277",
   "wscn:3192678",
   "wscn:3192671",
   "wscn:3192670",
@@ -1705,7 +1704,8 @@
   "wscn:3196949",
   "wscn:3196956",
   "wscn:3196963",
-  "wscn:3196959"
+  "wscn:3196959",
+  "wscn:3196969"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37221",
@@ -2918,7 +2918,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794229616.2107115,
+ "congress_last_check": 1794231461.1446998,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2963,7 +2963,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794231014.6478338,
+ "earnings_last_check": 1794231941.167429,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3236,7 +3236,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794230392.7324524,
+ "gas_last_check": 1794231641.2338285,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4985,7 +4985,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144277",
   "tg:FinancialJuice/144286",
   "tg:FinancialJuice/144285",
   "tg:FinancialJuice/144284",
@@ -5784,7 +5783,8 @@
   "tg:FinancialJuice/145655",
   "tg:FinancialJuice/145654",
   "tg:FinancialJuice/145661",
-  "tg:FinancialJuice/145660"
+  "tg:FinancialJuice/145660",
+  "tg:FinancialJuice/145662"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6623,6 +6623,10 @@
   [
    1794230270.0480385,
    "0美|13|14|30|49|9美|MT|N目|TN|WM|上调|从1|价从|元上|团将|将沃|尔玛|标价|沃尔|玛W|瑞银|目标|美元|至1|调至|银集|集团"
+  ],
+  [
+   1794231758.3115447,
+   "0新|9日|不再|且不|事行|亚说|人穆|今后|伊斯|伊朗|克拉|兰共|共和|再受|军事|军方|击效|制0|加注|动将|动更|华社|发言|受地|后军|和国|和打|回应|围限|国通|在落|地理|实最|将更|尼亚|应和|应据|德阿|快速|打击|报道|拉米|指示|据伊|效果|斯兰|新华|方发|日报|更加|更注|最高|朗伊|朗军|朗最|朗武|期指|果且|正在|武装|求军|注重|理范|示今|社9|穆罕|米尼|罕默|范围|落实|行动|袖要|袖近|装部|要求|言人|讯社|说伊|近期|通讯|速回|道伊|部队|重快|队正|阿克|限制|领袖|高领|默德"
   ]
  ],
  "futu": [
@@ -7283,7 +7287,12 @@
   "futu:1003892988",
   "futu:1003892978",
   "futu:1003892904",
-  "futu:1003892832"
+  "futu:1003892832",
+  "futu:1003895084",
+  "futu:1003894873",
+  "futu:1003894499",
+  "futu:1003894439",
+  "futu:1003894039"
  ],
  "news_recent": [
   [
