@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794215114.1147745,
+ "earnings_last_check": 1794215917.0564308,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794214371.696488,
+ "gas_last_check": 1794215615.4695048,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3834,7 +3834,8 @@
   "gas:CBMikgFBVV95cUxNcy1WMmxPOTVaRkMzWXdYM2RpYXFYWjlWZF9uQVhyME5PZXdTUVVEQzJPMUtIZzd5ZzdIS05BRXFTUkdEQVhZNkE3ZDBsLWJFZ2djR1lhbmdJMjEtMTlqdTFYUFF0QW9reFd2X1dSWEUzam9NVU1nUGphNTl2Y2ZtMUtaNkVnWE1KRkdnZDZMVVBGdw",
   "gas:CBMiY0FVX3lxTE9QanFjclpqV1h4ZkFrVkFPNzhBOWxsQUVkVEVDUEZucENWZms0M0dzdzJsTTFadFZjWnA2bC1PWjY1eEd6TDVPQ3ptdExnTEdOTF83MFhOVGxtcU5kbmZHX1ozRQ",
   "gas:CBMiqAFBVV95cUxPNlE5M1hDdWRUU2dVd1ZyWVJXQlJkVjA2R29lN0FpUnRoNk1BTW1uZXNFWEhBMnRQNFZ5SGhRVm5XUElkdjZXa1RSdjJ5OGltdDRRRXF3Y2I5TXR1SThWX3FkaDluMjB3c2JkV0tSMzdzUThJazVXVm9BVWo3S0VXOWdROHJaOVMyV082SGpFcFpXZXMzZFRCcGlIMkNTdE9iSUotZF9LSGc",
-  "gas:CBMikAFBVV95cUxNNktmYV8wdmdjY0xhSVZGQXFFMDRXRTUzY0N4UXpKcXN6elNjaDgtV1dtX2JUbmJVM2YtVU9Sa2hta1Z5cDUyc2JiTGJMMDhpWmNNVWZWMnJWLWw3ME05MkVVN2l1VEw4ek5MWE9sRDRseWNPVlhfRVo1MjQzY2llRXVadGZBN19leWI4MXZtMXE"
+  "gas:CBMikAFBVV95cUxNNktmYV8wdmdjY0xhSVZGQXFFMDRXRTUzY0N4UXpKcXN6elNjaDgtV1dtX2JUbmJVM2YtVU9Sa2hta1Z5cDUyc2JiTGJMMDhpWmNNVWZWMnJWLWw3ME05MkVVN2l1VEw4ek5MWE9sRDRseWNPVlhfRVo1MjQzY2llRXVadGZBN19leWI4MXZtMXE",
+  "gas:CBMilwFBVV95cUxOc3pyeHdTQ1hlenYtNjFmVWpidnp2ekVTODhSRzNEQjBKMTJxd0FfZE5wVTlLdWpCS1J1RFBaSWhPZmxCdzM2MW54QzJtRXdEbGpiLS1LdzZJMV80Z01ZQ2w5SDZVM1RQaHduNU9FNEVJNFROV2QtbkdVMFhaTU9tZHZOVmRGVFRZZG5CQVNadnNxYURjYmNj"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6416,6 +6417,18 @@
   [
    1794214872.5524168,
    "AO|DA|NV|O美|VD|伟达|前跌|盘前|美股|股盘|英伟|跌逾|达N|逾4"
+  ],
+  [
+   1794215195.1487784,
+   "00|0亿|1马|50|5黄|AM|D阿|MD|Sp|X升|X明|ac|ce|eX|pa|事会|亿美|仁勋|会启|伟达|元A|克称|公开|前跌|动独|勋承|化营|升约|升逾|启动|外情|婚外|年化|年底|并公|底年|开致|情并|或超|承认|收或|斯克|斯麦|明年|查S|歉英|独立|盘前|称S|立调|约2|美元|致歉|英伟|营收|董事|认婚|调查|超5|跌近|达盘|达董|近5|逾1|阿斯|马斯|麦升|黄仁"
+  ],
+  [
+   1794215253.874156,
+   "11|1月|MN|N将|TM|下旬|丰田|于1|产的|以日|凯美|出美|国生|在日|场规|将于|市场|据日|推出|新闻|日本|日经|旬在|月下|本市|本推|格返|汽车|瑞以|生产|田汽|的凯|经新|美国|美瑞|规格|车T|返销|进口|销进|闻丰"
+  ],
+  [
+   1794215914.1953895,
+   "09|11|14|17|1美|4迈|7高|9A|AR|Ar|CO|IN|LO|MO|MR|MU|NT|OM|O下|QC|RM|RV|TC|UO|VL|mA|rm|下跌|价盘|光科|制造|前下|商股|国芯|威尔|尔I|尔科|技M|片制|特尔|盘前|科技|美光|美国|股价|芯片|英特|跌0|跌1|跌英|迈威|通Q|造商|高通"
   ]
  ],
  "futu": [
@@ -6926,7 +6939,20 @@
   "futu:1003868020",
   "futu:1003867985",
   "futu:1003867932",
-  "futu:1003867758"
+  "futu:1003867758",
+  "futu:1003870651",
+  "futu:1003870589",
+  "futu:1003870542",
+  "futu:1003870543",
+  "futu:1003870464",
+  "futu:1003870327",
+  "futu:1003869894",
+  "futu:1003869808",
+  "futu:1003869469",
+  "futu:1003869197",
+  "futu:1003869145",
+  "futu:1003869067",
+  "futu:1003869056"
  ],
  "news_recent": [
   [
