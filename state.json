@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192577",
   "wscn:3192592",
   "wscn:3192619",
   "wscn:3192631",
@@ -1705,7 +1704,8 @@
   "wscn:3196845",
   "wscn:3196855",
   "wscn:3196863",
-  "wscn:3196877"
+  "wscn:3196877",
+  "wscn:3196889"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2502,7 +2502,8 @@
   "tg:WalterBloomberg/38061",
   "tg:WalterBloomberg/38064",
   "tg:WalterBloomberg/38063",
-  "tg:WalterBloomberg/38065"
+  "tg:WalterBloomberg/38065",
+  "tg:WalterBloomberg/38066"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2733,7 +2734,8 @@
   "tg:WatcherGuru/15881",
   "tg:WatcherGuru/15885",
   "tg:WatcherGuru/15886",
-  "tg:WatcherGuru/15888"
+  "tg:WatcherGuru/15888",
+  "tg:WatcherGuru/15889"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2954,7 +2956,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794220775.7207785,
+ "earnings_last_check": 1794221582.1269677,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4472,7 +4474,8 @@
   "tg:disclosetv/22079",
   "tg:disclosetv/22080",
   "tg:disclosetv/22081",
-  "tg:disclosetv/22082"
+  "tg:disclosetv/22082",
+  "tg:disclosetv/22083"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -6470,6 +6473,18 @@
   [
    1794220473.8904693,
    "01|05|0H|10|11|16|18|1月|55|5万|5亿|65|81|9日|HK|K1|万股|亿港|份耗|回购|团0|小米|日回|月9|港元|米集|约0|耗资|股份|股股|购1|资约|集团"
+  ],
+  [
+   1794220978.6434739,
+   "0万|11|16|18|1其|26|35|39|5这|60|6的|89|9亿|9成|Co|Li|Lu|Z世|aL|ac|an|ch|ci|h不|h中|h实|h母|h的|ia|il|io|i在|li|na|ni|oa|on|uc|一季|一数|万名|不会|不卷|不是|不盲|专访|世代|业务|中Z|中争|中国|中核|为拉|为深|丽安|买行|争夺|于将|于市|于涨|亿美|从传|从涨|代消|们的|价不|价值|价我|价而|份额|会盲|传统|佩思|侈品|依赖|值驱|元同|入品|全球|公司|关键|其中|力于|务不|动C|动集|劲增|劲李|区总|升3|占3|卷份|受专|受价|司泰|同样|同比|名其|品手|品牌|售额|团全|团第|固定|国区|国市|国消|在中|在接|场C|场份|场同|场的|场销|增消|增长|多新|夺市|奢侈|季度|安L|安强|定汇|实现|客户|将更|市场|带入|并非|度泰|度销|引擎|强劲|强调|心品|思琦|总裁|成为|我们|战略|户带|手中|拉动|按固|据在|接受|擎一|数据|新增|新客|新闻|日C|日经|时表|是依|是致|更多|李丽|样表|核心|母公|每日|比增|汇率|泰佩|济新|消费|涨价|深受|点并|牌C|牌每|率计|现1|现强|球增|球新|琦集|略重|的业|的关|的强|的战|的购|目涨|盲从|盲目|示中|第一|算中|约2|约占|经济|统奢|美元|者约|而是|致力|行为|表现|表示|裁不|裁李|计算|访时|调C|购买|费市|费者|赖于|近日|这一|重点|销售|键引|长1|长按|长的|集团|非从|额1|额而|额近|额飙|飙升|驱动"
+  ],
+  [
+   1794221159.5824263,
+   "02|03|0日|0起|10|11|15|1月|20|26|30|59|69|6将|6年|96|ET|F易|TF|业务|于2|停牌|办理|务照|回业|复牌|将于|市起|常办|年1|开市|指E|方达|日1|日开|易方|月1|期间|照常|牌停|牌期|牌自|纳指|自2|赎回|起停|起复|达1|间赎"
+  ],
+  [
+   1794221519.5203993,
+   "02|0不|0亿|20|22|25|2年|50|55|5年|69|90|Ad|Ca|Ja|Lu|aC|al|am|ap|ar|dv|er|es|in|is|it|lA|me|mi|na|pi|rs|rv|sJ|se|s合|s表|ta|um|vi|三季|下降|不过|业务|业的|业董|东地|严格|中东|中最|临更|为2|为明|么悲|也在|乱投|争扰|事会|于去|于过|于迪|五年|交易|产剥|人J|亿美|今同|仍高|代表|以及|以把|以来|企业|伊朗|伙人|会总|会暂|估局|位于|低于|低水|体情|停行|元为|元的|元第|充当|先在|全球|全面|公司|关机|其中|具代|冲突|况并|出全|划以|划推|初期|剥离|务的|动仍|动放|动评|势对|化可|区企|区并|区更|区的|华尔|历2|去五|去年|及海|及美|发初|变化|可能|司收|合伙|同期|同比|后的|向谨|和资|响导|四季|团队|国政|在冲|在经|在继|地区|地团|场华|场情|均水|型并|多是|大型|季度|审查|对自|导致|尔街|局势|局变|已转|市场|常活|平均|平表|平远|年中|年以|年同|年异|年的|并没|并购|度以|度涉|异常|当地|影响|性的|总部|悲观|情况|情绪|慎数|战争|扩充|扰乱|把握|投资|拜的|据显|推迟|握相|收购|放缓|政治|数据|整体|明显|明该|易热|易面|易额|是在|是规|显交|显示|暂停|更严|更为|更多|最低|最具|有那|朗战|期企|期的|机会|机构|来地|来最|构也|查市|格局|格的|案然|模达|比下|水平|没有|治格|活动|活跃|海湾|涉及|涨其|温而|湾地|潮高|热潮|然而|爆发|球市|电公|的6|的L|的审|的平|的并|的影|的是|的艺|的降|相关|着伊|示第|示首|离计|突爆|第三|第四|约5|经历|继续|绪已|续扩|缓更|美元|美国|而随|而非|能导|自身|至约|致大|致并|艺电|董事|融机|行动|街金|表性|表明|表示|观海|规模|计划|评估|该地|谨慎|购交|购和|购案|购活|资产|资计|超过|跃后|身业|转向|达5|迄今|过9|过去|过整|远低|迪拜|退出|那么|部位|金融|队以|降温|降至|降超|随着|非全|面临|面退|额迄|额降|首先|高于|高涨"
   ]
  ],
  "futu": [
@@ -7030,7 +7045,18 @@
   "futu:1003876875",
   "futu:1003876829",
   "futu:1003876680",
-  "futu:1003876648"
+  "futu:1003876648",
+  "futu:1003878064",
+  "futu:1003878057",
+  "futu:1003877996",
+  "futu:1003877975",
+  "futu:1003877906",
+  "futu:1003877751",
+  "futu:1003877656",
+  "futu:1003877518",
+  "futu:1003877448",
+  "futu:1003877449",
+  "futu:1003877271"
  ],
  "news_recent": [
   [
@@ -7352,6 +7378,14 @@
   [
    1794218692.2223501,
    "approval bank coinbase federal full national officially operate receives trust"
+  ],
+  [
+   1794220981.3904533,
+   "$300 $nvda 2027 2028 analyst approximately attractive availability buy calling center concerns data defends demand earnings estimates exceed expects financing following fundamentals goldman include infrastructure investor james key near nvidia power price projected rating recent reiterates reward risk sachs schneider sector selloff shares stock street sustainability target term through times trading wall"
+  ],
+  [
+   1794221040.319374,
+   "amnesty deal democrats deportations endorses far full losing midterms now people pretty right saying trump want who"
   ]
  ]
 }
