@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192096",
   "wscn:3192095",
   "wscn:3192094",
   "wscn:3192101",
@@ -1705,7 +1704,8 @@
   "wscn:3196637",
   "wscn:3196652",
   "wscn:3196656",
-  "wscn:3196655"
+  "wscn:3196655",
+  "wscn:3196674"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794200761.296056,
+ "earnings_last_check": 1794201382.7521608,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794199599.5086555,
+ "gas_last_check": 1794200840.568197,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3825,7 +3825,8 @@
   "gas:CBMiwAFBVV95cUxQdUNLRGhROFVxYnUzYVZSbExGNGV3VW00eXIxRElvT25ZX2xKR2NxX2hiZndhZEVHQXN6QmJkQmFDVWZHSE9UakdjOVh1RV8yc3RDZnRNdU5FbVpPYWV3b0s5dEZXZGdTRi01NEZDUFlUQzdvQ1JpVVRUTTdJaGZDRU5yN0Vod0x2ZUVMQlQzLXZORUpFOHN2MUc5d3pGeE1ucFhhMFZxOGprU0pUb3Z3b0pIQzI4WWtSSHZGaElaMFM",
   "gas:CBMivwFBVV95cUxNZG9MVk83dnNudW56QTlQZk9OUHVmRlZOMDZ6Z0RHYkdxSExfa2JoeGlBbnlrcEpuMjVYOE1GUU85c2FqOV96cXdVMWc5OUFZWXV2TS1EMTFMQS1iRUstbS1Nd1UtbS1nT0VSX2pPZW1MUDhvVnBGM0wzbFFvak95cnFDQ2hkQWdpWnhVampUTXFSS19WX2JJeHJxMUQ5VzhkdF8zWHN3QmZSNExqTlkzSnRvOS1CTGxyMFlvd2gycw",
   "gas:CBMihAFBVV95cUxOdE8xSTRXWWUxci1tX2dZZ0Z1LUVOZnpuSUVsMVY2d3V1YVVjOFc3LXh4ak4wcmVJNURFNnM3cnFyRVhscnFVZjI5eVFiU29aWWJyaTloYWk5Q1MycFdJTDhickU5bkstakFLX2pPSF80d0EweTJKQW1FOUtfMWxOTWQxS28",
-  "gas:CBMiywFBVV95cUxPTTZ0OFBsQUZBa2tPRTlDMTZTbllhWGY2VkFYMExqM2xObmJESE9wUE1fUk4yQ1Vtbk5ER0xwcjF0Sm4yOFpOTkFmSW5BdGl0Sy1ISzZuUUJyNmJtYlMtMFZIdEU4WEh0MjJ5Y2FDeUtGTG1rdjhWM1RCMmQ4UEdsUWI4LW82V2t4cjIySWMyay1LcmZpbnBwV2lSeE5zXzZERXZLY05pSFB4aGRTb29nLVBZaHE3U3psRFE2UHNocmFWbThCWnlOVmZtRQ"
+  "gas:CBMiywFBVV95cUxPTTZ0OFBsQUZBa2tPRTlDMTZTbllhWGY2VkFYMExqM2xObmJESE9wUE1fUk4yQ1Vtbk5ER0xwcjF0Sm4yOFpOTkFmSW5BdGl0Sy1ISzZuUUJyNmJtYlMtMFZIdEU4WEh0MjJ5Y2FDeUtGTG1rdjhWM1RCMmQ4UEdsUWI4LW82V2t4cjIySWMyay1LcmZpbnBwV2lSeE5zXzZERXZLY05pSFB4aGRTb29nLVBZaHE3U3psRFE2UHNocmFWbThCWnlOVmZtRQ",
+  "gas:CBMikAFBVV95cUxORE9TYlBqVElFejVZYUF3Q1BQOWNFREozRGdoUWJ0Y2x2alVQLXNzcmVMVlp2Z2ZWZXFaeXdoMF9UVVVzSXk4b3BJTTdYcEJQTTlTMmJleVQxS0YwSHFVSnVoT3FxQVJjZHBsdHpCQVFfbF96ZmJxcTZNVGY1c21KbXFNYnVITDFaWXFYWlNGTGQ"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6305,6 +6306,10 @@
   [
    1794199096.1759102,
    "01|02|05|07|0月|0的|10|1恒|20|22|24|2个|2中|2年|2恒|4的|56|57|6P|6月|7中|7创|B煤|CB|CP|I同|PC|PI|PP|业板|个月|中国|亚洲|仁勋|仍愿|以来|会在|伟达|体走|保留|信特|停实|全员|关税|内继|冲高|出访|则委|创2|创业|加征|务院|勋出|勋涉|半日|发布|同比|员会|员信|回落|国1|国务|在2|块集|增0|增5|外情|委员|婚外|实施|对美|布致|带黄|年6|强恒|征关|总创|恒指|恒生|情发|意带|愿意|技指|指冲|指半|指数|数涨|施2|日涨|早间|普称|暂停|最高|月C|月P|月以|月内|朗普|来最|板块|板指|比增|汇总|涉婚|涨0|涨2|炭板|煤炭|物科|特朗|率保|率黄|生物|生生|生科|留1|的对|科技|称仍|税则|税率|税税|继续|续暂|美加|致英|英伟|落涨|要闻|访亚|走强|达全|间要|闻汇|院关|集体|高回|高国|黄仁"
+  ],
+  [
+   1794201259.1850684,
+   "00|01|02|0万|0亿|0净|0在|10|11|13|14|15|1月|20|26|30|33|34|3亿|4亿|50|5日|6年|万美|万股|三季|下降|业绩|中第|为1|了1|亏损|亿美|元其|元同|元搜|元此|元的|入1|入为|公司|公布|其中|净亏|划截|前宣|务报|务收|司公|司此|同比|告财|回购|国存|在线|增长|外根|存托|季度|宣布|已经|布2|布的|年1|年第|度业|度总|度营|度财|总收|总金|戏收|截至|托股|报告|报显|损为|据搜|搜狐|收入|日搜|显示|最高|月5|服务|根据|此前|此外|比下|比增|游戏|狐公|狐已|狐第|狐美|的总|的美|示搜|票回|票总|第三|约1|线游|经回|绩总|美元|美国|股搜|股票|至2|营销|计划|财务|财报|购了|购计|金额|销服|长1|降3|额最|额约|高1"
   ]
  ],
  "futu": [
@@ -6705,7 +6710,10 @@
   "futu:1003846903",
   "futu:1003846720",
   "futu:1003846644",
-  "futu:1003846633"
+  "futu:1003846633",
+  "futu:1003847672",
+  "futu:1003847535",
+  "futu:1003847430"
  ],
  "news_recent": [
   [
