@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192109",
   "wscn:3192114",
   "wscn:3192115",
   "wscn:3192183",
@@ -1705,7 +1704,8 @@
   "wscn:3196720",
   "wscn:3196726",
   "wscn:3196754",
-  "wscn:3196750"
+  "wscn:3196750",
+  "wscn:3196765"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794209502.0562136,
+ "earnings_last_check": 1794210182.6597517,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4954,10 +4954,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144245",
-  "tg:FinancialJuice/144244",
-  "tg:FinancialJuice/144258",
-  "tg:FinancialJuice/144257",
   "tg:FinancialJuice/144256",
   "tg:FinancialJuice/144255",
   "tg:FinancialJuice/144254",
@@ -5753,7 +5749,11 @@
   "tg:FinancialJuice/145623",
   "tg:FinancialJuice/145627",
   "tg:FinancialJuice/145626",
-  "tg:FinancialJuice/145625"
+  "tg:FinancialJuice/145625",
+  "tg:FinancialJuice/145631",
+  "tg:FinancialJuice/145630",
+  "tg:FinancialJuice/145629",
+  "tg:FinancialJuice/145628"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6348,6 +6348,10 @@
   [
    1794209559.2429893,
    "0万|60|一贯|万块|上的|中国|中方|主持|主管|些芯|交部|人郭|会法|伟达|体情|何评|例行|具体|况建|准这|华芯|即将|发言|口请|向中|嘉昆|国大|国英|国输|在批|在美|在香|场是|块美|外交|大陆|对此|将被|建议|往中|情况|批准|报道|持例|提问|新社|方主|方在|昆主|昆表|是一|有何|正在|此有|法新|港即|片正|片进|片问|的具|的立|示中|社报|社记|立场|管部|级芯|美国|者会|者提|芯片|英伟|行记|表示|被送|言人|议向|记者|论郭|评论|询问|请问|贯的|路透|输华|达高|这些|进口|送往|透社|道6|部发|部对|部门|郭嘉|门询|问外|问路|问题|陆中|陆正|题上|香港|高级"
+  ],
+  [
+   1794209938.9203336,
+   "DI|G新|I为|LG|SD|三星|为电|为第|代电|供应|六代|商将|商彭|国新|在欧|在美|增L|增三|宝马|将在|应商|彭博|新增|新能|星S|欧洲|池电|洲新|源为|电池|电芯|第六|美国|能源|芯供|马将"
   ]
  ],
  "futu": [
@@ -6792,7 +6796,16 @@
   "futu:1003855470",
   "futu:1003855815",
   "futu:1003855623",
-  "futu:1003855563"
+  "futu:1003855563",
+  "futu:1003858262",
+  "futu:1003857520",
+  "futu:1003857340",
+  "futu:1003857163",
+  "futu:1003857113",
+  "futu:1003857092",
+  "futu:1003856736",
+  "futu:1003856672",
+  "futu:1003856673"
  ],
  "news_recent": [
   [
