@@ -906,10 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192719",
-  "wscn:3192717",
-  "wscn:3192736",
-  "wscn:3192734",
   "wscn:3192730",
   "wscn:3192729",
   "wscn:3192727",
@@ -1705,10 +1701,13 @@
   "wscn:3197014",
   "wscn:3197012",
   "wscn:3197026",
-  "wscn:3197025"
+  "wscn:3197025",
+  "wscn:3197032",
+  "wscn:3197029",
+  "wscn:3197028",
+  "wscn:3197027"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37234",
   "tg:WalterBloomberg/37233",
   "tg:WalterBloomberg/37235",
   "tg:WalterBloomberg/37238",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38086",
   "tg:WalterBloomberg/38089",
   "tg:WalterBloomberg/38088",
-  "tg:WalterBloomberg/38090"
+  "tg:WalterBloomberg/38090",
+  "tg:WalterBloomberg/38091"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2747,7 +2747,8 @@
   "tg:WatcherGuru/15896",
   "tg:WatcherGuru/15897",
   "tg:WatcherGuru/15899",
-  "tg:WatcherGuru/15900"
+  "tg:WatcherGuru/15900",
+  "tg:WatcherGuru/15901"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2970,7 +2971,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794237627.5738015,
+ "earnings_last_check": 1794238256.2394128,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3243,7 +3244,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794236584.7144423,
+ "gas_last_check": 1794237842.1276095,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -5000,14 +5001,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144296",
-  "tg:FinancialJuice/144306",
-  "tg:FinancialJuice/144305",
-  "tg:FinancialJuice/144304",
-  "tg:FinancialJuice/144303",
-  "tg:FinancialJuice/144302",
-  "tg:FinancialJuice/144301",
-  "tg:FinancialJuice/144300",
   "tg:FinancialJuice/144310",
   "tg:FinancialJuice/144309",
   "tg:FinancialJuice/144308",
@@ -5799,7 +5792,15 @@
   "tg:FinancialJuice/145677",
   "tg:FinancialJuice/145682",
   "tg:FinancialJuice/145681",
-  "tg:FinancialJuice/145680"
+  "tg:FinancialJuice/145680",
+  "tg:FinancialJuice/145690",
+  "tg:FinancialJuice/145689",
+  "tg:FinancialJuice/145688",
+  "tg:FinancialJuice/145687",
+  "tg:FinancialJuice/145686",
+  "tg:FinancialJuice/145685",
+  "tg:FinancialJuice/145684",
+  "tg:FinancialJuice/145683"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6850,6 +6851,50 @@
   [
    1794237147.6836102,
    "55|5A|6A|6美|76|8博|AM|AR|AV|Ar|DA|DO|GO|LO|MD|MO|MR|MU|OO|O上|O涨|O迈|RM|RV|UO|VG|VL|mA|rm|上涨|体指|光科|内涨|半导|博通|城半|威尔|导体|尔科|幅达|技M|指数|数日|日内|涨5|涨7|涨幅|涨超|科技|美光|费城|超6|超8|达5|迈威|通A"
+  ],
+  [
+   1794237709.8741162,
+   "6的|AI|Ac|Al|Di|Fa|In|I机|I系|I聊|Me|Pl|aP|ab|ai|al|at|be|cA|ct|c旗|es|et|fo|gi|ha|ig|ir|it|lF|la|lp|ms|nc|ne|or|ph|rm|rn|sA|sI|ss|tI|ta|tf|t草|一次|一轮|三公|上依|下谷|不遵|与A|与其|业将|业若|临新|临最|为延|为成|于全|于周|互动|些为|些公|些措|些诱|些通|交媒|人功|人工|人数|人际|企业|体平|体成|使用|供关|依赖|促使|停留|全球|公司|公布|公平|关系|关规|关闭|其互|出手|分最|则定|制这|功能|务在|动的|包括|及全|可能|台将|司包|司的|司等|周三|和人|器人|在很|大的|大程|天机|媒体|字公|守将|定于|对社|对那|导强|将被|将针|将面|工智|布企|平台|平法|年用|年营|度上|度功|延长|强迫|当于|彭博|很大|性功|性或|成年|成瘾|或使|户停|户持|户提|手整|技公|拟人|拟对|括M|持续|措施|提供|收6|数字|整治|新一|施还|旗下|时间|是成|显示|智能|最大|最高|服务|机器|标是|案D|案显|模拟|次整|次的|欧盟|款彭|歌公|此次|求为|治可|治社|法案|波及|球年|球部|用户|用过|留时|瘾功|瘾性|的A|的功|的服|的目|的科|的罚|的选|监管|盟拟|盟监|目标|相关|相当|示企|社交|科技|程度|等这|管限|系促|系统|统此|续与|罚款|而设|聊天|能A|能与|能出|能和|能波|能的|能相|若不|草案|营收|被要|要求|规则|计的|设计|诱导|谷歌|赖那|轮欧|过度|过模|还将|这一|这些|迫性|选项|通过|遵守|那些|部分|针对|长用|闭那|间而|际关|限制|面临|项这|高相"
+  ],
+  [
+   1794237771.0409384,
+   "24|4N|Ne|ew|i2|s土|ws|万斯|下周|与伊|主办|书雷|于下|以色|伊朗|伊的|会晤|会秘|会谈|全委|其情|列i|判取|副总|办美|卡塔|取得|员会|周在|哈主|国副|国家|土耳|在多|塔尔|多哈|委员|安全|家安|将于|尔将|局长|并称|得突|总统|情报|扎伊|报局|据以|斯与|是谈|晤是|最高|朗最|次会|此次|的会|的良|破的|秘书|称卡|称此|突破|统万|美国|耳其|良机|色列|谈判|谈并|长称|雷扎|高国"
+  ],
+  [
+   1794237830.0688791,
+   "CV|N签|VX|XN|上天|与雪|佛龙|勘探|协议|及与|及石|埃及|天然|探协|气勘|油部|海上|然气|石油|签署|署海|部埃|雪佛|龙C"
+  ],
+  [
+   1794237889.008943,
+   "Go|be|ee|e就|ls|ol|oo|sb|业和|主席|储主|加哥|和经|哥联|国芝|增长|就业|席G|当稳|济增|相当|稳定|经济|美国|联储|芝加|都相|长都"
+  ],
+  [
+   1794237891.2064857,
+   "一直|储古|出在|古尔|在通|大问|尔斯|斯比|方面|比大|直出|美联|联储|胀方|通胀|问题|题一"
+  ],
+  [
+   1794237892.67338,
+   "上相|业和|储古|古尔|和增|增长|实际|尔斯|就业|当稳|斯比|比就|相当|稳定|美联|联储|长实|际上"
+  ],
+  [
+   1794237894.1479192,
+   "们必|储古|古尔|失败|尔斯|必须|我们|斯比|正视|比我|治理|理的|的失|美联|联储|胀治|视通|通胀|须正"
+  ],
+  [
+   1794237949.6055427,
+   "业通|储古|到服|务业|古尔|始看|尔斯|开始|抬头|斯比|服务|比开|看到|美联|联储|胀抬|通胀"
+  ],
+  [
+   1794238010.0557063,
+   "上的|中心|义上|传统|储古|像传|况看|古尔|尔斯|心的|情况|意义|据中|数据|斯比|来像|比数|济过|的情|的经|看起|经济|统意|美联|联储|起来|过热"
+  ],
+  [
+   1794238133.2353427,
+   "一直|主要|储古|出一|动力|古尔|增长|尔斯|支出|斯比|是增|比消|消费|的主|直是|美联|联储|要驱|费支|长的|驱动"
+  ],
+  [
+   1794238250.7362912,
+   "0A|10|12|2两|6R|AS|La|Mo|Ro|ST|Sp|TS|X涨|ab|ac|bi|b涨|ce|ck|eM|eX|et|e大|il|ke|le|ob|oc|pa|tL|两家|公司|即将|发布|司盘|后即|大涨|大至|太空|家公|将发|布财|幅扩|强S|念持|扩大|持续|概念|涨1|涨幅|盘后|空概|续走|美股|股太|至6|财报|走强"
   ]
  ],
  "futu": [
@@ -7581,7 +7626,17 @@
   "futu:1003903288",
   "futu:1003903074",
   "futu:1003903053",
-  "futu:1003902972"
+  "futu:1003902972",
+  "futu:1003905420",
+  "futu:1003905164",
+  "futu:1003905069",
+  "futu:1003904957",
+  "futu:1003904893",
+  "futu:1003904869",
+  "futu:1003904850",
+  "futu:1003904830",
+  "futu:1003904734",
+  "futu:1003904444"
  ],
  "news_recent": [
   [
@@ -8043,6 +8098,42 @@
   [
    1794237207.0690649,
    "announces breaking ceo down follow https insiderpaper jen2e5pbiv news nvidia open probe read shares"
+  ],
+  [
+   1794237832.2050838,
+   "$aapl actions agent apple behalf can complete plans reportedly siri take tasks turn users"
+  ],
+  [
+   1794237835.6159089,
+   "actually employment fed goolsbee growth pretty stable"
+  ],
+  [
+   1794237897.4187453,
+   "all big fed goolsbee inflation problem side"
+  ],
+  [
+   1794237899.4216175,
+   "come failure fed goolsbee got inflation terms"
+  ],
+  [
+   1794237952.4698052,
+   "$vz affirms baa1 moody outlook stable unsecured verizon"
+  ],
+  [
+   1794237954.4448745,
+   "fed goolsbee inflation kicking see services starting"
+  ],
+  [
+   1794238013.159735,
+   "centers data fashioned fed goolsbee like looking old overheating"
+  ],
+  [
+   1794238136.33286,
+   "consumer driver fed goolsbee growth main spending"
+  ],
+  [
+   1794238252.452128,
+   "beginning big centers come data employment failure fashioned goolsbee growth inflation kick like look must old overheating pretty problem services stable terms"
   ]
  ]
 }
