@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192668",
   "wscn:3192661",
   "wscn:3192660",
   "wscn:3192649",
@@ -1705,10 +1704,10 @@
   "wscn:3196926",
   "wscn:3196938",
   "wscn:3196935",
-  "wscn:3196942"
+  "wscn:3196942",
+  "wscn:3196949"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37226",
   "tg:WalterBloomberg/37225",
   "tg:WalterBloomberg/37224",
   "tg:WalterBloomberg/37223",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38073",
   "tg:WalterBloomberg/38074",
   "tg:WalterBloomberg/38075",
-  "tg:WalterBloomberg/38076"
+  "tg:WalterBloomberg/38076",
+  "tg:WalterBloomberg/38077"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2961,7 +2961,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794227931.3907623,
+ "earnings_last_check": 1794228612.0660965,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -6589,6 +6589,10 @@
   [
    1794227628.7137918,
    "0现|18|24|3张|43|60|89|9成|AU|A期|DA|NV|S盘|US|VD|下跌|为1|事会|交量|交额|仁勋|价格|会就|伟达|击查|到2|前下|动独|动的|动较|勋涉|参考|及外|受董|可参|启动|响英|国情|外国|大请|就黄|幅为|张详|影响|情可|情报|意风|成交|报活|排行|最高|期权|权价|权排|权涨|权链|权页|查影|查看|格波|波动|注意|活动|涉及|涨跌|点击|独立|现最|疑虑|的期|的疑|的看|盘前|看N|看跌|立调|考期|英伟|董事|虑启|行期|详情|请注|调查|跌6|跌幅|跌期|较大|达N|达到|量达|险点|面的|页面|额的|风险|高成|黄仁"
+  ],
+  [
+   1794228670.375839,
+   "00|09|0指|11|1标|50|9道|上涨|大至|幅扩|扩大|指数|指期|数期|普5|期货|标普|涨0|涨1|涨幅|纳指|至1|货上|货涨|道指"
   ]
  ],
  "futu": [
@@ -7219,7 +7223,12 @@
   "futu:1003887952",
   "futu:1003887726",
   "futu:1003887553",
-  "futu:1003887524"
+  "futu:1003887524",
+  "futu:1003889881",
+  "futu:1003889693",
+  "futu:1003889113",
+  "futu:1003888990",
+  "futu:1003888867"
  ],
  "news_recent": [
   [
@@ -7605,6 +7614,10 @@
   [
    1794227689.773143,
    "$nvda affair board ceo chair chinese choices faces following former gary gensler huang investigation jensen nvidia sec spy tough"
+  ],
+  [
+   1794228069.458191,
+   "$12 $135 $googl $nvda 2026 2028 8tx advanced alphabet anthropic apple around billion bloomberg certain challenges chip chips competitive computing cost customers efficiency escalates estimates google gpus greater include intelligence launching less major max meta nvidia offering openai oracle performance planning power purchases related reportedly sales secure specialized surge targeting tasks tpu tpus two war while workloads"
   ]
  ]
 }
