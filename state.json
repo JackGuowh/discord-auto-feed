@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192000",
   "wscn:3192008",
   "wscn:3192011",
   "wscn:3192021",
@@ -1705,7 +1704,8 @@
   "wscn:3196535",
   "wscn:3196534",
   "wscn:3196538",
-  "wscn:3196553"
+  "wscn:3196553",
+  "wscn:3196591"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2947,7 +2947,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794187944.5099204,
+ "earnings_last_check": 1794188564.3790107,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3215,7 +3215,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794187337.036414,
+ "gas_last_check": 1794188564.6886144,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3820,7 +3820,8 @@
   "gas:CBMiU0FVX3lxTFBwU2pmZkNHSFA0cEFkSmhRUE5rNTFZN3hjOFhsVjFhX2NKLXI2NVlQdXlBZU5HLVJUZUFrZS1mQ1I5VEhZaS1KYnNZQ0NwdXZTM3lZ",
   "gas:CBMiswFBVV95cUxNUElQd3JIbFVPSXJKV0daTjV4YUNRUkowcjE2WWw2NTlPQWhuRFNBZlBLSlU2NjhFSFIwbGhGUEVVaTJnVmNTY1psY0o0c2NPcHZNbVl5eEkyMk51S1RVTl8yMU83Q0hESXliQlA0MWNFLTdVbnVKSzJaalJiSXFfSTZ5eFZCSmY3R25md0pUZ2NjYlNMZHU4UmJTbTI3ZmU2QVdvMXJZWVFqcTlHLTFBQ0sxaw",
   "gas:CBMi8AFBVV95cUxQRHR0VHlUZzd4Y04yQzdyWVZqZUxPRHYxam9wZDU4ajMzVDU5M3FXdTk1MWs0Z1Y4VHp5X1JPWXFrZm5XWTJEcVhnYS1mbkxLWXM1bFhkQlVpSVRLbWZJQktqM3I2SmRYZ3BTdVNFcHl2N0drN2F3aFF3TlZpbUE5TjFVT0lseDZFQ1VZMjZEa0ZDNk5ZVFFteTduejVOUy1CeXZyajdzUzF3UVAyVEU1YXVBQVBaUTg3azRGX1hFNWdQZ2xGUUdkbGd0eHI0U3NCX0VrUnhOa0ZVbFo4NWU4bUhBSkRrdkh2cXI1ZzNaUkXSAfABQVVfeXFMUER0dFR5VGc3eGNOMkM3cllWamVMT0R2MWpvcGQ1OGozM1Q1OTNxV3U5NTFrNGdWOFR6eV9ST1lxa2ZuV1kyRHFYZ2EtZm5MS1lzNWxYZEJVaUlUS21mSUJLajNyNkpkWGdwU3VTRXB5djdHazdhd2hRd05WaW1BOU4xVU9JbHg2RUNVWTI2RGtGQzZOWVRRbXk3bno1TlMtQnl2cmo3c1Mxd1FQMlRFNWF1QUFQWlE4N2s0Rl9YRTVnUGdsRlFHZGxndHhyNFNzQl9Fa1J4TmtGVWxaODVlOG1IQUpEa3ZIdnFyNWczWlJF",
-  "gas:CBMiWkFVX3lxTE9ncFpuRlc1SHZ0X3JTaFEzOElnS1ZrcVhmamJuQmNYRXg5WllaRXZPY2JNRkdNVnR3TThPb0ZjdlZ5dml2R2RkYWRJS0lqMFZjalBKYVlGSXJ2UQ"
+  "gas:CBMiWkFVX3lxTE9ncFpuRlc1SHZ0X3JTaFEzOElnS1ZrcVhmamJuQmNYRXg5WllaRXZPY2JNRkdNVnR3TThPb0ZjdlZ5dml2R2RkYWRJS0lqMFZjalBKYVlGSXJ2UQ",
+  "gas:CBMiwAFBVV95cUxQdUNLRGhROFVxYnUzYVZSbExGNGV3VW00eXIxRElvT25ZX2xKR2NxX2hiZndhZEVHQXN6QmJkQmFDVWZHSE9UakdjOVh1RV8yc3RDZnRNdU5FbVpPYWV3b0s5dEZXZGdTRi01NEZDUFlUQzdvQ1JpVVRUTTdJaGZDRU5yN0Vod0x2ZUVMQlQzLXZORUpFOHN2MUc5d3pGeE1ucFhhMFZxOGprU0pUb3Z3b0pIQzI4WWtSSHZGaElaMFM"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4942,7 +4943,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144217",
   "tg:FinancialJuice/144218",
   "tg:FinancialJuice/144221",
   "tg:FinancialJuice/144220",
@@ -5741,7 +5741,8 @@
   "tg:FinancialJuice/145596",
   "tg:FinancialJuice/145595",
   "tg:FinancialJuice/145594",
-  "tg:FinancialJuice/145593"
+  "tg:FinancialJuice/145593",
+  "tg:FinancialJuice/145601"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6244,6 +6245,14 @@
   [
    1794186895.6233096,
    "00|0亿|2公|2马|50|Co|Sp|Te|We|X夜|X年|ab|ac|af|av|b计|ce|eW|eX|ea|er|e跌|fa|or|pa|ra|re|ve|一太|中心|产能|亿美|信得|元T|克表|入预|公司|划实|化收|司致|夜盘|太瓦|实现|寻求|州当|州长|年产|年化|年底|底突|当选|得州|心磋|据中|收入|数据|斯克|明年|求数|涨超|片年|现一|瓦芯|盘涨|破5|磋商|示S|突破|美元|能C|致信|芯片|表示|计划|计明|超2|跌超|选州|长寻|预计|马斯"
+  ],
+  [
+   1794188323.2943645,
+   "11|1月|7日|8日|9日|万斯|与其|中午|中期|举后|之间|于9|交大|人卡|人赴|仍在|仍愿|伊关|伊朗|会见|公布|关键|其会|兼外|决方|勒拉|勒萨|午在|卜杜|卡塔|后仍|和万|和伊|国和|国总|国政|在中|在白|在继|在美|地时|塔尔|外交|大臣|宫会|宫公|宫特|寻求|将与|将于|尔在|尔首|尼卡|布的|府在|当地|德7|德本|总统|愿寻|拉赫|政府|斡旋|斯将|方案|旋仍|日中|日白|日程|日表|时间|是美|显示|普和|普将|曼阿|月8|朗之|朗普|朗问|期选|本阿|杜勒|求伊|特朗|白宫|的关|的日|的解|的调|相兼|相是|示卡|示美|程显|穆罕|统特|继续|续美|罕默|美伊|美国|臣穆|萨尼|表示|见卡|见当|解人|解决|解斡|调解|赫曼|赴白|选举|键调|问题|间1|间的|阿勒|阿卜|题的|首相|默德"
+  ],
+  [
+   1794188624.1980386,
+   "GP|PU|U供|不会|业部|产业|从该|会影|伟达|供应|公司|前影|司已|响英|响韩|国产|国从|已签|当前|影响|的G|的问|签约|约的|英伟|该公|达的|部长|长当|问题|韩国|题不"
   ]
  ],
  "futu": [
@@ -6583,7 +6592,21 @@
   "futu:1003831250",
   "futu:1003831235",
   "futu:1003831243",
-  "futu:1003831167"
+  "futu:1003831167",
+  "futu:1003833017",
+  "futu:1003832827",
+  "futu:1003832778",
+  "futu:1003832619",
+  "futu:1003832460",
+  "futu:1003832406",
+  "futu:1003832373",
+  "futu:1003832222",
+  "futu:1003832174",
+  "futu:1003831959",
+  "futu:1003831892",
+  "futu:1003831885",
+  "futu:1003831872",
+  "futu:1003831858"
  ],
  "news_recent": [
   [
@@ -6849,6 +6872,10 @@
   [
    1794187941.8818104,
    "china cpi matches month october poll previous unchanged"
+  ],
+  [
+   1794188683.9940493,
+   "contracted country current gpu impact industry issues korea minister nvidia south supply vice won"
   ]
  ]
 }
