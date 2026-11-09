@@ -2903,7 +2903,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794211310.9200907,
+ "congress_last_check": 1794213150.8155026,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794212708.5038126,
+ "earnings_last_check": 1794213451.6443295,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794211911.7764804,
+ "gas_last_check": 1794213151.7660544,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3833,7 +3833,8 @@
   "gas:CBMiUEFVX3lxTE90WGJaYnd5T3hEOHc1b2JIZ2QxUGNyZWNJRmhHVkZ3bFdmVDRsWkNjVUZ0azdjVDlBZDd4SUc0N1NIdWljc1JaaElOZ09ueDFW",
   "gas:CBMikgFBVV95cUxNcy1WMmxPOTVaRkMzWXdYM2RpYXFYWjlWZF9uQVhyME5PZXdTUVVEQzJPMUtIZzd5ZzdIS05BRXFTUkdEQVhZNkE3ZDBsLWJFZ2djR1lhbmdJMjEtMTlqdTFYUFF0QW9reFd2X1dSWEUzam9NVU1nUGphNTl2Y2ZtMUtaNkVnWE1KRkdnZDZMVVBGdw",
   "gas:CBMiY0FVX3lxTE9QanFjclpqV1h4ZkFrVkFPNzhBOWxsQUVkVEVDUEZucENWZms0M0dzdzJsTTFadFZjWnA2bC1PWjY1eEd6TDVPQ3ptdExnTEdOTF83MFhOVGxtcU5kbmZHX1ozRQ",
-  "gas:CBMiqAFBVV95cUxPNlE5M1hDdWRUU2dVd1ZyWVJXQlJkVjA2R29lN0FpUnRoNk1BTW1uZXNFWEhBMnRQNFZ5SGhRVm5XUElkdjZXa1RSdjJ5OGltdDRRRXF3Y2I5TXR1SThWX3FkaDluMjB3c2JkV0tSMzdzUThJazVXVm9BVWo3S0VXOWdROHJaOVMyV082SGpFcFpXZXMzZFRCcGlIMkNTdE9iSUotZF9LSGc"
+  "gas:CBMiqAFBVV95cUxPNlE5M1hDdWRUU2dVd1ZyWVJXQlJkVjA2R29lN0FpUnRoNk1BTW1uZXNFWEhBMnRQNFZ5SGhRVm5XUElkdjZXa1RSdjJ5OGltdDRRRXF3Y2I5TXR1SThWX3FkaDluMjB3c2JkV0tSMzdzUThJazVXVm9BVWo3S0VXOWdROHJaOVMyV082SGpFcFpXZXMzZFRCcGlIMkNTdE9iSUotZF9LSGc",
+  "gas:CBMikAFBVV95cUxNNktmYV8wdmdjY0xhSVZGQXFFMDRXRTUzY0N4UXpKcXN6elNjaDgtV1dtX2JUbmJVM2YtVU9Sa2hta1Z5cDUyc2JiTGJMMDhpWmNNVWZWMnJWLWw3ME05MkVVN2l1VEw4ek5MWE9sRDRseWNPVlhfRVo1MjQzY2llRXVadGZBN19leWI4MXZtMXE"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4795,7 +4796,8 @@
   "tg:insiderpaper/45780",
   "tg:insiderpaper/45785",
   "tg:insiderpaper/45783",
-  "tg:insiderpaper/45786"
+  "tg:insiderpaper/45786",
+  "tg:insiderpaper/45787"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -6885,7 +6887,16 @@
   "futu:1003862222",
   "futu:1003862095",
   "futu:1003862055",
-  "futu:1003862014"
+  "futu:1003862014",
+  "futu:1003865269",
+  "futu:1003864942",
+  "futu:1003864822",
+  "futu:1003864561",
+  "futu:1003864424",
+  "futu:1003864366",
+  "futu:1003864134",
+  "futu:1003863678",
+  "futu:1003863643"
  ],
  "news_recent": [
   [
