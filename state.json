@@ -907,10 +907,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192789",
-  "wscn:3192795",
-  "wscn:3192794",
-  "wscn:3192800",
   "wscn:3192797",
   "wscn:3192796",
   "wscn:3192805",
@@ -1706,10 +1702,13 @@
   "wscn:3197082",
   "wscn:3197081",
   "wscn:3197080",
-  "wscn:3197079"
+  "wscn:3197079",
+  "wscn:3197088",
+  "wscn:3197087",
+  "wscn:3197086",
+  "wscn:3197085"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37244",
   "tg:WalterBloomberg/37245",
   "tg:WalterBloomberg/37246",
   "tg:WalterBloomberg/37247",
@@ -2508,7 +2507,8 @@
   "tg:WalterBloomberg/38099",
   "tg:WalterBloomberg/38098",
   "tg:WalterBloomberg/38101",
-  "tg:WalterBloomberg/38100"
+  "tg:WalterBloomberg/38100",
+  "tg:WalterBloomberg/38102"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2929,7 +2929,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794244400.732083,
+ "congress_last_check": 1794246240.3904614,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2976,7 +2976,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794245566.0338387,
+ "earnings_last_check": 1794246422.6913345,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3249,7 +3249,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794245260.234912,
+ "gas_last_check": 1794246480.4121785,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4512,7 +4512,8 @@
   "tg:disclosetv/22081",
   "tg:disclosetv/22082",
   "tg:disclosetv/22083",
-  "tg:disclosetv/22084"
+  "tg:disclosetv/22084",
+  "tg:disclosetv/22085"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -5015,10 +5016,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144367",
-  "tg:FinancialJuice/144366",
-  "tg:FinancialJuice/144365",
-  "tg:FinancialJuice/144364",
   "tg:FinancialJuice/144374",
   "tg:FinancialJuice/144373",
   "tg:FinancialJuice/144372",
@@ -5814,7 +5811,11 @@
   "tg:FinancialJuice/145741",
   "tg:FinancialJuice/145740",
   "tg:FinancialJuice/145739",
-  "tg:FinancialJuice/145738"
+  "tg:FinancialJuice/145738",
+  "tg:FinancialJuice/145752",
+  "tg:FinancialJuice/145751",
+  "tg:FinancialJuice/145750",
+  "tg:FinancialJuice/145749"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7113,21 +7114,29 @@
   [
    1794245618.7476234,
    "5的|AN|BA|N将|其商|减其|员工|商用|图时|将裁|报波|据西|时报|机部|波音|用飞|的员|裁减|西雅|部门|门5|雅图|音B|飞机"
+  ],
+  [
+   1794245938.2171443,
+   "5西|业务|公司|务裁|司将|员5|商用|图时|对商|将对|时报|机业|波音|用飞|裁员|西雅|雅图|音公|飞机"
+  ],
+  [
+   1794246058.1468499,
+   "0颗|11|13|1将|1月|1计|3日|40|Le|Vu|an|ca|eo|lc|n1|n任|n火|oV|o项|ul|于1|亚马|今L|从佛|任务|佛罗|入轨|入近|划于|务L|务将|升空|单次|卡纳|卫星|发射|地轨|大规|射4|射升|将发|将把|将是|尔角|州卡|把4|拉尔|日从|星亚|星送|是迄|最大|月1|模载|次V|次送|火箭|的最|的首|目单|目的|目首|箭任|纳维|维拉|罗里|荷V|规模|角发|计划|轨道|载荷|达州|迄今|近地|这将|送入|逊L|道的|道这|里达|项目|颗卫|首次|马逊"
+  ],
+  [
+   1794246178.1603298,
+   "00|03|0万|0亿|0年|13|20|30|3的|50|CE|CN|EO|Ge|HI|H维|H高|In|Ma|NH|NV|OG|Ra|V已|ac|al|ar|ci|du|er|e工|ia|in|it|lN|nd|ne|ri|rr|rx|st|tM|tr|us|x表|一台|一部|万美|下装|业可|业复|业经|业行|为美|乐观|于美|五天|产如|人以|人装|亿美|今一|代化|以协|低谷|低迷|做准|元对|元研|充分|入的|入自|公司|其到|其拉|农业|农机|准备|凯斯|出现|分C|到2|制造|前的|动化|助工|化改|化机|升时|协助|厂为|厂的|厂进|历多|发投|可能|台拖|司正|司能|商改|器人|回升|国农|在需|备得|备由|复苏|多年|大约|天才|如今|始回|家农|对拉|对行|工人|工厂|已放|幅这|年5|年低|度C|开始|引入|当前|得更|态度|才能|投入|投资|拉机|拉辛|拖拉|持乐|持超|改造|放缓|斯纽|时准|是其|更充|期让|机制|机器|机大|机生|机这|正投|求开|涨幅|现代|现的|生产|由于|的一|的低|的复|的拖|的涨|研发|示当|管对|约需|纽C|线该|经历|维持|缓其|美元|美国|能出|能在|能驶|自动|苏做|苏持|行业|行现|表示|装配|要五|观态|让公|该公|谷期|资5|超过|辛R|辛工|过1|这家|这是|进行|迷C|造商|造工|造引|部分|配拖|配线|需求|需要|驶下|高管"
+  ],
+  [
+   1794246298.4756362,
+   "C影|DC|DN|KY|N任|SK|Sk|YD|an|ce|da|eS|ky|nc|yd|业总|为D|任命|任领|兰将|兼首|创意|卸任|古恩|命杰|和彼|姆为|姆斯|官詹|导职|将卸|席创|弗兰|影业|彼得|得萨|总裁|恩和|意官|拉查|斯古|杰里|查姆|米拉|职务|萨弗|裁兼|詹姆|里米|领导|首席"
+  ],
+  [
+   1794246358.3993814,
+   "11|14|24|45|4亿|5亿|5月|62|B上|EB|ET|FK|F合|KW|Kr|Sh|TF|WE|an|ar|eS|es|ha|ne|ra|re|s金|上周|上市|中国|中规|中证|二大|互联|亿美|今年|今此|以来|元吸|入1|创美|华以|合计|吸金|周流|国上|国互|国基|国总|基金|大的|市的|年迄|录今|总统|普5|最高|月访|朗普|来的|模创|模第|此类|流入|特朗|瑞中|的K|的中|的最|第二|类E|纪录|统特|网E|美元|美国|联网|规模|计吸|访华|证中|迄今|金6|金中|金瑞|金规|高纪"
   ]
  ],
  "futu": [
-  "futu:1003762490",
-  "futu:1003762477",
-  "futu:1003762450",
-  "futu:1003762399",
-  "futu:1003762400",
-  "futu:1003762395",
-  "futu:1003762387",
-  "futu:1003762341",
-  "futu:1003762190",
-  "futu:1003761980",
-  "futu:1003761950",
-  "futu:1003761449",
   "futu:1003761113",
   "futu:1003761098",
   "futu:1003761097",
@@ -7915,7 +7924,19 @@
   "futu:1003914136",
   "futu:1003914130",
   "futu:1003914121",
-  "futu:1003914036"
+  "futu:1003914036",
+  "futu:1003915201",
+  "futu:1003915187",
+  "futu:1003915058",
+  "futu:1003914995",
+  "futu:1003914859",
+  "futu:1003914812",
+  "futu:1003914712",
+  "futu:1003914633",
+  "futu:1003914631",
+  "futu:1003914618",
+  "futu:1003914609",
+  "futu:1003914551"
  ],
  "news_recent": [
   [
@@ -8541,6 +8562,14 @@
   [
    1794245140.6103191,
    "barkin costs energy fed firms higher passing risk sees"
+  ],
+  [
+   1794245819.1495745,
+   "airplane boeing commercial cut seattle times workforce"
+  ],
+  [
+   1794246419.9882834,
+   "$11 bids bln fed notes total year"
   ]
  ]
 }
