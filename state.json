@@ -2497,7 +2497,9 @@
   "tg:WalterBloomberg/38057",
   "tg:WalterBloomberg/38058",
   "tg:WalterBloomberg/38060",
-  "tg:WalterBloomberg/38059"
+  "tg:WalterBloomberg/38059",
+  "tg:WalterBloomberg/38062",
+  "tg:WalterBloomberg/38061"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2903,7 +2905,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794214993.950868,
+ "congress_last_check": 1794216794.4572258,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2948,7 +2950,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794216593.4849775,
+ "earnings_last_check": 1794217573.258688,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3218,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794215615.4695048,
+ "gas_last_check": 1794216853.8800933,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3835,7 +3837,8 @@
   "gas:CBMiY0FVX3lxTE9QanFjclpqV1h4ZkFrVkFPNzhBOWxsQUVkVEVDUEZucENWZms0M0dzdzJsTTFadFZjWnA2bC1PWjY1eEd6TDVPQ3ptdExnTEdOTF83MFhOVGxtcU5kbmZHX1ozRQ",
   "gas:CBMiqAFBVV95cUxPNlE5M1hDdWRUU2dVd1ZyWVJXQlJkVjA2R29lN0FpUnRoNk1BTW1uZXNFWEhBMnRQNFZ5SGhRVm5XUElkdjZXa1RSdjJ5OGltdDRRRXF3Y2I5TXR1SThWX3FkaDluMjB3c2JkV0tSMzdzUThJazVXVm9BVWo3S0VXOWdROHJaOVMyV082SGpFcFpXZXMzZFRCcGlIMkNTdE9iSUotZF9LSGc",
   "gas:CBMikAFBVV95cUxNNktmYV8wdmdjY0xhSVZGQXFFMDRXRTUzY0N4UXpKcXN6elNjaDgtV1dtX2JUbmJVM2YtVU9Sa2hta1Z5cDUyc2JiTGJMMDhpWmNNVWZWMnJWLWw3ME05MkVVN2l1VEw4ek5MWE9sRDRseWNPVlhfRVo1MjQzY2llRXVadGZBN19leWI4MXZtMXE",
-  "gas:CBMilwFBVV95cUxOc3pyeHdTQ1hlenYtNjFmVWpidnp2ekVTODhSRzNEQjBKMTJxd0FfZE5wVTlLdWpCS1J1RFBaSWhPZmxCdzM2MW54QzJtRXdEbGpiLS1LdzZJMV80Z01ZQ2w5SDZVM1RQaHduNU9FNEVJNFROV2QtbkdVMFhaTU9tZHZOVmRGVFRZZG5CQVNadnNxYURjYmNj"
+  "gas:CBMilwFBVV95cUxOc3pyeHdTQ1hlenYtNjFmVWpidnp2ekVTODhSRzNEQjBKMTJxd0FfZE5wVTlLdWpCS1J1RFBaSWhPZmxCdzM2MW54QzJtRXdEbGpiLS1LdzZJMV80Z01ZQ2w5SDZVM1RQaHduNU9FNEVJNFROV2QtbkdVMFhaTU9tZHZOVmRGVFRZZG5CQVNadnNxYURjYmNj",
+  "gas:CBMirAFBVV95cUxPRUtYbHNvYnA4R2Z1bC1FYkt2T1EzVC0wbDhwVl9rUHVscFNaR3oyY2tzajVmQlNMUmVNeVVTS01IcjJGUTdBUWxvYmo3SjdpdDdvTW10S3N2SnNXdWpMVHRFZ296UXRNa2ZOQkpMWE1XYTh0ZERGWnRIRjBCY2NuVWlHQ1hwTEE3ZS1ka2d6N1FtOUc3THRzZ1Yya0VTNWlnTmt2V0JNVjd4WHNL"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6971,7 +6974,11 @@
   "futu:1003870908",
   "futu:1003870849",
   "futu:1003870828",
-  "futu:1003870746"
+  "futu:1003870746",
+  "futu:1003872794",
+  "futu:1003872291",
+  "futu:1003872274",
+  "futu:1003872021"
  ],
  "news_recent": [
   [
@@ -7277,6 +7284,14 @@
   [
    1794216052.4373689,
    "cartoon ceo dana depicting donald house president press secretary shares trump ufc video watch white"
+  ],
+  [
+   1794216972.8850062,
+   "$105 $124 $165 $340 $450 $nvda 2030 500 aletheia alone analyst billion buy capital center chang citing commitments computing concerns coreweave data downgraded estimates exposure financial financing growing hold including internal iren months nebius next nvidia ohio partner potential potentially price program project raises require rising risks stefan surged target tenfold tied turmoil withdrawn"
+  ],
+  [
+   1794217092.2474473,
+   "$nvda alice allegations alleged announced authorities board calling ceo china chinese denial denies espionage executive follows foreign former groundless huang independent information intelligence international investigation involving jensen megaspeed nvidia operation providing rejected relationship services slander speculation sunday suspect targeted while"
   ]
  ]
 }
