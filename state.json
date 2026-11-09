@@ -906,14 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192682",
-  "wscn:3192681",
-  "wscn:3192686",
-  "wscn:3192685",
-  "wscn:3192683",
-  "wscn:3192690",
-  "wscn:3192687",
-  "wscn:3192699",
   "wscn:3192695",
   "wscn:3192694",
   "wscn:3192693",
@@ -1705,12 +1697,17 @@
   "wscn:3196969",
   "wscn:3196975",
   "wscn:3196971",
-  "wscn:3196970"
+  "wscn:3196970",
+  "wscn:3196987",
+  "wscn:3196986",
+  "wscn:3196985",
+  "wscn:3196984",
+  "wscn:3196983",
+  "wscn:3196982",
+  "wscn:3196981",
+  "wscn:3196978"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37221",
-  "tg:WalterBloomberg/37220",
-  "tg:WalterBloomberg/37219",
   "tg:WalterBloomberg/37218",
   "tg:WalterBloomberg/37217",
   "tg:WalterBloomberg/37216",
@@ -2507,7 +2504,10 @@
   "tg:WalterBloomberg/38078",
   "tg:WalterBloomberg/38080",
   "tg:WalterBloomberg/38079",
-  "tg:WalterBloomberg/38081"
+  "tg:WalterBloomberg/38081",
+  "tg:WalterBloomberg/38084",
+  "tg:WalterBloomberg/38083",
+  "tg:WalterBloomberg/38082"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2919,7 +2919,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794231461.1446998,
+ "congress_last_check": 1794233314.6073263,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2965,7 +2965,7 @@
   "weekly:2026-11-08",
   "movers_pre:2026-11-09"
  ],
- "earnings_last_check": 1794232747.9504488,
+ "earnings_last_check": 1794233553.0664847,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3238,7 +3238,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794231641.2338285,
+ "gas_last_check": 1794232894.1257393,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4987,12 +4987,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144283",
-  "tg:FinancialJuice/144282",
-  "tg:FinancialJuice/144281",
-  "tg:FinancialJuice/144280",
-  "tg:FinancialJuice/144279",
-  "tg:FinancialJuice/144287",
   "tg:FinancialJuice/144289",
   "tg:FinancialJuice/144288",
   "tg:FinancialJuice/144291",
@@ -5786,7 +5780,13 @@
   "tg:FinancialJuice/145662",
   "tg:FinancialJuice/145665",
   "tg:FinancialJuice/145664",
-  "tg:FinancialJuice/145663"
+  "tg:FinancialJuice/145663",
+  "tg:FinancialJuice/145671",
+  "tg:FinancialJuice/145670",
+  "tg:FinancialJuice/145669",
+  "tg:FinancialJuice/145668",
+  "tg:FinancialJuice/145667",
+  "tg:FinancialJuice/145666"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6649,6 +6649,46 @@
   [
    1794232685.4448812,
    "01|05|10|17|5报|78|8点|元指|内跌|幅达|报1|指数|数日|日内|美元|跌幅|达0"
+  ],
+  [
+   1794232890.1811807,
+   "AI|Ad|I工|be|do|e与|ob|与迪|为期|具创|创新|士尼|多年|宣布|尼宣|尼用|工具|布为|年的|心A|战略|持迪|支持|期多|来支|用心|略联|的战|盟来|联盟|迪士"
+  ],
+  [
+   1794232950.1560085,
+   "1亿|AM|AW|MZ|NO|O亚|S承|WS|ZN|于人|云技|云服|亚马|人工|亿美|以帮|健康|元用|入1|全球|务A|助全|和云|展健|工智|帮助|康服|扩展|承诺|技术|投入|智能|服务|术以|机构|构扩|球机|用于|美元|能和|诺投|逊A|逊云|马逊"
+  ],
+  [
+   1794233010.3423092,
+   "AO|ET|In|ME|Me|O计|Pl|TA|Th|aP|at|eI|et|fo|he|io|la|ma|ms|nM|nf|on|or|rm|sM|ta|tf|ti|业客|争取|以争|企业|伙伴|伴关|作伙|关系|划组|取大|合作|咨询|售团|团队|型企|大型|客户|并建|建立|建销|据T|立咨|系以|组建|计划|询合|销售|队并"
+  ],
+  [
+   1794233011.7924445,
+   "AM|AW|MZ|NO|OA|S健|WS|ZN|为期|五年|亚马|健康|划为|响计|康影|影响|期五|计划|逊A|马逊"
+  ],
+  [
+   1794233069.22414,
+   "11|1月|2上|38|39|6日|88|89|8之|92|9之|FR|OF|R报|SO|一天|上个|个交|之前|交易|保隔|储数|农日|利率|前一|国纽|基金|夜融|天报|报3|担保|据上|据美|效的|数据|日1|日担|日有|日非|易日|月6|有效|率S|率报|的联|约联|纽约|美国|联储|联邦|融资|资利|邦基|金利|隔夜|非农"
+  ],
+  [
+   1794233071.6699548,
+   "00|0T|0以|2I|30|AO|Co|DA|GR|Is|La|L大|NV|O在|R0|RL|T2|VD|aa|ab|ac|b3|cL|oR|sa|上推|以及|会上|伟达|全新|准测|出G|及全|在C|基准|大会|开放|式基|推出|放式|新的|测试|的开|英伟|达N"
+  ],
+  [
+   1794233309.2691147,
+   "0亿|14|45|50|AI|BM|IB|I产|I商|I布|I投|Me|M等|a发|a正|a的|et|ta|一年|一项|与埃|业A|业务|业化|业客|业推|业销|中小|为全|些伙|产品|人士|亿美|仅今|今年|以及|企业|伙伴|伴向|作借|信息|借助|元资|入仅|入来|入高|全新|公司|划1|划投|划搭|力企|务据|助这|勤I|化为|化计|及招|发力|司和|司已|司计|合作|同时|向中|向企|和系|咨询|品同|品的|品这|哲德|售A|售团|商业|商建|团队|地A|埃森|士以|客户|寻找|小企|局是|局转|巨额|已经|布局|年一|年公|广落|建立|建销|建面|开支|德勤|息显|情人|成商|户推|手目|手组|找新|把巨|抓手|投入|招聘|据知|推广|推进|推销|搭建|撑A|支寻|支撑|支支|收入|新收|新计|时与|是M|是把|显示|本开|来源|标是|森哲|正推|源M|的业|的重|目标|着手|知情|示该|立合|等咨|系统|组建|经着|统集|美元|聘信|落地|要抓|计划|询公|该公|资本|转化|达1|这些|这项|进一|重要|销A|销售|队面|集成|面向|项布|项新|额A|高达"
+  ],
+  [
+   1794233489.529949,
+   "11|1月|9日|上的|上表|主要|举行|乌克|些原|他说|他还|会上|会在|会见|俄外|俄方|俄罗|保障|克兰|全俄|全保|全及|全问|全面|兰的|兰问|关注|决乌|列原|则可|则这|判将|判的|务卿|区安|卿鲁|原则|及地|发布|可能|各方|后举|国务|国国|国在|在会|在全|在安|地区|地时|场他|外长|夫在|夫罗|央视|奥的|安全|完结|将关|将讨|布会|布扎|当地|得通|扎比|拉夫|按照|斯乌|斯外|新闻|方欢|方还|日俄|时间|是安|是阿|月9|欢迎|段获|比奥|比谈|法阿|注俄|照美|的主|的安|的完|的新|的立|的说|示乌|示各|秘鲁|立场|系列|结阶|罗夫|罗斯|美国|能会|获得|行的|表示|要议|见秘|视新|解决|讨论|议题|论系|说按|说法|谈判|过央|迎美|还将|还表|这些|通过|长后|长安|长拉|问题|间1|闻发|阶段|阿布|障问|面解|题上|题他|题当|题是|题的|题阿|鲁外|鲁比"
+  ],
+  [
+   1794233490.9787369,
+   "De|Ma|ag|an|dM|ee|el|em|en|er|fi|ge|ie|ld|me|na|nt|rf|t达|与D|云服|亚马|人工|务与|医疗|合作|工智|成人|智能|服务|疗合|能医|达成|逊云|逊亚|马逊"
+  ],
+  [
+   1794233549.2491825,
+   "9日|下令|不会|于胁|令结|伊朗|会屈|但不|体报|佩泽|判但|半岛|卡塔|台等|和状|塔尔|塔巴|塔斯|姆通|媒体|尔半|尼姆|屈服|岛电|已下|巴已|希齐|并称|态并|态据|总统|意进|愿意|或霸|战非|扬9|报道|据伊|斯尼|日表|最高|服于|朗塔|朗总|朗愿|朗最|束非|杰塔|泽希|状态|电视|示伊|社卡|称伊|穆杰|等媒|结束|统伊|统佩|胁迫|行谈|表示|袖已|袖穆|视台|讯社|谈判|进行|迫或|通讯|道伊|霸凌|非和|非战|领袖|高领|齐扬"
   ]
  ],
  "futu": [
@@ -7321,7 +7361,13 @@
   "futu:1003895543",
   "futu:1003895469",
   "futu:1003895255",
-  "futu:1003895235"
+  "futu:1003895235",
+  "futu:1003896624",
+  "futu:1003896607",
+  "futu:1003896531",
+  "futu:1003896520",
+  "futu:1003896452",
+  "futu:1003896227"
  ],
  "news_recent": [
   [
@@ -7731,6 +7777,14 @@
   [
    1794231072.787573,
    "bank barclays consensus cooler core cpi deutsche estimate expects fargo forecasts goldman headline hsbc inflation jefferies jpmorgan morgan november october pce preview release sachs september stanley street tuesday ubs wall wells"
+  ],
+  [
+   1794232952.2879272,
+   "big companies consulting information meta partnerships plans sales team win"
+  ],
+  [
+   1794233073.331899,
+   "$nvda down extend last losses nvidia premarket shares"
   ]
  ]
 }
