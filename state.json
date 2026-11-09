@@ -906,14 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192740",
-  "wscn:3192747",
-  "wscn:3192745",
-  "wscn:3192754",
-  "wscn:3192753",
-  "wscn:3192752",
-  "wscn:3192751",
-  "wscn:3192750",
   "wscn:3192749",
   "wscn:3192760",
   "wscn:3192757",
@@ -1705,12 +1697,17 @@
   "wscn:3197036",
   "wscn:3197035",
   "wscn:3197034",
-  "wscn:3197033"
+  "wscn:3197033",
+  "wscn:3197052",
+  "wscn:3197051",
+  "wscn:3197050",
+  "wscn:3197049",
+  "wscn:3197047",
+  "wscn:3197045",
+  "wscn:3197044",
+  "wscn:3197043"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37237",
-  "tg:WalterBloomberg/37236",
-  "tg:WalterBloomberg/37240",
   "tg:WalterBloomberg/37239",
   "tg:WalterBloomberg/37242",
   "tg:WalterBloomberg/37241",
@@ -2507,7 +2504,10 @@
   "tg:WalterBloomberg/38091",
   "tg:WalterBloomberg/38093",
   "tg:WalterBloomberg/38092",
-  "tg:WalterBloomberg/38094"
+  "tg:WalterBloomberg/38094",
+  "tg:WalterBloomberg/38097",
+  "tg:WalterBloomberg/38096",
+  "tg:WalterBloomberg/38095"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2924,7 +2924,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794238829.4666007,
+ "congress_last_check": 1794240684.8500416,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2971,7 +2971,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794239933.0638175,
+ "earnings_last_check": 1794240863.5963838,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3244,7 +3244,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794239070.0202637,
+ "gas_last_check": 1794240328.3115282,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -5002,19 +5002,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144313",
-  "tg:FinancialJuice/144312",
-  "tg:FinancialJuice/144311",
-  "tg:FinancialJuice/144317",
-  "tg:FinancialJuice/144322",
-  "tg:FinancialJuice/144321",
-  "tg:FinancialJuice/144320",
-  "tg:FinancialJuice/144319",
-  "tg:FinancialJuice/144318",
-  "tg:FinancialJuice/144323",
-  "tg:FinancialJuice/144326",
-  "tg:FinancialJuice/144325",
-  "tg:FinancialJuice/144324",
   "tg:FinancialJuice/144327",
   "tg:FinancialJuice/144331",
   "tg:FinancialJuice/144330",
@@ -5801,7 +5788,20 @@
   "tg:FinancialJuice/145691",
   "tg:FinancialJuice/145697",
   "tg:FinancialJuice/145696",
-  "tg:FinancialJuice/145695"
+  "tg:FinancialJuice/145695",
+  "tg:FinancialJuice/145710",
+  "tg:FinancialJuice/145709",
+  "tg:FinancialJuice/145708",
+  "tg:FinancialJuice/145707",
+  "tg:FinancialJuice/145706",
+  "tg:FinancialJuice/145705",
+  "tg:FinancialJuice/145704",
+  "tg:FinancialJuice/145703",
+  "tg:FinancialJuice/145702",
+  "tg:FinancialJuice/145701",
+  "tg:FinancialJuice/145700",
+  "tg:FinancialJuice/145699",
+  "tg:FinancialJuice/145698"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6936,6 +6936,46 @@
   [
    1794239748.945656,
    "02|04|20|22|2年|4b|4亿|EG|G原|G的|LN|LS|NG|SE|bc|cf|d新|fd|一美|了原|于生|产液|产能|亿立|仍维|以来|价格|全球|公司|出口|创2|创纪|初步|利用|到创|动了|劲产|化天|厂接|厂的|原料|口工|司L|各出|周一|因出|国L|国各|国用|在2|增长|天然|尺美|工厂|平附|年以|强劲|录的|持在|据显|据金|接近|推动|数据|料气|新高|方英|显示|最高|来的|格仍|步数|气L|气价|气需|水平|求创|求增|求量|液化|满负|然气|率推|球液|生产|用于|用率|的2|的初|的天|的强|的最|示周|立方|纪录|维持|美国|能利|英尺|荷据|融公|负荷|达到|近满|量达|金融|长全|附近|需求|高因|高水"
+  ],
+  [
+   1794240198.5887237,
+   "Ba|De|Fi|Gm|H的|In|aF|an|bH|ce|ch|eF|eI|en|es|eu|e德|e被|he|in|mb|me|na|nc|nt|nv|n将|n联|sc|st|tG|tm|ts|ut|ve|一家|一步|三方|下基|不良|中所|了D|产不|产过|人进|亿欧|代表|以保|以及|任命|保护|元的|公司|其在|其派|养老|出的|利益|别代|助一|包括|十亿|协助|压D|及追|司旗|司的|同时|告以|命管|团投|国养|国房|国监|在协|在索|在调|地产|基金|完成|家德|对第|将其|局接|展至|年度|度报|德国|成逾|房地|所扮|扩展|扮演|投资|护该|报告|括完|接管|数十|方正|方的|施压|旗下|时监|期未|未出|机构|权以|构B|构通|查其|欧元|正在|步施|派驻|涉进|演的|潜在|牵涉|特别|理人|理权|理职|的利|的年|的潜|的特|的管|的美|的职|的角|益B|监管|程中|究针|第三|管了|管局|管方|管机|管理|索赔|美国|老基|者的|职能|职责|联邦|能包|至管|良投|融监|表的|被牵|角色|该公|调查|责扩|资同|资美|资者|赔D|过任|过程|进一|进数|追究|通过|逾期|邦金|金投|金融|金集|针对|集团|驻该"
+  ],
+  [
+   1794240318.5947814,
+   "02|04|0月|0认|10|12|13|1创|20|22|23|25|2个|2月|2食|37|39|3大|3年|42|4个|55|5医|5年|5月|6租|76|77|78|7预|8为|90|91|93|9月|9未|一年|三个|上升|上月|上涨|个月|个百|为2|为未|于上|于前|以来|价格|会失|低债|作的|例升|债务|值3|偿还|储消|储美|分点|创2|前值|务还|医疗|升0|升至|去工|品价|国1|国纽|大学|失去|学教|将上|工作|年1|年5|年期|年消|成本|教育|新高|无法|显示|最低|最高|月一|月上|月以|月会|月无|月的|期创|期升|期调|期通|未来|本上|来1|来一|来三|来新|来最|查显|格上|格将|概率|款的|比例|汽油|油价|法偿|消费|涨4|涨5|涨7|涨9|点至|率较|用上|疗成|百分|的1|的概|的消|示美|租金|约联|纽约|美国|美联|者比|者预|联储|育费|胀预|至1|至3|计未|计汽|认为|调查|费用|费者|较9|还最|还款|通胀|金上|预期|预计|食品|高于|高美|高高"
+  ],
+  [
+   1794240320.9451306,
+   "00|0英|0道|10|12|2美|2费|3标|50|7成|8博|AM|D涨|MD|中A|体指|光涨|分股|半导|博通|城半|大涨|导体|尔涨|成分|指数|指涨|数大|普5|标普|涨1|涨7|涨8|涨约|涨超|涨近|特尔|约2|纳指|美光|股中|英特|费城|超1|超5|近3|通涨|道指"
+  ],
+  [
+   1794240378.5428495,
+   "0日|10|11|1日|1月|8日|9日|三方|下的|不过|与俄|与美|两天|举行|乌三|乌克|书佩|于今|今明|会谈|体强|佩斯|俄否|俄罗|俄美|克兰|兰三|兰沟|加定|参与|参加|只是|向媒|否认|和乌|国俄|国和|国外|国家|国调|在美|在阿|外长|天1|夫1|媒体|定于|家拥|将参|将只|巴罗|布扎|强调|总统|扎比|拥有|斯和|斯总|斯科|新闻|方会|方谈|日向|日在|日称|日至|明两|是三|是在|月1|月8|月9|有与|欧洲|比举|沟通|法国|洲国|洲将|渠道|的三|的将|的渠|的美|科夫|秘书|称欧|统新|罗1|罗斯|美乌|美国|联酋|至1|行的|解下|认欧|调解|调这|谈不|谈判|谈欧|谈法|过俄|这是|通的|道在|酋阿|长巴|闻秘|阿布|阿联"
+  ],
+  [
+   1794240381.021239,
+   "12|2博|4英|5英|7A|7高|9美|AM|AO|AS|AV|CO|DA|DO|GO|IN|LO|MD|ML|MN|MO|MU|NT|NV|N涨|OM|OO|O台|O涨|O跌|O阿|QC|SM|TC|TS|UO|VD|VG|伟达|体指|光M|内扩|半导|博通|台积|城半|大涨|导体|尔I|幅至|扩大|指数|数日|斯麦|日内|涨幅|涨超|特尔|电T|积电|美光|至7|英伟|英特|费城|超1|超3|超4|超5|超7|超9|跌超|达N|通A|通Q|阿斯|高通|麦A"
+  ],
+  [
+   1794240558.5555882,
+   "IP|P地|一案|中使|中即|为服|主体|于伊|于某|伊朗|位于|体启|使用|侵案|入侵|关I|关主|具备|典型|内的|冷藏|击中|击手|击行|击超|列涉|力本|务于|动调|势力|卡维|即伊|发现|向位|启动|国势|国巴|地址|址指|型特|境内|备一|备入|备沙|备该|备遭|外国|嫌攻|嫌黑|客入|客攻|对伊|就涉|巴黎|市冷|希德|征冷|德卡|手法|指向|攻击|斯语|方就|显示|服务|朗境|朗沙|本案|某外|查冷|查发|查显|案中|案对|案调|检方|沙希|法具|法国|波斯|涉嫌|特征|现攻|用波|的典|的设|相关|示攻|系列|组织|织的|维相|维组|藏设|行为|设备|该系|语相|调查|超市|遭黑|黎检|黑客"
+  ],
+  [
+   1794240559.9768784,
+   "0万|10|1类|1药|6例|AI|A数|A要|DA|FD|GL|IO|LP|NA|N病|ON|Oz|P1|Ze|bo|cZ|d等|em|ep|ic|mp|nd|ou|pb|pi|un|ze|万人|业新|丧失|中每|久性|产企|人约|人群|企业|例F|例非|关警|出现|前部|力丧|动脉|变N|可造|品监|品药|国食|在潜|在罕|增相|失明|存在|局F|年每|性前|性视|成永|据显|数据|新增|明风|显示|服用|机构|构警|标注|每1|每年|永久|求O|注该|潜在|炎性|物人|物存|物的|现6|理局|生产|用该|病例|病变|病症|症可|的生|监督|监管|相关|眼部|督管|磅G|示G|示服|示标|神经|等重|管机|管理|类药|约出|经病|缺血|罕见|美国|美监|群中|脉炎|药品|药物|血性|要求|见失|视力|视神|警示|该眼|该类|造成|部病|部缺|重磅|险美|非动|风险|食品"
+  ],
+  [
+   1794240618.5830061,
+   "5费|63|伟达|体指|前涨|半导|城半|导体|幅重|指数|数目|新超|涨6|目前|英伟|费城|超过|跌幅|达跌|过5|重新"
+  ],
+  [
+   1794240740.03023,
+   "0亿|30|CN|HM|MC|N将|亥俄|亿美|俄亥|俄州|元在|力汽|动力|合动|员本|国官|在俄|官员|将投|州新|工厂|建混|投资|新建|本田|汽车|混合|田汽|美元|美国|资3|车H|车工"
+  ],
+  [
+   1794240858.5440433,
+   "0亿|30|BC|CN|NB|Oh|hi|io|o新|亿美|元C|厂投|国O|对美|将对|工厂|投资|新车|本田|汽车|田汽|美元|美国|装配|资3|车将|车装|配工"
   ]
  ],
  "futu": [
@@ -7690,7 +7730,20 @@
   "futu:1003908109",
   "futu:1003907936",
   "futu:1003907625",
-  "futu:1003907602"
+  "futu:1003907602",
+  "futu:1003909527",
+  "futu:1003909471",
+  "futu:1003909123",
+  "futu:1003908981",
+  "futu:1003908829",
+  "futu:1003908800",
+  "futu:1003908525",
+  "futu:1003908526",
+  "futu:1003908527",
+  "futu:1003908488",
+  "futu:1003908402",
+  "futu:1003908401",
+  "futu:1003908354"
  ],
  "news_recent": [
   [
@@ -8196,6 +8249,42 @@
   [
    1794240055.487008,
    "ahead expected fed inflation october september three unchanged year"
+  ],
+  [
+   1794240140.4850364,
+   "2020 april expectation fed highest october rate rising since unemployment"
+  ],
+  [
+   1794240143.0290706,
+   "ahead change expected fed gas moderates october price year"
+  ],
+  [
+   1794240145.0884662,
+   "access credit current expectations fed future october unchanged"
+  ],
+  [
+   1794240147.2421625,
+   "fed financial households october personal situation upbeat"
+  ],
+  [
+   1794240200.8565712,
+   "2020 above april beat consumer est expectations fears fed financial forecasts gasoline highest households improving inflation job level meanwhile moderated october outlooks personal prev reached reported rise rising shows since slightly survey their unemployment while year york"
+  ],
+  [
+   1794240204.154897,
+   "consumer expectations fed october survey"
+  ],
+  [
+   1794240323.6623654,
+   "$nvda chip halted inquiry intervention nvidia nyt"
+  ],
+  [
+   1794240325.8350859,
+   "$nvda halted intervened megaspeed nvidia nyt probe"
+  ],
+  [
+   1794240499.1083045,
+   "$nvda according accused among authorization case china chinese chip cited commerce concerns contacted counsel department executive former general halt halted intelligence interference intervention investigation investigators involves justice legal links megaspeed nvidia official officials potential preceded probe raising reportedly senior smuggling suspected team times transferred whose york"
   ]
  ]
 }
