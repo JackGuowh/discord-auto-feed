@@ -877,7 +877,11 @@
   "truth:https://www.trumpstruth.org/statuses/43525",
   "truth:https://www.trumpstruth.org/statuses/43527",
   "truth:https://www.trumpstruth.org/statuses/43526",
-  "truth:https://www.trumpstruth.org/statuses/43528"
+  "truth:https://www.trumpstruth.org/statuses/43528",
+  "truth:https://www.trumpstruth.org/statuses/43532",
+  "truth:https://www.trumpstruth.org/statuses/43531",
+  "truth:https://www.trumpstruth.org/statuses/43530",
+  "truth:https://www.trumpstruth.org/statuses/43529"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -2897,7 +2901,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794181920.7534015,
+ "congress_last_check": 1794183766.8041847,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2942,7 +2946,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794182959.1357682,
+ "earnings_last_check": 1794183818.7332313,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3210,7 +3214,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794182418.893198,
+ "gas_last_check": 1794183638.7792296,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4937,7 +4941,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144204",
   "tg:FinancialJuice/144203",
   "tg:FinancialJuice/144202",
   "tg:FinancialJuice/144212",
@@ -5736,7 +5739,8 @@
   "tg:FinancialJuice/145587",
   "tg:FinancialJuice/145589",
   "tg:FinancialJuice/145588",
-  "tg:FinancialJuice/145590"
+  "tg:FinancialJuice/145590",
+  "tg:FinancialJuice/145591"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6524,7 +6528,9 @@
   "futu:1003828544",
   "futu:1003828500",
   "futu:1003828487",
-  "futu:1003828358"
+  "futu:1003828358",
+  "futu:1003828698",
+  "futu:1003828677"
  ],
  "news_recent": [
   [
