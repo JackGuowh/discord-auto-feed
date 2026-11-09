@@ -906,8 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192634",
-  "wscn:3192641",
   "wscn:3192658",
   "wscn:3192668",
   "wscn:3192661",
@@ -1705,10 +1703,11 @@
   "wscn:3196913",
   "wscn:3196922",
   "wscn:3196911",
-  "wscn:3196926"
+  "wscn:3196926",
+  "wscn:3196938",
+  "wscn:3196935"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37229",
   "tg:WalterBloomberg/37228",
   "tg:WalterBloomberg/37227",
   "tg:WalterBloomberg/37226",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38067",
   "tg:WalterBloomberg/38072",
   "tg:WalterBloomberg/38071",
-  "tg:WalterBloomberg/38073"
+  "tg:WalterBloomberg/38073",
+  "tg:WalterBloomberg/38074"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2960,7 +2960,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794224671.5061023,
+ "earnings_last_check": 1794225472.785646,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3227,9 +3227,11 @@
   "er:2026-11-06:ENB",
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN",
-  "er:2026-11-09:B"
+  "er:2026-11-09:B",
+  "er:2026-11-09:CEG",
+  "er:2026-11-09:NRG"
  ],
- "gas_last_check": 1794224255.2803922,
+ "gas_last_check": 1794225473.0972388,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4978,7 +4980,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144246",
   "tg:FinancialJuice/144270",
   "tg:FinancialJuice/144269",
   "tg:FinancialJuice/144268",
@@ -5777,7 +5778,8 @@
   "tg:FinancialJuice/145638",
   "tg:FinancialJuice/145640",
   "tg:FinancialJuice/145639",
-  "tg:FinancialJuice/145641"
+  "tg:FinancialJuice/145641",
+  "tg:FinancialJuice/145642"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6528,6 +6530,18 @@
   [
    1794224491.156044,
    "AN|BN|BR|C文|EC|KA|KB|NB|N将|RK|SE|三系|交易|件显|价高|会S|伯克|元计|克希|列日|券交|发行|员会|哈撒|国证|委员|将发|尔哈|希尔|撒韦|文件|日元|易委|显示|示伯|票据|系列|级票|美国|行三|计价|证券|韦B|高级"
+  ],
+  [
+   1794225050.0219028,
+   "Ma|Po|Th|as|co|e将|ho|ic|ie|it|li|ma|ol|om|o报|sM|si|ss|ti|下对|了国|于今|交针|今日|伊朗|众议|会批|党众|共和|况下|准的|动敌|动滥|劾条|发动|员M|员T|和党|国会|国共|国防|在未|塞思|塞斯|对伊|对国|对行|对赫|将于|弹劾|思的|情况|批准|报道|据P|提交|敌对|斯在|日提|朗发|未经|权力|条款|格塞|款弹|款据|款称|海格|滥用|用了|的弹|的情|的权|称海|经国|美国|行动|议员|赫格|道共|道美|部的|部长|针对|长赫|防部"
+  ],
+  [
+   1794225231.062975,
+   "04|09|0亿|14|15|16|17|3亿|40|48|4亿|50|55|57|5亿|63|64|65|74|78|7美|80|81|85|8美|9亿|AU|KK|KR|M为|R第|UM|三季|为1|为6|为8|于市|产总|产规|亿美|付费|低于|元低|元市|元第|元管|元高|后每|场预|季度|市场|度付|度经|度调|总规|总额|收益|整后|期1|期的|模A|模为|每股|理资|的1|的6|的8|益1|益总|第三|管理|经营|美元|股收|营收|规模|调整|费管|资产|预期|额为|高于"
+  ],
+  [
+   1794225411.8618944,
+   "02|0亿|20|26|27|30|6至|7年|G能|NR|RG|亿美|元的|利用|回购|在2|将在|年利|彭博|得资|所得|源将|用所|的股|票回|美元|股票|能源|至2|行3|购彭|资金|进行|金进"
   ]
  ],
  "futu": [
@@ -7130,7 +7144,12 @@
   "futu:1003882407",
   "futu:1003882260",
   "futu:1003882014",
-  "futu:1003881995"
+  "futu:1003881995",
+  "futu:1003883752",
+  "futu:1003883720",
+  "futu:1003883619",
+  "futu:1003883507",
+  "futu:1003883009"
  ],
  "news_recent": [
   [
@@ -7488,6 +7507,10 @@
   [
    1794224251.5421312,
    "$nvda accelerate act additional alleged backing bipartisan china chinese chip chipmaking congressional continued controls democratic earth equipment espionage even export exports fragile incoming james legislation majorities match minerals nvidia particularly potentially pushing rare raymond restrictions semiconductor stricter supply support targeting tente threaten tighten tougher trade trigger warns which"
+  ],
+  [
+   1794225232.7754366,
+   "drop nvidia premarket shares"
   ]
  ]
 }
