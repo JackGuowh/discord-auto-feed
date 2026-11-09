@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794206307.265339,
+ "earnings_last_check": 1794207163.8829584,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794205764.6633008,
+ "gas_last_check": 1794206983.665624,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3829,7 +3829,8 @@
   "gas:CBMikAFBVV95cUxORE9TYlBqVElFejVZYUF3Q1BQOWNFREozRGdoUWJ0Y2x2alVQLXNzcmVMVlp2Z2ZWZXFaeXdoMF9UVVVzSXk4b3BJTTdYcEJQTTlTMmJleVQxS0YwSHFVSnVoT3FxQVJjZHBsdHpCQVFfbF96ZmJxcTZNVGY1c21KbXFNYnVITDFaWXFYWlNGTGQ",
   "gas:CBMi2wFBVV95cUxPV003UkNRYkVaMlBSOExsYTAzcFpGTDlSYmw2aWlCV3dVSTJmOXNkY29LVkNpdmRVTWIwdG0zQ2VOUmJMb1NmYWVjN05PY0RqNFNZekNFZnBUOWJNaWpTbGFoanpJRUVhcjJ6U1JUQ1R6ZlRFTjZzdHdEWVJpbkFVSzJkSVd0ZzhVMkZvaVJHWTJkaHhjRVB6ZUpqaW11UVdmY3A0VDRXQ1dTZ2FHTmctWlRKMUxwcEZuUEloSUlnaGRZdlExLW43VlRhNWFrLVU0OXJvNEhsUXlTdFU",
   "gas:CBMilAFBVV95cUxNbDJFS3phNjNRMnBHMVJPZ3RCU2xwaVdiTnhlRWJaZUh0ZmRwQ1AzQjdQQ0NMdGEwdHBwOHF5Tk42QXo4ZjBPZTRkT0o3ZDdES3hnQ05tLWxoTVZiN2N1M0NFeWQtLXdKcE5fLVpLdG84V0o5cFFQZ1BYR3lWOXAwanZYSGpGWl9lTjlTOTdXWHZwX0Ny",
-  "gas:CBMixAFBVV95cUxNUGRwOUZocUdSdVpkSEFqcHhqZ3VTckpZS25KenBKYVJIdGNtc1p1M0JDWm1fMDVRWXNSd1lzOW5yUlhXbmpCU094SjdvbWthLXJPSzJubFJkOWhGUk9FWTNTeWVjeEZGWFpKUW9idFV3VTVGWVFRbmpvYWhBQXE2WUgyU3VMNldWSGs0OTRZYUpObnh5bndLUzlhM285ajVEYW5nQUJYY2oyeHJiUmZFUmlYMmlaSl81OGhZMG96anAweEZ3"
+  "gas:CBMixAFBVV95cUxNUGRwOUZocUdSdVpkSEFqcHhqZ3VTckpZS25KenBKYVJIdGNtc1p1M0JDWm1fMDVRWXNSd1lzOW5yUlhXbmpCU094SjdvbWthLXJPSzJubFJkOWhGUk9FWTNTeWVjeEZGWFpKUW9idFV3VTVGWVFRbmpvYWhBQXE2WUgyU3VMNldWSGs0OTRZYUpObnh5bndLUzlhM285ajVEYW5nQUJYY2oyeHJiUmZFUmlYMmlaSl81OGhZMG96anAweEZ3",
+  "gas:CBMiUEFVX3lxTE90WGJaYnd5T3hEOHc1b2JIZ2QxUGNyZWNJRmhHVkZ3bFdmVDRsWkNjVUZ0azdjVDlBZDd4SUc0N1NIdWljc1JaaElOZ09ueDFW"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4790,7 +4791,8 @@
   "tg:insiderpaper/45781",
   "tg:insiderpaper/45780",
   "tg:insiderpaper/45785",
-  "tg:insiderpaper/45783"
+  "tg:insiderpaper/45783",
+  "tg:insiderpaper/45786"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -4951,8 +4953,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144239",
-  "tg:FinancialJuice/144241",
   "tg:FinancialJuice/144240",
   "tg:FinancialJuice/144243",
   "tg:FinancialJuice/144242",
@@ -5750,7 +5750,9 @@
   "tg:FinancialJuice/145618",
   "tg:FinancialJuice/145620",
   "tg:FinancialJuice/145622",
-  "tg:FinancialJuice/145621"
+  "tg:FinancialJuice/145621",
+  "tg:FinancialJuice/145624",
+  "tg:FinancialJuice/145623"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6329,6 +6331,10 @@
   [
    1794206303.1298044,
    "Al|ab|be|et|ha|lp|ph|t考|债券|元债|元和|券彭|加坡|发行|和新|坡元|彭博|新加|早本|最早|月发|本月|港元|考虑|虑最|行港"
+  ],
+  [
+   1794207102.852254,
+   "AO|DA|NV|O夜|VD|伟达|夜盘|大至|幅扩|扩大|盘跌|至近|英伟|跌幅|达N|近6"
   ]
  ],
  "futu": [
@@ -6741,7 +6747,15 @@
   "futu:1003848945",
   "futu:1003850708",
   "futu:1003850703",
-  "futu:1003851083"
+  "futu:1003851083",
+  "futu:1003853376",
+  "futu:1003853352",
+  "futu:1003853345",
+  "futu:1003853165",
+  "futu:1003853164",
+  "futu:1003853130",
+  "futu:1003852988",
+  "futu:1003852634"
  ],
  "news_recent": [
   [
