@@ -2503,7 +2503,11 @@
   "tg:WalterBloomberg/38064",
   "tg:WalterBloomberg/38063",
   "tg:WalterBloomberg/38065",
-  "tg:WalterBloomberg/38066"
+  "tg:WalterBloomberg/38066",
+  "tg:WalterBloomberg/38070",
+  "tg:WalterBloomberg/38069",
+  "tg:WalterBloomberg/38068",
+  "tg:WalterBloomberg/38067"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2911,7 +2915,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794220476.8871279,
+ "congress_last_check": 1794222324.2495377,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2956,7 +2960,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794221582.1269677,
+ "earnings_last_check": 1794222387.0075946,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3222,9 +3226,10 @@
   "er:2026-11-06:HUM",
   "er:2026-11-06:ENB",
   "er:2026-11-06:PAA",
-  "er:2026-11-06:ELAN"
+  "er:2026-11-06:ELAN",
+  "er:2026-11-09:B"
  ],
- "gas_last_check": 1794220538.0675929,
+ "gas_last_check": 1794221792.6218638,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -7056,7 +7061,10 @@
   "futu:1003877518",
   "futu:1003877448",
   "futu:1003877449",
-  "futu:1003877271"
+  "futu:1003877271",
+  "futu:1003878861",
+  "futu:1003878830",
+  "futu:1003878366"
  ],
  "news_recent": [
   [
@@ -7386,6 +7394,18 @@
   [
    1794221040.319374,
    "amnesty deal democrats deportations endorses far full losing midterms now people pretty right saying trump want who"
+  ],
+  [
+   1794221783.0794857,
+   "$tsla approximately autonomous capacity ceo claiming company customers cybercab cybertruck deposits eight elon end exceed factory freeing many months musk orders plans production refund remaining tesla texas vehicle"
+  ],
+  [
+   1794221785.2372928,
+   "cuts hsbc neutral overweight strong treasuries"
+  ],
+  [
+   1794222383.3369138,
+   "citigroup cuts equities global neutral overweight technology"
   ]
  ]
 }
