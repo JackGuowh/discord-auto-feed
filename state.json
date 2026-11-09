@@ -906,9 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192592",
-  "wscn:3192619",
-  "wscn:3192631",
   "wscn:3192629",
   "wscn:3192634",
   "wscn:3192641",
@@ -1705,11 +1702,12 @@
   "wscn:3196855",
   "wscn:3196863",
   "wscn:3196877",
-  "wscn:3196889"
+  "wscn:3196889",
+  "wscn:3196913",
+  "wscn:3196922",
+  "wscn:3196911"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37232",
-  "tg:WalterBloomberg/37231",
   "tg:WalterBloomberg/37230",
   "tg:WalterBloomberg/37229",
   "tg:WalterBloomberg/37228",
@@ -2507,7 +2505,9 @@
   "tg:WalterBloomberg/38070",
   "tg:WalterBloomberg/38069",
   "tg:WalterBloomberg/38068",
-  "tg:WalterBloomberg/38067"
+  "tg:WalterBloomberg/38067",
+  "tg:WalterBloomberg/38072",
+  "tg:WalterBloomberg/38071"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2960,7 +2960,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794223189.6962225,
+ "earnings_last_check": 1794223816.375639,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4977,8 +4977,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144249",
-  "tg:FinancialJuice/144248",
   "tg:FinancialJuice/144247",
   "tg:FinancialJuice/144246",
   "tg:FinancialJuice/144270",
@@ -5776,7 +5774,9 @@
   "tg:FinancialJuice/145636",
   "tg:FinancialJuice/145635",
   "tg:FinancialJuice/145634",
-  "tg:FinancialJuice/145638"
+  "tg:FinancialJuice/145638",
+  "tg:FinancialJuice/145640",
+  "tg:FinancialJuice/145639"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6491,6 +6491,26 @@
   [
    1794221519.5203993,
    "02|0不|0亿|20|22|25|2年|50|55|5年|69|90|Ad|Ca|Ja|Lu|aC|al|am|ap|ar|dv|er|es|in|is|it|lA|me|mi|na|pi|rs|rv|sJ|se|s合|s表|ta|um|vi|三季|下降|不过|业务|业的|业董|东地|严格|中东|中最|临更|为2|为明|么悲|也在|乱投|争扰|事会|于去|于过|于迪|五年|交易|产剥|人J|亿美|今同|仍高|代表|以及|以把|以来|企业|伊朗|伙人|会总|会暂|估局|位于|低于|低水|体情|停行|元为|元的|元第|充当|先在|全球|全面|公司|关机|其中|具代|冲突|况并|出全|划以|划推|初期|剥离|务的|动仍|动放|动评|势对|化可|区企|区并|区更|区的|华尔|历2|去五|去年|及海|及美|发初|变化|可能|司收|合伙|同期|同比|后的|向谨|和资|响导|四季|团队|国政|在冲|在经|在继|地区|地团|场华|场情|均水|型并|多是|大型|季度|审查|对自|导致|尔街|局势|局变|已转|市场|常活|平均|平表|平远|年中|年以|年同|年异|年的|并没|并购|度以|度涉|异常|当地|影响|性的|总部|悲观|情况|情绪|慎数|战争|扩充|扰乱|把握|投资|拜的|据显|推迟|握相|收购|放缓|政治|数据|整体|明显|明该|易热|易面|易额|是在|是规|显交|显示|暂停|更严|更为|更多|最低|最具|有那|朗战|期企|期的|机会|机构|来地|来最|构也|查市|格局|格的|案然|模达|比下|水平|没有|治格|活动|活跃|海湾|涉及|涨其|温而|湾地|潮高|热潮|然而|爆发|球市|电公|的6|的L|的审|的平|的并|的影|的是|的艺|的降|相关|着伊|示第|示首|离计|突爆|第三|第四|约5|经历|继续|绪已|续扩|缓更|美元|美国|而随|而非|能导|自身|至约|致大|致并|艺电|董事|融机|行动|街金|表性|表明|表示|观海|规模|计划|评估|该地|谨慎|购交|购和|购案|购活|资产|资计|超过|跃后|身业|转向|达5|迄今|过9|过去|过整|远低|迪拜|退出|那么|部位|金融|队以|降温|降至|降超|随着|非全|面临|面退|额迄|额降|首先|高于|高涨"
+  ],
+  [
+   1794223212.5054553,
+   "00|05|07|0指|10|1标|50|7纳|克1|指数|指期|数期|斯达|普5|期货|标普|涨0|涨超|纳斯|美股|股期|货涨|货走|走高|超1|达克|道指|高道"
+  ],
+  [
+   1794223271.2063904,
+   "05|1纳|3美|一战|三大|两油|主张|乎已|今日|以及|以色|价跳|伊朗|似乎|兹海|内均|列今|列报|制霍|及向|取通|只收|向途|国际|均跌|大期|尔木|峡以|已放|布两|弃要|张国|战略|报报|报道|指期|指走|据以|控制|收取|放弃|日以|日内|朗似|期指|期货|木兹|水美|水道|求控|油价|油日|海峡|涨0|涨超|略水|的主|的船|纳指|经这|美布|美股|股三|船只|色列|行费|要求|货涨|费的|走高|超1|跌逾|跳水|这一|途经|通行|逾3|道伊|道指|道的|际油|霍尔|高道"
+  ],
+  [
+   1794223391.5174756,
+   "00|06|0指|1至|50|60|65|克6|内高|及日|大涨|大至|幅扩|幅触|托克|扩大|指数|数期|数涨|斯托|日内|普5|期货|标普|欧洲|洲斯|涨0|涨幅|点标|点现|现涨|至1|至日|触及|货扩|高点"
+  ],
+  [
+   1794223630.0597012,
+   "不和|不战|以结|伊朗|判以|和局|局面|总统|意谈|愿意|战不|朗总|朗愿|束不|结束|统伊|谈判"
+  ],
+  [
+   1794223930.9001198,
+   "02|0万|0月|10|11|20|26|6年|7位|SU|U7|一1|万以|上轿|以上|位列|列2|同样|小米|年1|月小|月累|样第|汽车|第一|米S|米汽|累计|计销|车2|车销|轿车|量同|量第|销量"
   ]
  ],
  "futu": [
@@ -7075,7 +7095,17 @@
   "futu:1003879406",
   "futu:1003879407",
   "futu:1003879318",
-  "futu:1003879256"
+  "futu:1003879256",
+  "futu:1003881544",
+  "futu:1003881496",
+  "futu:1003881458",
+  "futu:1003881390",
+  "futu:1003881259",
+  "futu:1003880926",
+  "futu:1003880847",
+  "futu:1003880691",
+  "futu:1003880526",
+  "futu:1003880527"
  ],
  "news_recent": [
   [
@@ -7417,6 +7447,14 @@
   [
    1794222383.3369138,
    "citigroup cuts equities global neutral overweight technology"
+  ],
+  [
+   1794223331.864144,
+   "according address administration agreement attacks billion but consider deal despite discuss end exchange expected frozen funds gulf hayom hormuz iran iranian israel lift meet minister monday not nuclear officials opposition president prime program proposal pushing qatar releasing reopen reported reportedly restrictions senior shipping strait trump vance vice"
+  ],
+  [
+   1794223511.1924815,
+   "$nvda admits affair ceo cnbc down jensen market nvidia pre shares wong"
   ]
  ]
 }
