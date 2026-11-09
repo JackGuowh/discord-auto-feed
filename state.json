@@ -906,10 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192229",
-  "wscn:3192240",
-  "wscn:3192241",
-  "wscn:3192257",
   "wscn:3192312",
   "wscn:3192329",
   "wscn:3192443",
@@ -1705,7 +1701,11 @@
   "wscn:3196765",
   "wscn:3196773",
   "wscn:3196772",
-  "wscn:3196770"
+  "wscn:3196770",
+  "wscn:3196791",
+  "wscn:3196786",
+  "wscn:3196784",
+  "wscn:3196782"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2903,7 +2903,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794209501.3793552,
+ "congress_last_check": 1794211310.9200907,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794211162.826796,
+ "earnings_last_check": 1794211848.6208808,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794210682.8510313,
+ "gas_last_check": 1794211911.7764804,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3831,7 +3831,9 @@
   "gas:CBMilAFBVV95cUxNbDJFS3phNjNRMnBHMVJPZ3RCU2xwaVdiTnhlRWJaZUh0ZmRwQ1AzQjdQQ0NMdGEwdHBwOHF5Tk42QXo4ZjBPZTRkT0o3ZDdES3hnQ05tLWxoTVZiN2N1M0NFeWQtLXdKcE5fLVpLdG84V0o5cFFQZ1BYR3lWOXAwanZYSGpGWl9lTjlTOTdXWHZwX0Ny",
   "gas:CBMixAFBVV95cUxNUGRwOUZocUdSdVpkSEFqcHhqZ3VTckpZS25KenBKYVJIdGNtc1p1M0JDWm1fMDVRWXNSd1lzOW5yUlhXbmpCU094SjdvbWthLXJPSzJubFJkOWhGUk9FWTNTeWVjeEZGWFpKUW9idFV3VTVGWVFRbmpvYWhBQXE2WUgyU3VMNldWSGs0OTRZYUpObnh5bndLUzlhM285ajVEYW5nQUJYY2oyeHJiUmZFUmlYMmlaSl81OGhZMG96anAweEZ3",
   "gas:CBMiUEFVX3lxTE90WGJaYnd5T3hEOHc1b2JIZ2QxUGNyZWNJRmhHVkZ3bFdmVDRsWkNjVUZ0azdjVDlBZDd4SUc0N1NIdWljc1JaaElOZ09ueDFW",
-  "gas:CBMikgFBVV95cUxNcy1WMmxPOTVaRkMzWXdYM2RpYXFYWjlWZF9uQVhyME5PZXdTUVVEQzJPMUtIZzd5ZzdIS05BRXFTUkdEQVhZNkE3ZDBsLWJFZ2djR1lhbmdJMjEtMTlqdTFYUFF0QW9reFd2X1dSWEUzam9NVU1nUGphNTl2Y2ZtMUtaNkVnWE1KRkdnZDZMVVBGdw"
+  "gas:CBMikgFBVV95cUxNcy1WMmxPOTVaRkMzWXdYM2RpYXFYWjlWZF9uQVhyME5PZXdTUVVEQzJPMUtIZzd5ZzdIS05BRXFTUkdEQVhZNkE3ZDBsLWJFZ2djR1lhbmdJMjEtMTlqdTFYUFF0QW9reFd2X1dSWEUzam9NVU1nUGphNTl2Y2ZtMUtaNkVnWE1KRkdnZDZMVVBGdw",
+  "gas:CBMiY0FVX3lxTE9QanFjclpqV1h4ZkFrVkFPNzhBOWxsQUVkVEVDUEZucENWZms0M0dzdzJsTTFadFZjWnA2bC1PWjY1eEd6TDVPQ3ptdExnTEdOTF83MFhOVGxtcU5kbmZHX1ozRQ",
+  "gas:CBMiqAFBVV95cUxPNlE5M1hDdWRUU2dVd1ZyWVJXQlJkVjA2R29lN0FpUnRoNk1BTW1uZXNFWEhBMnRQNFZ5SGhRVm5XUElkdjZXa1RSdjJ5OGltdDRRRXF3Y2I5TXR1SThWX3FkaDluMjB3c2JkV0tSMzdzUThJazVXVm9BVWo3S0VXOWdROHJaOVMyV082SGpFcFpXZXMzZFRCcGlIMkNTdE9iSUotZF9LSGc"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4954,10 +4956,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144254",
-  "tg:FinancialJuice/144253",
-  "tg:FinancialJuice/144252",
-  "tg:FinancialJuice/144251",
   "tg:FinancialJuice/144250",
   "tg:FinancialJuice/144249",
   "tg:FinancialJuice/144248",
@@ -5753,7 +5751,11 @@
   "tg:FinancialJuice/145629",
   "tg:FinancialJuice/145628",
   "tg:FinancialJuice/145633",
-  "tg:FinancialJuice/145632"
+  "tg:FinancialJuice/145632",
+  "tg:FinancialJuice/145637",
+  "tg:FinancialJuice/145636",
+  "tg:FinancialJuice/145635",
+  "tg:FinancialJuice/145634"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6372,6 +6374,34 @@
   [
    1794210739.9111435,
    "Cl|Ne|d新|eo|lo|oC|ou|ud|业务|云业|他地|公司|其他|其在|务并|区彭|可能|司可|向其|国的|在美|地区|并转|彭博|新云|新考|的N|美国|考虑|能重|虑其|转向|软银|重新|银公"
+  ],
+  [
+   1794211366.2788923,
+   "02|0日|10|11|1号|1月|20|21|25|26|2个|5年|6年|上述|两用|个月|中华|中方|予许|人就|人民|人表|体出|例相|依法|依规|停实|公告|共和|关措|关规|决定|准予|出口|出申|制条|制管|务部|华人|单措|发言|口两|口管|口经|号公|合规|名单|向上|向商|告的|和国|商务|国两|如需|定向|定的|定自|实体|实施|审查|将依|将准|就调|年1|年第|应当|当根|据中|控名|措施|提出|整出|新闻|方决|施2|施答|日起|暂停|月1|月出|条例|查符|根据|民共|法依|物项|用物|申请|的将|的相|相关|示中|符合|第2|答记|管制|管控|经营|继续|续暂|者如|者问|自2|营者|行审|表示|规定|规进|言人|记者|许可|请商|调整|起继|进行|述实|部将|部提|部新|问商|闻发|需向|项出|项应"
+  ],
+  [
+   1794211367.696773,
+   "02|0日|10|11|1月|20|25|26|2个|4日|4月|57|5年|6年|7号|上述|不可|与上|业可|个月|中方|予以|交易|人就|人表|以批|件的|企业|体清|体进|作机|依法|停2|公告|关措|关规|内企|决定|制公|制将|务部|单工|单措|单规|发言|可申|可靠|号相|合条|告2|告不|商务|国内|定国|定相|定自|实体|审核|对符|将依|就调|工作|年1|年4|批准|据不|措施|整不|新闻|方决|施2|施答|日公|日起|易不|暂停|月1|月4|月根|机制|条件|核对|根据|法进|清单|申请|的申|相关|示中|符合|答记|继续|续暂|者问|自2|行交|行审|表示|规定|言人|记者|请与|请予|调整|起继|进行|述实|部新|问商|闻发|靠实"
+  ],
+  [
+   1794211369.1544955,
+   "02|0日|10|11|1月|20|26|2个|5家|6年|个月|中美|为落|于继|会社|停对|公司|公布|共识|关于|关子|决定|制措|务部|华海|反制|司实|商共|商务|国相|子公|定自|实中|实施|家美|对韩|布关|年1|式会|措施|施2|施反|施行|日起|暂停|月1|月的|株式|洋株|海洋|现公|的决|相关|磋商|社5|经贸|继续|续暂|美国|美经|自2|落实|识现|贸磋|起施|部为|韩华"
+  ],
+  [
+   1794211546.6179912,
+   "AI|I初|一轮|上宣|与英|业合|业进|举办|企业|伟达|作论|信息|信部|共同|划对|创企|初创|办的|合作|同举|国初|国科|在韩|坛上|学技|宣布|对韩|布计|息通|技术|投资|新一|术信|的A|科学|英伟|行新|计划|论坛|轮投|达共|达在|进行|通信|部与|韩国"
+  ],
+  [
+   1794211607.4370837,
+   "2并|D和|LD|LW|Mo|Po|RL|Te|Up|WR|ag|ch|ec|es|fT|gi|hn|ie|if|in|lo|no|nt|og|oi|ol|ot|ps|sR|st|t2|ta|ti|伟达|划投|和U|宣布|布投|并计|投资|英伟|计划|资M|资P|达宣"
+  ],
+  [
+   1794211725.552127,
+   "AI|I初|Po|in|nt|oi|t2|业进|企业|伟达|公司|划对|创企|创公|初创|司P|国A|国初|对韩|将投|投资|新投|英伟|行新|计划|资将|资韩|达计|进行|韩国"
+  ],
+  [
+   1794211906.5456972,
+   "08|0亿|10|13|3股|46|64|66|68|6万|6亿|6月|80|8万|AB|AI|BB|Bu|B机|Fu|Gr|I1|I模|I相|I行|I领|Op|Ro|en|fB|k表|lf|lk|mG|nA|ol|ou|pe|p的|ro|ru|tu|ul|um|up|ur|ut|一年|万亿|下投|业健|业务|业挫|个月|中心|为6|二公|于周|于基|人业|人安|人等|亿日|亿美|今却|令人|份这|体和|供应|债务|健康|元约|元而|元购|入O|入巨|公布|六个|关于|关注|关股|关重|其投|其抵|其能|净计|出令|出的|前为|前或|力供|力的|务受|务达|半导|却复|及部|发外|受阻|向给|否就|周二|和机|售收|器人|回答|因其|在A|地点|型数|域截|域投|基础|复杂|外界|多A|大最|如今|季度|安心|容易|对其|对软|导体|将于|就战|巨大|已覆|布季|年前|应及|底软|度财|康对|建设|引发|得多|御行|心半|心的|息债|或许|战略|截至|投入|投资|折能|抛售|报在|抵御|挫折|据中|措电|收购|数据|斥资|方向|施建|日元|易回|是斥|景下|最突|月前|月底|机器|杂得|模型|注其|点等|电力|界对|略方|疑F|的R|的是|的背|的解|的质|盖A|相关|础设|示关|票遭|突出|等问|等领|答如|筹措|约6|给出|署地|美元|者关|而一|股份|股票|背景|能力|能否|至6|至关|行业|表示|要因|覆盖|解释|计息|许容|设施|设资|财报|质疑|购A|购入|资6|资已|资者|资金|软银|达1|这引|遇抛|遭遇|部署|释软|重要|金筹|银净|银在|银将|银至|问题|阻的|领域|题六"
   ]
  ],
  "futu": [
@@ -6833,7 +6863,20 @@
   "futu:1003858839",
   "futu:1003858879",
   "futu:1003858669",
-  "futu:1003858585"
+  "futu:1003858585",
+  "futu:1003861830",
+  "futu:1003861775",
+  "futu:1003861643",
+  "futu:1003861535",
+  "futu:1003861374",
+  "futu:1003861296",
+  "futu:1003861233",
+  "futu:1003860724",
+  "futu:1003860725",
+  "futu:1003860657",
+  "futu:1003860658",
+  "futu:1003860541",
+  "futu:1003860475"
  ],
  "news_recent": [
   [
@@ -7123,6 +7166,18 @@
   [
    1794201883.1359525,
    "012 auto body china cpca exported inc industry made october tesla vehicles"
+  ],
+  [
+   1794211374.9467664,
+   "china companies controls exports extend suspension targeting"
+  ],
+  [
+   1794211787.7646723,
+   "invest korean nvidia point2 startup"
+  ],
+  [
+   1794211909.3229296,
+   "investments motif nvidia plans rlwrld tech upstage"
   ]
  ]
 }
