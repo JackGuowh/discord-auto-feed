@@ -906,9 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192678",
-  "wscn:3192671",
-  "wscn:3192670",
   "wscn:3192682",
   "wscn:3192681",
   "wscn:3192686",
@@ -1705,7 +1702,10 @@
   "wscn:3196956",
   "wscn:3196963",
   "wscn:3196959",
-  "wscn:3196969"
+  "wscn:3196969",
+  "wscn:3196975",
+  "wscn:3196971",
+  "wscn:3196970"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37221",
@@ -2742,7 +2742,8 @@
   "tg:WatcherGuru/15889",
   "tg:WatcherGuru/15891",
   "tg:WatcherGuru/15893",
-  "tg:WatcherGuru/15894"
+  "tg:WatcherGuru/15894",
+  "tg:WatcherGuru/15895"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2961,9 +2962,10 @@
   "market_close:2026-11-04",
   "movers_post:2026-11-04",
   "market_fg:2026-11-06",
-  "weekly:2026-11-08"
+  "weekly:2026-11-08",
+  "movers_pre:2026-11-09"
  ],
- "earnings_last_check": 1794231941.167429,
+ "earnings_last_check": 1794232747.9504488,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3861,7 +3863,7 @@
   "gas:CBMi-wFBVV95cUxQRDZIak1YZTc2X0RQNFU3YkVOVmJpTDRNcjBlZERfRE91WFFxR0F4TFVDMHppc05DMWw1dURMbXhUdlk2WWp6bGZETFNYc1JVelJsMVNMUDR0VWFQQnNBY2U5TnFoWTJadlVFTkJCNldrTjB2M0J2bmVROUpGekgzTVFWR0duZEVMbGdvdGFqSmRiNjIwMmFacTRHS1h0SDJxWlZDdnBxc2JLZHFBVm8xcjgwX1N4MWJfaDFwcUNuR0lCUzNwMDM3Y2ZGREFscWt6UllQcVlTb3B1VkpkZjB6WXdZZzBPLUNwR3BKbXc5d2JyNjZvTkZCMzcyZw",
   "gas:CBMirAFBVV95cUxPQUlwV0ZBSzBZZHBoZi1UZWV3XzRPRWItLUYtWGVTOXVfaVBUMUswbkdZU0FJbWZuS2NRSExKZkRvZk1hbUNiNlJ3ZnQ0Xzl0RS15eV9mRm42eFBWSjdBdER2UVlWN01tTVYwV2xhUlhScWh5RGx5ZWlUbmpMRWdwcFFrRXJLOUJQTkRfc05mdmVUdUVUVG5iZ0FMTmpHeTA0aDJhVXNzek1Uczdh"
  ],
- "shows_last_day": "2026-11-08",
+ "shows_last_day": "2026-11-09",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
@@ -4985,9 +4987,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144286",
-  "tg:FinancialJuice/144285",
-  "tg:FinancialJuice/144284",
   "tg:FinancialJuice/144283",
   "tg:FinancialJuice/144282",
   "tg:FinancialJuice/144281",
@@ -5784,7 +5783,10 @@
   "tg:FinancialJuice/145654",
   "tg:FinancialJuice/145661",
   "tg:FinancialJuice/145660",
-  "tg:FinancialJuice/145662"
+  "tg:FinancialJuice/145662",
+  "tg:FinancialJuice/145665",
+  "tg:FinancialJuice/145664",
+  "tg:FinancialJuice/145663"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6627,6 +6629,26 @@
   [
    1794231758.3115447,
    "0新|9日|不再|且不|事行|亚说|人穆|今后|伊斯|伊朗|克拉|兰共|共和|再受|军事|军方|击效|制0|加注|动将|动更|华社|发言|受地|后军|和国|和打|回应|围限|国通|在落|地理|实最|将更|尼亚|应和|应据|德阿|快速|打击|报道|拉米|指示|据伊|效果|斯兰|新华|方发|日报|更加|更注|最高|朗伊|朗军|朗最|朗武|期指|果且|正在|武装|求军|注重|理范|示今|社9|穆罕|米尼|罕默|范围|落实|行动|袖要|袖近|装部|要求|言人|讯社|说伊|近期|通讯|速回|道伊|部队|重快|队正|阿克|限制|领袖|高领|默德"
+  ],
+  [
+   1794232205.4353964,
+   "0日|15|26|3点|43|50|5报|62|68|84|St|ox|to|x5|xx|元区|内涨|区S|幅达|报6|日内|欧元|涨幅|达1"
+  ],
+  [
+   1794232265.5762613,
+   "01|03|0万|13|22|23|25|2恒|32|3伊|3沪|4日|5指|5美|60|AI|Al|I担|PU|TP|U挑|ab|be|et|ha|lp|ph|t考|一美|万枚|上松|不和|不战|与黄|丑闻|两款|中国|中方|为中|主地|主管|之际|了解|事鲁|交部|人就|人称|仁勋|以谈|伊朗|会见|伟达|位据|作外|你需|债券|僵局|元债|元和|先进|全球|关键|兹问|冷水|准约|出两|出口|判打|判远|制管|券黄|前你|前跌|剧市|加剧|加坡|务部|动之|动市|勋丑|勋婚|升级|单措|博A|即将|发行|发言|口外|口总|口管|名单|员称|周一|和僵|和新|商务|国商|国情|在霍|地位|场波|场英|坡元|外交|外情|奥泼|女子|婚外|子为|官员|将会|尔木|尚未|就调|局谷|属捕|工作|市场|布油|建议|彭博|影特|忧加|态愿|总统|恒指|情女|情报|意升|愿以|战不|战事|战英|打破|批准|报机|担忧|指收|指数|挑战|捉影|捕风|据彭|据澎|控名|推出|措施|搅动|收涨|收跌|数收|整出|新T|新加|新闻|方尚|施答|无意|日经|普即|曝在|朗战|朗普|朗被|期货|木兹|未批|未突|机构|松口|构工|枚英|款新|歌推|比奥|水谈|沪指|油跌|波动|泼冷|涨0|涨2|港元|湃中|湃美|澎湃|片进|特朗|球要|的全|盘前|破不|破布|称与|称无|突破|答记|管制|管控|管部|约6|级伊|纯属|经2|统表|美官|美股|考虑|者问|股期|股盘|芯片|英伟|虑发|行港|表态|被曝|要了|要闻|见关|解人|解的|言人|议询|记者|询问|调整|调解|谈判|谷歌|货走|走高|超3|超4|跌0|跌超|跌近|达先|达美|达霸|近5|进口|进芯|远未|部建|部新|部纯|部门|键调|门据|问主|问据|问题|闻中|闻发|闻搅|际A|需要|霍尔|霸主|题上|风捉|高布|鲁比|黄仁"
+  ],
+  [
+   1794232326.3832176,
+   "CO|C文|EC|MO|OM|O宣|QC|SE|个部|五个|交会|件高|会S|分五|分发|发行|国证|宣布|布拟|拟分|据美|文件|票据|美国|行票|证交|通Q|部分|高通"
+  ],
+  [
+   1794232626.6572332,
+   "0年|10|30|48|64|86|8美|9月|I原|TI|WT|下跌|为9|以来|价下|低水|低点|低跌|债收|元桶|内低|初以|原油|和3|国1|国债|平随|年期|收益|日内|最低|月初|期和|期国|来最|桶为|水平|油价|油最|率降|益率|着油|美元|美国|至8|至日|跌美|跌至|降至|随着"
+  ],
+  [
+   1794232685.4448812,
+   "01|05|10|17|5报|78|8点|元指|内跌|幅达|报1|指数|数日|日内|美元|跌幅|达0"
   ]
  ],
  "futu": [
@@ -7292,7 +7314,14 @@
   "futu:1003894873",
   "futu:1003894499",
   "futu:1003894439",
-  "futu:1003894039"
+  "futu:1003894039",
+  "futu:1003895780",
+  "futu:1003895694",
+  "futu:1003895574",
+  "futu:1003895543",
+  "futu:1003895469",
+  "futu:1003895255",
+  "futu:1003895235"
  ],
  "news_recent": [
   [
