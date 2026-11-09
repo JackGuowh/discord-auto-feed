@@ -1708,8 +1708,6 @@
   "wscn:3197027"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37233",
-  "tg:WalterBloomberg/37235",
   "tg:WalterBloomberg/37238",
   "tg:WalterBloomberg/37237",
   "tg:WalterBloomberg/37236",
@@ -2507,7 +2505,9 @@
   "tg:WalterBloomberg/38089",
   "tg:WalterBloomberg/38088",
   "tg:WalterBloomberg/38090",
-  "tg:WalterBloomberg/38091"
+  "tg:WalterBloomberg/38091",
+  "tg:WalterBloomberg/38093",
+  "tg:WalterBloomberg/38092"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2924,7 +2924,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794236974.0644915,
+ "congress_last_check": 1794238829.4666007,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2971,7 +2971,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794238256.2394128,
+ "earnings_last_check": 1794239069.5029254,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3244,7 +3244,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794237842.1276095,
+ "gas_last_check": 1794239070.0202637,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4840,7 +4840,8 @@
   "tg:insiderpaper/45787",
   "tg:insiderpaper/45788",
   "tg:insiderpaper/45789",
-  "tg:insiderpaper/45790"
+  "tg:insiderpaper/45790",
+  "tg:insiderpaper/45791"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -5001,10 +5002,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144310",
-  "tg:FinancialJuice/144309",
-  "tg:FinancialJuice/144308",
-  "tg:FinancialJuice/144307",
   "tg:FinancialJuice/144316",
   "tg:FinancialJuice/144315",
   "tg:FinancialJuice/144314",
@@ -5800,7 +5797,11 @@
   "tg:FinancialJuice/145686",
   "tg:FinancialJuice/145685",
   "tg:FinancialJuice/145684",
-  "tg:FinancialJuice/145683"
+  "tg:FinancialJuice/145683",
+  "tg:FinancialJuice/145694",
+  "tg:FinancialJuice/145693",
+  "tg:FinancialJuice/145692",
+  "tg:FinancialJuice/145691"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7636,7 +7637,16 @@
   "futu:1003904850",
   "futu:1003904830",
   "futu:1003904734",
-  "futu:1003904444"
+  "futu:1003904444",
+  "futu:1003907002",
+  "futu:1003906734",
+  "futu:1003906718",
+  "futu:1003906712",
+  "futu:1003906572",
+  "futu:1003906522",
+  "futu:1003906275",
+  "futu:1003906254",
+  "futu:1003905906"
  ],
  "news_recent": [
   [
