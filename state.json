@@ -906,11 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192700",
-  "wscn:3192697",
-  "wscn:3192715",
-  "wscn:3192714",
-  "wscn:3192713",
   "wscn:3192712",
   "wscn:3192711",
   "wscn:3192709",
@@ -1705,11 +1700,14 @@
   "wscn:3197002",
   "wscn:3197000",
   "wscn:3196998",
-  "wscn:3196997"
+  "wscn:3196997",
+  "wscn:3197011",
+  "wscn:3197010",
+  "wscn:3197009",
+  "wscn:3197007",
+  "wscn:3197006"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37217",
-  "tg:WalterBloomberg/37216",
   "tg:WalterBloomberg/37215",
   "tg:WalterBloomberg/37214",
   "tg:WalterBloomberg/37213",
@@ -2507,7 +2505,9 @@
   "tg:WalterBloomberg/38084",
   "tg:WalterBloomberg/38083",
   "tg:WalterBloomberg/38082",
-  "tg:WalterBloomberg/38085"
+  "tg:WalterBloomberg/38085",
+  "tg:WalterBloomberg/38087",
+  "tg:WalterBloomberg/38086"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2745,7 +2745,8 @@
   "tg:WatcherGuru/15894",
   "tg:WatcherGuru/15895",
   "tg:WatcherGuru/15896",
-  "tg:WatcherGuru/15897"
+  "tg:WatcherGuru/15897",
+  "tg:WatcherGuru/15899"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2968,7 +2969,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794235161.1998978,
+ "earnings_last_check": 1794236016.2271233,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3241,7 +3242,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794234113.4057155,
+ "gas_last_check": 1794235360.678855,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3864,7 +3865,8 @@
   "gas:CBMirAFBVV95cUxPRUtYbHNvYnA4R2Z1bC1FYkt2T1EzVC0wbDhwVl9rUHVscFNaR3oyY2tzajVmQlNMUmVNeVVTS01IcjJGUTdBUWxvYmo3SjdpdDdvTW10S3N2SnNXdWpMVHRFZ296UXRNa2ZOQkpMWE1XYTh0ZERGWnRIRjBCY2NuVWlHQ1hwTEE3ZS1ka2d6N1FtOUc3THRzZ1Yya0VTNWlnTmt2V0JNVjd4WHNL",
   "gas:CBMiZEFVX3lxTFBrTGdDS2RUN0poN0FIdHFEVGtUOXFBeTJ2TVRnY1d3OVBIazF2dlpmUTVyZGxIelFxZXFISFl4RlY0VXd5Y243RnhuVnQwR1BUcjlFME1sSlNiaUFaOElRRkFPWEc",
   "gas:CBMi-wFBVV95cUxQRDZIak1YZTc2X0RQNFU3YkVOVmJpTDRNcjBlZERfRE91WFFxR0F4TFVDMHppc05DMWw1dURMbXhUdlk2WWp6bGZETFNYc1JVelJsMVNMUDR0VWFQQnNBY2U5TnFoWTJadlVFTkJCNldrTjB2M0J2bmVROUpGekgzTVFWR0duZEVMbGdvdGFqSmRiNjIwMmFacTRHS1h0SDJxWlZDdnBxc2JLZHFBVm8xcjgwX1N4MWJfaDFwcUNuR0lCUzNwMDM3Y2ZGREFscWt6UllQcVlTb3B1VkpkZjB6WXdZZzBPLUNwR3BKbXc5d2JyNjZvTkZCMzcyZw",
-  "gas:CBMirAFBVV95cUxPQUlwV0ZBSzBZZHBoZi1UZWV3XzRPRWItLUYtWGVTOXVfaVBUMUswbkdZU0FJbWZuS2NRSExKZkRvZk1hbUNiNlJ3ZnQ0Xzl0RS15eV9mRm42eFBWSjdBdER2UVlWN01tTVYwV2xhUlhScWh5RGx5ZWlUbmpMRWdwcFFrRXJLOUJQTkRfc05mdmVUdUVUVG5iZ0FMTmpHeTA0aDJhVXNzek1Uczdh"
+  "gas:CBMirAFBVV95cUxPQUlwV0ZBSzBZZHBoZi1UZWV3XzRPRWItLUYtWGVTOXVfaVBUMUswbkdZU0FJbWZuS2NRSExKZkRvZk1hbUNiNlJ3ZnQ0Xzl0RS15eV9mRm42eFBWSjdBdER2UVlWN01tTVYwV2xhUlhScWh5RGx5ZWlUbmpMRWdwcFFrRXJLOUJQTkRfc05mdmVUdUVUVG5iZ0FMTmpHeTA0aDJhVXNzek1Uczdh",
+  "gas:CBMinAFBVV95cUxOa0Vva28yaTc1WjVrN0pDMmpIb2xJZnRFaVdielV0aHdmUDFNaHQxSzNqM2h6R3hpVUJCMm9mT3IwcTIycDNGSnVsbjlLb1JhZGZoYnlISkcwd3JhVFc4UXhBR3h4Z2Zvd3FLd1l2ZTNBN2pyQUd2WDdSUTI3SUt3Yk1XNFFOVFVnQkd6VnIyWU0xRHNEdHlQcWJlVjg"
  ],
  "shows_last_day": "2026-11-09",
  "shows_init": "2026-10-22",
@@ -4993,7 +4995,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144292",
   "tg:FinancialJuice/144293",
   "tg:FinancialJuice/144295",
   "tg:FinancialJuice/144294",
@@ -5792,7 +5793,8 @@
   "tg:FinancialJuice/145673",
   "tg:FinancialJuice/145672",
   "tg:FinancialJuice/145675",
-  "tg:FinancialJuice/145674"
+  "tg:FinancialJuice/145674",
+  "tg:FinancialJuice/145676"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6755,6 +6757,42 @@
   [
    1794235211.7450147,
    "32|45|55|5M|5谷|Al|Me|ab|a涨|be|et|ha|lp|ph|ta|t涨|亚马|公司|司A|歌母|母公|涨3|涨4|涨5|谷歌|逊涨|马逊"
+  ],
+  [
+   1794235355.0738666,
+   "6以|AO|DA|NV|O跌|VD|以内|伟达|幅收|收窄|窄至|至6|英伟|跌幅|达N"
+  ],
+  [
+   1794235477.439687,
+   "0C|10|5P|7T|AI|Ap|Cl|De|IU|I应|Lo|Pa|Sn|So|Te|Th|Tr|Un|ad|ak|al|an|ar|de|df|eD|eT|em|es|e升|fl|ft|he|in|ir|it|ke|k升|la|lo|mp|nS|ni|no|nt|of|ou|ov|ow|pL|pp|pu|rA|ra|re|sA|sk|ti|tw|ty|ud|us|vi|wa|wf|yS|件股|全线|升逾|应用|用软|线走|股全|走高|软件|逾1|逾3|逾5|逾7|高T"
+  ],
+  [
+   1794235533.6245933,
+   "00|0指|10|13|24|2成|3拼|44|4S|4英|56|58|79|7亚|8汤|9应|Lu|St|at|eg|en|gy|me|m涨|nt|ra|te|tr|tu|um|y跌|亚马|伟达|克1|分股|多多|多跌|大至|希捷|幅扩|幅收|应用|成分|扩大|技涨|拼多|指数|据涨|捷科|收窄|数据|数涨|料西|斯达|材料|森路|汤森|涨5|涨7|涨幅|涨超|用材|科技|窄至|纳斯|股L|至2|至5|英伟|西部|超7|跌1|跌2|跌4|跌幅|路透|达克|达跌|逊希|透跌|部数|马逊"
+  ],
+  [
+   1794235596.3684375,
+   "00|0指|13|15|2标|50|5道|上涨|大至|幅扩|开高|扩大|指数|指涨|数上|普5|标普|涨1|涨幅|纳指|美股|股高|至2|走纳|道指|高开|高走"
+  ],
+  [
+   1794235655.6436012,
+   "与威|乌克|什纳|会见|使库|克兰|全问|兰及|及欧|友讨|国特|夫将|威特|安全|将会|库什|欧洲|洲安|特使|特科|盟友|科夫|纳与|美国|见盟|讨论|论乌|问题"
+  ],
+  [
+   1794235713.408738,
+   "15|中国|克金|凯迪|前跌|国指|指数|数跌|斯达|目前|纳斯|跌1|跌凯|达克|迪目|金龙|龙中"
+  ],
+  [
+   1794235715.7064393,
+   "12|27|29|2现|32|78|82|8t|8张|9成|AM|C处|DU|D期|EP|MD|PU|PY|S盘|TP|U8|US|YC|tx|x提|上涨|中上|为1|为T|主机|云采|五代|交量|交额|代E|价格|供主|公司|击查|到3|力影|动较|参考|受谷|可参|司A|响美|器为|国超|处理|大请|幅为|张详|影响|微公|情可|意风|成交|排行|提供|最高|期权|机算|权价|权排|权涨|权链|权页|查看|格波|歌云|波动|注意|涨8|涨期|涨跌|点击|现最|理器|用第|的期|的看|盘中|看A|看涨|第五|算力|美国|考期|行期|详情|请注|谷歌|超微|跌幅|较大|达到|采用|量达|险点|面的|页面|额的|风险|高成"
+  ],
+  [
+   1794235772.5429614,
+   "04|18|22|26|2台|36|3高|40|4英|51|57|5阿|65|66|6A|73|76|7美|87|8博|AM|D涨|MD|伟达|体指|光涨|半导|博通|台积|城半|大至|导体|尔涨|幅扩|扩大|指数|数涨|斯麦|涨2|涨3|涨4|涨5|涨6|涨8|涨幅|特尔|电涨|积电|美光|至超|英伟|英特|费城|超过|跌5|达跌|过4|通涨|阿斯|高通|麦涨"
+  ],
+  [
+   1794236013.4203148,
+   "17|3万|43|4盘|5美|78|85|9现|一度|万亿|亿美|伟达|低开|值4|元市|初一|市值|幅收|度跌|开高|报1|收窄|现报|盘初|窄至|美元|至4|英伟|走跌|超9|跌幅|跌超|达低|高走"
   ]
  ],
  "futu": [
@@ -7452,7 +7490,18 @@
   "futu:1003899039",
   "futu:1003898850",
   "futu:1003898680",
-  "futu:1003898547"
+  "futu:1003898547",
+  "futu:1003901242",
+  "futu:1003900585",
+  "futu:1003900583",
+  "futu:1003900473",
+  "futu:1003900422",
+  "futu:1003900379",
+  "futu:1003900320",
+  "futu:1003900303",
+  "futu:1003900236",
+  "futu:1003900206",
+  "futu:1003900087"
  ],
  "news_recent": [
   [
@@ -7890,6 +7939,14 @@
   [
    1794234860.6911452,
    "another approaching avert chance complicated congress crisis deadline december democrats face funding government lawmakers markets midterm month negotiations now points power prediction price returns rises risk shutdown sweep transfer"
+  ],
+  [
+   1794235295.4998834,
+   "$copx 2010 2015 april august being breaking consecutive copper current date december declined declines down dropped etf futures global inception july last level longest lowest massive meanwhile mid miners mining much near offically pound previous record result reversal sector seeing set since streak such surpasses their weekly weeks year"
+  ],
+  [
+   1794235658.4418697,
+   "$nvda admits affair alleged ceo chinese crashes having huang jensen nvidia open spy"
   ]
  ]
 }
