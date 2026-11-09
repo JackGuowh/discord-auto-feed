@@ -2942,7 +2942,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794182160.719936,
+ "earnings_last_check": 1794182959.1357682,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3210,7 +3210,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794181179.4651945,
+ "gas_last_check": 1794182418.893198,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3814,7 +3814,8 @@
   "gas:CBMihwJBVV95cUxQSzZ3bVlxMGRNaFl5emh2VmIwMmpuYUZGLWdOMVFWUWg0WXNzZHZTOVJqVnVYSDkyTHBENDJFX1EtQTF1amM0d3d0TGpVOHM2VWJuRzQ5cVlYVzc0bTlZcGZRRHRHSExZTDlnSmFyaGluMElKYWJhZHB4TENzWVVib3RvaHYxT1N3X3Z2NVgwa2o3ZFZvZzV5eWE2b081SHhjalZQT3VDbnhhSldXd3hiWFJyTGJySG9vdDdhSW5SWWM3TlhzWl9mTE9OZE0tdnUzQjdZVzF4dl85YUtpelY1dTN4MkVGbGpNOVI1SUs2TzdaeTV1REVyckgyY1ZnbGpvZmJZeGFWYw",
   "gas:CBMiU0FVX3lxTFBwU2pmZkNHSFA0cEFkSmhRUE5rNTFZN3hjOFhsVjFhX2NKLXI2NVlQdXlBZU5HLVJUZUFrZS1mQ1I5VEhZaS1KYnNZQ0NwdXZTM3lZ",
   "gas:CBMiswFBVV95cUxNUElQd3JIbFVPSXJKV0daTjV4YUNRUkowcjE2WWw2NTlPQWhuRFNBZlBLSlU2NjhFSFIwbGhGUEVVaTJnVmNTY1psY0o0c2NPcHZNbVl5eEkyMk51S1RVTl8yMU83Q0hESXliQlA0MWNFLTdVbnVKSzJaalJiSXFfSTZ5eFZCSmY3R25md0pUZ2NjYlNMZHU4UmJTbTI3ZmU2QVdvMXJZWVFqcTlHLTFBQ0sxaw",
-  "gas:CBMi8AFBVV95cUxQRHR0VHlUZzd4Y04yQzdyWVZqZUxPRHYxam9wZDU4ajMzVDU5M3FXdTk1MWs0Z1Y4VHp5X1JPWXFrZm5XWTJEcVhnYS1mbkxLWXM1bFhkQlVpSVRLbWZJQktqM3I2SmRYZ3BTdVNFcHl2N0drN2F3aFF3TlZpbUE5TjFVT0lseDZFQ1VZMjZEa0ZDNk5ZVFFteTduejVOUy1CeXZyajdzUzF3UVAyVEU1YXVBQVBaUTg3azRGX1hFNWdQZ2xGUUdkbGd0eHI0U3NCX0VrUnhOa0ZVbFo4NWU4bUhBSkRrdkh2cXI1ZzNaUkXSAfABQVVfeXFMUER0dFR5VGc3eGNOMkM3cllWamVMT0R2MWpvcGQ1OGozM1Q1OTNxV3U5NTFrNGdWOFR6eV9ST1lxa2ZuV1kyRHFYZ2EtZm5MS1lzNWxYZEJVaUlUS21mSUJLajNyNkpkWGdwU3VTRXB5djdHazdhd2hRd05WaW1BOU4xVU9JbHg2RUNVWTI2RGtGQzZOWVRRbXk3bno1TlMtQnl2cmo3c1Mxd1FQMlRFNWF1QUFQWlE4N2s0Rl9YRTVnUGdsRlFHZGxndHhyNFNzQl9Fa1J4TmtGVWxaODVlOG1IQUpEa3ZIdnFyNWczWlJF"
+  "gas:CBMi8AFBVV95cUxQRHR0VHlUZzd4Y04yQzdyWVZqZUxPRHYxam9wZDU4ajMzVDU5M3FXdTk1MWs0Z1Y4VHp5X1JPWXFrZm5XWTJEcVhnYS1mbkxLWXM1bFhkQlVpSVRLbWZJQktqM3I2SmRYZ3BTdVNFcHl2N0drN2F3aFF3TlZpbUE5TjFVT0lseDZFQ1VZMjZEa0ZDNk5ZVFFteTduejVOUy1CeXZyajdzUzF3UVAyVEU1YXVBQVBaUTg3azRGX1hFNWdQZ2xGUUdkbGd0eHI0U3NCX0VrUnhOa0ZVbFo4NWU4bUhBSkRrdkh2cXI1ZzNaUkXSAfABQVVfeXFMUER0dFR5VGc3eGNOMkM3cllWamVMT0R2MWpvcGQ1OGozM1Q1OTNxV3U5NTFrNGdWOFR6eV9ST1lxa2ZuV1kyRHFYZ2EtZm5MS1lzNWxYZEJVaUlUS21mSUJLajNyNkpkWGdwU3VTRXB5djdHazdhd2hRd05WaW1BOU4xVU9JbHg2RUNVWTI2RGtGQzZOWVRRbXk3bno1TlMtQnl2cmo3c1Mxd1FQMlRFNWF1QUFQWlE4N2s0Rl9YRTVnUGdsRlFHZGxndHhyNFNzQl9Fa1J4TmtGVWxaODVlOG1IQUpEa3ZIdnFyNWczWlJF",
+  "gas:CBMiWkFVX3lxTE9ncFpuRlc1SHZ0X3JTaFEzOElnS1ZrcVhmamJuQmNYRXg5WllaRXZPY2JNRkdNVnR3TThPb0ZjdlZ5dml2R2RkYWRJS0lqMFZjalBKYVlGSXJ2UQ"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4936,7 +4937,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144205",
   "tg:FinancialJuice/144204",
   "tg:FinancialJuice/144203",
   "tg:FinancialJuice/144202",
@@ -5735,7 +5735,8 @@
   "tg:FinancialJuice/145581",
   "tg:FinancialJuice/145587",
   "tg:FinancialJuice/145589",
-  "tg:FinancialJuice/145588"
+  "tg:FinancialJuice/145588",
+  "tg:FinancialJuice/145590"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6218,6 +6219,10 @@
   [
    1794181297.2074497,
    "CE|EO|O黄|一切|一句|不忠|中提|为伤|也欠|了她|事会|于我|人一|人也|仁勋|他表|们所|们的|任何|任针|会全|会已|伟达|伤害|何借|作努|你们|信任|信其|信英|借口|做的|入英|全力|全员|全身|其中|出的|切没|到我|力配|力重|动独|努力|勋涉|勋被|及婚|发布|口我|句道|合新|启动|员信|和我|外情|大家|她和|妻子|婚外|子不|子对|孩子|害了|家人|家的|对于|对妻|对新|将继|就此|工作|已经|布致|并会|得大|心投|忠我|情发|情就|感抱|我们|我对|我所|我欠|我深|我的|所做|所有|投入|报道|抱歉|持调|提出|提到|支持|新浪|新赢|新闻|有人|有任|查并|查支|欠你|欠我|歉他|歉我|此黄|没有|浪财|涉及|涉婚|深感|爆涉|独立|的一|的信|的孩|的家|的工|的行|的问|示将|立调|经启|继续|续全|致英|英伟|董事|行为|表示|被爆|调查|财经|赢得|身心|达C|达全|达的|达董|道提|道歉|配合|重新|针对|问题|闻报|题英|黄仁|黄发"
+  ],
+  [
+   1794182477.7372992,
+   "04|06|0月|0美|10|11|12|1月|2月|40|4后|60|Ch|Gl|He|Pr|Va|ag|al|an|ba|be|eC|eG|eb|en|e市|ge|he|im|lP|lo|me|nt|n表|ob|ri|ta|一份|一方|一次|一系|三个|上周|上行|下一|下劳|下跌|下降|业增|业报|业数|业率|两股|个月|中期|临的|举后|了其|了强|了整|于能|互角|五下|些迹|以及|价在|价格|价水|价目|份就|份美|企并|会议|位在|体物|依然|信心|健另|储官|储将|储届|元持|元盎|其上|其所|其避|农就|凸显|出现|分析|列完|初美|前下|前美|剧烈|力市|力的|力量|加息|动V|动凸|动力|劲失|劲的|劳动|势延|升至|压制|及一|发预|取加|受强|另一|另有|召开|右1|司左|后金|后黄|告以|员还|周五|周出|响市|回调|固另|国就|国消|国非|在1|在上|在经|场分|场愈|场普|场表|增长|失业|完整|官员|对其|对抗|将迎|将通|将采|小幅|就业|届时|属性|左右|市场|师H|幅下|平市|并推|延续|开前|张的|强劲|强对|强有|影响|心指|态势|性依|息来|息行|愈发|成了|所面|扩张|抗通|报告|持续|指数|据影|据显|据鉴|推高|数升|数据|整体|整的|方面|时将|明在|显了|显示|普遍|景下|月份|月初|月的|月高|有力|有数|期美|期选|来一|来对|构成|析师|格持|格的|次会|水平|波动|济扩|消费|源价|烈波|然稳|物价|率小|现的|现稳|的下|的两|的剧|的力|的压|的回|的美|的背|的通|盎司|目前|相互|示1|示中|稳健|稳固|空间|系列|经济|继周|续继|续走|续高|美元|美国|美联|者信|联储|股相|胀数|胀金|背景|能源|至4|至三|行动|行空|表明|表现|表示|角力|计美|议召|调态|象表|费者|走强|跌0|跌至|过加|迎来|还将|这些|迹象|选举|通胀|通过|遍预|避险|采取|量一|金价|鉴于|长强|间构|降这|险属|非农|面临|面其|面美|预期|预计|高了|高企|高位|黄金"
   ]
  ],
  "futu": [
@@ -6512,7 +6517,14 @@
   "futu:1003827687",
   "futu:1003827649",
   "futu:1003828020",
-  "futu:1003827960"
+  "futu:1003827960",
+  "futu:1003828184",
+  "futu:1003828649",
+  "futu:1003828630",
+  "futu:1003828544",
+  "futu:1003828500",
+  "futu:1003828487",
+  "futu:1003828358"
  ],
  "news_recent": [
   [
@@ -6762,6 +6774,10 @@
   [
    1794180501.832159,
    "asia but don him huang join know nvidia take trip trump"
+  ],
+  [
+   1794183018.7983608,
+   "but can cbs don guardrails interview managed mind minutes risk trump"
   ]
  ]
 }
