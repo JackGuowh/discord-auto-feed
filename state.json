@@ -906,8 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192721",
-  "wscn:3192720",
   "wscn:3192719",
   "wscn:3192717",
   "wscn:3192736",
@@ -1705,10 +1703,11 @@
   "wscn:3197016",
   "wscn:3197015",
   "wscn:3197014",
-  "wscn:3197012"
+  "wscn:3197012",
+  "wscn:3197026",
+  "wscn:3197025"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37213",
   "tg:WalterBloomberg/37234",
   "tg:WalterBloomberg/37233",
   "tg:WalterBloomberg/37235",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38087",
   "tg:WalterBloomberg/38086",
   "tg:WalterBloomberg/38089",
-  "tg:WalterBloomberg/38088"
+  "tg:WalterBloomberg/38088",
+  "tg:WalterBloomberg/38090"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2923,7 +2923,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794235156.6115181,
+ "congress_last_check": 1794236974.0644915,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2970,7 +2970,7 @@
   "movers_pre:2026-11-09",
   "market_fg:2026-11-09"
  ],
- "earnings_last_check": 1794236824.838429,
+ "earnings_last_check": 1794237627.5738015,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4838,7 +4838,8 @@
   "tg:insiderpaper/45786",
   "tg:insiderpaper/45787",
   "tg:insiderpaper/45788",
-  "tg:insiderpaper/45789"
+  "tg:insiderpaper/45789",
+  "tg:insiderpaper/45790"
  ],
  "opt_daily": "2026-11-05",
  "opt_flow_last": 1793045302.4056692,
@@ -4999,9 +5000,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144299",
-  "tg:FinancialJuice/144298",
-  "tg:FinancialJuice/144297",
   "tg:FinancialJuice/144296",
   "tg:FinancialJuice/144306",
   "tg:FinancialJuice/144305",
@@ -5798,7 +5796,10 @@
   "tg:FinancialJuice/145676",
   "tg:FinancialJuice/145679",
   "tg:FinancialJuice/145678",
-  "tg:FinancialJuice/145677"
+  "tg:FinancialJuice/145677",
+  "tg:FinancialJuice/145682",
+  "tg:FinancialJuice/145681",
+  "tg:FinancialJuice/145680"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6837,6 +6838,18 @@
   [
    1794236820.0359585,
    "00|02|0兆|10|18|1日|20|25|27|42|50|7年|80|8月|91|AS|St|S公|at|et|ne|tA|ta|tn|tt|一暂|一步|中心|中此|为数|之中|于2|于容|停为|停措|停止|停进|兆瓦|入容|入申|入电|全国|公告|关措|前已|前解|力接|包括|告称|商S|国最|在2|增1|增电|处于|外还|威全|威暂|威输|容量|将在|已有|已经|年8|心接|心预|括暂|挪威|据中|排队|接入|措施|数据|新增|新的|施包|施最|日前|时停|暂停|暂时|最迟|最高|月1|有8|有9|有新|止新|此外|步为|瓦处|瓦容|瓦的|用电|申请|电力|电系|电网|电负|留新|留电|留还|留预|略高|的接|的数|的电|的相|目前|相关|称暂|系统|经预|统运|网4|网接|而挪|荷略|营商|解除|计这|请而|负荷|输电|运营|还有|这一|进一|迟将|量已|量挪|量排|量的|量预|队之|除目|预留|预计|高于|高用"
+  ],
+  [
+   1794237025.1778786,
+   "02|20|26|6年|举的|合法|器比|国总|年选|性投|总统|投票|普质|更重|朗普|机器|比选|民更|法性|特朗|疑2|的合|票机|统特|美国|质疑|选举|选民|重要"
+  ],
+  [
+   1794237145.2242026,
+   "09|15|1高|31|37|38|40|41|44|53|54|5A|5英|69|76|77|7台|7英|84|89|9博|9美|9阿|AM|D涨|MD|伟达|体指|光涨|半导|博通|台积|城半|导体|尔涨|指数|数涨|斯麦|涨3|涨4|涨5|涨7|涨8|涨超|特尔|电涨|积电|美光|美股|股费|英伟|英特|费城|超5|跌3|达跌|通涨|阿斯|高通|麦涨"
+  ],
+  [
+   1794237147.6836102,
+   "55|5A|6A|6美|76|8博|AM|AR|AV|Ar|DA|DO|GO|LO|MD|MO|MR|MU|OO|O上|O涨|O迈|RM|RV|UO|VG|VL|mA|rm|上涨|体指|光科|内涨|半导|博通|城半|威尔|导体|尔科|幅达|技M|指数|数日|日内|涨5|涨7|涨幅|涨超|科技|美光|费城|超6|超8|达5|迈威|通A"
   ]
  ],
  "futu": [
@@ -7554,7 +7567,21 @@
   "futu:1003901755",
   "futu:1003901365",
   "futu:1003901345",
-  "futu:1003901277"
+  "futu:1003901277",
+  "futu:1003904339",
+  "futu:1003904329",
+  "futu:1003904150",
+  "futu:1003903996",
+  "futu:1003903896",
+  "futu:1003903842",
+  "futu:1003903800",
+  "futu:1003903693",
+  "futu:1003903383",
+  "futu:1003903310",
+  "futu:1003903288",
+  "futu:1003903074",
+  "futu:1003903053",
+  "futu:1003902972"
  ],
  "news_recent": [
   [
@@ -8008,6 +8035,14 @@
   [
    1794236340.6455264,
    "000 100 300 500 advises approach bank before believes bottom breadth buying chief concerns continues correction dip downside end entering equity expects final finding funding his however infrastructure investors maintaining market mike morgan nearing persist phase potentially rally range sees setting stanley strategist target wait weaken while wilson year"
+  ],
+  [
+   1794236971.4223187,
+   "fed goolsbee live speaks watch"
+  ],
+  [
+   1794237207.0690649,
+   "announces breaking ceo down follow https insiderpaper jen2e5pbiv news nvidia open probe read shares"
   ]
  ]
 }
