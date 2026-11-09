@@ -1708,7 +1708,6 @@
   "wscn:3196959"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37222",
   "tg:WalterBloomberg/37221",
   "tg:WalterBloomberg/37220",
   "tg:WalterBloomberg/37219",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38077",
   "tg:WalterBloomberg/38078",
   "tg:WalterBloomberg/38080",
-  "tg:WalterBloomberg/38079"
+  "tg:WalterBloomberg/38079",
+  "tg:WalterBloomberg/38081"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2741,7 +2741,8 @@
   "tg:WatcherGuru/15888",
   "tg:WatcherGuru/15889",
   "tg:WatcherGuru/15891",
-  "tg:WatcherGuru/15893"
+  "tg:WatcherGuru/15893",
+  "tg:WatcherGuru/15894"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2962,7 +2963,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794230329.8921206,
+ "earnings_last_check": 1794231014.6478338,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -4955,37 +4956,35 @@
   "2026-10-26:NVDA:2026-10-30:C:205.0",
   "2026-10-26:TSLA:2026-10-30:P:385.0"
  ],
- "opt_weekly": "2026-11-02",
+ "opt_weekly": "2026-11-09",
  "opt_em": {
-  "AAPL": 4.3,
-  "BMRN": 10.2,
-  "CHKP": 11.5,
-  "CIFR": 19.8,
-  "EL": 9.9,
-  "FN": 19.4,
-  "ON": 11.6,
-  "PLTR": 13.2,
-  "ROKU": 3.9,
-  "TEM": 12.8,
-  "AMD": 9.8,
-  "ANET": 10.5,
-  "PFE": 4.5,
-  "SHOP": 13.8,
-  "SMCI": 14.1,
-  "AMC": 12.7,
-  "APP": 17.2,
-  "COHR": 13.0,
-  "FSLY": 20.0,
-  "QCOM": 9.8,
-  "UBER": 8.1,
-  "AAOI": 18.2,
-  "KTOS": 12.8,
-  "TXG": 22.6,
-  "MRNA": 10.7
+  "ASTS": 18.1,
+  "B": 6.4,
+  "CEG": 7.5,
+  "HIMS": 15.9,
+  "KKR": 6.1,
+  "MARA": 15.5,
+  "MNDY": 22.5,
+  "NRG": 9.9,
+  "OXY": 5.4,
+  "RDNT": 12.6,
+  "RKLB": 14.7,
+  "TTD": 16.2,
+  "TTWO": 9.1,
+  "ZETA": 15.0,
+  "CRWV": 22.0,
+  "ONON": 10.3,
+  "QBTS": 15.1,
+  "RGTI": 14.9,
+  "SE": 12.5,
+  "AMAT": 10.7,
+  "CBRS": 21.4,
+  "CSCO": 9.6,
+  "NBIS": 19.9,
+  "NU": 7.2,
+  "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144275",
-  "tg:FinancialJuice/144278",
   "tg:FinancialJuice/144277",
   "tg:FinancialJuice/144286",
   "tg:FinancialJuice/144285",
@@ -5783,7 +5782,9 @@
   "tg:FinancialJuice/145657",
   "tg:FinancialJuice/145656",
   "tg:FinancialJuice/145655",
-  "tg:FinancialJuice/145654"
+  "tg:FinancialJuice/145654",
+  "tg:FinancialJuice/145661",
+  "tg:FinancialJuice/145660"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7272,7 +7273,17 @@
   "futu:1003891899",
   "futu:1003891860",
   "futu:1003891817",
-  "futu:1003891747"
+  "futu:1003891747",
+  "futu:1003893664",
+  "futu:1003893271",
+  "futu:1003893254",
+  "futu:1003893199",
+  "futu:1003893139",
+  "futu:1003893128",
+  "futu:1003892988",
+  "futu:1003892978",
+  "futu:1003892904",
+  "futu:1003892832"
  ],
  "news_recent": [
   [
@@ -7674,6 +7685,14 @@
   [
    1794230091.375793,
    "$nvda admin briefing cbs ceo congressional give nvidia today"
+  ],
+  [
+   1794230773.6463764,
+   "$avax affiliated avalanche clearing nyse platform securities settlement tokenized use"
+  ],
+  [
+   1794231072.787573,
+   "bank barclays consensus cooler core cpi deutsche estimate expects fargo forecasts goldman headline hsbc inflation jefferies jpmorgan morgan november october pce preview release sachs september stanley street tuesday ubs wall wells"
   ]
  ]
 }
