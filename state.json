@@ -1708,7 +1708,6 @@
   "wscn:3196942"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37227",
   "tg:WalterBloomberg/37226",
   "tg:WalterBloomberg/37225",
   "tg:WalterBloomberg/37224",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38071",
   "tg:WalterBloomberg/38073",
   "tg:WalterBloomberg/38074",
-  "tg:WalterBloomberg/38075"
+  "tg:WalterBloomberg/38075",
+  "tg:WalterBloomberg/38076"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2739,7 +2739,8 @@
   "tg:WatcherGuru/15885",
   "tg:WatcherGuru/15886",
   "tg:WatcherGuru/15888",
-  "tg:WatcherGuru/15889"
+  "tg:WatcherGuru/15889",
+  "tg:WatcherGuru/15891"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2915,7 +2916,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794225970.062714,
+ "congress_last_check": 1794227810.2234466,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2960,7 +2961,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794227130.9738715,
+ "earnings_last_check": 1794227931.3907623,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3233,7 +3234,7 @@
   "er:2026-11-09:MNDY",
   "er:2026-11-09:KKR"
  ],
- "gas_last_check": 1794226712.391403,
+ "gas_last_check": 1794227931.9232838,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4982,8 +4983,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144266",
-  "tg:FinancialJuice/144265",
   "tg:FinancialJuice/144264",
   "tg:FinancialJuice/144263",
   "tg:FinancialJuice/144262",
@@ -5781,7 +5780,9 @@
   "tg:FinancialJuice/145645",
   "tg:FinancialJuice/145644",
   "tg:FinancialJuice/145643",
-  "tg:FinancialJuice/145646"
+  "tg:FinancialJuice/145646",
+  "tg:FinancialJuice/145648",
+  "tg:FinancialJuice/145647"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6576,6 +6577,18 @@
   [
    1794226888.271422,
    "11|15|5美|BU|O并|SB|St|UX|XO|el|fe|if|l恢|ti|买入|予买|价1|克S|入评|复覆|巴克|并给|恢复|星巴|标价|盖星|目标|级目|给予|美元|覆盖|评级"
+  ],
+  [
+   1794227509.0528412,
+   "8I|8T|GO|IM|Ma|OG|OO|O将|PU|TP|TX|U8|U系|X和|ax|x将|专业|业化|两个|个新|于处|任务|伟达|元T|出两|化任|单元|发起|向英|和T|场消|处理|多专|将推|将用|市场|张量|息谷|战谷|挑战|推出|新款|新版|更多|本的|款T|歌G|歌的|消息|版本|理单|理更|用于|的张|的新|系统|统向|英伟|谷歌|起挑|达发|量处"
+  ],
+  [
+   1794227510.782375,
+   "23|3英|AO|DA|GO|NV|OG|OO|O盘|VD|上涨|伟达|前拉|前现|升上|拉升|歌G|涨2|现跌|盘前|英伟|谷歌|跌近|达N|近6"
+  ],
+  [
+   1794227628.7137918,
+   "0现|18|24|3张|43|60|89|9成|AU|A期|DA|NV|S盘|US|VD|下跌|为1|事会|交量|交额|仁勋|价格|会就|伟达|击查|到2|前下|动独|动的|动较|勋涉|参考|及外|受董|可参|启动|响英|国情|外国|大请|就黄|幅为|张详|影响|情可|情报|意风|成交|报活|排行|最高|期权|权价|权排|权涨|权链|权页|查影|查看|格波|波动|注意|活动|涉及|涨跌|点击|独立|现最|疑虑|的期|的疑|的看|盘前|看N|看跌|立调|考期|英伟|董事|虑启|行期|详情|请注|调查|跌6|跌幅|跌期|较大|达N|达到|量达|险点|面的|页面|额的|风险|高成|黄仁"
   ]
  ],
  "futu": [
@@ -7197,7 +7210,16 @@
   "futu:1003884041",
   "futu:1003886887",
   "futu:1003886688",
-  "futu:1003886260"
+  "futu:1003886260",
+  "futu:1003888576",
+  "futu:1003888209",
+  "futu:1003888160",
+  "futu:1003888054",
+  "futu:1003888002",
+  "futu:1003887952",
+  "futu:1003887726",
+  "futu:1003887553",
+  "futu:1003887524"
  ],
  "news_recent": [
   [
@@ -7567,6 +7589,22 @@
   [
    1794226149.2808266,
    "again another bank bearish before benefiting bullish citi citing constructive decisively despite downgraded downgrades earnings equities europe european excluding expectations exposure fall further global investor lower meanwhile medium nasdaq neutral oil overweight positioning prices reduced remaining risks selling sentiment stable stocks tech technology term turning turns upgraded wants warns weakening"
+  ],
+  [
+   1794227568.4651823,
+   "$225 bbg billion cap drops market nvidia out pre wipes"
+  ],
+  [
+   1794227572.2658093,
+   "8tx google handle max specialized tasks tpu"
+  ],
+  [
+   1794227574.2437348,
+   "challenge google nvidia systems tpu two versions"
+  ],
+  [
+   1794227689.773143,
+   "$nvda affair board ceo chair chinese choices faces following former gary gensler huang investigation jensen nvidia sec spy tough"
   ]
  ]
 }
