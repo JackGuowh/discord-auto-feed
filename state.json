@@ -906,8 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192094",
-  "wscn:3192101",
   "wscn:3192103",
   "wscn:3192104",
   "wscn:3192105",
@@ -1705,7 +1703,9 @@
   "wscn:3196656",
   "wscn:3196655",
   "wscn:3196674",
-  "wscn:3196704"
+  "wscn:3196704",
+  "wscn:3196721",
+  "wscn:3196720"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2903,7 +2903,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794203981.1903749,
+ "congress_last_check": 1794205825.221128,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794205501.6598148,
+ "earnings_last_check": 1794206307.265339,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794204521.4691503,
+ "gas_last_check": 1794205764.6633008,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -6321,6 +6321,14 @@
   [
    1794204517.2650843,
    "AN|BA|BP|CO|M合|NC|OB|PM|与B|业信|业务|信贷|农业|利业|务与|合并|国农|大利|将意|并彭|彭博|意大|提议|法国|行提|议将|贷银|银行"
+  ],
+  [
+   1794206122.2768223,
+   "45|Tr|ad|at|de|eg|e上|ga|ra|te|上周|上较|下跌|五美|价下|价在|伟达|周五|国收|在T|收盘|盘价|美国|股价|英伟|跌4|较上|达股"
+  ],
+  [
+   1794206303.1298044,
+   "Al|ab|be|et|ha|lp|ph|t考|债券|元债|元和|券彭|加坡|发行|和新|坡元|彭博|新加|早本|最早|月发|本月|港元|考虑|虑最|行港"
   ]
  ],
  "futu": [
@@ -6732,7 +6740,8 @@
   "futu:1003849250",
   "futu:1003848945",
   "futu:1003850708",
-  "futu:1003850703"
+  "futu:1003850703",
+  "futu:1003851083"
  ],
  "news_recent": [
   [
