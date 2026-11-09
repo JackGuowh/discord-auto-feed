@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192629",
   "wscn:3192634",
   "wscn:3192641",
   "wscn:3192658",
@@ -1705,10 +1704,10 @@
   "wscn:3196889",
   "wscn:3196913",
   "wscn:3196922",
-  "wscn:3196911"
+  "wscn:3196911",
+  "wscn:3196926"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37230",
   "tg:WalterBloomberg/37229",
   "tg:WalterBloomberg/37228",
   "tg:WalterBloomberg/37227",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38068",
   "tg:WalterBloomberg/38067",
   "tg:WalterBloomberg/38072",
-  "tg:WalterBloomberg/38071"
+  "tg:WalterBloomberg/38071",
+  "tg:WalterBloomberg/38073"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2915,7 +2915,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794222324.2495377,
+ "congress_last_check": 1794224131.3382208,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2960,7 +2960,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794223816.375639,
+ "earnings_last_check": 1794224671.5061023,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3229,7 +3229,7 @@
   "er:2026-11-06:ELAN",
   "er:2026-11-09:B"
  ],
- "gas_last_check": 1794223008.8796499,
+ "gas_last_check": 1794224255.2803922,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3851,7 +3851,8 @@
   "gas:CBMilwFBVV95cUxOc3pyeHdTQ1hlenYtNjFmVWpidnp2ekVTODhSRzNEQjBKMTJxd0FfZE5wVTlLdWpCS1J1RFBaSWhPZmxCdzM2MW54QzJtRXdEbGpiLS1LdzZJMV80Z01ZQ2w5SDZVM1RQaHduNU9FNEVJNFROV2QtbkdVMFhaTU9tZHZOVmRGVFRZZG5CQVNadnNxYURjYmNj",
   "gas:CBMirAFBVV95cUxPRUtYbHNvYnA4R2Z1bC1FYkt2T1EzVC0wbDhwVl9rUHVscFNaR3oyY2tzajVmQlNMUmVNeVVTS01IcjJGUTdBUWxvYmo3SjdpdDdvTW10S3N2SnNXdWpMVHRFZ296UXRNa2ZOQkpMWE1XYTh0ZERGWnRIRjBCY2NuVWlHQ1hwTEE3ZS1ka2d6N1FtOUc3THRzZ1Yya0VTNWlnTmt2V0JNVjd4WHNL",
   "gas:CBMiZEFVX3lxTFBrTGdDS2RUN0poN0FIdHFEVGtUOXFBeTJ2TVRnY1d3OVBIazF2dlpmUTVyZGxIelFxZXFISFl4RlY0VXd5Y243RnhuVnQwR1BUcjlFME1sSlNiaUFaOElRRkFPWEc",
-  "gas:CBMi-wFBVV95cUxQRDZIak1YZTc2X0RQNFU3YkVOVmJpTDRNcjBlZERfRE91WFFxR0F4TFVDMHppc05DMWw1dURMbXhUdlk2WWp6bGZETFNYc1JVelJsMVNMUDR0VWFQQnNBY2U5TnFoWTJadlVFTkJCNldrTjB2M0J2bmVROUpGekgzTVFWR0duZEVMbGdvdGFqSmRiNjIwMmFacTRHS1h0SDJxWlZDdnBxc2JLZHFBVm8xcjgwX1N4MWJfaDFwcUNuR0lCUzNwMDM3Y2ZGREFscWt6UllQcVlTb3B1VkpkZjB6WXdZZzBPLUNwR3BKbXc5d2JyNjZvTkZCMzcyZw"
+  "gas:CBMi-wFBVV95cUxQRDZIak1YZTc2X0RQNFU3YkVOVmJpTDRNcjBlZERfRE91WFFxR0F4TFVDMHppc05DMWw1dURMbXhUdlk2WWp6bGZETFNYc1JVelJsMVNMUDR0VWFQQnNBY2U5TnFoWTJadlVFTkJCNldrTjB2M0J2bmVROUpGekgzTVFWR0duZEVMbGdvdGFqSmRiNjIwMmFacTRHS1h0SDJxWlZDdnBxc2JLZHFBVm8xcjgwX1N4MWJfaDFwcUNuR0lCUzNwMDM3Y2ZGREFscWt6UllQcVlTb3B1VkpkZjB6WXdZZzBPLUNwR3BKbXc5d2JyNjZvTkZCMzcyZw",
+  "gas:CBMirAFBVV95cUxPQUlwV0ZBSzBZZHBoZi1UZWV3XzRPRWItLUYtWGVTOXVfaVBUMUswbkdZU0FJbWZuS2NRSExKZkRvZk1hbUNiNlJ3ZnQ0Xzl0RS15eV9mRm42eFBWSjdBdER2UVlWN01tTVYwV2xhUlhScWh5RGx5ZWlUbmpMRWdwcFFrRXJLOUJQTkRfc05mdmVUdUVUVG5iZ0FMTmpHeTA0aDJhVXNzek1Uczdh"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4977,7 +4978,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144247",
   "tg:FinancialJuice/144246",
   "tg:FinancialJuice/144270",
   "tg:FinancialJuice/144269",
@@ -5776,7 +5776,8 @@
   "tg:FinancialJuice/145634",
   "tg:FinancialJuice/145638",
   "tg:FinancialJuice/145640",
-  "tg:FinancialJuice/145639"
+  "tg:FinancialJuice/145639",
+  "tg:FinancialJuice/145641"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6511,6 +6512,22 @@
   [
    1794223930.9001198,
    "02|0万|0月|10|11|20|26|6年|7位|SU|U7|一1|万以|上轿|以上|位列|列2|同样|小米|年1|月小|月累|样第|汽车|第一|米S|米汽|累计|计销|车2|车销|轿车|量同|量第|销量"
+  ],
+  [
+   1794224189.4028757,
+   "AI|Bo|I功|Ma|Pa|ac|ad|cB|d和|iP|k上|ok|oo|上的|中国|准彭|功能|和M|国批|彭博|得中|批准|果i|的A|能获|苹果|获得"
+  ],
+  [
+   1794224249.9392834,
+   "00|0美|10|16|17|61|70|LL|LY|N目|YN|上调|从1|价从|元上|富瑞|将礼|来L|杰富|标价|瑞将|目标|礼来|美元|至1|调至"
+  ],
+  [
+   1794224430.0785873,
+   "05|10|5美|BE|ER|N并|RN|UB|Ub|be|er|rU|买入|予买|价1|入评|复覆|并给|恢复|旗恢|标价|盖U|目标|级目|给予|美元|花旗|覆盖|评级"
+  ],
+  [
+   1794224491.156044,
+   "AN|BN|BR|C文|EC|KA|KB|NB|N将|RK|SE|三系|交易|件显|价高|会S|伯克|元计|克希|列日|券交|发行|员会|哈撒|国证|委员|将发|尔哈|希尔|撒韦|文件|日元|易委|显示|示伯|票据|系列|级票|美国|行三|计价|证券|韦B|高级"
   ]
  ],
  "futu": [
@@ -7105,7 +7122,15 @@
   "futu:1003880847",
   "futu:1003880691",
   "futu:1003880526",
-  "futu:1003880527"
+  "futu:1003880527",
+  "futu:1003882782",
+  "futu:1003882628",
+  "futu:1003882575",
+  "futu:1003882520",
+  "futu:1003882407",
+  "futu:1003882260",
+  "futu:1003882014",
+  "futu:1003881995"
  ],
  "news_recent": [
   [
@@ -7455,6 +7480,14 @@
   [
    1794223511.1924815,
    "$nvda admits affair ceo cnbc down jensen market nvidia pre shares wong"
+  ],
+  [
+   1794224192.7524257,
+   "apple approval china features get ipad macbook"
+  ],
+  [
+   1794224251.5421312,
+   "$nvda accelerate act additional alleged backing bipartisan china chinese chip chipmaking congressional continued controls democratic earth equipment espionage even export exports fragile incoming james legislation majorities match minerals nvidia particularly potentially pushing rare raymond restrictions semiconductor stricter supply support targeting tente threaten tighten tougher trade trigger warns which"
   ]
  ]
 }
