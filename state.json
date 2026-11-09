@@ -1708,7 +1708,6 @@
   "wscn:3196935"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37228",
   "tg:WalterBloomberg/37227",
   "tg:WalterBloomberg/37226",
   "tg:WalterBloomberg/37225",
@@ -2507,7 +2506,8 @@
   "tg:WalterBloomberg/38072",
   "tg:WalterBloomberg/38071",
   "tg:WalterBloomberg/38073",
-  "tg:WalterBloomberg/38074"
+  "tg:WalterBloomberg/38074",
+  "tg:WalterBloomberg/38075"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2915,7 +2915,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794224131.3382208,
+ "congress_last_check": 1794225970.062714,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2960,7 +2960,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794225472.785646,
+ "earnings_last_check": 1794226329.8862553,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3229,7 +3229,9 @@
   "er:2026-11-06:ELAN",
   "er:2026-11-09:B",
   "er:2026-11-09:CEG",
-  "er:2026-11-09:NRG"
+  "er:2026-11-09:NRG",
+  "er:2026-11-09:MNDY",
+  "er:2026-11-09:KKR"
  ],
  "gas_last_check": 1794225473.0972388,
  "gas:GAWDA Media": [
@@ -4980,9 +4982,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144270",
-  "tg:FinancialJuice/144269",
-  "tg:FinancialJuice/144268",
   "tg:FinancialJuice/144267",
   "tg:FinancialJuice/144266",
   "tg:FinancialJuice/144265",
@@ -5779,7 +5778,10 @@
   "tg:FinancialJuice/145640",
   "tg:FinancialJuice/145639",
   "tg:FinancialJuice/145641",
-  "tg:FinancialJuice/145642"
+  "tg:FinancialJuice/145642",
+  "tg:FinancialJuice/145645",
+  "tg:FinancialJuice/145644",
+  "tg:FinancialJuice/145643"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6542,6 +6544,30 @@
   [
    1794225411.8618944,
    "02|0亿|20|26|27|30|6至|7年|G能|NR|RG|亿美|元的|利用|回购|在2|将在|年利|彭博|得资|所得|源将|用所|的股|票回|美元|股票|能源|至2|行3|购彭|资金|进行|金进"
+  ],
+  [
+   1794225611.1163902,
+   "00|02|0指|0点|20|27|50|7年|89|90|全球|到8|到年|团全|团预|将达|展望|年展|年底|底将|指数|数到|普5|望瑞|标普|球研|瑞银|研究|究2|计标|达到|银集|集团|预计"
+  ],
+  [
+   1794225788.410761,
+   "AO|ET|In|ME|Me|O在|Pl|TA|aP|ag|am|at|et|fo|gr|la|ms|m上|ns|or|ra|rm|sM|st|ta|tf|上就|上的|人工|以保|估算|保护|全球|内扩|围内|在I|在全|家长|将在|少年|就青|展人|工智|年保|年账|年龄|户本|扩展|技术|护I|护措|措施|施通|智能|月将|本月|术以|球范|的青|知家|算技|能年|范围|账户|通知|青少|龄估"
+  ],
+  [
+   1794225792.173193,
+   "AO|ET|ME|Me|O在|Pl|TA|aP|at|et|fo|la|ms|or|rm|sM|ta|tf|一种|为判|亚我|们正|作为|供的|信号|公司|判断|利亚|助方|另一|号作|司提|围信|在澳|大利|将苹|年龄|我们|户年|提供|断用|方式|果公|正将|澳大|用户|的另|的年|种辅|苹果|范围|辅助|龄的|龄范"
+  ],
+  [
+   1794225793.6800723,
+   "AO|ET|Fa|ME|Me|O计|Pl|TA|Th|aP|ac|ad|at|bo|ce|ds|ea|eb|et|fo|hr|k和|la|ms|ok|oo|or|re|rm|sM|s平|ta|tf|于今|人工|今年|估算|全球|内的|划于|和T|围内|将人|展至|工智|平台|年将|年龄|扩展|技术|智能|术扩|球范|的F|算技|能年|至全|范围|计划|龄估"
+  ],
+  [
+   1794226208.4837742,
+   "00|0美|17|30|70|Ce|Sy|as|br|eb|em|er|ms|ra|re|sS|st|s目|te|ys|下调|人工|从3|价从|元下|制造|券将|商C|将人|工智|布拉|拉特|智能|标价|森布|片制|特证|目标|罗森|美元|能芯|至1|芯片|证券|调至|造商"
+  ],
+  [
+   1794226209.9383757,
+   "0美|16|25|50|60|CR|Co|O的|RW|VO|WV|av|eC|ea|ew|or|re|ve|we|下调|从2|价从|元下|券将|将C|布拉|拉特|标价|森布|特证|的目|目标|罗森|美元|至1|证券|调至"
   ]
  ],
  "futu": [
@@ -7149,7 +7175,18 @@
   "futu:1003883720",
   "futu:1003883619",
   "futu:1003883507",
-  "futu:1003883009"
+  "futu:1003883009",
+  "futu:1003886000",
+  "futu:1003885797",
+  "futu:1003885786",
+  "futu:1003885703",
+  "futu:1003885206",
+  "futu:1003884761",
+  "futu:1003884737",
+  "futu:1003884739",
+  "futu:1003884546",
+  "futu:1003884057",
+  "futu:1003884041"
  ],
  "news_recent": [
   [
@@ -7511,6 +7548,14 @@
   [
    1794225232.7754366,
    "drop nvidia premarket shares"
+  ],
+  [
+   1794225796.1817172,
+   "2027 500 8900 end expects global hit index outlook research ubs year"
+  ],
+  [
+   1794226149.2808266,
+   "again another bank bearish before benefiting bullish citi citing constructive decisively despite downgraded downgrades earnings equities europe european excluding expectations exposure fall further global investor lower meanwhile medium nasdaq neutral oil overweight positioning prices reduced remaining risks selling sentiment stable stocks tech technology term turning turns upgraded wants warns weakening"
   ]
  ]
 }
