@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192095",
   "wscn:3192094",
   "wscn:3192101",
   "wscn:3192103",
@@ -1705,7 +1704,8 @@
   "wscn:3196652",
   "wscn:3196656",
   "wscn:3196655",
-  "wscn:3196674"
+  "wscn:3196674",
+  "wscn:3196704"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2903,7 +2903,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794202178.9155595,
+ "congress_last_check": 1794203981.1903749,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2948,7 +2948,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794203840.5233176,
+ "earnings_last_check": 1794204640.3546536,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3216,7 +3216,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794203299.5096192,
+ "gas_last_check": 1794204521.4691503,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3828,7 +3828,8 @@
   "gas:CBMiywFBVV95cUxPTTZ0OFBsQUZBa2tPRTlDMTZTbllhWGY2VkFYMExqM2xObmJESE9wUE1fUk4yQ1Vtbk5ER0xwcjF0Sm4yOFpOTkFmSW5BdGl0Sy1ISzZuUUJyNmJtYlMtMFZIdEU4WEh0MjJ5Y2FDeUtGTG1rdjhWM1RCMmQ4UEdsUWI4LW82V2t4cjIySWMyay1LcmZpbnBwV2lSeE5zXzZERXZLY05pSFB4aGRTb29nLVBZaHE3U3psRFE2UHNocmFWbThCWnlOVmZtRQ",
   "gas:CBMikAFBVV95cUxORE9TYlBqVElFejVZYUF3Q1BQOWNFREozRGdoUWJ0Y2x2alVQLXNzcmVMVlp2Z2ZWZXFaeXdoMF9UVVVzSXk4b3BJTTdYcEJQTTlTMmJleVQxS0YwSHFVSnVoT3FxQVJjZHBsdHpCQVFfbF96ZmJxcTZNVGY1c21KbXFNYnVITDFaWXFYWlNGTGQ",
   "gas:CBMi2wFBVV95cUxPV003UkNRYkVaMlBSOExsYTAzcFpGTDlSYmw2aWlCV3dVSTJmOXNkY29LVkNpdmRVTWIwdG0zQ2VOUmJMb1NmYWVjN05PY0RqNFNZekNFZnBUOWJNaWpTbGFoanpJRUVhcjJ6U1JUQ1R6ZlRFTjZzdHdEWVJpbkFVSzJkSVd0ZzhVMkZvaVJHWTJkaHhjRVB6ZUpqaW11UVdmY3A0VDRXQ1dTZ2FHTmctWlRKMUxwcEZuUEloSUlnaGRZdlExLW43VlRhNWFrLVU0OXJvNEhsUXlTdFU",
-  "gas:CBMilAFBVV95cUxNbDJFS3phNjNRMnBHMVJPZ3RCU2xwaVdiTnhlRWJaZUh0ZmRwQ1AzQjdQQ0NMdGEwdHBwOHF5Tk42QXo4ZjBPZTRkT0o3ZDdES3hnQ05tLWxoTVZiN2N1M0NFeWQtLXdKcE5fLVpLdG84V0o5cFFQZ1BYR3lWOXAwanZYSGpGWl9lTjlTOTdXWHZwX0Ny"
+  "gas:CBMilAFBVV95cUxNbDJFS3phNjNRMnBHMVJPZ3RCU2xwaVdiTnhlRWJaZUh0ZmRwQ1AzQjdQQ0NMdGEwdHBwOHF5Tk42QXo4ZjBPZTRkT0o3ZDdES3hnQ05tLWxoTVZiN2N1M0NFeWQtLXdKcE5fLVpLdG84V0o5cFFQZ1BYR3lWOXAwanZYSGpGWl9lTjlTOTdXWHZwX0Ny",
+  "gas:CBMixAFBVV95cUxNUGRwOUZocUdSdVpkSEFqcHhqZ3VTckpZS25KenBKYVJIdGNtc1p1M0JDWm1fMDVRWXNSd1lzOW5yUlhXbmpCU094SjdvbWthLXJPSzJubFJkOWhGUk9FWTNTeWVjeEZGWFpKUW9idFV3VTVGWVFRbmpvYWhBQXE2WUgyU3VMNldWSGs0OTRZYUpObnh5bndLUzlhM285ajVEYW5nQUJYY2oyeHJiUmZFUmlYMmlaSl81OGhZMG96anAweEZ3"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -4950,7 +4951,6 @@
   "MRNA": 10.7
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144236",
   "tg:FinancialJuice/144237",
   "tg:FinancialJuice/144238",
   "tg:FinancialJuice/144239",
@@ -5749,7 +5749,8 @@
   "tg:FinancialJuice/145616",
   "tg:FinancialJuice/145615",
   "tg:FinancialJuice/145619",
-  "tg:FinancialJuice/145618"
+  "tg:FinancialJuice/145618",
+  "tg:FinancialJuice/145620"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -6316,6 +6317,10 @@
   [
    1794201880.5581105,
    "01|0月|10|12|2辆|59|90|AO|LA|O1|SL|TS|中国|乘联|会特|出口|分会|制造|口中|国制|拉T|斯拉|月出|汽车|特斯|联分|车5|造汽"
+  ],
+  [
+   1794204517.2650843,
+   "AN|BA|BP|CO|M合|NC|OB|PM|与B|业信|业务|信贷|农业|利业|务与|合并|国农|大利|将意|并彭|彭博|意大|提议|法国|行提|议将|贷银|银行"
   ]
  ],
  "futu": [
