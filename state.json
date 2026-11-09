@@ -906,7 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192542",
   "wscn:3192532",
   "wscn:3192577",
   "wscn:3192592",
@@ -1705,7 +1704,8 @@
   "wscn:3196820",
   "wscn:3196825",
   "wscn:3196845",
-  "wscn:3196855"
+  "wscn:3196855",
+  "wscn:3196863"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2731,7 +2731,8 @@
   "tg:WatcherGuru/15879",
   "tg:WatcherGuru/15881",
   "tg:WatcherGuru/15885",
-  "tg:WatcherGuru/15886"
+  "tg:WatcherGuru/15886",
+  "tg:WatcherGuru/15888"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2907,7 +2908,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794216794.4572258,
+ "congress_last_check": 1794218633.4332113,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2952,7 +2953,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794218194.522532,
+ "earnings_last_check": 1794219112.4467196,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -6447,6 +6448,14 @@
   [
    1794217829.1477928,
    "00|07|0指|0点|10|30|50|71|73|Mi|Wi|ae|ch|el|ha|ic|il|lW|ls|n写|n表|on|so|一个|一区|一美|下行|下调|与其|个完|丹利|为年|些股|们建|优质|会自|估值|值已|其7|其等|写道|准股|几周|出强|利的|利美|加对|劲的|势W|势摩|区间|反弹|口这|可能|同时|周增|周期|回调|国基|基准|增加|士丹|声或|声美|完美|对优|尾声|展现|已接|已显|年末|底部|建议|弹W|弹蓄|强劲|待一|我们|或正|指数|指正|接近|摩根|收益|敞口|数的|整可|料会|时展|显著|普5|期股|未来|末反|来几|标区|标普|根士|正为|正接|每股|点的|现出|的M|的下|的估|的底|的敞|的每|的调|益表|目标|示标|示这|票的|等待|美国|美的|美股|股回|股或|股指|股收|股的|股票|能已|自这|著下|蓄势|行目|表现|表示|议未|调同|调接|调整|质周|近其|近尾|这一|这些|道与|部我|间反|间料"
+  ],
+  [
+   1794218510.569479,
+   "1月|8日|一事|万富|上述|与联|业发|中作|中发|中扮|主任|主党|主席|丽莎|事中|亚与|亚有|亿万|他说|以及|任斯|任该|企业|伊丽|众议|会主|会后|会民|伦当|伯特|作出|作用|克在|克白|克等|党拟|党接|党籍|党议|公厅|出上|分企|办公|加西|勒及|勒在|厅主|参议|及米|及部|发挥|发起|后加|后将|员8|员一|员伊|员会|员罗|和政|国亿|国会|国国|在政|在民|在特|在电|埃隆|天在|央视|委员|宫办|富翁|对美|对马|将对|将聚|席他|年1|府改|府效|府移|当天|态在|执法|扮演|担任|拟对|挥的|接管|改革|政府|政策|效率|斯克|斯蒂|新闻|日表|明年|普政|月民|有望|朗普|望担|查将|查民|查美|民主|民执|沃伦|法政|演的|焦马|特加|特朗|率部|用央|电视|白宫|白沃|的作|的联|的角|监督|督和|示明|移民|等发|策中|管众|管国|籍的|米勒|罗伯|美国|美民|翁埃|联邦|聚焦|色以|芬米|莎白|蒂芬|表态|表示|西亚|视新|视访|角色|解雇|议员|议院|访谈|该院|说调|调查|谈中|起调|述表|邦众|邦参|邦雇|部分|部解|院后|院监|隆马|雇员|雇联|革委|马斯"
+  ],
+  [
+   1794218871.3665323,
+   "人工|允许|功能|参议|员要|国参|学校|工智|报美|据纽|时报|智能|校禁|歌允|求谷|用人|禁用|约时|纽约|美国|能功|要求|议员|许学|谷歌"
   ]
  ],
  "futu": [
@@ -6988,7 +6997,16 @@
   "futu:1003873347",
   "futu:1003873325",
   "futu:1003873113",
-  "futu:1003872953"
+  "futu:1003872953",
+  "futu:1003875172",
+  "futu:1003874914",
+  "futu:1003874871",
+  "futu:1003874676",
+  "futu:1003874621",
+  "futu:1003874317",
+  "futu:1003874159",
+  "futu:1003874064",
+  "futu:1003873933"
  ],
  "news_recent": [
   [
@@ -7306,6 +7324,10 @@
   [
    1794218190.0465474,
    "$190 $40 $spcx access acquire also ambitions arguing billion buy center committed computing create data financing firm gpu growing infrastructure maintains mobile network opportunities orbital permitting potential power price projects qualcomm radio rating reiterates secured sees selection spacex stalled stifel strengthens supplier target tighter while"
+  ],
+  [
+   1794218692.2223501,
+   "approval bank coinbase federal full national officially operate receives trust"
   ]
  ]
 }
