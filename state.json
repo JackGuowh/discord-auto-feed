@@ -906,8 +906,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3192021",
-  "wscn:3192024",
   "wscn:3192031",
   "wscn:3192033",
   "wscn:3192038",
@@ -1705,7 +1703,9 @@
   "wscn:3196553",
   "wscn:3196591",
   "wscn:3196613",
-  "wscn:3196612"
+  "wscn:3196612",
+  "wscn:3196625",
+  "wscn:3196624"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37232",
@@ -2947,7 +2947,7 @@
   "market_fg:2026-11-06",
   "weekly:2026-11-08"
  ],
- "earnings_last_check": 1794191759.2639363,
+ "earnings_last_check": 1794192680.9452667,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3215,7 +3215,7 @@
   "er:2026-11-06:PAA",
   "er:2026-11-06:ELAN"
  ],
- "gas_last_check": 1794191021.8053,
+ "gas_last_check": 1794192259.4043984,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3823,7 +3823,8 @@
   "gas:CBMiWkFVX3lxTE9ncFpuRlc1SHZ0X3JTaFEzOElnS1ZrcVhmamJuQmNYRXg5WllaRXZPY2JNRkdNVnR3TThPb0ZjdlZ5dml2R2RkYWRJS0lqMFZjalBKYVlGSXJ2UQ",
   "gas:CBMiwAFBVV95cUxQdUNLRGhROFVxYnUzYVZSbExGNGV3VW00eXIxRElvT25ZX2xKR2NxX2hiZndhZEVHQXN6QmJkQmFDVWZHSE9UakdjOVh1RV8yc3RDZnRNdU5FbVpPYWV3b0s5dEZXZGdTRi01NEZDUFlUQzdvQ1JpVVRUTTdJaGZDRU5yN0Vod0x2ZUVMQlQzLXZORUpFOHN2MUc5d3pGeE1ucFhhMFZxOGprU0pUb3Z3b0pIQzI4WWtSSHZGaElaMFM",
   "gas:CBMivwFBVV95cUxNZG9MVk83dnNudW56QTlQZk9OUHVmRlZOMDZ6Z0RHYkdxSExfa2JoeGlBbnlrcEpuMjVYOE1GUU85c2FqOV96cXdVMWc5OUFZWXV2TS1EMTFMQS1iRUstbS1Nd1UtbS1nT0VSX2pPZW1MUDhvVnBGM0wzbFFvak95cnFDQ2hkQWdpWnhVampUTXFSS19WX2JJeHJxMUQ5VzhkdF8zWHN3QmZSNExqTlkzSnRvOS1CTGxyMFlvd2gycw",
-  "gas:CBMihAFBVV95cUxOdE8xSTRXWWUxci1tX2dZZ0Z1LUVOZnpuSUVsMVY2d3V1YVVjOFc3LXh4ak4wcmVJNURFNnM3cnFyRVhscnFVZjI5eVFiU29aWWJyaTloYWk5Q1MycFdJTDhickU5bkstakFLX2pPSF80d0EweTJKQW1FOUtfMWxOTWQxS28"
+  "gas:CBMihAFBVV95cUxOdE8xSTRXWWUxci1tX2dZZ0Z1LUVOZnpuSUVsMVY2d3V1YVVjOFc3LXh4ak4wcmVJNURFNnM3cnFyRVhscnFVZjI5eVFiU29aWWJyaTloYWk5Q1MycFdJTDhickU5bkstakFLX2pPSF80d0EweTJKQW1FOUtfMWxOTWQxS28",
+  "gas:CBMiywFBVV95cUxPTTZ0OFBsQUZBa2tPRTlDMTZTbllhWGY2VkFYMExqM2xObmJESE9wUE1fUk4yQ1Vtbk5ER0xwcjF0Sm4yOFpOTkFmSW5BdGl0Sy1ISzZuUUJyNmJtYlMtMFZIdEU4WEh0MjJ5Y2FDeUtGTG1rdjhWM1RCMmQ4UEdsUWI4LW82V2t4cjIySWMyay1LcmZpbnBwV2lSeE5zXzZERXZLY05pSFB4aGRTb29nLVBZaHE3U3psRFE2UHNocmFWbThCWnlOVmZtRQ"
  ],
  "shows_last_day": "2026-11-08",
  "shows_init": "2026-10-22",
@@ -6263,6 +6264,14 @@
   [
    1794190777.0059495,
    "11|1月|8日|下根|不仅|不切|不大|且在|事的|些情|交手|人无|仅令|他指|令人|伊朗|况下|切实|前结|务卿|卿鲁|受而|国务|国国|在某|外交|大他|大美|奥1|奥对|实际|对伊|情况|成效|战事|手段|指责|接受|效不|方面|无法|日说|月8|朗外|朗战|朗方|本不|束伊|某些|根本|段成|比奥|求不|法接|的外|的要|目前|结束|美国|而且|要求|说目|责伊|面的|鲁比"
+  ],
+  [
+   1794191957.8203285,
+   "11|1月|8日|一起|不准|不忠|不确|不错|个不|中承|为伤|么回|也说|了妻|了此|事情|事我|事特|事谁|亚洲|人但|仁勋|他一|他是|他谈|他还|件事|任何|任并|伤害|但事|但愿|何借|信中|借口|全部|准被|出访|划带|到了|到即|前接|勋出|勋同|勋在|华盛|即将|去澎|受批|受记|口愿|只知|同行|否计|员工|和他|和孩|回事|回华|回应|国总|在致|在返|地时|天在|妻子|子不|子和|子没|孩子|定但|害了|对妻|将出|工的|己的|带他|带黄|并接|应道|当地|当天|忠表|怎么|总统|情究|意带|愿意|愿承|我只|我没|批评|承担|承认|报道|担全|据路|接受|日黄|时特|时谈|时间|是个|是否|是怎|普回|普当|普称|普表|月8|有任|朗普|此事|没和|没有|洲当|洲是|澎湃|特朗|的人|的信|的行|盛顿|知道|确定|示我|示自|社报|称愿|究竟|竟是|统特|美国|者采|自己|致员|行为|行时|表示|被问|计划|认对|记者|访亚|访时|评据|说不|谁也|谈到|谈过|责任|起去|路透|过这|返回|还不|这件|透社|道他|道美|部责|采访|错的|问到|间1|顿前|黄仁"
+  ],
+  [
+   1794192198.4168556,
+   "0月|10|11|1月|8名|8日|一名|一架|三国|上一|上午|不清|中旬|临时|为此|亚利|亚和|仍在|仍计|代表|件显|伊冲|伊朗|但航|体遣|全部|公布|公民|关遣|具体|冲突|分被|划代|划将|划经|划通|利桑|前一|前公|前向|前通|动发|动可|午在|午突|原因|原计|反法|发表|取消|可能|吉亚|名伊|名联|后被|向法|和巴|回国|因尚|国一|国国|国土|国政|国方|国的|国遣|土安|在亚|在持|地时|坦飞|基斯|天上|央视|安全|官已|将伊|少8|尚不|就具|尽管|州登|已要|巴基|布的|师认|府截|府提|当地|当天|往伊|律师|息称|息美|截至|报相|拒绝|拘留|持续|据美|提前|政府|文件|斯坦|新闻|方面|日据|旬仍|时取|时间|显示|普政|月8|月中|朗公|朗普|朗的|架原|架计|架遣|格鲁|桑那|楚至|次行|此前|此次|民当|民的|民美|民遣|求央|求美|法官|法院|消原|消当|消息|消消|清楚|然取|特朗|班临|班但|班当|班随|留者|登上|的律|的提|的法|的航|的遣|相关|知要|示尽|称此|突仍|突然|第三|管美|经格|绝就|续特|美伊|美国|者的|联邦|能违|至1|至少|航班|行动|表评|表部|被取|被拘|要求|视新|计划|认为|论此|评论|过第|返伊|返回|返航|返行|返计|违反|通报|通知|通过|遣返|那州|邦法|部分|部拒|间1|院文|院的|院通|随后|面消|飞往|鲁吉"
   ]
  ],
  "futu": [
@@ -6627,7 +6636,8 @@
   "futu:1003837238",
   "futu:1003836941",
   "futu:1003838312",
-  "futu:1003838194"
+  "futu:1003838194",
+  "futu:1003839395"
  ],
  "news_recent": [
   [
