@@ -86,12 +86,6 @@
   "rss:https://www.ftchinese.com/story/001111070"
  ],
  "truth": [
-  "truth:https://www.trumpstruth.org/statuses/42555",
-  "truth:https://www.trumpstruth.org/statuses/42549",
-  "truth:https://www.trumpstruth.org/statuses/42550",
-  "truth:https://www.trumpstruth.org/statuses/42551",
-  "truth:https://www.trumpstruth.org/statuses/42552",
-  "truth:https://www.trumpstruth.org/statuses/42545",
   "truth:https://www.trumpstruth.org/statuses/42546",
   "truth:https://www.trumpstruth.org/statuses/42547",
   "truth:https://www.trumpstruth.org/statuses/42548",
@@ -885,7 +879,13 @@
   "truth:https://www.trumpstruth.org/statuses/43539",
   "truth:https://www.trumpstruth.org/statuses/43538",
   "truth:https://www.trumpstruth.org/statuses/43537",
-  "truth:https://www.trumpstruth.org/statuses/43536"
+  "truth:https://www.trumpstruth.org/statuses/43536",
+  "truth:https://www.trumpstruth.org/statuses/43544",
+  "truth:https://www.trumpstruth.org/statuses/43545",
+  "truth:https://www.trumpstruth.org/statuses/43543",
+  "truth:https://www.trumpstruth.org/statuses/43542",
+  "truth:https://www.trumpstruth.org/statuses/43541",
+  "truth:https://www.trumpstruth.org/statuses/43540"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -910,40 +910,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3193286",
-  "wscn:3193282",
-  "wscn:3193290",
-  "wscn:3193314",
-  "wscn:3193329",
-  "wscn:3193316",
-  "wscn:3193337",
-  "wscn:3193336",
-  "wscn:3193334",
-  "wscn:3193363",
-  "wscn:3193369",
-  "wscn:3193368",
-  "wscn:3193387",
-  "wscn:3193386",
-  "wscn:3193383",
-  "wscn:3193378",
-  "wscn:3193395",
-  "wscn:3193394",
-  "wscn:3193392",
-  "wscn:3193400",
-  "wscn:3193403",
-  "wscn:3193402",
-  "wscn:3193401",
-  "wscn:3193410",
-  "wscn:3193408",
-  "wscn:3193406",
-  "wscn:3193404",
-  "wscn:3193424",
-  "wscn:3193421",
-  "wscn:3193420",
-  "wscn:3193418",
-  "wscn:3193416",
-  "wscn:3193415",
-  "wscn:3193414",
   "wscn:3193413",
   "wscn:3193432",
   "wscn:3193429",
@@ -1709,30 +1675,43 @@
   "wscn:3197490",
   "wscn:3197473",
   "wscn:3197468",
-  "wscn:3197464"
+  "wscn:3197464",
+  "wscn:3197858",
+  "wscn:3197859",
+  "wscn:3197860",
+  "wscn:3197861",
+  "wscn:3197901",
+  "wscn:3197900",
+  "wscn:3197899",
+  "wscn:3197898",
+  "wscn:3197896",
+  "wscn:3197893",
+  "wscn:3197890",
+  "wscn:3197889",
+  "wscn:3197888",
+  "wscn:3197887",
+  "wscn:3197886",
+  "wscn:3197885",
+  "wscn:3197884",
+  "wscn:3197883",
+  "wscn:3197882",
+  "wscn:3197881",
+  "wscn:3197880",
+  "wscn:3197876",
+  "wscn:3197875",
+  "wscn:3197874",
+  "wscn:3197873",
+  "wscn:3197872",
+  "wscn:3197869",
+  "wscn:3197868",
+  "wscn:3197867",
+  "wscn:3197866",
+  "wscn:3197865",
+  "wscn:3197864",
+  "wscn:3197863",
+  "wscn:3197862"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37296",
-  "tg:WalterBloomberg/37295",
-  "tg:WalterBloomberg/37294",
-  "tg:WalterBloomberg/37293",
-  "tg:WalterBloomberg/37292",
-  "tg:WalterBloomberg/37297",
-  "tg:WalterBloomberg/37298",
-  "tg:WalterBloomberg/37301",
-  "tg:WalterBloomberg/37300",
-  "tg:WalterBloomberg/37299",
-  "tg:WalterBloomberg/37311",
-  "tg:WalterBloomberg/37310",
-  "tg:WalterBloomberg/37309",
-  "tg:WalterBloomberg/37308",
-  "tg:WalterBloomberg/37307",
-  "tg:WalterBloomberg/37306",
-  "tg:WalterBloomberg/37305",
-  "tg:WalterBloomberg/37304",
-  "tg:WalterBloomberg/37303",
-  "tg:WalterBloomberg/37302",
-  "tg:WalterBloomberg/37315",
   "tg:WalterBloomberg/37314",
   "tg:WalterBloomberg/37313",
   "tg:WalterBloomberg/37312",
@@ -2511,7 +2490,28 @@
   "tg:WalterBloomberg/38142",
   "tg:WalterBloomberg/38141",
   "tg:WalterBloomberg/38140",
-  "tg:WalterBloomberg/38139"
+  "tg:WalterBloomberg/38139",
+  "tg:WalterBloomberg/38194",
+  "tg:WalterBloomberg/38214",
+  "tg:WalterBloomberg/38213",
+  "tg:WalterBloomberg/38212",
+  "tg:WalterBloomberg/38211",
+  "tg:WalterBloomberg/38210",
+  "tg:WalterBloomberg/38209",
+  "tg:WalterBloomberg/38208",
+  "tg:WalterBloomberg/38207",
+  "tg:WalterBloomberg/38206",
+  "tg:WalterBloomberg/38205",
+  "tg:WalterBloomberg/38204",
+  "tg:WalterBloomberg/38203",
+  "tg:WalterBloomberg/38202",
+  "tg:WalterBloomberg/38201",
+  "tg:WalterBloomberg/38200",
+  "tg:WalterBloomberg/38199",
+  "tg:WalterBloomberg/38198",
+  "tg:WalterBloomberg/38197",
+  "tg:WalterBloomberg/38196",
+  "tg:WalterBloomberg/38195"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2769,7 +2769,18 @@
   "tg:WatcherGuru/15926",
   "tg:WatcherGuru/15924",
   "tg:WatcherGuru/15923",
-  "tg:WatcherGuru/15922"
+  "tg:WatcherGuru/15922",
+  "tg:WatcherGuru/15943",
+  "tg:WatcherGuru/15941",
+  "tg:WatcherGuru/15940",
+  "tg:WatcherGuru/15936",
+  "tg:WatcherGuru/15934",
+  "tg:WatcherGuru/15933",
+  "tg:WatcherGuru/15932",
+  "tg:WatcherGuru/15931",
+  "tg:WatcherGuru/15930",
+  "tg:WatcherGuru/15928",
+  "tg:WatcherGuru/15927"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -2945,7 +2956,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794313471.9835017,
+ "congress_last_check": 1794340726.3698611,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -2994,7 +3005,7 @@
   "market_close:2026-11-09",
   "movers_post:2026-11-09"
  ],
- "earnings_last_check": 1794314096.645599,
+ "earnings_last_check": 1794341340.553004,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3276,7 +3287,7 @@
   "er:2026-11-10:ONON",
   "er:2026-11-10:SE"
  ],
- "gas_last_check": 1794313478.3130746,
+ "gas_last_check": 1794340730.755495,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3928,9 +3939,10 @@
   "gas:CBMimgFBVV95cUxPV2lMM2s4ZFJIOHZWa3NKS1N3WkdGUEFMOU5TNFRzMjRKeWRjNWJRUE95dWlXUXlLWWxaX0lxWEJfS2hsdkZsWG1nWVlsaHNYbm9aT09iNkExNXlDYjRNNWtFa25GT2RLUFgyNTVOeEc0UGY0X0Nzei1PbjFCQnU0TndyT3ktNmVqbmZiWWhnOVh1c1ZSeHpJb0JR",
   "gas:CBMi6wFBVV95cUxQYzQ4eWtMdk45LWxWZEJnekRrLXJlWGlueHNmNDVxMVplcVVmRW9PZnBFamRpX3F0Rk5PTkl4d0otdnJNU3BfdkZYZVRkRUZnRnFQTUdUTVEzSE9wWTdIa3lTaUJISUNqcnVNQ3ZSdWZJTkpuamhBRUpnLU05ZUl3OHNhZllCOTNWNjFMd0tteHg3MmpENEdCbHFXaUlhSUJfSVo5NlU5TU9MSWcycHNiejEwSDBaUWZfTHlMM1dPdmRnVkZxYzBWRmR6WDczUHpwRmhNRU9pSXlXd19wQnJiTzdjWUlCdFB2Uk1V",
   "gas:CBMipAFBVV95cUxQdXFVX0VhU3FzQk9NMlkwWkpFaTduSlZESE1RTnZ4MFpvaWdDcW0yWGNRUS0taEgtemxUVy0teWVjaDRQMk1iVWtmTERRc1NwWEJYczl3N0JPWTA4WU9SUkpOenJRbTcyVTRuUjNFcWdYRHBVNUoxVEhtNVpFeEdvWTdDRnBMQWhDc3hhajJJV3VMaVBJSXJVUnVNSWJsRF9hQXBWRQ",
-  "gas:CBMijAFBVV95cUxQMWRsOTZCMGJTTHNuSjB5enZIakNTZUtnQWs4cGVXcV9OQWljajlZRTMwNkotUmJNZ1doQ3lNNkQ3VUNkOTFhNTNoM2xVbDNVNXAxQTRTbFN0TkNETUt6WUdFSnRqMHE5WHBicFYzS2tFenB4LTh1MjZuek1VZ2ZTZkJfa2V6RE9wZDFoZA"
+  "gas:CBMijAFBVV95cUxQMWRsOTZCMGJTTHNuSjB5enZIakNTZUtnQWs4cGVXcV9OQWljajlZRTMwNkotUmJNZ1doQ3lNNkQ3VUNkOTFhNTNoM2xVbDNVNXAxQTRTbFN0TkNETUt6WUdFSnRqMHE5WHBicFYzS2tFenB4LTh1MjZuek1VZ2ZTZkJfa2V6RE9wZDFoZA",
+  "gas:CBMidkFVX3lxTE5sNFhNWW83c1NGcVdWV0VKNThIektLZ0NESGxzdktQQ3FuM3hJWDlIcXZOdXJOMmoxNFpfcjJPVVIxeUN0d05VQ00zU2s1QUFiNUV5Z0ZPbVctd2tlZFVhc1JQYUhZcHJGSEMxWVV2ZC1SWXdhdXc"
  ],
- "shows_last_day": "2026-11-09",
+ "shows_last_day": "2026-11-10",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
@@ -3953,7 +3965,8 @@
   "Glass Expo Midwest 2026|90",
   "Glass Expo West 2027|180",
   "NGA Glass Conference: Charlotte 2027|180",
-  "NGA Glass Conference: Charlotte 2027|90"
+  "NGA Glass Conference: Charlotte 2027|90",
+  "FGIA Annual Conference 2027|90"
  ],
  "shows_v2": 1,
  "reset_id": "2026-10-22-1",
@@ -4398,7 +4411,10 @@
   "qv:House-G000583-3607",
   "qv:House-G000583-3608",
   "qv:House-P000197-229",
-  "qv:House-M001239-27"
+  "qv:House-M001239-27",
+  "qv:House-K000392-3",
+  "qv:House-S001201-751",
+  "qv:House-S001201-752"
  ],
  "shows_v3": 1,
  "gas:SEMI": [
@@ -4573,7 +4589,13 @@
   "tg:disclosetv/22095",
   "tg:disclosetv/22094",
   "tg:disclosetv/22093",
-  "tg:disclosetv/22092"
+  "tg:disclosetv/22092",
+  "tg:disclosetv/22102",
+  "tg:disclosetv/22101",
+  "tg:disclosetv/22100",
+  "tg:disclosetv/22099",
+  "tg:disclosetv/22098",
+  "tg:disclosetv/22097"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -4918,7 +4940,26 @@
   "tg:insiderpaper/45795",
   "tg:insiderpaper/45796",
   "tg:insiderpaper/45798",
-  "tg:insiderpaper/45797"
+  "tg:insiderpaper/45797",
+  "tg:insiderpaper/45817",
+  "tg:insiderpaper/45816",
+  "tg:insiderpaper/45815",
+  "tg:insiderpaper/45814",
+  "tg:insiderpaper/45813",
+  "tg:insiderpaper/45812",
+  "tg:insiderpaper/45811",
+  "tg:insiderpaper/45810",
+  "tg:insiderpaper/45809",
+  "tg:insiderpaper/45808",
+  "tg:insiderpaper/45807",
+  "tg:insiderpaper/45806",
+  "tg:insiderpaper/45805",
+  "tg:insiderpaper/45804",
+  "tg:insiderpaper/45803",
+  "tg:insiderpaper/45802",
+  "tg:insiderpaper/45801",
+  "tg:insiderpaper/45800",
+  "tg:insiderpaper/45799"
  ],
  "opt_daily": "2026-11-09",
  "opt_flow_last": 1793045302.4056692,
@@ -5079,30 +5120,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144454",
-  "tg:FinancialJuice/144453",
-  "tg:FinancialJuice/144452",
-  "tg:FinancialJuice/144461",
-  "tg:FinancialJuice/144460",
-  "tg:FinancialJuice/144459",
-  "tg:FinancialJuice/144458",
-  "tg:FinancialJuice/144457",
-  "tg:FinancialJuice/144456",
-  "tg:FinancialJuice/144455",
-  "tg:FinancialJuice/144462",
-  "tg:FinancialJuice/144463",
-  "tg:FinancialJuice/144465",
-  "tg:FinancialJuice/144464",
-  "tg:FinancialJuice/144468",
-  "tg:FinancialJuice/144467",
-  "tg:FinancialJuice/144466",
-  "tg:FinancialJuice/144469",
-  "tg:FinancialJuice/144470",
-  "tg:FinancialJuice/144472",
-  "tg:FinancialJuice/144471",
-  "tg:FinancialJuice/144477",
-  "tg:FinancialJuice/144476",
-  "tg:FinancialJuice/144475",
   "tg:FinancialJuice/144474",
   "tg:FinancialJuice/144473",
   "tg:FinancialJuice/144480",
@@ -5878,7 +5895,31 @@
   "tg:FinancialJuice/145950",
   "tg:FinancialJuice/145949",
   "tg:FinancialJuice/145948",
-  "tg:FinancialJuice/145947"
+  "tg:FinancialJuice/145947",
+  "tg:FinancialJuice/146124",
+  "tg:FinancialJuice/146123",
+  "tg:FinancialJuice/146126",
+  "tg:FinancialJuice/146125",
+  "tg:FinancialJuice/146146",
+  "tg:FinancialJuice/146145",
+  "tg:FinancialJuice/146144",
+  "tg:FinancialJuice/146143",
+  "tg:FinancialJuice/146142",
+  "tg:FinancialJuice/146141",
+  "tg:FinancialJuice/146140",
+  "tg:FinancialJuice/146139",
+  "tg:FinancialJuice/146138",
+  "tg:FinancialJuice/146137",
+  "tg:FinancialJuice/146136",
+  "tg:FinancialJuice/146135",
+  "tg:FinancialJuice/146134",
+  "tg:FinancialJuice/146133",
+  "tg:FinancialJuice/146132",
+  "tg:FinancialJuice/146131",
+  "tg:FinancialJuice/146130",
+  "tg:FinancialJuice/146129",
+  "tg:FinancialJuice/146128",
+  "tg:FinancialJuice/146127"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
@@ -7657,65 +7698,189 @@
   [
    1794313419.2924387,
    "00|0万|4亿|80|B轮|Da|ay|gh|ht|ig|li|t完|t旗|yl|万美|下B|亿美|估值|值达|元融|全初|公司|创公|初创|到4|华尔|司D|司的|基金|头D|安全|完成|对该|尔街|成8|报网|据华|旗下|日报|本轮|牵头|由高|的估|盛牵|络安|网络|美元|融资|街日|该公|资基|资本|资由|轮融|达到|金对|高盛"
+  ],
+  [
+   1794340575.812939,
+   "07|0报|12|22|25|2美|30|45|50|55|58|5报|72|8美|BO|CB|OT|T大|T玉|内涨|分C|大豆|幅达|报1|报4|日内|涨幅|玉米|米日|美分|豆日|达2|达3"
+  ],
+  [
+   1794340577.347195,
+   "01|03|0美|10|11|12|13|16|18|19|1美|20|21|25|26|30|31|33|35|36|37|3美|46|52|56|5美|60|63|67|6美|71|78|79|87|8美|95|9美|E期|LM|ME|元吨|元报|吨L|平报|报1|报3|报4|收平|收跌|期钴|期铅|期铜|期铝|期锌|期锡|期镍|美元|跌1|跌2|跌5|跌8|钴收|铅收|铜收|铝收|锌收|锡收|镍收"
+  ],
+  [
+   1794340578.8743157,
+   "0日|10|与旨|丹麦|举行|乌克|乌军|乌冲|事援|人讨|以及|会谈|体采|供安|俄乌|保障|克兰|克森|全保|全新|公布|兰总|兰提|军事|冲突|判乌|判以|助和|北欧|华社|参与|及由|受丹|同丹|同北|向乌|和欧|国和|国家|在结|基1|基当|基说|基还|天访|媒体|安全|安排|家领|对乌|导人|将同|布的|应参|府公|弗雷|当天|总统|据丹|排泽|接受|提供|援助|政府|斯基|新华|日接|旨在|时说|束俄|根据|森举|欧国|欧洲|泽连|泽里|洲向|洲安|洲应|由美|的安|的讨|的谈|相弗|突的|结束|统泽|美国|行会|讨论|论对|论泽|访时|访问|说欧|谈判|谈根|还将|连斯|采访|里克|问丹|障的|雷泽|领导|首相|麦同|麦媒|麦政|麦首"
+  ],
+  [
+   1794340580.238618,
+   "00|01|02|06|0亿|0年|0月|10|20|24|27|3投|42|46|50|53|5创|6前|6年|77|7日|7美|为2|为5|亿美|以来|倍数|债得|债票|元1|创2|利率|前次|卖4|国1|国债|国财|在5|定在|将被|年以|年期|得标|投标|拍卖|政部|数2|新高|日为|月7|期国|来新|标倍|标利|次为|率5|率将|票面|美元|美国|被定|财政|部拍|面利"
+  ],
+  [
+   1794340581.7381675,
+   "10|A预|DA|SD|US|下滑|业部|乌克|克兰|兰玉|农业|出口|势而|口将|同比|因黑|国农|将因|局势|比下|海局|滑1|玉米|米出|美国|而同|计乌|部U|预计|黑海"
+  ],
+  [
+   1794340583.3944037,
+   "AI|Bu|Ch|GP|I发|Op|PT|T测|at|en|es|ha|in|nA|nC|ne|pe|se|si|ss|tG|us|一个|业代|业可|个企|代理|以打|企业|公司|发布|可以|司称|合格|布B|打造|格企|测试|版该|称合|试版|该公|造一"
+  ],
+  [
+   1794340584.8084168,
+   "12|2月|8日|CP|I核|Ka|PI|al|hi|i将|ls|sh|于1|出美|台K|国C|将于|平台|心通|推出|日推|月8|期货|核心|测平|率期|美国|胀率|通胀|预测"
+  ],
+  [
+   1794340586.2185636,
+   "0日|10|11|15|1月|25|2亿|3家|52|P使|RP|RR|上个|个交|为1|二1|交易|亿美|使用|储隔|元交|协议|周二|回购|夜逆|家上|对手|手3|报2|日报|日美|易对|易日|月1|模为|用规|美元|美联|联储|规模|议R|购协|逆回|隔夜"
+  ],
+  [
+   1794340587.69778,
+   "0日|10|2月|9个|一轮|三方|与俄|专项|个月|中乌|中午|为乌|举行|乌俄|乌克|乌外|乌总|乌方|乌美|也是|交黑|京举|人直|今年|以及|以来|会晤|会谈|会面|俄三|俄总|俄方|俄罗|俄领|保障|停滞|停火|克兰|入停|全保|兰危|兰外|兰新|冲突|决的|出多|判中|判陷|制以|前等|加表|加认|加速|动乌|动探|势落|午俄|危机|及推|同时|启动|启面|和乌|和局|商央|回应|国和|在阿|地时|域专|基与|外长|多项|央视|安全|实停|对面|导人|局势|布扎|年2|应当|建立|当地|径这|待俄|心诉|总统|扎比|探讨|接会|推动|提交|提出|政治|斯基|斯美|新一|方会|方同|方回|方提|方时|方案|方谈|日中|日乌|时提|时间|时隔|是今|晤瑟|普京|月谈|月重|有望|望加|机制|机政|束乌|束当|来三|核心|案目|比举|比加|比启|求缓|治解|泽连|海能|源领|滞以|火建|火方|瑟比|的乌|的途|目前|直接|磋商|示在|突结|立安|等待|结束|统普|统泽|缓和|罗斯|美俄|美国|联酋|能源|落实|行会|行的|表示|解决|认为|讨推|诉求|谈判|谈在|轮三|这也|连斯|途径|速冲|酋阿|重启|长乌|长瑟|间1|阿布|阿联|陷入|隔9|障机|面对|面有|面磋|项停|项核|领域|领导|黑海"
+  ],
+  [
+   1794340589.0934696,
+   "02|1个|20|21|25|2年|47|4月|5年|77|7势|一对|一度|一直|一边|上月|上涨|下特|下跌|两个|严重|个基|个推|之一|之美|二这|于预|以及|以来|以遏|价回|但周|债券|债市|债收|债曾|债遭|储官|储政|储自|储鹰|全球|关税|再度|出现|创下|初以|利率|到一|制的|券更|剧烈|剧震|力度|加之|加大|动因|动摇|动标|动比|势将|升2|升幅|升息|单日|压力|及油|发全|变动|可能|向美|告可|员警|周二|和美|售潮|回落|因素|因通|国债|国国|场剧|场焦|基点|大升|大单|大幅|官员|对等|对美|将创|市再|市场|市遭|幅上|幅这|年4|年期|度出|度美|度飙|引发|志着|息力|情以|感的|技股|抛到|抛售|押注|据和|推动|措施|摇利|收益|政策|敏感|数据|新转|施引|日升|普对|更敏|曾大|最严|最大|月以|月初|朗普|期债|期加|期美|来一|来最|来随|标志|次波|比长|油价|波动|注因|派言|涨但|潮之|潮通|点至|点重|烈抛|烈逆|焦点|特朗|猛烈|率一|率押|现剧|球市|疫情|的2|的通|益率|直难|着债|着科|科技|税措|等关|策变|素都|美国|美联|联储|股下|胀压|胀数|胀高|能加|自上|自疫|至4|落美|被抛|言论|警告|论动|跌以|转向|转自|边市|这两|这次|逆转|通胀|遇2|遇猛|遏制|遭遇|都被|重抛|重新|长期|随着|难以|震以|预期|飙升|高于|鹰派"
+  ],
+  [
+   1794340590.526579,
+   "IB|IR|RI|伊朗|会I|其参|前往|加环|参加|土耳|境峰|将前|峰会|往土|总统|朗总|环境|统将|耳其"
+  ],
+  [
+   1794340591.9146144,
+   "A在|A批|A旗|A用|DA|FD|Ga|KG|Me|Pi|aA|al|an|ce|ck|el|en|er|et|gi|ia|im|i获|je|kK|lg|ll|lt|mi|mj|mo|no|nt|or|os|ov|rc|r一|sy|tc|te|tm|tu|um|vi|yn|一份|一种|下治|业务|中表|为P|为这|争挤|于无|于治|份新|仿制|供支|健康|公司|准M|准为|制药|务提|医疗|压的|受仿|受手|司正|名为|品管|品药|国F|国公|国食|在一|增生|家德|局F|巨细|年患|康业|得美|德国|性增|患者|成年|手术|批准|批用|挤压|提供|撑F|支撑|新闻|旗下|无法|术的|正受|治疗|法耐|物获|理局|生适|用于|疗健|疗罕|疗腱|瘤t|瘤的|的医|的成|的良|的药|示该|种罕|稿中|竞争|管理|细胞|罕见|美国|耐受|肿瘤|胞瘤|腱鞘|良性|药名|药品|药物|药竞|获得|获批|获美|表示|见的|见肿|该药|这家|适用|闻稿|鞘巨|食品"
+  ],
+  [
+   1794340593.2877517,
+   "0月|10|11|1月|22|2日|4万|7日|Ag|EG|Ea|Fa|G航|LS|SE|an|as|de|d表|ed|en|es|gi|iF|io|me|nd|ne|oi|st|s号|tm|一周|万吨|中等|为1|于1|于希|于该|交付|仍在|他国|付日|令卸|令总|任何|但一|位于|低硫|住L|何变|俄罗|停住|克装|公司|关于|化它|卸货|变化|口普|号于|司E|后管|吨超|周后|国旗|国近|在俄|在等|在美|在航|地没|它仍|定关|定或|尔斯|尚未|希腊|待指|总部|悬挂|或最|挂马|指令|指定|据显|数据|斯克|斯柴|斯波|旗的|日但|日在|日期|显示|普里|最终|月2|月7|有任|有俄|期为|未指|柴油|正在|没有|油的|油轮|油预|波罗|海停|海港|港口|港尚|理公|理该|的A|的地|的希|的油|的海|的船|目的|硫柴|确定|示悬|示该|示载|等待|管理|终确|罗斯|罗的|美国|耳他|腊公|腊的|航行|航运|舶管|船正|船的|船目|船舶|莫尔|行中|表示|装载|计交|该船|货港|超低|轮在|载4|载有|运数|近海|部位|里莫|预计|马耳"
+  ],
+  [
+   1794340594.7406955,
+   "7外|G7|七国|万斯|上封|不过|两周|为美|争取|事打|互信|交消|人士|仍存|以及|以媒|以避|伊军|伊双|伊朗|伊谈|伊达|会见|信才|免美|关键|再次|军事|决包|冷邮|冻伊|击不|击据|分歧|判争|判桌|到至|到谈|前此|前阿|副总|动美|动袭|勒拉|勒萨|包括|卜杜|卡塔|及解|双方|发动|取两|取到|向七|周时|和副|哈已|回到|团G|国再|国对|国集|在巴|在暂|在白|在重|塔尔|士透|外交|外长|多哈|大分|媒卡|存在|安排|宫会|对伊|封锁|少两|尔称|尔首|尚未|尼在|尼已|尼强|已为|已争|已在|巴黎|建互|强调|德本|总统|息人|成谅|才能|打击|拉赫|括解|据外|排核|推动|撒冷|斯耶|新回|方仍|方需|旨在|时间|普和|暂缓|曼阿|朗发|朗普|朗资|未解|本阿|杜勒|核问|桌前|次对|此前|步骤|歧关|海上|消息|特朗|白宫|的步|相穆|示多|称已|穆罕|统万|继续|续推|缓美|罕默|美伊|美国|耶路|能重|至少|萨尼|表示|袭击|要重|见特|解以|解决|解冻|解除|调美|谅解|谈判|资金|赫曼|路撒|达成|过双|透露|避免|邮报|重大|重建|重新|金阿|锁的|键问|长表|问题|间旨|间继|阿勒|阿卜|除海|集团|需要|露卡|题以|题尚|首相|骤安|黎向|默德"
+  ],
+  [
+   1794340596.2031503,
+   "不安|为英|主党|人不|仁勋|令人|伟达|党领|勋辩|参议|国参|国总|总统|护令|普为|朗普|民主|特朗|统特|美国|舒默|英伟|袖舒|议院|辩护|达黄|院民|领袖|黄仁|默美"
+  ],
+  [
+   1794340597.6071763,
+   "主党|人工|会必|党领|全法|关立|包括|匹配|参议|和芯|国会|国参|安全|工智|必须|括人|智能|案匹|案和|民主|法包|法案|片安|片相|监督|相关|督法|立法|美国|能监|能芯|舒默|芯片|袖舒|议院|过人|通过|配法|院民|须通|领袖|默国"
+  ],
+  [
+   1794340598.984563,
+   "Sc|ch|d剔|hm|id|mi|一种|不到|不认|为利|为当|主席|产架|人担|仍相|他领|付将|令人|以说|价走|任何|但在|住房|何限|储主|储基|关注|其他|具有|况相|准利|分物|利率|到任|制性|制美|前仍|前利|剔除|动态|劲利|劲预|势令|即时|历一|去年|受关|可以|后部|因素|国堪|国近|在其|城联|域找|域正|基准|堪萨|字资|宽松|将跨|席S|年并|并不|并非|强劲|当前|当宽|当强|忧需|态但|性认|情况|房领|找不|担忧|招聘|支付|数字|斯城|时支|是最|最受|有趣|有限|期的|松去|松美|架构|正经|求强|注的|源因|物价|犹豫|率具|率并|率当|率相|理由|由通|的动|的招|的理|的问|相当|种有|素后|经历|美国|美联|联储|聘情|胀是|能源|萨斯|计即|认为|说住|豫的|资产|走势|越数|趣的|跨越|近期|通胀|部分|问题|限制|除能|需求|非犹|预计|领域|题可"
+  ],
+  [
+   1794340600.3504033,
+   "12|2月|Sc|ch|d从|hm|id|mi|之间|从现|会议|值得|储1|储S|关注|到美|在到|多有|将有|得关|据点|数据|月会|有许|有趣|点值|现在|的数|美联|联储|议之|许多|趣的|间将"
+  ],
+  [
+   1794340601.7453642,
+   "00|0G|10|GW|Si|Sp|W的|XS|ac|ce|eX|gu|in|lu|ng|pa|s合|ul|us|合同|同将|将支|持能|支持|的设|耗超|能耗|设备|超过|过1"
+  ],
+  [
+   1794340603.1635973,
+   "HK|Jo|Ki|Li|Wa|ac|ch|el|ht|im|ip|lL|ll|m牵|nH|n律|on|oo|pt|te|to|一事|与调|临董|为公|事会|事务|事此|人J|人兼|仁勋|他曾|代理|任美|伙人|会前|会表|伟达|但将|使英|全受|全面|公司|其合|兼首|创始|到损|前所|前没|前纽|务所|勋已|勋承|勋英|华尔|参与|受到|可获|司机|合伙|合创|合此|国代|国家|外情|头他|始人|婚外|安全|安德|官曾|官面|官黄|审查|害但|家安|密或|察官|将审|将由|尔街|州州|州长|已承|已聘|师事|席执|彭博|律师|律所|得的|德鲁|情一|或国|所有|所未|所调|执行|承认|承诺|报彭|损害|据黄|时报|曾任|曾参|有可|有理|有的|未有|机密|查使|查前|查将|查所|查纽|查首|查黄|检察|次调|此次|没有|牵头|理检|理由|由其|由认|的婚|的审|的证|目前|示目|科莫|约州|约时|级律|纽约|美国|联合|聘请|英伟|莫英|获得|董事|行官|街顶|表示|认为|认的|证据|请W|请华|诺全|调查|达已|达联|达聘|达董|配合|长安|面临|面配|顶级|首席|鲁科|黄仁"
+  ],
+  [
+   1794340604.7059271,
+   "00|0万|0月|10|60|6月|AI|I与|I专|I已|I帮|I收|I旅|Od|Op|aO|a从|a创|a均|a戴|a该|de|en|es|ia|nA|pe|si|ss|万美|与O|专注|了全|于今|于旅|些时|交易|人弗|今年|从红|他将|代理|价格|候创|候旅|元种|入O|全天|出了|划和|划平|创始|创立|利用|加入|务O|助用|台O|台利|台推|和预|均未|处完|天候|始人|子轮|完成|宣布|宾服|将加|已收|布O|帮助|平台|年6|年早|弗朗|成6|戴维|户规|投资|披露|推出|收购|斯戴|旅行|早些|时候|易的|月O|月该|服务|朗西|未披|未来|本等|杉资|来戴|森于|森宣|森称|次交|此次|注于|理平|用A|用户|的价|的未|礼宾|种子|称他|程今|立O|等投|红杉|维森|美元|者处|融资|行代|行的|行礼|行程|行规|西斯|规划|订行|该平|购A|资1|资本|资者|轮融|露此|预订"
+  ],
+  [
+   1794340606.1289582,
+   "0亿|35|50|Ns|al|ca|e考|le|sc|上市|人工|亿美|元的|公司|划该|司正|后推|售后|在人|块抛|将上|工智|市时|市计|抛售|推迟|时间|明年|智能|板块|正考|的上|美元|考虑|能板|至明|虑在|虑将|计划|该公|迟3|迟至|间推"
+  ],
+  [
+   1794340607.547175,
+   "5G|9及|FI|Fi|Go|G和|IW|Pi|Wi|eF|el|es|gl|iF|ir|ix|i的|i超|l9|le|og|oo|re|ss|s发|xe|上推|今日|公司|具有|及更|双5|发布|司G|和W|在P|型上|布具|推出|新机|日起|更新|有双|机型|歌公|的超|级网|络G|络今|网络|谷歌|起在|超级"
+  ],
+  [
+   1794340608.9400475,
+   "03|0亿|0年|20|30|90|亿欧|今后|元股|划在|后至|回购|在今|多9|子能|年年|年底|底回|欧元|源计|股票|能源|至2|至多|西门|计划|购至|门子"
+  ],
+  [
+   1794340610.5027845,
+   "02|03|0月|10|11|1月|20|27|35|37|3美|44|49|50|56|5日|6美|73|7年|9美|A上|A将|EI|IA|上调|东的|中东|也将|从1|从每|仑3|仑4|价格|价预|份预|使来|供应|信息|元上|元理|元这|全球|力的|加仑|加消|包含|即使|压力|含在|和柴|和汽|售均|国E|国上|国能|在1|均价|增加|完成|将2|将持|将明|将有|展望|年柴|年汽|应增|应将|张该|息署|成的|持续|料供|日完|明年|是预|显示|月5|月预|有限|望中|期能|机构|来自|构还|柴油|格压|格预|每加|汽油|油价|油供|油和|油零|测从|测包|测显|测美|消费|源信|源展|燃料|球燃|理由|由是|的每|的短|的石|的缓|短期|石油|示即|紧张|续紧|缓解|署E|美元|美国|者价|能源|自中|至3|至5|解也|计全|计的|该机|调2|调明|调至|费者|还将|这份|限美|零售|预测|预计"
+  ],
+  [
+   1794340611.9006116,
+   "02|20|25|28|37|5亿|5年|7亿|85|8吉|99|9B|AI|Bl|Ca|EV|Ea|En|GE|GW|I数|Ve|W项|ar|at|a股|a跌|er|gy|il|iv|la|ll|lo|mE|nV|ne|no|om|on|oo|ov|pi|rg|rn|rp|rt|r的|te|ti|to|va|v和|y伊|y股|一个|三倍|上涨|不可|与去|与设|业支|个8|中G|中包|中心|为美|乎涨|乎翻|也走|了三|亥俄|亿美|他数|付款|付的|价也|价去|价在|企业|伊顿|低日|低这|俄亥|俄州|倍B|元不|元减|公司|其中|其为|其他|减记|几乎|力与|动的|勒C|包括|卡特|去年|及其|发担|可退|司中|吉瓦|向设|和卡|团对|国俄|在2|备企|备类|对数|州一|年几|年由|建设|引发|形成|彼勒|心向|心建|心项|忧燃|念股|情形|成逆|担忧|括其|据中|推动|提3|支付|数据|日本|本软|机概|概念|款电|气轮|求推|涨了|涨行|燃气|特彼|瓦G|由A|电力|的2|的上|的股|目及|目计|类公|美元|美国|翻倍|股价|股走|行情|计提|记其|记引|设备|设需|走低|跌9|转G|轮机|软银|还预|这与|退还|逆转|银减|银集|集团|需求|项目|顿E|预付"
+  ],
+  [
+   1794340613.2948234,
+   "02|0亿|0年|10|1吉|20|28|4个|8年|个太|个新|中期|为客|交计|亿美|佛罗|储能|元佛|克能|公司|内建|分公|划在|划拟|划新|前建|发电|司提|司计|吉瓦|四个|国佛|在2|在未|太阳|客户|年中|年内|建4|建设|户节|拟在|提交|新太|新建|施佛|期前|未来|杜克|来1|池储|源美|瓦的|电场|电池|电站|的电|省1|站预|罗里|美元|美国|能发|能源|能设|节省|计为|计划|设四|设施|设超|超过|达分|过1|里达|阳能|预计"
+  ],
+  [
+   1794340614.743327,
+   "00|04|08|09|0日|0美|10|11|12|13|14|17|1月|1美|26|28|29|2月|30|32|39|3报|41|46|49|4日|4美|54|60|6美|7报|80|81|83|85|86|88|8日|8月|8美|91|93|96|99|9月|9美|9逼|EX|I1|ME|NY|TI|WT|X1|YM|万英|主力|仑N|伦特|位8|位N|元1|元8|元加|元布|元桶|元百|元跌|力合|加仑|单位|原油|取暖|合约|国原|均线|天然|布伦|幅1|幅超|报2|报3|报4|报8|报9|收报|收盘|收跌|日均|日收|暂报|暖油|月2|月4|月原|月取|月天|月汽|期货|桶N|桶主|气期|汽油|油期|热单|然气|特1|百万|百日|盘位|约逼|线W|线暂|美元|美国|英热|货收|超0|超过|跌0|跌1|跌幅|跌超|过0|近9|近百|逼近"
+  ],
+  [
+   1794340616.1514604,
+   "与他|予的|什姆|他们|他方|们偶|们用|们的|们相|们给|伊朗|会国|会委|偶尔|全委|其他|准他|击与|发射|向格|员会|员库|国家|姆岛|委员|安全|家安|射炮|尔向|岛发|库萨|式瞄|弹我|当甚|我们|或其|打击|方式|更大|朗议|格什|水雷|炮弹|甚至|用水|的打|的舰|相当|瞄准|给予|至更|舰船|船他|萨里|议会|里我|雷或"
+  ],
+  [
+   1794340617.5829308,
+   "06|10|3票|6票|73|一届|三次|下一|丹当|丹担|丹第|举俄|举行|乔丹|亥俄|人当|以1|任下|任众|众议|会众|会共|俄亥|俄州|党人|党内|党籍|党领|共和|内投|击败|利斯|务央|卡利|史蒂|吉姆|员吉|和党|国下|国会|国国|多数|天举|夫斯|央视|姆乔|对7|导职|届国|州共|当天|当选|投票|担任|数党|斯卡|斯这|是乔|次竞|现任|票以|票对|票选|竞选|第三|籍众|美国|职务|蒂夫|行党|袖击|袖史|袖美|议员|议院|败现|这是|选举|选国|选美|院共|院多|领导|领袖"
+  ],
+  [
+   1794340619.866459,
+   "02|06|0个|0月|10|12|1日|20|25|27|2月|50|5个|6创|6市|7年|9月|一度|一次|一步|三个|上涨|上美|下跌|两次|个基|个月|为只|主席|主要|也支|事沃|二上|于预|仍有|以来|储主|储理|储维|元一|元和|元指|元普|元短|克朗|兑美|入1|全消|典克|再加|创9|前市|加上|加息|动美|勒支|化1|单日|只要|可能|周二|和瑞|国1|场已|场美|场认|场进|均下|基点|大单|始计|威克|完全|对2|小幅|少再|已完|币兑|市场|席洛|幅可|幅市|年加|并开|度下|开始|弱挪|强的|性加|性此|息2|息5|息两|息推|息的|押注|拉斯|持1|持至|持鹰|指数|挪威|据连|推动|提高|支持|数周|数据|斯联|日元|日涨|普遍|最大|月一|月以|月加|月通|月高|有进|朗均|朗澳|期仍|期加|期达|来最|根也|次2|次性|次每|此前|步提|步走|每次|沃勒|注并|洛根|派立|消化|涨幅|涨超|澳元|点主|点的|理事|瑞典|的小|的押|的空|的预|短期|空间|立场|第三|续第|维持|美元|美国|美联|联储|胀数|能性|至少|要美|要货|计入|认为|货币|走弱|走强|超0|超过|跌0|跌超|达拉|过1|进一|连续|通胀|遍走|预期|高于|高对|鹰派"
+  ],
+  [
+   1794340621.309557,
+   "15|2亿|3个|52|个对|中总|了3|亿美|作中|储在|利率|回购|固定|在固|定利|对手|总计|手方|接纳|操作|方的|率逆|的1|纳了|美元|美联|联储|计接|购操|逆回"
+  ],
+  [
+   1794340622.7945654,
+   "01|03|04|07|0个|0年|0月|10|11|12|14|1月|22|25|2年|2月|30|33|3叠|3日|47|4沃|4高|50|59|5个|6加|75|7创|86|9市|CP|I环|PI|上涨|个基|为8|也受|事沃|于市|于预|以来|信号|债市|债收|储1|储可|储理|全线|创1|到波|前预|加息|加美|动欧|动美|勒表|勒释|升至|及德|取更|受到|叠加|可能|号推|国1|国债|场目|场预|基点|大幅|如果|市也|市场|幅度|年期|度的|德国|息2|息5|推动|收益|放鹰|政策|日以|明显|显高|更大|最高|月3|月C|月加|期升|期国|期的|期美|来最|果通|概率|欧洲|比上|水平|沃勒|波及|洲债|派信|涨0|涨1|点的|率为|率全|率升|环比|理事|的0|的政|的概|益率|目前|示如|策行|线上|美债|美国|美联|联储|胀明|能需|至1|至3|至4|至5|行动|表示|要采|计美|通胀|采取|释放|需要|预期|预计|高于|高水|鹰派"
+  ],
+  [
+   1794340624.2602327,
+   "一些|下价|之下|了一|些令|人担|令人|价格|体能|储施|出现|因素|在整|密德|德在|忧的|担忧|整体|施密|格出|源因|现了|的趋|素之|美联|联储|能源|趋势"
+  ],
+  [
+   1794340625.6652336,
+   "储施|密德|德通|施密|是首|美联|联储|胀是|要问|通胀|问题|首要"
+  ],
+  [
+   1794340627.115785,
+   "IO|N因|ON|RI|下降|个工|作岗|克加|减魁|力拓|加工|加拿|北克|十个|厂数|因锂|大环|岗位|工作|工厂|报力|拓R|拿大|据加|数十|求下|环球|球邮|裁减|邮报|锂需|降裁|需求|魁北"
+  ],
+  [
+   1794340628.7215543,
+   "不认|为当|主席|也相|二表|今的|他表|以控|估货|何更|储主|储当|关注|具有|利率|制性|制通|前最|前重|去年|周二|响通|地影|城联|堪萨|够限|夫施|如今|如何|宽松|密德|就不|己去|币政|席杰|平也|年就|并暗|当前|当宽|当时|影响|德周|性如|持收|控制|支持|收紧|政策|效地|斯城|施密|时的|是美|是评|暗示|更有|最关|有效|有足|杰夫|松目|水平|注的|点是|率具|率水|的利|的问|目前|相当|示支|示自|示通|策以|策如|紧货|美联|联储|胀他|胀是|胀走|自己|萨斯|表示|认为|评估|货币|走势|足够|通胀|重点|问题|限制|题并"
+  ],
+  [
+   1794340630.1495526,
+   "5G|Fi|GO|Go|G和|OG|OO|Wi|eF|el|es|gl|iF|iW|ir|i网|le|og|oo|re|ss|s推|入5|出超|务可|可同|同时|和W|接入|推出|时接|服务|歌G|级网|络服|网络|谷歌|超级"
+  ],
+  [
+   1794340631.8190248,
+   "9及|Fi|GO|Go|OG|OO|Pi|eF|el|gl|ix|i超|l9|le|og|oo|xe|于今|今日|及更|号手|向P|型号|将于|手机|推出|新型|日起|更新|机推|歌G|级网|络将|续向|网络|谷歌|起陆|超级|陆续"
+  ],
+  [
+   1794340633.2808487,
+   "AB|AO|BC|C新|DA|NV|O首|VD|人考|仁勋|众议|伟达|传票|党人|共和|出传|勋发|发出|向英|和党|国众|官黄|席执|执行|据A|新闻|美国|考虑|英伟|虑向|行官|议院|达N|闻美|院共|首席|黄仁"
+  ],
+  [
+   1794340738.2378178,
+   "一任|一名|七任|下一|书这|于任|任下|任命|任由|任白|任的|位连|倾向|可能|名男|向于|命一|国总|女性|宫新|性担|总统|惯例|担任|新闻|普倾|朗普|特朗|由女|男性|白宫|的惯|秘书|终结|结该|统特|续七|美国|职位|能终|该职|这可|连续|闻秘"
+  ],
+  [
+   1794340857.9504547,
+   "AI|I生|主党|人工|保健|健和|党获|医疗|参半|和国|响喜|喜忧|国人|国防|域的|对美|工智|影响|忧参|态系|惠誉|智能|民主|源医|生态|疗保|的影|系统|级民|统能|美国|胜对|能A|能源|获胜|誉评|评级|防领|领域"
+  ],
+  [
+   1794340918.287016,
+   "交易|人工|力期|动人|华尔|国监|尔街|工智|报美|据金|推动|推迟|时报|易的|智能|期货|机构|构推|的请|监管|算力|管机|美国|能算|融时|街推|请求|货交|迟华|金融"
+  ],
+  [
+   1794340977.8959787,
+   "0天|60|AI|CF|C推|FT|I计|TC|交易|会C|准A|合约|员会|品期|品监|商品|国商|国衍|国金|天英|委员|审查|家美|将此|少6|延长|批准|推迟|时报|易委|易这|期延|期货|查期|此类|生品|的审|监管|算期|管部|类合|约的|美国|至少|英国|融时|衍生|计算|货交|这家|迟批|部门|金融|长至|门将"
+  ],
+  [
+   1794341098.842418,
+   "7跌|AO|DA|NV|O跌|VD|伟达|大至|幅扩|扩大|日低|至7|至日|英伟|跌幅|跌至|达N"
   ]
  ],
  "futu": [
-  "futu:1003823940",
-  "futu:1003824019",
-  "futu:1003823999",
-  "futu:1003823998",
-  "futu:1003824237",
-  "futu:1003824110",
-  "futu:1003824027",
-  "futu:1003824348",
-  "futu:1003824491",
-  "futu:1003824450",
-  "futu:1003824615",
-  "futu:1003824568",
-  "futu:1003824741",
-  "futu:1003824699",
-  "futu:1003824686",
-  "futu:1003824674",
-  "futu:1003824817",
-  "futu:1003825004",
-  "futu:1003824978",
-  "futu:1003825150",
-  "futu:1003825148",
-  "futu:1003825179",
-  "futu:1003825173",
-  "futu:1003825343",
-  "futu:1003825349",
-  "futu:1003825449",
-  "futu:1003825689",
-  "futu:1003825664",
-  "futu:1003825657",
-  "futu:1003825842",
-  "futu:1003825804",
-  "futu:1003825735",
-  "futu:1003825936",
-  "futu:1003825937",
-  "futu:1003825934",
-  "futu:1003825870",
-  "futu:1003825871",
-  "futu:1003826049",
-  "futu:1003826019",
-  "futu:1003826126",
-  "futu:1003826226",
-  "futu:1003826174",
-  "futu:1003826604",
-  "futu:1003826594",
-  "futu:1003826552",
-  "futu:1003826541",
-  "futu:1003826532",
-  "futu:1003826677",
-  "futu:1003826646",
-  "futu:1003826610",
-  "futu:1003826895",
-  "futu:1003826805",
-  "futu:1003826806",
-  "futu:1003826803",
-  "futu:1003826793",
-  "futu:1003826791",
   "futu:1003826792",
   "futu:1003826756",
   "futu:1003826914",
@@ -8459,7 +8624,63 @@
   "futu:1004028042",
   "futu:1004027964",
   "futu:1004027846",
-  "futu:1004027777"
+  "futu:1004027777",
+  "futu:1004066046",
+  "futu:1004066059",
+  "futu:1004066058",
+  "futu:1004066105",
+  "futu:1004066189",
+  "futu:1004066197",
+  "futu:1004071837",
+  "futu:1004071785",
+  "futu:1004071688",
+  "futu:1004071650",
+  "futu:1004071423",
+  "futu:1004071354",
+  "futu:1004070782",
+  "futu:1004070701",
+  "futu:1004070640",
+  "futu:1004070180",
+  "futu:1004070155",
+  "futu:1004070140",
+  "futu:1004070141",
+  "futu:1004069897",
+  "futu:1004069806",
+  "futu:1004069625",
+  "futu:1004069385",
+  "futu:1004069195",
+  "futu:1004069180",
+  "futu:1004068938",
+  "futu:1004068808",
+  "futu:1004068759",
+  "futu:1004068745",
+  "futu:1004068710",
+  "futu:1004068694",
+  "futu:1004068464",
+  "futu:1004068291",
+  "futu:1004068284",
+  "futu:1004068189",
+  "futu:1004068027",
+  "futu:1004067870",
+  "futu:1004067855",
+  "futu:1004067849",
+  "futu:1004067797",
+  "futu:1004067721",
+  "futu:1004067701",
+  "futu:1004067403",
+  "futu:1004067146",
+  "futu:1004067145",
+  "futu:1004067100",
+  "futu:1004066957",
+  "futu:1004066958",
+  "futu:1004066931",
+  "futu:1004066932",
+  "futu:1004066920",
+  "futu:1004066847",
+  "futu:1004066775",
+  "futu:1004066737",
+  "futu:1004066641",
+  "futu:1004066275"
  ],
  "news_recent": [
   [
@@ -9313,6 +9534,150 @@
   [
    1794313469.5052075,
    "$500 anthropic approved investments mln tsmc"
+  ],
+  [
+   1794340635.196964,
+   "$13 $19 $22 $257 $334 according american balances billion borrowing card climbing credit days debt delinquencies delinquency due end fed hits household increased intensify jumped keeps least loans meanwhile mortgage outstanding overall past pressures rate remained repayment rise rose september some stage student surged trillion while york"
+  ],
+  [
+   1794340637.5594938,
+   "25bps 50bps added also analysts bank base but case comments consecutive cpi december deutsche elevated estimate expectations expected expects fed forecast governor hawkish hike hikes hotter interest january longer march neutral now october outside particularly possible raised range rate rates remains say signaling stay taking target their three waller"
+  ],
+  [
+   1794340639.5409124,
+   "down extends last losses nvidia shares"
+  ],
+  [
+   1794340641.917366,
+   "$480m admin america business fox gas gulf loan oil pouring project trump"
+  ],
+  [
+   1794340644.156177,
+   "back days first rises time treasury year yield"
+  ],
+  [
+   1794340646.5760555,
+   "2025 first june market microsoft nvidia since surpasses time value"
+  ],
+  [
+   1794340648.8067834,
+   "americans diesel ease fuel headed market official prices russian water which"
+  ],
+  [
+   1794340651.012057,
+   "anthropic before ipo microsoft office rivaling tools unveils"
+  ],
+  [
+   1794340654.2243192,
+   "500 down extend fall pct spx stocks"
+  ],
+  [
+   1794340656.719455,
+   "$42 010 above absorb adding auction back basis before bid billion bonds borrowing costs cover debt demand demanded equity fell high higher investor investors issued notes point pressure previous ratio sees signaling sold tailed tops treasury valuations weaker when year yield yields"
+  ],
+  [
+   1794340658.6482785,
+   "accounting address alleged american calls defense democratic espionage failure foreign full huang industry leader needed nvidia schumer senate tech troubling trump"
+  ],
+  [
+   1794340660.8855436,
+   "$nvda according accused acting admitted affair all andrew attorney available believe board but ceo chinese company compromised cooperation cuomo espionage evidence examine executive firm former founder full governor helped hired hires huang investigate investigation jensen joon kim law led lipton national nvidia pledged puts reason scrutiny secrets security street times top under unprecedented wachtell wall who york"
+  ],
+  [
+   1794340663.8212028,
+   "goldman high hikes inflation interest lead next rate sachs warns year"
+  ],
+  [
+   1794340666.1483305,
+   "$msft $nvda 032 035 become cap company market microsoft nvidia officially second surpasses trillion valuable world"
+  ],
+  [
+   1794340669.7271192,
+   "all card credit debt high reaches time trillion"
+  ],
+  [
+   1794340672.3096828,
+   "basis federal fomc interest meeting next points projected raise rates reserve"
+  ],
+  [
+   1794340675.1754127,
+   "$nvda ceo consider house huang jensen nvidia republicans subpoenaing"
+  ],
+  [
+   1794340677.914894,
+   "$64 anthropic artificial billion breaking com company filing giant https initial insiderpaper intelligence ipo offering plans public putting raise read total trillion tuesday upcoming valuation"
+  ],
+  [
+   1794340680.5702689,
+   "among breaking companies knocking nvidia out place plunge second shares valuable world"
+  ],
+  [
+   1794340683.0354474,
+   "fed hiring lately pretty robust schmid"
+  ],
+  [
+   1794340685.0646198,
+   "accommodative benchmark fairly fed rate schmid today"
+  ],
+  [
+   1794340687.0751228,
+   "any argue but can dynamic elsewhere fed find going housing interesting restriction schmid through"
+  ],
+  [
+   1794340689.1361296,
+   "cause demand fed hesitation not rates schmid strong"
+  ],
+  [
+   1794340691.1241858,
+   "fed inflation mind schmid top"
+  ],
+  [
+   1794340693.1319501,
+   "asset digital fed instant leap payments predicts schmid structures"
+  ],
+  [
+   1794340695.1148002,
+   "between data december fed interesting lot meeting now points schmid"
+  ],
+  [
+   1794340697.139159,
+   "$35b delaying listing mulls nscale off sell telegraph"
+  ],
+  [
+   1794340699.1447034,
+   "$nvda china huang nyt relationship reminded route trump"
+  ],
+  [
+   1794340701.1244643,
+   "$86 barrel cents crude dec down futures nymex settle wti"
+  ],
+  [
+   1794340703.1422021,
+   "6088 dec futures gallon gasoline nymex settle"
+  ],
+  [
+   1794340705.3431818,
+   "2960 december futures gas mmbtu natural nymex settle"
+  ],
+  [
+   1794340707.3867462,
+   "abc ceo considering gop house issuing nvidia subpoena"
+  ],
+  [
+   1794340709.3629534,
+   "$91 bbl brent crude down futures settle"
+  ],
+  [
+   1794340861.3849752,
+   "defense democrat ecosystem energy fitch healthcare mixed ratings win"
+  ],
+  [
+   1794340863.3196862,
+   "computing futures postpones push regulator street trade wall"
+  ],
+  [
+   1794341218.9526389,
+   "fall low nvidia session shares"
   ]
  ]
 }
