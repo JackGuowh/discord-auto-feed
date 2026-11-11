@@ -145,6 +145,17 @@ CAL_COUNTRIES = ["US"]               # 只列这些国家（只要美股相关 =
 CAL_DATA_MIN_IMPORTANCE = 2          # 经济数据：重要度 ≥ 2 列出
 CAL_EVENT_MIN_IMPORTANCE = 3         # 事件（发布会、讲话等）：重要度 ≥ 3 列出
 CAL_HIGHLIGHT_IMPORTANCE = 3         # 重要度 ≥ 3 的高亮显示
+# 美联储官员讲话：只列有投票权的（主席、副主席、理事、纽约联储 + 当年轮值的地区联储）
+CAL_FED_ALWAYS = ["美联储主席", "美联储副主席", "美联储理事", "纽约联储", "FOMC", "鲍威尔", "沃什"]
+CAL_FED_VOTERS = {2026: ["克利夫兰联储", "费城联储", "达拉斯联储", "明尼阿波利斯联储"],
+                  2027: ["芝加哥联储", "里士满联储", "亚特兰大联储", "旧金山联储"],
+                  2028: ["克利夫兰联储", "波士顿联储", "圣路易斯联储", "堪萨斯城联储"]}
+# 非美国但影响美股的事件（华尔街见闻日历里含这些词的才列）
+CAL_GLOBAL_KEYWORDS = ["台积电", "G7", "G20", "OPEC", "欧佩克", "美俄", "美中", "中美", "俄乌", "美伊", "关税"]
+# IPO：只列募资 ≥ 10 亿美元，或下面这些知名公司
+CAL_IPO_MIN_USD = 1e9
+CAL_IPO_NOTABLE = ["ANTHROPIC", "SPACEX", "OPENAI", "STRIPE", "DATABRICKS", "XAI", "ANDURIL", "REVOLUT",
+                   "CANVA", "SHEIN", "KLARNA", "DISCORD", "RAMP", "CEREBRAS", "PERPLEXITY", "SCALE AI"]
 CAL_STAR_EARNINGS = 15             # 本周最受关注的前 15 家财报加粗高亮
 CAL_MACRO_PER_DAY = 7               # 每天最多列几条经济数据/事件（重要的优先）
 CAL_EARNINGS_PER_DAY = 5             # 日历图里每天列出的热门财报数量
