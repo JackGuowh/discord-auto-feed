@@ -141,10 +141,11 @@ def run_daily(state):
         lines.append("**今日期权成交最活跃**\n" + "\n".join(rows))
     if not lines:
         return
-    post(WEBHOOK, embeds=[embed(
-        title=f"📊 每日期权情绪（{now_et():%m月%d日}）", description="\n\n".join(lines), color=0x7C3AED,
+    # 收盘后算好、存起来，第二天早上 7:30（美东）再推送
+    state["opt_daily_embed"] = embed(
+        title=f"📊 每日期权情绪（{now_et():%m月%d日}收盘）", description="\n\n".join(lines), color=0x7C3AED,
         footer="数据：Cboe / Yahoo Finance · 股票期权看跌/看涨比 > 0.8 偏恐慌，< 0.5 偏贪婪（仅供参考）",
-    )])
+    )
 
 
 # ---------------- 3. 每周一：财报预期波动 + SPY/QQQ 关键价位 ----------------
@@ -268,9 +269,14 @@ def run(state):
         if time.time() - state.get("opt_flow_last", 0) >= C.OPTIONS_FLOW_MINUTES * 60:
             state["opt_flow_last"] = time.time()
             run_flow(state)
+    # 收盘后（17:30 起）计算前一交易日的期权情绪，第二天早上 7:30 推送
     if wd < 5 and "17:30" <= hm <= "23:30" and state.get("opt_daily") != today:
         state["opt_daily"] = today
         run_daily(state)
+    if wd < 5 and C.OPTIONS_DAILY_POST_AT <= hm <= "11:00" and state.get("opt_daily_posted") != today \
+            and state.get("opt_daily_embed"):
+        state["opt_daily_posted"] = today
+        post(WEBHOOK, embeds=[state.pop("opt_daily_embed")])
     if wd == 0 and "08:30" <= hm <= "12:00" and state.get("opt_weekly") != today:
         state["opt_weekly"] = today
         run_weekly(state)
