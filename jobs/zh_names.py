@@ -34,7 +34,7 @@ ZH = {
     "ENPH": "Enphase", "FSLR": "First Solar", "OXY": "西方石油", "COP": "康菲", "SLB": "斯伦贝谢",
     "SKHY": "SK海力士", "QXO": "QXO", "CVNA": "Carvana", "IP": "国际纸业", "UBS": "瑞银", "STM": "意法半导体",
     "TWLO": "Twilio", "CAKE": "芝乐坊", "VMC": "火神材料", "CNC": "Centene", "AMKR": "安靠", "PNR": "滨特尔",
-    "CARR": "开利", "APP": "AppLovin", "FI": "Fiserv", "LITE": "Lumentum", "COHR": "Coherent", "CART": "Instacart",
+    "CARR": "开利", "NBIS": "Nebius", "ASTS": "AST SpaceMobile", "CBRS": "Cerebras", "APP": "AppLovin", "FI": "Fiserv", "LITE": "Lumentum", "COHR": "Coherent", "CART": "Instacart",
     "OKLO": "Oklo", "TEM": "Tempus AI", "CHKP": "Check Point", "EL": "雅诗兰黛", "CAH": "卡地纳健康", "U": "Unity",
     "GFS": "格芯", "RIOT": "Riot", "DUOL": "多邻国", "AFRM": "Affirm", "TTD": "The Trade Desk",
     "PLUG": "Plug Power", "IONQ": "IonQ", "RKLB": "Rocket Lab", "HIMS": "Hims & Hers", "CELH": "Celsius", "BSX": "波士顿科学", "SPCX": "SpaceX", "CRWV": "CoreWeave", "ROKU": "Roku",

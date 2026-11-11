@@ -3,6 +3,7 @@
 2. 下周财经日历：华尔街见闻财经日历筛选后，生成一张中文日历图片
 """
 import html
+import json
 import os
 import re
 from collections import defaultdict
@@ -120,6 +121,89 @@ def post_earnings(monday, ew):
 
 
 # ---------------------------------------------------------------- 财经日历
+def is_fed_voter(title, year):
+    """美联储官员讲话：主席/副主席/理事/纽约联储 + 当年有 FOMC 投票权的地区联储。"""
+    if not ("联储" in title or "FOMC" in title):
+        return False
+    if any(k in title for k in C.CAL_FED_ALWAYS):
+        return True
+    return any(k in title for k in C.CAL_FED_VOTERS.get(year, []))
+
+
+def fetch_ipos(monday):
+    """Nasdaq IPO 日历：下周定价的大型 / 知名 IPO。"""
+    out = []
+    sunday = monday + timedelta(days=6)
+    months = {monday.strftime("%Y-%m"), sunday.strftime("%Y-%m")}
+    for ym in sorted(months):
+        try:
+            d = get("https://api.nasdaq.com/api/ipo/calendar", params={"date": ym},
+                    headers={"Origin": "https://www.nasdaq.com", "Referer": "https://www.nasdaq.com/"}).json()
+            rows = (((d.get("data") or {}).get("upcoming") or {}).get("upcomingTable") or {}).get("rows") or []
+        except Exception as e:  # noqa: BLE001
+            print(f"[weekly] IPO 日历获取失败: {e}")
+            continue
+        for r in rows:
+            try:
+                day = datetime.strptime(r.get("expectedPriceDate", ""), "%m/%d/%Y").date()
+            except ValueError:
+                continue
+            if not (monday <= day <= sunday):
+                continue
+            usd = float(re.sub(r"[^\d.]", "", r.get("dollarValueOfSharesOffered") or "0") or 0)
+            name = (r.get("companyName") or "").strip()
+            if usd < C.CAL_IPO_MIN_USD and not any(k in name.upper() for k in C.CAL_IPO_NOTABLE):
+                continue
+            out.append({"day": day, "name": name, "ticker": r.get("proposedTickerSymbol", ""),
+                        "usd": usd, "price": r.get("proposedSharePrice", "")})
+    return out
+
+
+def fed_odds():
+    """Polymarket：最近一次美联储议息会议的市场押注（取概率最高的两项）。"""
+    zh = {"no change": "按兵不动", "25 bps increase": "加息 25bp", "50+ bps increase": "加息 50bp 以上",
+          "25 bps decrease": "降息 25bp", "50+ bps decrease": "降息 50bp 以上"}
+    try:
+        evs = get("https://gamma-api.polymarket.com/events",
+                  params={"tag_slug": "fed-rates", "active": "true", "closed": "false", "limit": 50}).json()
+    except Exception as e:  # noqa: BLE001
+        print(f"[weekly] Polymarket 获取失败: {e}")
+        return None
+    evs = [e for e in evs if re.match(r"Fed Decision in \w+\?", e.get("title", ""))]
+    if not evs:
+        return None
+    ev = min(evs, key=lambda e: e.get("endDate", "9999"))
+    odds = []
+    for m in ev.get("markets") or []:
+        try:
+            p = float(json.loads(m.get("outcomePrices") or "[]")[0])
+        except (ValueError, IndexError):
+            continue
+        odds.append((p, zh.get((m.get("groupItemTitle") or "").lower(), m.get("groupItemTitle"))))
+    odds.sort(reverse=True)
+    month = re.search(r"in (\w+)\?", ev["title"]).group(1)
+    month_zh = {"January": "1", "February": "2", "March": "3", "April": "4", "May": "5", "June": "6", "July": "7",
+                "August": "8", "September": "9", "October": "10", "November": "11", "December": "12"}.get(month, month)
+    return f"{month_zh} 月议息会议", odds[:2]
+
+
+def earnings_moves(tickers, monday):
+    """重点财报的期权预期波动：财报所在周的周五（或之后第一个）到期的平值跨式 ÷ 股价。"""
+    from jobs.options import chain, straddle_move
+    friday = monday + timedelta(days=4)
+    out = {}
+    for t in tickers:
+        try:
+            px, _, opts = chain(t)
+            exps = sorted({o["exp"] for o in opts if o["exp"] >= friday})
+            mv = straddle_move(px, opts, exps[0]) if exps else None
+            if mv:
+                out[t] = mv
+        except Exception as e:  # noqa: BLE001
+            print(f"[weekly] {t} 期权预期波动失败: {e}")
+    return out
+
+
 def fetch_calendar(monday):
     tz = ZoneInfo(C.CAL_TZ)
     start = datetime.combine(monday, dtime(0, 0), tz)
@@ -133,10 +217,18 @@ def fetch_calendar(monday):
         imp = x.get("importance") or 1
         is_data = x.get("calendar_type") == "FD"
         title = (x.get("title") or "").strip()
-        if x.get("country_id") not in C.CAL_COUNTRIES:
+        if not title:
+            continue
+        us = x.get("country_id") in C.CAL_COUNTRIES
+        glob = not us and any(k in title for k in C.CAL_GLOBAL_KEYWORDS)  # 台积电营收、G7、OPEC 等
+        if not us and not glob:
             continue
         ok = imp >= (C.CAL_DATA_MIN_IMPORTANCE if is_data else C.CAL_EVENT_MIN_IMPORTANCE)
-        if not ok or not title:
+        if us and not is_data and not ok and is_fed_voter(title, monday.year):
+            ok, imp = True, 2  # 有投票权的美联储官员讲话
+        if glob:
+            ok = True
+        if not ok:
             continue
         # FOMC 利率上下限只保留一条
         if title.endswith("(下限)") and title.replace("(下限)", "(上限)") in titles:
@@ -228,6 +320,10 @@ def build_days(monday, rows, ew, names):
         txt = "、".join(zh_name(t, names.get(t, "")) for t in ts) + "财报"
         days[d].append({"key": 0 if label == "盘前" else 16 * 60, "t": label, "x": txt, "small": "",
                         "k": bool(big), "kind": "er", "tickers": ts, "stars": big})
+    for ipo in (ew or {}).get("ipos", []):
+        usd = f"募资约 ${ipo['usd'] / 1e8:.0f} 亿" if ipo["usd"] else ""
+        days[ipo["day"]].append({"key": 16 * 60 + 30, "t": "IPO", "kind": "ipo", "k": True,
+                                 "x": f"{ipo['name']}（${ipo['ticker']}）定价", "small": usd, "ipo": ipo})
     for d in days:
         days[d].sort(key=lambda x: x["key"])
     return days
@@ -235,33 +331,51 @@ def build_days(monday, rows, ew, names):
 
 def day_tag(items):
     txt = " ".join(i["x"] for i in items if i["k"])
-    if any(w in txt for w in FED_WORDS):
+    if any(w in txt for w in ("FOMC", "利率决议", "议息")):
         return "议息焦点"
+    if any(w in txt for w in ("CPI", "PPI", "PCE")):
+        return "通胀焦点"
     if any(w in txt for w in DATA_WORDS):
         return "数据焦点"
+    if sum(len(i.get("stars") or []) for i in items if i["kind"] == "er") >= 3:
+        return "财报焦点"
     return ""
 
 
-def watch_points(monday, days, names):
+def watch_points(monday, days, names, extra=None):
     """市场关注：根据本周数据自动生成的要点（不做主观判断）。"""
     pts = []
+    extra = extra or {}
     def wd(d):
         return f"周{WD[d.weekday()]}"
     fed = [(d, i) for d, its in sorted(days.items()) for i in its
            if i["kind"] == "macro" and i["k"] and any(w in i["x"] for w in FED_WORDS)]
-    if fed:
-        pts.append("<b>货币政策：</b>" + "；".join((f"{wd(d)}（北京时间次日 {i['t'][:5]}）{i['x']}" if "+1" in i["t"] else f"{wd(d)} {i['t']} {i['x']}") for d, i in fed[:3]) + "。")
+    odds = extra.get("fed_odds")
+    if fed or odds:
+        txt = "；".join((f"{wd(d)}（北京时间次日 {i['t'][:5]}）{i['x']}" if "+1" in i["t"] else f"{wd(d)} {i['t']} {i['x']}")
+                       for d, i in fed[:3])
+        if odds:
+            txt += ("；" if txt else "") + f"Polymarket 对{odds[0]}的押注：" + "、".join(
+                f"{name} {p * 100:.0f}%" for p, name in odds[1])
+        pts.append("<b>货币政策：</b>" + txt + "。")
     data = [(d, i) for d, its in sorted(days.items()) for i in its
             if i["kind"] == "macro" and i["k"] and not any(w in i["x"] for w in FED_WORDS)]
     if data:
-        pts.append("<b>重磅数据：</b>" + "；".join(f"{wd(d)} {i['x']}" for d, i in data[:5]) + "。")
+        pts.append("<b>重磅数据：</b>" + "；".join(
+            f"{wd(d)} {i['x']}" + (f"（{i['small']}）" if i.get("small") else "") for d, i in data[:4]) + "。")
     big = []
     for d, its in sorted(days.items()):
         for i in its:
             if i["kind"] == "er" and i["stars"]:
-                big.append(f"{wd(d)}{i['t']} " + "、".join(zh_name(t, names.get(t, "")) for t in i["stars"][:4]))
+                big.append(f"{wd(d)}{i['t']} " + "、".join(
+                    zh_name(t, names.get(t, "")) + (f"（期权预期 ±{extra['moves'][t]:.0f}%）" if t in extra.get("moves", {}) else "")
+                    for t in i["stars"][:4]))
     if big:
-        pts.append("<b>重点财报：</b>" + "；".join(big[:6]) + "。")
+        pts.append("<b>重点财报：</b>" + "；".join(big[:5]) + "。")
+    ipos = [i for its in days.values() for i in its if i["kind"] == "ipo"]
+    if ipos:
+        pts.append("<b>重点 IPO：</b>" + "；".join(f"{wd(i['ipo']['day'])} {i['x']}" + (f"，{i['small']}" if i["small"] else "")
+                                               for i in ipos[:3]) + "。")
     sunday = monday + timedelta(days=6)
     hol = [f"{datetime.fromisoformat(k):%m/%d} {v}美股休市" for k, v in US_HOLIDAYS.items()
            if monday.isoformat() <= k <= sunday.isoformat()]
@@ -297,7 +411,9 @@ def render_calendar(browser, monday, rows, ew, names=None):
         blocks.append(f'<div class="day{" hl" if tag else ""}"><div class="dl"><b>{d.month}/{d.day}</b>'
                       f'<span>周{WD[d.weekday()]}</span>{f"<br><i>{tag}</i>" if tag else ""}</div>'
                       f'<div class="items">{li}</div></div>')
-    pts = watch_points(monday, days, names)
+    stars = [t for its in days.values() for i in its if i["kind"] == "er" for t in (i.get("stars") or [])]
+    extra = {"fed_odds": fed_odds(), "moves": earnings_moves(stars[:8], monday)}
+    pts = watch_points(monday, days, names, extra)
     watch = "".join(f'<div class="wt"><div class="n">{n:02d}</div><div class="x">{p}</div></div>'
                     for n, p in enumerate(pts, 1))
     sunday = monday + timedelta(days=6)
@@ -309,7 +425,7 @@ def render_calendar(browser, monday, rows, ew, names=None):
  <div class="sec">重要日程<small>○ 橙色 = 重点关注</small></div>
  {''.join(blocks) or '<div class="day">暂无数据</div>'}
  {f'<div class="sec">市场关注<small>根据本周日程自动整理</small></div>{watch}' if watch else ''}
- <div class="ft"><span>数据：华尔街见闻 · Earnings Whispers</span><span>生成于 {now_et():%Y-%m-%d}</span></div>
+ <div class="ft"><span>数据：华尔街见闻 · Earnings Whispers · Cboe · Polymarket · Nasdaq</span><span>生成于 {now_et():%Y-%m-%d}</span></div>
 </div></body></html>"""
     page = browser.new_page(viewport={"width": 760, "height": 1200}, device_scale_factor=2)
     try:
@@ -372,6 +488,7 @@ def main():
             except Exception as e:  # noqa: BLE001
                 print(f"[weekly] 财经日历获取失败: {e}")
                 rows = []
+            ew["ipos"] = fetch_ipos(monday)
             png = render_calendar(browser, monday, rows, ew, company_names(monday))
             post_calendar(monday, rows, png)
         finally:

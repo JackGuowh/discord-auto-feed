@@ -143,7 +143,7 @@ def run_daily(state):
         return
     # 收盘后算好、存起来，第二天早上 7:30（美东）再推送
     state["opt_daily_embed"] = embed(
-        title=f"📊 每日期权情绪（{now_et():%m月%d日}收盘）", description="\n\n".join(lines), color=0x7C3AED,
+        title=f"📊 昨日期权情绪（{now_et():%m月%d日}收盘）", description="\n\n".join(lines), color=0x7C3AED,
         footer="数据：Cboe / Yahoo Finance · 股票期权看跌/看涨比 > 0.8 偏恐慌，< 0.5 偏贪婪（仅供参考）",
     )
 

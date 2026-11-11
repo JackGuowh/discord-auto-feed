@@ -148,7 +148,7 @@ def fear_greed_text(d):
     return score, rating, text
 
 
-def post_fear_greed():
+def post_fear_greed(mode="close"):
     d = get("https://production.dataviz.cnn.io/index/fearandgreed/graphdata").json()
     score, rating, text = fear_greed_text(d)
     ts = datetime.fromisoformat(d["fear_and_greed"]["timestamp"]).astimezone(ET)
@@ -163,7 +163,8 @@ def post_fear_greed():
         except Exception as e2:  # noqa: BLE001
             print(f"[market] 仪表盘图生成失败，只发文字: {e2}")
     post(WEBHOOK, files=files, embeds=[embed(
-        title="😱 恐惧贪婪指数", description=text, color=0xEA580C,
+        title="😱 恐惧贪婪指数" + ("（昨日收盘）" if mode == "fg" else "（今日收盘）"),
+        description=text, color=0xEA580C,
         image="attachment://fear_greed.png" if files else None,
         footer="数据：CNN Fear & Greed Index · 仅供参考，不构成投资建议",
     )])
@@ -201,7 +202,7 @@ def main():
         print("[market] 今天不是交易日，跳过")
         return
     try:
-        post_fear_greed()
+        post_fear_greed(mode)
     except Exception as e:  # noqa: BLE001
         print(f"[market] 恐惧贪婪指数失败: {e}")
     if mode == "close":
