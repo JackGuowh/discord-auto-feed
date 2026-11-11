@@ -334,10 +334,8 @@ def build_days(monday, rows, ew, names):
 
 def day_tag(items):
     txt = " ".join(i["x"] for i in items if i["k"])
-    if any(w in txt for w in ("FOMC", "利率决议", "议息")):
+    if any(w in txt for w in FED_WORDS):
         return "议息焦点"
-    if any(w in txt for w in ("CPI", "PPI", "PCE")):
-        return "通胀焦点"
     if any(w in txt for w in DATA_WORDS):
         return "数据焦点"
     if sum(len(i.get("stars") or []) for i in items if i["kind"] == "er") >= 3:
@@ -365,7 +363,7 @@ def watch_points(monday, days, names, extra=None):
             if i["kind"] == "macro" and i["k"] and not any(w in i["x"] for w in FED_WORDS)]
     if data:
         pts.append("<b>重磅数据：</b>" + "；".join(
-            f"{wd(d)} {i['x']}" + (f"（{i['small']}）" if i.get("small") else "") for d, i in data[:4]) + "。")
+            f"{wd(d)} {i['x']}" + (f"（{i['small']}）" if i.get("small") else "") for d, i in data[:5]) + "。")
     big = []
     for d, its in sorted(days.items()):
         for i in its:
@@ -374,7 +372,7 @@ def watch_points(monday, days, names, extra=None):
                     zh_name(t, names.get(t, "")) + (f"（期权预期 ±{extra['moves'][t]:.0f}%）" if t in extra.get("moves", {}) else "")
                     for t in i["stars"][:4]))
     if big:
-        pts.append("<b>重点财报：</b>" + "；".join(big[:5]) + "。")
+        pts.append("<b>重点财报：</b>" + "；".join(big[:6]) + "。")
     ipos = [i for its in days.values() for i in its if i["kind"] == "ipo"]
     if ipos:
         pts.append("<b>重点 IPO：</b>" + "；".join(f"{wd(i['ipo']['day'])} {i['x']}" + (f"，{i['small']}" if i["small"] else "")
