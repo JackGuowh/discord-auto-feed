@@ -8,10 +8,10 @@ from common import load_state, now_et, save_state
 # (任务名, 工作流文件, 参数, 星期几[0=周一], 开始时间, 结束时间)  —— 均为美东时间
 TASKS = [
     ("movers_pre", "movers.yml", {"mode": "pre"}, range(0, 5), "09:00", "09:29"),
-    ("market_fg", "market.yml", {"mode": "fg"}, range(0, 5), "09:35", "11:00"),
+    ("market_fg", "market.yml", {"mode": "fg"}, range(0, 5), "08:30", "09:29"),   # 开盘前 8:30 推恐惧贪婪指数
     ("market_close", "market.yml", {"mode": "close"}, range(0, 5), "16:25", "19:00"),
     ("movers_post", "movers.yml", {"mode": "post"}, range(0, 5), "16:45", "19:00"),
-    ("weekly", "weekly.yml", {}, [6], "18:00", "23:59"),
+    ("weekly", "weekly.yml", {}, [6], "07:30", "12:00"),   # 周日早上 7:30 推下周财报 + 财经周历
 ]
 
 

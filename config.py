@@ -156,6 +156,7 @@ EARNINGS_MAX_TICKERS = 60            # 财报帖里最多列出多少个代码
 OPTIONS_WATCHLIST = ["SPY", "QQQ", "IWM", "NVDA", "TSLA", "AAPL", "MSFT", "AMZN", "META", "GOOGL",
                      "AMD", "AVGO", "PLTR", "MU", "NFLX", "COIN", "MSTR", "HOOD", "SMCI", "ORCL",
                      "UNH", "JPM", "BA", "INTC", "SOFI", "MARA", "ARM", "TSM", "LLY", "XLF"]
+OPTIONS_DAILY_POST_AT = "07:30"    # 每日期权情绪：前一天收盘后计算，第二天这个时间（美东）推送
 OPTIONS_FLOW_ENABLED = False      # 异常期权大单：分不清买方卖方，参考价值低，已关闭
 OPTIONS_FLOW_MINUTES = 30          # 盘中每 30 分钟扫描一次
 OPTIONS_FLOW_MIN_PREMIUM = 1_000_000   # 成交额至少 100 万美元
