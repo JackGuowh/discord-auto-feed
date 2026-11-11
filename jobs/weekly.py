@@ -224,10 +224,11 @@ def fetch_calendar(monday):
         if not us and not glob:
             continue
         ok = imp >= (C.CAL_DATA_MIN_IMPORTANCE if is_data else C.CAL_EVENT_MIN_IMPORTANCE)
+        added = False
         if us and not is_data and not ok and is_fed_voter(title, monday.year):
-            ok, imp = True, 2  # 有投票权的美联储官员讲话
+            ok, imp, added = True, 2, True  # 有投票权的美联储官员讲话（新增类别）
         if glob:
-            ok = True
+            ok, added = True, True          # 影响美股的非美国事件（新增类别）
         if not ok:
             continue
         # FOMC 利率上下限只保留一条
@@ -244,7 +245,7 @@ def fetch_calendar(monday):
         if x.get("previous"):
             extra.append(f"前值 {x['previous']}{unit}")
         rows.append({"dt": dt, "tbd": tbd, "title": title, "extra": " · ".join(extra),
-                     "imp": imp, "event": not is_data})
+                     "imp": imp, "event": not is_data, "added": added})
     rows.sort(key=lambda r: (r["dt"].date(), r["tbd"], r["dt"]))
     return rows
 
@@ -306,10 +307,12 @@ def build_days(monday, rows, ew, names):
             key = et.hour * 60 + et.minute
         key = max(key, 1)
         days[d].append({"key": key, "t": label, "x": r["title"], "small": r["extra"],
-                        "k": r["imp"] >= C.CAL_HIGHLIGHT_IMPORTANCE, "kind": "macro"})
+                        "k": r["imp"] >= C.CAL_HIGHLIGHT_IMPORTANCE, "kind": "macro",
+                        "added": r.get("added", False)})
     for d in list(days):
-        keep = sorted(days[d], key=lambda x: (-x["k"], x["key"]))[: C.CAL_MACRO_PER_DAY]
-        days[d] = keep
+        # 原有内容按原规则保留（每天最多 CAL_MACRO_PER_DAY 条）；新增类别额外加上，不挤掉原有内容
+        base = sorted([x for x in days[d] if not x["added"]], key=lambda x: (-x["k"], x["key"]))[: C.CAL_MACRO_PER_DAY]
+        days[d] = base + [x for x in days[d] if x["added"]]
     stars = set(ordered_tickers(ew)[: C.CAL_STAR_EARNINGS]) if ew else set()
     for d, label, ts in (ew or {}).get("sessions", []):
         ts = [t for t in ts if not (len(t) == 5 and t[-1] in "YF")]  # 去掉场外 ADR
@@ -390,7 +393,7 @@ def watch_points(monday, days, names, extra=None):
             pts.append(f"<b>时间调整：</b>{dd:%m/%d} 起美国{'结束' if later else '开始'}夏令时，"
                        f"美股交易和数据发布的北京时间{'推迟' if later else '提前'}一小时。")
             break
-    return pts[:5]
+    return pts[:7]
 
 
 def render_calendar(browser, monday, rows, ew, names=None):
