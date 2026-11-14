@@ -86,9 +86,6 @@
   "rss:https://www.ftchinese.com/story/001111070"
  ],
  "truth": [
-  "truth:https://www.trumpstruth.org/statuses/42559",
-  "truth:https://www.trumpstruth.org/statuses/42560",
-  "truth:https://www.trumpstruth.org/statuses/42561",
   "truth:https://www.trumpstruth.org/statuses/42562",
   "truth:https://www.trumpstruth.org/statuses/42563",
   "truth:https://www.trumpstruth.org/statuses/42564",
@@ -885,7 +882,10 @@
   "truth:https://www.trumpstruth.org/statuses/43566",
   "truth:https://www.trumpstruth.org/statuses/43569",
   "truth:https://www.trumpstruth.org/statuses/43568",
-  "truth:https://www.trumpstruth.org/statuses/43570"
+  "truth:https://www.trumpstruth.org/statuses/43570",
+  "truth:https://www.trumpstruth.org/statuses/43573",
+  "truth:https://www.trumpstruth.org/statuses/43571",
+  "truth:https://www.trumpstruth.org/statuses/43572"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1712,9 +1712,6 @@
   "wscn:3200128"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37440",
-  "tg:WalterBloomberg/37439",
-  "tg:WalterBloomberg/37443",
   "tg:WalterBloomberg/37442",
   "tg:WalterBloomberg/37441",
   "tg:WalterBloomberg/37445",
@@ -2511,7 +2508,10 @@
   "tg:WalterBloomberg/38398",
   "tg:WalterBloomberg/38397",
   "tg:WalterBloomberg/38404",
-  "tg:WalterBloomberg/38403"
+  "tg:WalterBloomberg/38403",
+  "tg:WalterBloomberg/38407",
+  "tg:WalterBloomberg/38406",
+  "tg:WalterBloomberg/38405"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2847,7 +2847,11 @@
   "tg:WatcherGuru/16025",
   "tg:WatcherGuru/16033",
   "tg:WatcherGuru/16032",
-  "tg:WatcherGuru/16030"
+  "tg:WatcherGuru/16030",
+  "tg:WatcherGuru/16040",
+  "tg:WatcherGuru/16039",
+  "tg:WatcherGuru/16037",
+  "tg:WatcherGuru/16035"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -3023,7 +3027,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794670940.458644,
+ "congress_last_check": 1794686915.4606533,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3076,7 +3080,7 @@
   "market_close:2026-11-13",
   "movers_post:2026-11-13"
  ],
- "earnings_last_check": 1794671551.8067386,
+ "earnings_last_check": 1794687611.7627277,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3377,7 +3381,7 @@
   "er:2026-11-12:QXO",
   "er:2026-11-13:BFRI"
  ],
- "gas_last_check": 1794670941.0184813,
+ "gas_last_check": 1794686915.9347913,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4110,7 +4114,9 @@
   "gas:CBMi1wFBVV95cUxORGlmUl9paFNQNmRmZFc4bXltc2didl9JUGFXX2VsT2xsSlZndXBCcktMb180UnktejM4Z0N1Q0lTSXlwbExVRmJfRmRPdE92RHlJMHM2b3p2WVdhVFlvbDJWakM5NVp4ek5nbXpXMC05RVdXY0kwWFNSV3d6VGxubUFqWGdjeFVQZXFIb2VIbXFSMWpraXo1d1IwUE1TZ01lSVFJNHh3YUJIdHhEVlBsRFo0MGVfZlB1dGJyaTRzNmFyLUFzRmFaWFBCUGRIbXRzU3otajNlWQ",
   "gas:CBMilgFBVV95cUxQOUZFcG0tNXdRMHkzVEotRXp4bUtrMkVTUG1MdDNUcXVfUVNQTU11M2p5S1FpWVBrSEpGekd4MFJrRUZvS2JEVXhScURZV0FLenFWeHZYMVRKYTc0aWF1Z1VpQTRncWZ3T1AxYlBlVXZlTWYtQzkydUUyWF9zc1pCTy1xc0ltWlhvdzA4ZHhBMERxS1J3Q3c",
   "gas:CBMijwFBVV95cUxOZzBsU2dtSjZWeTlXQ3FUU3ZKdEdScFg2QWRZblp6VFNHc05XdVpwOU1jNjFiRnF4Y1Q4U2RfUjBuREF5Y0JsdkZnSmhqdXRaT2dIY2Itdng1aV9RSUd5S3J6MG8teTdaMnNGQXhyNzNWNWJLeGFTbkY4TUtwSGVjUHlkbThnY05QUGZRNGQ2WQ",
-  "gas:CBMiW0FVX3lxTE15OWh0MVJWMzRFT0EtSVdDNTlQa01WUTloX2dxSTFuSlpobHY2V0theENDaUV4TmNFWHJ4WW10NjYxeV9sY09oeWpGa3ZUSDBPdW1XRE1mYXVMRkk"
+  "gas:CBMiW0FVX3lxTE15OWh0MVJWMzRFT0EtSVdDNTlQa01WUTloX2dxSTFuSlpobHY2V0theENDaUV4TmNFWHJ4WW10NjYxeV9sY09oeWpGa3ZUSDBPdW1XRE1mYXVMRkk",
+  "gas:CBMiggFBVV95cUxQOERMSkZTZjgxMEhoYUc1cFd5VGhNemdqOFhkMlBzdmFabGVPQjlhWnhJaXN0d21mdDZKbFJ1V0FCbnUtY2hINTM0eWpKY090WXI4T1BrdXp3bTc5ZU9QT1hiWkY5WDdOazJuU2J2dnJMZlU3MWNsaWh6Q01FWTk5aTB3",
+  "gas:CBMizgFBVV95cUxOMFBCMGxPV19OMjl5aUtQeVdzYUhsb3hHdzg3QUE5QjkwdzB3OGlXTlBhREdBNVp6SjJqdWRkVnlSRThlSHc3RFRkVDRRX1dWekt5SUVyaWhIZ2I1d0dJQmlDQk5hOEFibmRFbFZlMHF4bHg5TDJ1RTNqM0kwYkdzVm9YaUlOTHVjN0J4d2hTQzZSNzZ6REthOWlndmREZWttVzE0MzVXaGE1WGRGdE8xaEM3Wk82aURJYzVZSWQ3b2wwSVdHUnNodW5NS2gzZw"
  ],
  "shows_last_day": "2026-11-14",
  "shows_init": "2026-10-22",
@@ -5369,7 +5375,10 @@
   "tg:insiderpaper/45908",
   "tg:insiderpaper/45907",
   "tg:insiderpaper/45906",
-  "tg:insiderpaper/45905"
+  "tg:insiderpaper/45905",
+  "tg:insiderpaper/45911",
+  "tg:insiderpaper/45910",
+  "tg:insiderpaper/45909"
  ],
  "opt_daily": "2026-11-13",
  "opt_flow_last": 1793045302.4056692,
@@ -5530,19 +5539,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144883",
-  "tg:FinancialJuice/144882",
-  "tg:FinancialJuice/144881",
-  "tg:FinancialJuice/144880",
-  "tg:FinancialJuice/144879",
-  "tg:FinancialJuice/144878",
-  "tg:FinancialJuice/144877",
-  "tg:FinancialJuice/144876",
-  "tg:FinancialJuice/144875",
-  "tg:FinancialJuice/144874",
-  "tg:FinancialJuice/144873",
-  "tg:FinancialJuice/144872",
-  "tg:FinancialJuice/144871",
   "tg:FinancialJuice/144870",
   "tg:FinancialJuice/144869",
   "tg:FinancialJuice/144953",
@@ -6329,30 +6325,23 @@
   "tg:FinancialJuice/147263",
   "tg:FinancialJuice/147262",
   "tg:FinancialJuice/147261",
-  "tg:FinancialJuice/147260"
+  "tg:FinancialJuice/147260",
+  "tg:FinancialJuice/147292",
+  "tg:FinancialJuice/147291",
+  "tg:FinancialJuice/147290",
+  "tg:FinancialJuice/147289",
+  "tg:FinancialJuice/147288",
+  "tg:FinancialJuice/147287",
+  "tg:FinancialJuice/147286",
+  "tg:FinancialJuice/147285",
+  "tg:FinancialJuice/147284",
+  "tg:FinancialJuice/147283",
+  "tg:FinancialJuice/147282",
+  "tg:FinancialJuice/147281",
+  "tg:FinancialJuice/147280"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1794234854.758151,
-   "5M|8黄|AM|D升|MD|Me|a博|et|ta|亚马|仁勋|伟达|公开|分化|初走|势分|勋承|化英|升近|升逾|博通|外情|大跌|婚外|并公|开致|情并|承认|技股|斯麦|明星|星科|歉亚|歌升|盘初|科技|美股|股明|股盘|致歉|英伟|认婚|谷歌|走势|跌近|达大|近4|近8|逊A|通阿|逾5|阿斯|马逊|麦谷|黄仁"
-  ],
-  [
-   1794234856.223127,
-   "13|1纳|三大|初均|均涨|大股|大至|幅扩|扩大|指涨|指盘|涨幅|涨超|盘初|纳指|美股|股三|股指|至1|超1"
-  ],
-  [
-   1794234911.7704396,
-   "22|2能|35|43|5在|ET|F可|F涨|F网|F跌|TF|业E|全球|初领|可选|在美|指数|数E|消费|涨2|涨4|源业|球航|盘初|空业|络股|网络|美股|股指|股盘|能源|航空|行业|费E|跌1|跑行|选消|领跑"
-  ],
-  [
-   1794235092.4497476,
-   "Fo|ay|da|nd|ou|o在|un|yo|三阶|中实|临床|主要|于减|停的|关于|减少|制药|吸暂|呼吸|在关|塞性|实现|少阻|床试|性睡|暂停|来制|段临|现主|的第|眠呼|睡眠|礼来|第三|终点|药F|要终|试验|阶段|阻塞|验中"
-  ],
-  [
-   1794235094.882297,
-   "15|1纳|2C|5费|6A|7应|AM|As|Co|Cr|D阿|La|MD|aL|ab|bs|do|ed|en|er|he|nt|oh|o升|ra|re|sC|st|te|t升|三大|体指|初均|升1|升逾|半导|博通|均升|城半|大指|导体|应用|指升|指数|数升|数盘|料博|斯麦|材料|用材|盘初|纳指|美股|股三|费城|通升|逾1|逾2|逾5|逾6|逾7|阿斯|麦A"
-  ],
   [
    1794235152.736594,
    "19|24|3月|4日|9创|BR|Bi|IB|Im|In|RX|X跌|cI|io|it|mm|mu|nc|ni|oI|ty|un|yB|中跌|以来|创3|大盘|日以|最大|月2|来最|盘中|跌1|跌幅"
@@ -9532,47 +9521,29 @@
   [
    1794670908.1944466,
    "书面|交易|仁勋|他握|会流|伟达|但许|作交|供应|克表|关键|出色|分关|勋在|勋至|只是|可能|合作|合同|同如|和他|在英|多合|如果|少部|应链|式书|成的|手达|握手|斯克|方面|易可|易都|是和|有黄|果没|正式|没有|流失|现出|理方|的而|示黄|管理|而非|能会|至少|色但|英伟|表现|表示|许多|达供|达成|部分|都只|链管|键交|非正|面合|面表|马斯|黄仁"
+  ],
+  [
+   1794686890.937669,
+   "3哈|L3|Lu|en|me|n合|um|与美|争取|交通|仍只|们争|作使|使用|信网|公司|前仍|取的|只能|司威|司这|合作|哈里|国交|国电|套老|威瑞|将与|我们|报公|斯公|旧通|森L|瑞森|用L|用我|电报|电话|的资|目前|络将|继续|续使|网络|美国|老旧|能继|菲目|话电|资金|达菲|这套|通信|通部|部长|里斯|长达"
+  ],
+  [
+   1794686892.5005913,
+   "0万|10|CE|EO|Je|O马|St|an|dw|en|hJ|it|nd|ns|n请|se|ta|th|wi|万人|业人|事会|人士|人签|仁勋|会在|伟达|克等|务的|动已|勋职|参与|发稿|名特|在独|士参|复黄|已获|恢复|愿活|截至|拉C|斯克|斯拉|期间|查期|求英|活动|特斯|独立|的S|稿要|立调|等行|签名|职务|至发|英伟|获超|董事|行业|要求|请愿|调查|超1|达董|间恢|马斯|黄仁"
+  ],
+  [
+   1794686894.0242388,
+   "00|0次|10|3H|4个|4至|5秒|AA|A一|A隔|FA|Ha|L3|Te|ar|ch|ec|es|gi|hn|ie|is|lo|no|og|ol|ri|rr|sT|s在|s是|一台|一处|上表|与国|与飞|业后|业期|个小|了与|于安|五L|交通|他路|以及|们尚|会上|传输|体故|作业|便向|信以|信系|偏远|停飞|充说|光纤|全国|六表|关作|其他|具体|内进|出故|分雷|制系|包商|原因|及部|发布|发起|可能|台路|后系|向其|否应|员正|周五|周六|商L|器发|器本|器每|国交|国全|国联|国航|国防|在F|在新|在缺|在美|在调|地时|处偏|复运|天与|存在|安装|官员|定具|对航|导致|小时|尚未|局F|布会|干扰|并补|应对|当地|恢复|成通|我们|或路|扰了|承包|换光|据传|接请|提出|故障|数据|新闻|施内|施的|时达|时间|是否|更换|期间|未确|本身|机的|查航|次故|次连|正在|此次|每隔|求造|源于|班停|理局|由器|的作|的相|的通|相关|确定|示周|示官|离该|秒便|空交|空管|空航|管制|管理|系统|纤的|统恢|统故|统过|缆更|缺陷|美国|联邦|能源|至5|致美|航天|航班|航空|菲在|菲当|菲提|行达|行铜|补充|表示|装错|设施|该设|误或|说我|请求|调查|负责|责此|起超|超过|路由|身存|载干|输在|达数|达菲|过1|过4|过载|运行|进行|远设|连接|通信|通管|通部|造成|邦航|部分|部长|铜缆|错误|长达|间一|间周|闻发|防承|陷并|隔4|隔离|障原|障可|障导|障负|雷达|飞机|飞超"
+  ],
+  [
+   1794686895.3555946,
+   "3H|Ha|L3|ar|is|ri|rr|s公|事件|五发|人公|停运|公司|助美|协助|发生|发言|司发|司正|周五|国联|在协|局调|查周|正在|理局|生的|的航|空管|空系|管理|系统|统停|美国|联邦|航空|言人|调查|运事|邦航"
+  ],
+  [
+   1794686896.9483125,
+   "3H|Ha|L3|ar|is|ri|rr|s公|s高|中交|事件|交通|人L|以及|件以|件对|停飞|全国|公司|及该|发言|司发|司和|和空|围的|国范|客航|对旅|度重|影响|成的|旅客|次全|此次|班停|的影|的航|空中|空公|航班|航空|范围|行造|视此|言人|该事|运行|通运|造成|重视|飞事|高度"
   ]
  ],
  "futu": [
-  "futu:1004070140",
-  "futu:1004070141",
-  "futu:1004069897",
-  "futu:1004069806",
-  "futu:1004069625",
-  "futu:1004069385",
-  "futu:1004069195",
-  "futu:1004069180",
-  "futu:1004068938",
-  "futu:1004068808",
-  "futu:1004068759",
-  "futu:1004068745",
-  "futu:1004068710",
-  "futu:1004068694",
-  "futu:1004068464",
-  "futu:1004068291",
-  "futu:1004068284",
-  "futu:1004068189",
-  "futu:1004068027",
-  "futu:1004067870",
-  "futu:1004067855",
-  "futu:1004067849",
-  "futu:1004067797",
-  "futu:1004067721",
-  "futu:1004067701",
-  "futu:1004067403",
-  "futu:1004067146",
-  "futu:1004067145",
-  "futu:1004067100",
-  "futu:1004066957",
-  "futu:1004066958",
-  "futu:1004066931",
-  "futu:1004066932",
-  "futu:1004066920",
-  "futu:1004066847",
-  "futu:1004066775",
-  "futu:1004066737",
-  "futu:1004066641",
   "futu:1004066275",
   "futu:1004085447",
   "futu:1004085455",
@@ -10334,7 +10305,45 @@
   "futu:1004528288",
   "futu:1004528273",
   "futu:1004528267",
-  "futu:1004528253"
+  "futu:1004528253",
+  "futu:1004541127",
+  "futu:1004540886",
+  "futu:1004540688",
+  "futu:1004540684",
+  "futu:1004540618",
+  "futu:1004540617",
+  "futu:1004540554",
+  "futu:1004540383",
+  "futu:1004540368",
+  "futu:1004540353",
+  "futu:1004540233",
+  "futu:1004540217",
+  "futu:1004540179",
+  "futu:1004540175",
+  "futu:1004540140",
+  "futu:1004540117",
+  "futu:1004540030",
+  "futu:1004539982",
+  "futu:1004539911",
+  "futu:1004539897",
+  "futu:1004539873",
+  "futu:1004539786",
+  "futu:1004539785",
+  "futu:1004539774",
+  "futu:1004539751",
+  "futu:1004539689",
+  "futu:1004539648",
+  "futu:1004539617",
+  "futu:1004539578",
+  "futu:1004539570",
+  "futu:1004539552",
+  "futu:1004539546",
+  "futu:1004539538",
+  "futu:1004539458",
+  "futu:1004539392",
+  "futu:1004539382",
+  "futu:1004539359",
+  "futu:1004539325"
  ],
  "news_recent": [
   [
@@ -12420,6 +12429,26 @@
   [
    1794670935.416699,
    "agreements but chain contracts elon expertly handshakes jensen managed many musk not nvidia supply written"
+  ],
+  [
+   1794686898.8512459,
+   "$50 000 700 affected aging air airline america another aviation billion calling canceled cancellations chaos communications continues control critical delayed delays demanding disruption duffy emergency faa five flight flights friday ground hour infrastructure leaving modernize nationwide nearly officials overloaded passengers pressure radar recover roughly saturday sean secretary shutdown since situation stocks stop stranded struggling system systems tens thousands traced traffic transportation travel triggered under worst"
+  ],
+  [
+   1794686900.8087153,
+   "$nvda 000 100 ceo huang jensen nvidia petition reaches reinstate signatures"
+  ],
+  [
+   1794686902.7969909,
+   "$nvda billion board call ceo holding huang investors jensen nvidia reinstate shares two"
+  ],
+  [
+   1794686905.1349242,
+   "aviation duffy friday full operation resumes secretary shutdown transportation"
+  ],
+  [
+   1794686906.8730328,
+   "administrator anything evidence faa linked see wrongdoing"
   ]
  ],
  "opt_daily_embed": {
