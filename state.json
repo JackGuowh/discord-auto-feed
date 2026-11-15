@@ -910,7 +910,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3195269",
   "wscn:3195268",
   "wscn:3195359",
   "wscn:3195436",
@@ -1709,7 +1708,8 @@
   "wscn:3200147",
   "wscn:3200146",
   "wscn:3200145",
-  "wscn:3200144"
+  "wscn:3200144",
+  "wscn:3200183"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37441",
@@ -3033,7 +3033,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794723021.7301643,
+ "congress_last_check": 1794751128.2025156,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3084,9 +3084,10 @@
   "market_close:2026-11-11",
   "movers_post:2026-11-11",
   "market_close:2026-11-13",
-  "movers_post:2026-11-13"
+  "movers_post:2026-11-13",
+  "weekly:2026-11-15"
  ],
- "earnings_last_check": 1794723658.0265708,
+ "earnings_last_check": 1794751785.1139915,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3387,7 +3388,7 @@
   "er:2026-11-12:QXO",
   "er:2026-11-13:BFRI"
  ],
- "gas_last_check": 1794723022.2354934,
+ "gas_last_check": 1794751129.1325972,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4128,9 +4129,18 @@
   "gas:CBMiZ0FVX3lxTE5IOUctOUJtdW5kZGNLbDNrczVoRHlqcTZsZDdiTklqOFFtcDBHN2hhMXN3QWV6WTY0ZDc1ejNzbnpxWWsxWE1hdzBFT3ZwQmdlQ0VwY3Y5d2RkcGlUcGVlbGRpakhCRTA",
   "gas:CBMimAFBVV95cUxOXzV2SlNwemowRmwwXzJpdTBiM09KdFBBTThlVnh5engwZXdZWnFDNGY1dG9YYUFuQ1BhRmp4OTMyVHdfODVoajlFc1lmMlUyR0d4dFhERVhzUjZrbTBmTjQ2ZXc5bXgzU19MUUdrSmFCRDY0ZWwzaFlDSlc1NUs4c2I1VkY0SkJ4Q1NWZUN1aFlSdk0wUHIydw",
   "gas:CBMipAJBVV95cUxOa3lHSEVYRFpLY0RGbkQ1bzNXVXMzVmUwQjNVcDF5c24yd3FHSE0ydTQwRHhHM2Q3VDNabENQM2J5NFJtRE1NT3h4Q296bGhyRFh5UWxCYlhfOHZISVQtbno3QXZZSWdTcUw5aTVEOW14RzRydUJrTDlJeDljVWRNcnF2QU1kcUdmendZN2cydllRODNLV0hiVGFQVWZKUHhteDdfd3VDWUNIZkJkckVmejlRSlk1Tm5YS2JBTzRCeDZkWXZxWWtHTXNKelptdy0yXy1NTFpZRXVpaVY3ZmhycF9tQ0JpRVg0N0pGRG5uOEVHYnVTdUVDVlY1OUh4blpEUlhITU1fRnRmUi1Ma2syWlhkR3plREk4dEwwWXJjRVFxbGl6",
-  "gas:CBMimgFBVV95cUxOdkl1T1dudncyZjFhVjh4RnFRQWhRdXRlY1RpRE9ucUZPYXBzbWFfZV81NVhvYlQ4cE54dFRReWlTaGx5Qy1xc0xqZkNfRkN1WTZ2VzZRVTgxbE9JRnYyRnYyUnZkS1JFT0RNSDhNRmN4SVRobnN1OFRYTFRPb2FYZDNkY054bng4TTE4eGVMd29hTmJoRmNqRllR"
+  "gas:CBMimgFBVV95cUxOdkl1T1dudncyZjFhVjh4RnFRQWhRdXRlY1RpRE9ucUZPYXBzbWFfZV81NVhvYlQ4cE54dFRReWlTaGx5Qy1xc0xqZkNfRkN1WTZ2VzZRVTgxbE9JRnYyRnYyUnZkS1JFT0RNSDhNRmN4SVRobnN1OFRYTFRPb2FYZDNkY054bng4TTE4eGVMd29hTmJoRmNqRllR",
+  "gas:CBMiZ0FVX3lxTE5wRjFJZTJkeTZtaTdiV3NZY3AxNDY5THREdF8xeW5aVWtWbG5DcDlXRGtJcEw0RDUyRERhX19GTVhtZWVRdXo4NHZvQzFfYVpFZy1EdU1rVjkyNi0ya1hub0w5d3FXNzA",
+  "gas:CBMiswFBVV95cUxOMW96ZUtIZnZxWEg4YzFjbkFreEJsTm9nVkFtaXZFN3Vva2pwQmxkdWNPMTQ5REs0bEh0bm11NHJHSVp0ZGFtaG5jdXhaT0xVYVJuUkNXY0hkMmlsT2VJdGQ0dUV2Vkc0SHZkaFp5dHMyVm5RUUFWU250QVRuOWU1UTlaSV9HNG1LT1JyWWlnY0N6b2pXbDFUV2U1VU9UTjF1eFFSOW5ISnlVeGZ5R093SWRGSQ",
+  "gas:CBMi7wFBVV95cUxPRjFOczVuc2ZTM2dITm90ZTBjNmlNMC1wc0xqYWZoOFBHSUJHbWhyVzlQM3l6UW1VWV9UUWR5U3FQaTNFd2o3eTFGb293b01DekxqYktVMWdndS1xTEx4TEVndk5oVWQxQ2FUTXdyWDRGZXRlVUxBV05kU3ZFY2VLek5xZ29UTmM2U1JfQnNwOE0tSFp5T0ppWXNROEhXaGlodjVIV3JVRGFjMjlpQjQ4MGlPNnQ5T0VBMVp0YTU0TXdTRHNRSFBoeEtiY0NCQ082UndaMW5QRWhGa3dfV3VVbWFiQ2pDTTRYRmdDMG1sb9IB7wFBVV95cUxPRjFOczVuc2ZTM2dITm90ZTBjNmlNMC1wc0xqYWZoOFBHSUJHbWhyVzlQM3l6UW1VWV9UUWR5U3FQaTNFd2o3eTFGb293b01DekxqYktVMWdndS1xTEx4TEVndk5oVWQxQ2FUTXdyWDRGZXRlVUxBV05kU3ZFY2VLek5xZ29UTmM2U1JfQnNwOE0tSFp5T0ppWXNROEhXaGlodjVIV3JVRGFjMjlpQjQ4MGlPNnQ5T0VBMVp0YTU0TXdTRHNRSFBoeEtiY0NCQ082UndaMW5QRWhGa3dfV3VVbWFiQ2pDTTRYRmdDMG1sbw",
+  "gas:CBMiSEFVX3lxTFA3YkdCUENHMUJtd3M1VGE0N3NNNlRlVUEwbHBja2JCUTkyRENwbWMtY1lnQjdHR29DRVR4X0d2WXZrS0QzYjZpUQ",
+  "gas:CBMi4AFBVV95cUxQWllNNjlod3plVml1SXVyazhDTzZwVndhQ2xfeXBKOTVoZ0Z4eTN1Z1VlVDJYRmNkaTBHZGRCa2txeWxZZGMtbzZYNmtNbU55MmFqTmRCLW5xS0kxRnhYUEVHVXp5cHFrTXdpNjNxdU9CNnM3dUFJdk41Vm9QcktxYUZQTFBIVjNQaGRodEtLWjhwSWRkWUlVTVFGdVM4UXkzMDNVdDRVUTdKYjFTSEotallwNVlESlE1cHpzMUhhd2tWeHJOUDJzRFpzejd4Qm8zYmplbm10UzZGNXZSMlZZSg",
+  "gas:CBMiY0FVX3lxTE5ZQmlYZkFuZnpJSGYyYXJaUEpFNGlfWW1wblVZTFFWUC0waDZpX2RHenNjZU9IT2c1dFhUdWpreWZDa2R2Z3lFRHpzaWZsZ244QURWOVZSNUlVa3hJYmdsSGIyaw",
+  "gas:CBMi7wFBVV95cUxOYTBSRFFBbDJyS0NjZnlxX29yZFI2Q0p2VENLNGhZWlBhWURZajlHSk9iYUp3c3RrRjZIcTVyT3RBSkVtbzB5ZFY2ZVQxLWpoRzBGY1o5eG10RFFfQnk5cTlROXdjZWJDcVczRVRMQU5vdktYM1hWYXRZc2ljZG9DbFIwT0hLNHJNc2pURzVqYTh3Wm5uTTNGYVNEd1hQMFJ5TmFNMzJacENleTJrOXhFNTFjRzVOTUdJalhnN05hckloU0FOZkhCbGR0QzNkV1BQN3B2ZjFSbi1KX3pQR1ZxLXlhWVZBV0twMzJPeEwwY9IB7wFBVV95cUxOYTBSRFFBbDJyS0NjZnlxX29yZFI2Q0p2VENLNGhZWlBhWURZajlHSk9iYUp3c3RrRjZIcTVyT3RBSkVtbzB5ZFY2ZVQxLWpoRzBGY1o5eG10RFFfQnk5cTlROXdjZWJDcVczRVRMQU5vdktYM1hWYXRZc2ljZG9DbFIwT0hLNHJNc2pURzVqYTh3Wm5uTTNGYVNEd1hQMFJ5TmFNMzJacENleTJrOXhFNTFjRzVOTUdJalhnN05hckloU0FOZkhCbGR0QzNkV1BQN3B2ZjFSbi1KX3pQR1ZxLXlhWVZBV0twMzJPeEwwYw",
+  "gas:CBMipAFBVV95cUxQdlRfbFFLV3dVczdNbXQybzdBNlpZSkJ6N1REZTBaT0RUSFRROTZ4QWE5aFhmX2J0c2tOM2RRMDhOLU5ha0dPMHEtMjdQX2ZnUkZzMDBRNGc2NUNnakZYTGhtbW5Ec19tWXNFT3M2WEwydG56RTFSZU5NR1B6N0NBcTRnX182WVZrVDBBOUNDRDhOeFRMYnA0YnpmTUdVcFYxNVdPNw",
+  "gas:CBMiwgFBVV95cUxPUFF4ci1hY0F0TlEyY1dzT3pmS2h2UFA4X0JBeVRtQTNZTjZjUnhqTF9qWVA4T0VMaWxhQ2V2MGZLa0VhSFc1UzZlazFYZG5idXJJRUM1Y1RJRS1HUnRXSkZhT19fRURNZHZfUXZmLVJfQWItdzlKVDFRRHlfdjJEWHpjbUhjNHpCS251dWR4a05GLWJ4LXZZZEgxT19ramlwdGlxSE95eklob1RfYkFfOWp2NnBWQ0ZaLVZJQk1VdTRoQQ"
  ],
- "shows_last_day": "2026-11-14",
+ "shows_last_day": "2026-11-15",
  "shows_init": "2026-10-22",
  "shows_sent": [
   "GAWDA Southeast Regional Meeting 2027|180",
@@ -4156,7 +4166,8 @@
   "NGA Glass Conference: Charlotte 2027|90",
   "FGIA Annual Conference 2027|90",
   "FGIA Summer Summit 2027|180",
-  "Glass Expo West 2027|90"
+  "Glass Expo West 2027|90",
+  "Glass TEXpo 2027|180"
  ],
  "shows_v2": 1,
  "reset_id": "2026-10-22-1",
@@ -4941,7 +4952,8 @@
   "tg:disclosetv/22139",
   "tg:disclosetv/22138",
   "tg:disclosetv/22137",
-  "tg:disclosetv/22149"
+  "tg:disclosetv/22149",
+  "tg:disclosetv/22150"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -5551,14 +5563,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144949",
-  "tg:FinancialJuice/144948",
-  "tg:FinancialJuice/144947",
-  "tg:FinancialJuice/144946",
-  "tg:FinancialJuice/144945",
-  "tg:FinancialJuice/144944",
-  "tg:FinancialJuice/144943",
-  "tg:FinancialJuice/144942",
   "tg:FinancialJuice/144941",
   "tg:FinancialJuice/144940",
   "tg:FinancialJuice/144939",
@@ -6350,14 +6354,18 @@
   "tg:FinancialJuice/147295",
   "tg:FinancialJuice/147294",
   "tg:FinancialJuice/147293",
-  "tg:FinancialJuice/147298"
+  "tg:FinancialJuice/147298",
+  "tg:FinancialJuice/147306",
+  "tg:FinancialJuice/147305",
+  "tg:FinancialJuice/147304",
+  "tg:FinancialJuice/147303",
+  "tg:FinancialJuice/147302",
+  "tg:FinancialJuice/147301",
+  "tg:FinancialJuice/147300",
+  "tg:FinancialJuice/147299"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1794235713.408738,
-   "15|中国|克金|凯迪|前跌|国指|指数|数跌|斯达|目前|纳斯|跌1|跌凯|达克|迪目|金龙|龙中"
-  ],
   [
    1794235715.7064393,
    "12|27|29|2现|32|78|82|8t|8张|9成|AM|C处|DU|D期|EP|MD|PU|PY|S盘|TP|U8|US|YC|tx|x提|上涨|中上|为1|为T|主机|云采|五代|交量|交额|代E|价格|供主|公司|击查|到3|力影|动较|参考|受谷|可参|司A|响美|器为|国超|处理|大请|幅为|张详|影响|微公|情可|意风|成交|排行|提供|最高|期权|机算|权价|权排|权涨|权链|权页|查看|格波|歌云|波动|注意|涨8|涨期|涨跌|点击|现最|理器|用第|的期|的看|盘中|看A|看涨|第五|算力|美国|考期|行期|详情|请注|谷歌|超微|跌幅|较大|达到|采用|量达|险点|面的|页面|额的|风险|高成"
@@ -9553,51 +9561,13 @@
   [
    1794723001.4800584,
    "14|15|4日|5日|一名|下属|中打|事组|以军|以色|伊斯|但以|全总|兰抵|关详|军事|军发|军和|军尚|军称|凌晨|列国|前哈|动中|动哈|勒斯|发表|合行|名巴|员但|员当|和以|哈马|回应|国家|国防|在联|地时|坦伊|声明|多相|央视|安全|家安|对此|尚未|局辛|属军|巴勒|应央|当地|总局|息截|成员|截至|打死|抗运|披露|抵抗|斯下|斯兰|斯坦|斯方|新闻|方面|无回|日凌|日晚|时间|明称|晚间|晨以|暂无|更多|未披|此暂|死一|死哈|消息|特在|的高|目前|相关|称1|称打|级成|组织|细消|织的|织高|联合|至目|色列|行动|表声|视新|详细|贝特|辛贝|运动|间1|间以|防军|露更|面对|马斯|高级"
+  ],
+  [
+   1794751123.1567216,
+   "15|5日|一国|一项|三国|不住|与了|且站|为一|为共|为则|主张|了美|事侵|于对|于给|些国|些地|些都|交部|人员|人巴|以及|以针|任央|伊地|伊方|伊朗|住脚|使用|供其|供武|供给|依据|侵略|偿的|充分|全是|共犯|其使|其必|其领|军事|凿的|分法|则若|则该|加埃|助美|包括|区国|历史|原则|参与|及开|反过|发言|变为|另一|史和|向伊|向助|员以|和法|和领|器政|因此|国实|国家|国将|国用|国直|国际|土和|土提|地区|地时|埃表|外交|央视|完全|定的|实施|害的|家其|家反|家积|家索|对于|对伊|对第|将其|已演|巴加|应责|开放|张完|当地|当的|录对|律依|律诉|必须|成损|承担|担相|括提|持派|损害|据且|据向|据既|接被|提供|支持|放领|政治|新闻|方有|施侵|无根|既定|日伊|时间|是毫|有充|有确|朗外|朗的|朗称|朗索|朗而|朗造|来向|极参|某些|根据|正当|此对|此这|武器|毫无|求因|治支|法原|法律|派遣|海供|演变|犯因|用于|用这|略包|略行|的主|的军|的历|的国|的记|直接|相应|确凿|示某|积极|称伊|空领|站不|第三|索要|索赔|给伊|给另|美以|美袭|而言|脚根|若一|行为|表示|被视|袭伊|要赔|视为|视新|言人|言这|记录|诉求|该国|责任|赔偿|赔当|过来|这些|这已|造成|遣人|部发|都有|针对|间1|际法|项正|须承|领土|领海|领空"
   ]
  ],
  "futu": [
-  "futu:1004088158",
-  "futu:1004088106",
-  "futu:1004088050",
-  "futu:1004087992",
-  "futu:1004087861",
-  "futu:1004087773",
-  "futu:1004087768",
-  "futu:1004087582",
-  "futu:1004087382",
-  "futu:1004087105",
-  "futu:1004086269",
-  "futu:1004086250",
-  "futu:1004086096",
-  "futu:1004085740",
-  "futu:1004120269",
-  "futu:1004120283",
-  "futu:1004120301",
-  "futu:1004120335",
-  "futu:1004137979",
-  "futu:1004137093",
-  "futu:1004137031",
-  "futu:1004136840",
-  "futu:1004136382",
-  "futu:1004135939",
-  "futu:1004135620",
-  "futu:1004135605",
-  "futu:1004135035",
-  "futu:1004135033",
-  "futu:1004134677",
-  "futu:1004134524",
-  "futu:1004133888",
-  "futu:1004133492",
-  "futu:1004132542",
-  "futu:1004131929",
-  "futu:1004131338",
-  "futu:1004130571",
-  "futu:1004130449",
-  "futu:1004130351",
-  "futu:1004130208",
-  "futu:1004130009",
-  "futu:1004129162",
-  "futu:1004128922",
   "futu:1004128885",
   "futu:1004128344",
   "futu:1004128327",
@@ -10355,7 +10325,49 @@
   "futu:1004542810",
   "futu:1004542748",
   "futu:1004542673",
-  "futu:1004542600"
+  "futu:1004542600",
+  "futu:1004551200",
+  "futu:1004550928",
+  "futu:1004550907",
+  "futu:1004550861",
+  "futu:1004550754",
+  "futu:1004550567",
+  "futu:1004550404",
+  "futu:1004550387",
+  "futu:1004550267",
+  "futu:1004549740",
+  "futu:1004549651",
+  "futu:1004549589",
+  "futu:1004549573",
+  "futu:1004549207",
+  "futu:1004549135",
+  "futu:1004548869",
+  "futu:1004548840",
+  "futu:1004548836",
+  "futu:1004548588",
+  "futu:1004548366",
+  "futu:1004548145",
+  "futu:1004548012",
+  "futu:1004547876",
+  "futu:1004547819",
+  "futu:1004547771",
+  "futu:1004547654",
+  "futu:1004547459",
+  "futu:1004547419",
+  "futu:1004547322",
+  "futu:1004547232",
+  "futu:1004547149",
+  "futu:1004547123",
+  "futu:1004547124",
+  "futu:1004547116",
+  "futu:1004546998",
+  "futu:1004546934",
+  "futu:1004546928",
+  "futu:1004546700",
+  "futu:1004546433",
+  "futu:1004546332",
+  "futu:1004546133",
+  "futu:1004545952"
  ],
  "news_recent": [
   [
