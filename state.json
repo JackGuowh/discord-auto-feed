@@ -86,14 +86,6 @@
   "rss:https://www.ftchinese.com/story/001111070"
  ],
  "truth": [
-  "truth:https://www.trumpstruth.org/statuses/42562",
-  "truth:https://www.trumpstruth.org/statuses/42563",
-  "truth:https://www.trumpstruth.org/statuses/42564",
-  "truth:https://www.trumpstruth.org/statuses/42565",
-  "truth:https://www.trumpstruth.org/statuses/42568",
-  "truth:https://www.trumpstruth.org/statuses/42569",
-  "truth:https://www.trumpstruth.org/statuses/42570",
-  "truth:https://www.trumpstruth.org/statuses/42571",
   "truth:https://www.trumpstruth.org/statuses/42572",
   "truth:https://www.trumpstruth.org/statuses/42573",
   "truth:https://www.trumpstruth.org/statuses/42574",
@@ -885,7 +877,15 @@
   "truth:https://www.trumpstruth.org/statuses/43570",
   "truth:https://www.trumpstruth.org/statuses/43573",
   "truth:https://www.trumpstruth.org/statuses/43571",
-  "truth:https://www.trumpstruth.org/statuses/43572"
+  "truth:https://www.trumpstruth.org/statuses/43572",
+  "truth:https://www.trumpstruth.org/statuses/43581",
+  "truth:https://www.trumpstruth.org/statuses/43580",
+  "truth:https://www.trumpstruth.org/statuses/43578",
+  "truth:https://www.trumpstruth.org/statuses/43579",
+  "truth:https://www.trumpstruth.org/statuses/43577",
+  "truth:https://www.trumpstruth.org/statuses/43576",
+  "truth:https://www.trumpstruth.org/statuses/43575",
+  "truth:https://www.trumpstruth.org/statuses/43574"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1712,7 +1712,6 @@
   "wscn:3200128"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37442",
   "tg:WalterBloomberg/37441",
   "tg:WalterBloomberg/37445",
   "tg:WalterBloomberg/37444",
@@ -2511,7 +2510,8 @@
   "tg:WalterBloomberg/38403",
   "tg:WalterBloomberg/38407",
   "tg:WalterBloomberg/38406",
-  "tg:WalterBloomberg/38405"
+  "tg:WalterBloomberg/38405",
+  "tg:WalterBloomberg/38408"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2851,7 +2851,10 @@
   "tg:WatcherGuru/16040",
   "tg:WatcherGuru/16039",
   "tg:WatcherGuru/16037",
-  "tg:WatcherGuru/16035"
+  "tg:WatcherGuru/16035",
+  "tg:WatcherGuru/16043",
+  "tg:WatcherGuru/16042",
+  "tg:WatcherGuru/16041"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -3027,7 +3030,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794686915.4606533,
+ "congress_last_check": 1794700642.0491576,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3080,7 +3083,7 @@
   "market_close:2026-11-13",
   "movers_post:2026-11-13"
  ],
- "earnings_last_check": 1794687611.7627277,
+ "earnings_last_check": 1794701275.4301755,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3381,7 +3384,7 @@
   "er:2026-11-12:QXO",
   "er:2026-11-13:BFRI"
  ],
- "gas_last_check": 1794686915.9347913,
+ "gas_last_check": 1794700643.0407636,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4116,7 +4119,8 @@
   "gas:CBMijwFBVV95cUxOZzBsU2dtSjZWeTlXQ3FUU3ZKdEdScFg2QWRZblp6VFNHc05XdVpwOU1jNjFiRnF4Y1Q4U2RfUjBuREF5Y0JsdkZnSmhqdXRaT2dIY2Itdng1aV9RSUd5S3J6MG8teTdaMnNGQXhyNzNWNWJLeGFTbkY4TUtwSGVjUHlkbThnY05QUGZRNGQ2WQ",
   "gas:CBMiW0FVX3lxTE15OWh0MVJWMzRFT0EtSVdDNTlQa01WUTloX2dxSTFuSlpobHY2V0theENDaUV4TmNFWHJ4WW10NjYxeV9sY09oeWpGa3ZUSDBPdW1XRE1mYXVMRkk",
   "gas:CBMiggFBVV95cUxQOERMSkZTZjgxMEhoYUc1cFd5VGhNemdqOFhkMlBzdmFabGVPQjlhWnhJaXN0d21mdDZKbFJ1V0FCbnUtY2hINTM0eWpKY090WXI4T1BrdXp3bTc5ZU9QT1hiWkY5WDdOazJuU2J2dnJMZlU3MWNsaWh6Q01FWTk5aTB3",
-  "gas:CBMizgFBVV95cUxOMFBCMGxPV19OMjl5aUtQeVdzYUhsb3hHdzg3QUE5QjkwdzB3OGlXTlBhREdBNVp6SjJqdWRkVnlSRThlSHc3RFRkVDRRX1dWekt5SUVyaWhIZ2I1d0dJQmlDQk5hOEFibmRFbFZlMHF4bHg5TDJ1RTNqM0kwYkdzVm9YaUlOTHVjN0J4d2hTQzZSNzZ6REthOWlndmREZWttVzE0MzVXaGE1WGRGdE8xaEM3Wk82aURJYzVZSWQ3b2wwSVdHUnNodW5NS2gzZw"
+  "gas:CBMizgFBVV95cUxOMFBCMGxPV19OMjl5aUtQeVdzYUhsb3hHdzg3QUE5QjkwdzB3OGlXTlBhREdBNVp6SjJqdWRkVnlSRThlSHc3RFRkVDRRX1dWekt5SUVyaWhIZ2I1d0dJQmlDQk5hOEFibmRFbFZlMHF4bHg5TDJ1RTNqM0kwYkdzVm9YaUlOTHVjN0J4d2hTQzZSNzZ6REthOWlndmREZWttVzE0MzVXaGE1WGRGdE8xaEM3Wk82aURJYzVZSWQ3b2wwSVdHUnNodW5NS2gzZw",
+  "gas:CBMi5AFBVV95cUxQLVFVaU1RcXRSamVtWmF2US1aNHlHbUtsZ3o1RWZ5Y2E3dVhpemhHQUFEVHZTT19GbUh1c1IzSktEa2o5OENfTkN6MFBXREdTSjFHclBSVmFTdlRPR1ZjOVh2ZmVHWFRKT1A2RUxoRlBGOUtPdjJ1NzB6VERQQlJUT1BURVFna1BIb2RSTjRYWnFlQ2wxTlZOQ1dFemdWWWJtOExxdTBjOFRFaTBXNkJOaEFORzZmTWprYmx3ZEpOTXUxWWdGRjhrR0cwdkhheGVzRUstY1JwcVdyV3ZqOEUySzByMGQ"
  ],
  "shows_last_day": "2026-11-14",
  "shows_init": "2026-10-22",
@@ -5539,11 +5543,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144870",
-  "tg:FinancialJuice/144869",
-  "tg:FinancialJuice/144953",
-  "tg:FinancialJuice/144952",
-  "tg:FinancialJuice/144951",
   "tg:FinancialJuice/144950",
   "tg:FinancialJuice/144949",
   "tg:FinancialJuice/144948",
@@ -6338,18 +6337,15 @@
   "tg:FinancialJuice/147283",
   "tg:FinancialJuice/147282",
   "tg:FinancialJuice/147281",
-  "tg:FinancialJuice/147280"
+  "tg:FinancialJuice/147280",
+  "tg:FinancialJuice/147297",
+  "tg:FinancialJuice/147296",
+  "tg:FinancialJuice/147295",
+  "tg:FinancialJuice/147294",
+  "tg:FinancialJuice/147293"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1794235152.736594,
-   "19|24|3月|4日|9创|BR|Bi|IB|Im|In|RX|X跌|cI|io|it|mm|mu|nc|ni|oI|ty|un|yB|中跌|以来|创3|大盘|日以|最大|月2|来最|盘中|跌1|跌幅"
-  ],
-  [
-   1794235211.7450147,
-   "32|45|55|5M|5谷|Al|Me|ab|a涨|be|et|ha|lp|ph|ta|t涨|亚马|公司|司A|歌母|母公|涨3|涨4|涨5|谷歌|逊涨|马逊"
-  ],
   [
    1794235355.0738666,
    "6以|AO|DA|NV|O跌|VD|以内|伟达|幅收|收窄|窄至|至6|英伟|跌幅|达N"
@@ -9541,18 +9537,17 @@
   [
    1794686896.9483125,
    "3H|Ha|L3|ar|is|ri|rr|s公|s高|中交|事件|交通|人L|以及|件以|件对|停飞|全国|公司|及该|发言|司发|司和|和空|围的|国范|客航|对旅|度重|影响|成的|旅客|次全|此次|班停|的影|的航|空中|空公|航班|航空|范围|行造|视此|言人|该事|运行|通运|造成|重视|飞事|高度"
+  ],
+  [
+   1794700614.0369148,
+   "CX|O星|PC|SP|Sp|XO|XS|ac|ce|eX|pa|地球|大气|星舰|正重|气层|球大|舰正|返地|重返"
+  ],
+  [
+   1794700615.7922535,
+   "CX|Me|OM|PC|SP|Sp|XO|XS|X全|ac|az|a成|ce|ch|eX|ec|ha|il|la|ll|pa|zi|一非|体团|全体|凡成|功捕|取得|团队|得这|成功|成就|捕获|星舰|祝贺|舰祝|获星|贺S|这一|队取|非凡"
   ]
  ],
  "futu": [
-  "futu:1004066275",
-  "futu:1004085447",
-  "futu:1004085455",
-  "futu:1004085463",
-  "futu:1004085592",
-  "futu:1004085590",
-  "futu:1004085677",
-  "futu:1004093507",
-  "futu:1004093166",
   "futu:1004093161",
   "futu:1004093136",
   "futu:1004093005",
@@ -10343,7 +10338,16 @@
   "futu:1004539392",
   "futu:1004539382",
   "futu:1004539359",
-  "futu:1004539325"
+  "futu:1004539325",
+  "futu:1004541696",
+  "futu:1004541636",
+  "futu:1004541610",
+  "futu:1004541603",
+  "futu:1004541594",
+  "futu:1004541493",
+  "futu:1004541363",
+  "futu:1004541263",
+  "futu:1004541261"
  ],
  "news_recent": [
   [
@@ -12449,6 +12453,14 @@
   [
    1794686906.8730328,
    "administrator anything evidence faa linked see wrongdoing"
+  ],
+  [
+   1794700617.798442,
+   "$spcx arms belly breakthrough brings captured carry catching caught center closer cost data deploy descended dramatically elon eventually first flipped fully generation giant ground history humans instead landing launch launches major makes marking mars massive mechanical milestone million moon musk next plans potentially reality reducing reusable rocket satellites site space spacecraft spaceflight spacex starlink starship step successfully system taken texas toward tower upright using"
+  ],
+  [
+   1794700620.107029,
+   "$spcx catches elon first history launch musk rocket spacex starship successfully time tower"
   ]
  ],
  "opt_daily_embed": {
