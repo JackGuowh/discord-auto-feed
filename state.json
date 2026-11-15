@@ -86,11 +86,6 @@
   "rss:https://www.ftchinese.com/story/001111070"
  ],
  "truth": [
-  "truth:https://www.trumpstruth.org/statuses/42572",
-  "truth:https://www.trumpstruth.org/statuses/42573",
-  "truth:https://www.trumpstruth.org/statuses/42574",
-  "truth:https://www.trumpstruth.org/statuses/42575",
-  "truth:https://www.trumpstruth.org/statuses/42605",
   "truth:https://www.trumpstruth.org/statuses/42606",
   "truth:https://www.trumpstruth.org/statuses/42601",
   "truth:https://www.trumpstruth.org/statuses/42602",
@@ -885,7 +880,12 @@
   "truth:https://www.trumpstruth.org/statuses/43577",
   "truth:https://www.trumpstruth.org/statuses/43576",
   "truth:https://www.trumpstruth.org/statuses/43575",
-  "truth:https://www.trumpstruth.org/statuses/43574"
+  "truth:https://www.trumpstruth.org/statuses/43574",
+  "truth:https://www.trumpstruth.org/statuses/43586",
+  "truth:https://www.trumpstruth.org/statuses/43584",
+  "truth:https://www.trumpstruth.org/statuses/43585",
+  "truth:https://www.trumpstruth.org/statuses/43583",
+  "truth:https://www.trumpstruth.org/statuses/43582"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -910,11 +910,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3195276",
-  "wscn:3195273",
-  "wscn:3195272",
-  "wscn:3195271",
-  "wscn:3195270",
   "wscn:3195269",
   "wscn:3195268",
   "wscn:3195359",
@@ -1709,7 +1704,12 @@
   "wscn:3200095",
   "wscn:3200138",
   "wscn:3200131",
-  "wscn:3200128"
+  "wscn:3200128",
+  "wscn:3200148",
+  "wscn:3200147",
+  "wscn:3200146",
+  "wscn:3200145",
+  "wscn:3200144"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37441",
@@ -2854,7 +2854,10 @@
   "tg:WatcherGuru/16035",
   "tg:WatcherGuru/16043",
   "tg:WatcherGuru/16042",
-  "tg:WatcherGuru/16041"
+  "tg:WatcherGuru/16041",
+  "tg:WatcherGuru/16047",
+  "tg:WatcherGuru/16045",
+  "tg:WatcherGuru/16044"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -3030,7 +3033,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1794700642.0491576,
+ "congress_last_check": 1794723021.7301643,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3083,7 +3086,7 @@
   "market_close:2026-11-13",
   "movers_post:2026-11-13"
  ],
- "earnings_last_check": 1794701275.4301755,
+ "earnings_last_check": 1794723658.0265708,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3384,7 +3387,7 @@
   "er:2026-11-12:QXO",
   "er:2026-11-13:BFRI"
  ],
- "gas_last_check": 1794700643.0407636,
+ "gas_last_check": 1794723022.2354934,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4120,7 +4123,12 @@
   "gas:CBMiW0FVX3lxTE15OWh0MVJWMzRFT0EtSVdDNTlQa01WUTloX2dxSTFuSlpobHY2V0theENDaUV4TmNFWHJ4WW10NjYxeV9sY09oeWpGa3ZUSDBPdW1XRE1mYXVMRkk",
   "gas:CBMiggFBVV95cUxQOERMSkZTZjgxMEhoYUc1cFd5VGhNemdqOFhkMlBzdmFabGVPQjlhWnhJaXN0d21mdDZKbFJ1V0FCbnUtY2hINTM0eWpKY090WXI4T1BrdXp3bTc5ZU9QT1hiWkY5WDdOazJuU2J2dnJMZlU3MWNsaWh6Q01FWTk5aTB3",
   "gas:CBMizgFBVV95cUxOMFBCMGxPV19OMjl5aUtQeVdzYUhsb3hHdzg3QUE5QjkwdzB3OGlXTlBhREdBNVp6SjJqdWRkVnlSRThlSHc3RFRkVDRRX1dWekt5SUVyaWhIZ2I1d0dJQmlDQk5hOEFibmRFbFZlMHF4bHg5TDJ1RTNqM0kwYkdzVm9YaUlOTHVjN0J4d2hTQzZSNzZ6REthOWlndmREZWttVzE0MzVXaGE1WGRGdE8xaEM3Wk82aURJYzVZSWQ3b2wwSVdHUnNodW5NS2gzZw",
-  "gas:CBMi5AFBVV95cUxQLVFVaU1RcXRSamVtWmF2US1aNHlHbUtsZ3o1RWZ5Y2E3dVhpemhHQUFEVHZTT19GbUh1c1IzSktEa2o5OENfTkN6MFBXREdTSjFHclBSVmFTdlRPR1ZjOVh2ZmVHWFRKT1A2RUxoRlBGOUtPdjJ1NzB6VERQQlJUT1BURVFna1BIb2RSTjRYWnFlQ2wxTlZOQ1dFemdWWWJtOExxdTBjOFRFaTBXNkJOaEFORzZmTWprYmx3ZEpOTXUxWWdGRjhrR0cwdkhheGVzRUstY1JwcVdyV3ZqOEUySzByMGQ"
+  "gas:CBMi5AFBVV95cUxQLVFVaU1RcXRSamVtWmF2US1aNHlHbUtsZ3o1RWZ5Y2E3dVhpemhHQUFEVHZTT19GbUh1c1IzSktEa2o5OENfTkN6MFBXREdTSjFHclBSVmFTdlRPR1ZjOVh2ZmVHWFRKT1A2RUxoRlBGOUtPdjJ1NzB6VERQQlJUT1BURVFna1BIb2RSTjRYWnFlQ2wxTlZOQ1dFemdWWWJtOExxdTBjOFRFaTBXNkJOaEFORzZmTWprYmx3ZEpOTXUxWWdGRjhrR0cwdkhheGVzRUstY1JwcVdyV3ZqOEUySzByMGQ",
+  "gas:CBMiU0FVX3lxTFB1Rkt2aUJOT2JqTTFXSW9LaVBiRktRWTdoZ1M3SWZOWS1BWGhGSTBWU3VESUROQkl4Z2JkRkpFUGVSMUJGLUd4RmJrSGw5eno1VUVj",
+  "gas:CBMiZ0FVX3lxTE5IOUctOUJtdW5kZGNLbDNrczVoRHlqcTZsZDdiTklqOFFtcDBHN2hhMXN3QWV6WTY0ZDc1ejNzbnpxWWsxWE1hdzBFT3ZwQmdlQ0VwY3Y5d2RkcGlUcGVlbGRpakhCRTA",
+  "gas:CBMimAFBVV95cUxOXzV2SlNwemowRmwwXzJpdTBiM09KdFBBTThlVnh5engwZXdZWnFDNGY1dG9YYUFuQ1BhRmp4OTMyVHdfODVoajlFc1lmMlUyR0d4dFhERVhzUjZrbTBmTjQ2ZXc5bXgzU19MUUdrSmFCRDY0ZWwzaFlDSlc1NUs4c2I1VkY0SkJ4Q1NWZUN1aFlSdk0wUHIydw",
+  "gas:CBMipAJBVV95cUxOa3lHSEVYRFpLY0RGbkQ1bzNXVXMzVmUwQjNVcDF5c24yd3FHSE0ydTQwRHhHM2Q3VDNabENQM2J5NFJtRE1NT3h4Q296bGhyRFh5UWxCYlhfOHZISVQtbno3QXZZSWdTcUw5aTVEOW14RzRydUJrTDlJeDljVWRNcnF2QU1kcUdmendZN2cydllRODNLV0hiVGFQVWZKUHhteDdfd3VDWUNIZkJkckVmejlRSlk1Tm5YS2JBTzRCeDZkWXZxWWtHTXNKelptdy0yXy1NTFpZRXVpaVY3ZmhycF9tQ0JpRVg0N0pGRG5uOEVHYnVTdUVDVlY1OUh4blpEUlhITU1fRnRmUi1Ma2syWlhkR3plREk4dEwwWXJjRVFxbGl6",
+  "gas:CBMimgFBVV95cUxOdkl1T1dudncyZjFhVjh4RnFRQWhRdXRlY1RpRE9ucUZPYXBzbWFfZV81NVhvYlQ4cE54dFRReWlTaGx5Qy1xc0xqZkNfRkN1WTZ2VzZRVTgxbE9JRnYyRnYyUnZkS1JFT0RNSDhNRmN4SVRobnN1OFRYTFRPb2FYZDNkY054bng4TTE4eGVMd29hTmJoRmNqRllR"
  ],
  "shows_last_day": "2026-11-14",
  "shows_init": "2026-10-22",
@@ -5543,7 +5551,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/144950",
   "tg:FinancialJuice/144949",
   "tg:FinancialJuice/144948",
   "tg:FinancialJuice/144947",
@@ -6342,30 +6349,11 @@
   "tg:FinancialJuice/147296",
   "tg:FinancialJuice/147295",
   "tg:FinancialJuice/147294",
-  "tg:FinancialJuice/147293"
+  "tg:FinancialJuice/147293",
+  "tg:FinancialJuice/147298"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1794235355.0738666,
-   "6以|AO|DA|NV|O跌|VD|以内|伟达|幅收|收窄|窄至|至6|英伟|跌幅|达N"
-  ],
-  [
-   1794235477.439687,
-   "0C|10|5P|7T|AI|Ap|Cl|De|IU|I应|Lo|Pa|Sn|So|Te|Th|Tr|Un|ad|ak|al|an|ar|de|df|eD|eT|em|es|e升|fl|ft|he|in|ir|it|ke|k升|la|lo|mp|nS|ni|no|nt|of|ou|ov|ow|pL|pp|pu|rA|ra|re|sA|sk|ti|tw|ty|ud|us|vi|wa|wf|yS|件股|全线|升逾|应用|用软|线走|股全|走高|软件|逾1|逾3|逾5|逾7|高T"
-  ],
-  [
-   1794235533.6245933,
-   "00|0指|10|13|24|2成|3拼|44|4S|4英|56|58|79|7亚|8汤|9应|Lu|St|at|eg|en|gy|me|m涨|nt|ra|te|tr|tu|um|y跌|亚马|伟达|克1|分股|多多|多跌|大至|希捷|幅扩|幅收|应用|成分|扩大|技涨|拼多|指数|据涨|捷科|收窄|数据|数涨|料西|斯达|材料|森路|汤森|涨5|涨7|涨幅|涨超|用材|科技|窄至|纳斯|股L|至2|至5|英伟|西部|超7|跌1|跌2|跌4|跌幅|路透|达克|达跌|逊希|透跌|部数|马逊"
-  ],
-  [
-   1794235596.3684375,
-   "00|0指|13|15|2标|50|5道|上涨|大至|幅扩|开高|扩大|指数|指涨|数上|普5|标普|涨1|涨幅|纳指|美股|股高|至2|走纳|道指|高开|高走"
-  ],
-  [
-   1794235655.6436012,
-   "与威|乌克|什纳|会见|使库|克兰|全问|兰及|及欧|友讨|国特|夫将|威特|安全|将会|库什|欧洲|洲安|特使|特科|盟友|科夫|纳与|美国|见盟|讨论|论乌|问题"
-  ],
   [
    1794235713.408738,
    "15|中国|克金|凯迪|前跌|国指|指数|数跌|斯达|目前|纳斯|跌1|跌凯|达克|迪目|金龙|龙中"
@@ -9545,43 +9533,29 @@
   [
    1794700615.7922535,
    "CX|Me|OM|PC|SP|Sp|XO|XS|X全|ac|az|a成|ce|ch|eX|ec|ha|il|la|ll|pa|zi|一非|体团|全体|凡成|功捕|取得|团队|得这|成功|成就|捕获|星舰|祝贺|舰祝|获星|贺S|这一|队取|非凡"
+  ],
+  [
+   1794722995.5639222,
+   "13|14|3日|4日|一种|三的|不再|严重|中交|中称|为一|主党|事件|二连|于极|交通|从长|以确|件不|件展|件要|任内|会对|似事|促国|保类|信系|停飞|免职|党籍|全国|全面|其免|其陈|内美|再发|则应|到接|制员|制系|发生|发表|否则|员短|咎于|国交|国会|国性|国纽|国航|在声|在的|在达|声明|央视|失误|存在|对这|将其|将此|尔发|尔在|尔敦|就停|展开|州民|州长|已经|常态|应由|开全|归咎|态美|性航|总统|成为|接二|故障|敦促|新闻|日将|日美|旧的|明中|明要|普将|朗普|期存|极其|查以|楚尔|次全|次故|此次|民主|求美|特朗|班停|生央|由总|的严|的空|的通|短缺|确保|种常|称从|空中|空系|管制|籍州|类似|系统|约州|纽约|经成|统故|统特|统的|统霍|缺问|美交|美国|职1|职否|职霍|航班|航空|菲1|菲任|菲辞|表声|要求|视新|误已|调查|辞职|达菲|这次|连三|通信|通管|通部|部长|重失|长就|长期|长辞|长达|长霍|问题|陈旧|障在|障归|霍楚|面调|题到|飞事"
+  ],
+  [
+   1794722997.1668482,
+   "14|17|4日|7亿|下海|中央|亿桶|令部|伊朗|伙伴|伴已|作伙|作出|保护|兹海|军中|出回|区的|原油|司令|合作|回应|在美|地区|地时|央司|央视|对此|尔木|尚未|峡当|峡运|已护|已通|应央|当地|护下|护航|新闻|方的|方面|日美|时间|朗方|木兹|未对|桶原|此说|油伊|油通|法作|海峡|海湾|湾地|的保|的合|称在|美军|美方|航超|视新|说法|超1|超过|输超|过1|过霍|运输|通过|部已|部称|间1|霍尔|面尚"
+  ],
+  [
+   1794722998.6045973,
+   "14|15|4日|5次|二级|公司|发射|司重|回地|回收|国太|地球|型运|塔机|太空|完成|实施|射塔|并由|成第|技术|捕获|探索|收完|收美|施捕|日返|星舰|是星|术公|机械|械臂|次由|次被|次试|火箭|球并|由发|的第|空探|第1|第二|箭星|索技|级飞|美国|美星|臂实|臂捕|舰的|舰飞|船1|船首|获回|被发|试飞|载火|运载|返回|这是|重型|飞船|飞这|首次"
+  ],
+  [
+   1794723000.0060031,
+   "15|2艘|5日|下试|两艘|为在|了导|了水|了波|以南|伊斯|伊朗|兰革|关规|关闭|兹海|军表|军还|况下|凌晨|别系|到警|前两|动识|南2|卫队|反相|发爆|发生|另外|同样|后另|后调|向返|告后|命卫|和自|回了|图秘|在关|在收|在违|在霍|地时|域央|外两|央视|存在|定行|密通|导致|导航|尔木|峡以|峡伊|峡的|峡触|并导|引发|当地|当时|情况|收到|斯兰|斯湾|新闻|日凌|早前|时存|时间|晨伊|朗伊|朗称|木兹|样试|水雷|油轮|波斯|海军|海域|海峡|湾海|火灾|灾革|炸发|炸并|炸当|爆炸|生后|生爆|的情|的油|相关|碰了|示爆|示稍|秘密|称这|称霍|稍早|系统|统和|统的|自动|致火|航向|航系|艘同|艘油|行为|表示|规定|视新|触碰|触雷|警告|识别|试图|该海|调转|转航|轮在|轮当|轮触|过该|过霍|返回|还表|这两|违反|通过|闭了|间1|队海|队称|雷发|雷引|霍尔|革命"
+  ],
+  [
+   1794723001.4800584,
+   "14|15|4日|5日|一名|下属|中打|事组|以军|以色|伊斯|但以|全总|兰抵|关详|军事|军发|军和|军尚|军称|凌晨|列国|前哈|动中|动哈|勒斯|发表|合行|名巴|员但|员当|和以|哈马|回应|国家|国防|在联|地时|坦伊|声明|多相|央视|安全|家安|对此|尚未|局辛|属军|巴勒|应央|当地|总局|息截|成员|截至|打死|抗运|披露|抵抗|斯下|斯兰|斯坦|斯方|新闻|方面|无回|日凌|日晚|时间|明称|晚间|晨以|暂无|更多|未披|此暂|死一|死哈|消息|特在|的高|目前|相关|称1|称打|级成|组织|细消|织的|织高|联合|至目|色列|行动|表声|视新|详细|贝特|辛贝|运动|间1|间以|防军|露更|面对|马斯|高级"
   ]
  ],
  "futu": [
-  "futu:1004093161",
-  "futu:1004093136",
-  "futu:1004093005",
-  "futu:1004092806",
-  "futu:1004092422",
-  "futu:1004092338",
-  "futu:1004092023",
-  "futu:1004091961",
-  "futu:1004091383",
-  "futu:1004091339",
-  "futu:1004091322",
-  "futu:1004091069",
-  "futu:1004090212",
-  "futu:1004089841",
-  "futu:1004089729",
-  "futu:1004089686",
-  "futu:1004089604",
-  "futu:1004089329",
-  "futu:1004089296",
-  "futu:1004089203",
-  "futu:1004089196",
-  "futu:1004089194",
-  "futu:1004089195",
-  "futu:1004089189",
-  "futu:1004089180",
-  "futu:1004089167",
-  "futu:1004089007",
-  "futu:1004088996",
-  "futu:1004088979",
-  "futu:1004088965",
-  "futu:1004088359",
-  "futu:1004088346",
-  "futu:1004088308",
-  "futu:1004088247",
   "futu:1004088158",
   "futu:1004088106",
   "futu:1004088050",
@@ -10347,7 +10321,41 @@
   "futu:1004541493",
   "futu:1004541363",
   "futu:1004541263",
-  "futu:1004541261"
+  "futu:1004541261",
+  "futu:1004545611",
+  "futu:1004545551",
+  "futu:1004545361",
+  "futu:1004544929",
+  "futu:1004544888",
+  "futu:1004544883",
+  "futu:1004544663",
+  "futu:1004544630",
+  "futu:1004544455",
+  "futu:1004544240",
+  "futu:1004544216",
+  "futu:1004544125",
+  "futu:1004544061",
+  "futu:1004544050",
+  "futu:1004543917",
+  "futu:1004543875",
+  "futu:1004543822",
+  "futu:1004543816",
+  "futu:1004543791",
+  "futu:1004543562",
+  "futu:1004543554",
+  "futu:1004543523",
+  "futu:1004543414",
+  "futu:1004543336",
+  "futu:1004543783",
+  "futu:1004543328",
+  "futu:1004543188",
+  "futu:1004543178",
+  "futu:1004543027",
+  "futu:1004542971",
+  "futu:1004542810",
+  "futu:1004542748",
+  "futu:1004542673",
+  "futu:1004542600"
  ],
  "news_recent": [
   [
@@ -12461,6 +12469,14 @@
   [
    1794700620.107029,
    "$spcx catches elon first history launch musk rocket spacex starship successfully time tower"
+  ],
+  [
+   1794723005.0755203,
+   "2027 agenda americans consider democrats dollar fund multitrillion raising spending taxes"
+  ],
+  [
+   1794723009.21079,
+   "analyst diesel drops first gallon gasbuddy haan patrick september since time under"
   ]
  ],
  "opt_daily_embed": {
