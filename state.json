@@ -86,37 +86,6 @@
   "rss:https://www.ftchinese.com/story/001111070"
  ],
  "truth": [
-  "truth:https://www.trumpstruth.org/statuses/42637",
-  "truth:https://www.trumpstruth.org/statuses/42638",
-  "truth:https://www.trumpstruth.org/statuses/42640",
-  "truth:https://www.trumpstruth.org/statuses/42641",
-  "truth:https://www.trumpstruth.org/statuses/42642",
-  "truth:https://www.trumpstruth.org/statuses/42643",
-  "truth:https://www.trumpstruth.org/statuses/42644",
-  "truth:https://www.trumpstruth.org/statuses/42645",
-  "truth:https://www.trumpstruth.org/statuses/42646",
-  "truth:https://www.trumpstruth.org/statuses/42647",
-  "truth:https://www.trumpstruth.org/statuses/42648",
-  "truth:https://www.trumpstruth.org/statuses/42649",
-  "truth:https://www.trumpstruth.org/statuses/42650",
-  "truth:https://www.trumpstruth.org/statuses/42651",
-  "truth:https://www.trumpstruth.org/statuses/42652",
-  "truth:https://www.trumpstruth.org/statuses/42653",
-  "truth:https://www.trumpstruth.org/statuses/42654",
-  "truth:https://www.trumpstruth.org/statuses/42655",
-  "truth:https://www.trumpstruth.org/statuses/42656",
-  "truth:https://www.trumpstruth.org/statuses/42657",
-  "truth:https://www.trumpstruth.org/statuses/42658",
-  "truth:https://www.trumpstruth.org/statuses/42659",
-  "truth:https://www.trumpstruth.org/statuses/42660",
-  "truth:https://www.trumpstruth.org/statuses/42661",
-  "truth:https://www.trumpstruth.org/statuses/42680",
-  "truth:https://www.trumpstruth.org/statuses/42681",
-  "truth:https://www.trumpstruth.org/statuses/42682",
-  "truth:https://www.trumpstruth.org/statuses/42683",
-  "truth:https://www.trumpstruth.org/statuses/42684",
-  "truth:https://www.trumpstruth.org/statuses/42685",
-  "truth:https://www.trumpstruth.org/statuses/42689",
   "truth:https://www.trumpstruth.org/statuses/42688",
   "truth:https://www.trumpstruth.org/statuses/42687",
   "truth:https://www.trumpstruth.org/statuses/42686",
@@ -885,7 +854,38 @@
   "truth:https://www.trumpstruth.org/statuses/43633",
   "truth:https://www.trumpstruth.org/statuses/43632",
   "truth:https://www.trumpstruth.org/statuses/43645",
-  "truth:https://www.trumpstruth.org/statuses/43646"
+  "truth:https://www.trumpstruth.org/statuses/43646",
+  "truth:https://www.trumpstruth.org/statuses/43656",
+  "truth:https://www.trumpstruth.org/statuses/43678",
+  "truth:https://www.trumpstruth.org/statuses/43676",
+  "truth:https://www.trumpstruth.org/statuses/43677",
+  "truth:https://www.trumpstruth.org/statuses/43675",
+  "truth:https://www.trumpstruth.org/statuses/43669",
+  "truth:https://www.trumpstruth.org/statuses/43670",
+  "truth:https://www.trumpstruth.org/statuses/43671",
+  "truth:https://www.trumpstruth.org/statuses/43672",
+  "truth:https://www.trumpstruth.org/statuses/43673",
+  "truth:https://www.trumpstruth.org/statuses/43674",
+  "truth:https://www.trumpstruth.org/statuses/43668",
+  "truth:https://www.trumpstruth.org/statuses/43666",
+  "truth:https://www.trumpstruth.org/statuses/43667",
+  "truth:https://www.trumpstruth.org/statuses/43665",
+  "truth:https://www.trumpstruth.org/statuses/43663",
+  "truth:https://www.trumpstruth.org/statuses/43664",
+  "truth:https://www.trumpstruth.org/statuses/43662",
+  "truth:https://www.trumpstruth.org/statuses/43661",
+  "truth:https://www.trumpstruth.org/statuses/43657",
+  "truth:https://www.trumpstruth.org/statuses/43658",
+  "truth:https://www.trumpstruth.org/statuses/43659",
+  "truth:https://www.trumpstruth.org/statuses/43660",
+  "truth:https://www.trumpstruth.org/statuses/43648",
+  "truth:https://www.trumpstruth.org/statuses/43649",
+  "truth:https://www.trumpstruth.org/statuses/43650",
+  "truth:https://www.trumpstruth.org/statuses/43651",
+  "truth:https://www.trumpstruth.org/statuses/43652",
+  "truth:https://www.trumpstruth.org/statuses/43653",
+  "truth:https://www.trumpstruth.org/statuses/43654",
+  "truth:https://www.trumpstruth.org/statuses/43655"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1712,10 +1712,6 @@
   "wscn:3203667"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37632",
-  "tg:WalterBloomberg/37631",
-  "tg:WalterBloomberg/37630",
-  "tg:WalterBloomberg/37629",
   "tg:WalterBloomberg/37635",
   "tg:WalterBloomberg/37634",
   "tg:WalterBloomberg/37633",
@@ -2511,7 +2507,11 @@
   "tg:WalterBloomberg/38868",
   "tg:WalterBloomberg/38867",
   "tg:WalterBloomberg/38870",
-  "tg:WalterBloomberg/38869"
+  "tg:WalterBloomberg/38869",
+  "tg:WalterBloomberg/38874",
+  "tg:WalterBloomberg/38873",
+  "tg:WalterBloomberg/38872",
+  "tg:WalterBloomberg/38871"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2977,7 +2977,9 @@
   "tg:WatcherGuru/16228",
   "tg:WatcherGuru/16237",
   "tg:WatcherGuru/16236",
-  "tg:WatcherGuru/16235"
+  "tg:WatcherGuru/16235",
+  "tg:WatcherGuru/16240",
+  "tg:WatcherGuru/16238"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -3153,7 +3155,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1795273060.8783636,
+ "congress_last_check": 1795294365.5744038,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3212,7 +3214,7 @@
   "market_close:2026-11-20",
   "movers_post:2026-11-20"
  ],
- "earnings_last_check": 1795273694.0549405,
+ "earnings_last_check": 1795294977.1636071,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3548,7 +3550,7 @@
   "er:2026-11-20:BJ",
   "er:2026-11-20:MOG.A"
  ],
- "gas_last_check": 1795273061.4465334,
+ "gas_last_check": 1795294366.66969,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -4404,7 +4406,11 @@
   "gas:CBMiZkFVX3lxTE4xNHVaSjJXaEt2YUQwVUVGc1habjVZN2hOTDhVRWxVeHdNYjBMTFVVc3c5S0FmUllvdUNqTTRWbmNOYklvbzUyM1pCWjVDeWRpR1czUHl5blN4eGJ6WDdrVXE3M3FRQQ",
   "gas:CBMicEFVX3lxTFBCU1VOM3N1b2d5bXVwRnZyZXJFdjl1RUxfRzhmWVZITDluV3NlN0ExS1hKc2xwazdXbFVvQm04T010azQyejdleGhDSnM2QlVydm9DM21iM2NiOTl0MVg4WUV4a1NfTUVfM1ZvNUpjRjjSAXZBVV95cUxOU2dRMENpSmk5Wnl0ZV93cVJ2WGxZcUI0ZDRUNFZZeWNpNld0MDQwVVZJaGRJdnRKTlJ1NXR2Vk9mclVxMm1BelpfLUhPd2RBQk1vcmxZUG5TQV9IcXRJVmZ2dk1VTUQ1Um81NXE3ZEk4cVh4cUZn",
   "gas:CBMiqwFBVV95cUxOTzZZbmVBOUl2S1haVUhtNU56RVlCLUozb1BZcXJ2ZWJhUk9PU2ppVXlxa01kZEE5Sks3ZlExbkFaeVZsQnlOaFBkSEpiMlVDZno4UnVacmc5V3VpQ0hIZExPREREYmkxSkFXUm5Bd0FHZS1jU3VkZUtacHl3MF9lWGJaQm0wQklyZWpJUWVNZjlKZ1BWTnp5SGRZdDAxRW9jVko4NElzaDdVbms",
-  "gas:CBMiXkFVX3lxTE9BZHZEOG0wYWdxMlJZWkRWV0N3R2ZtMjc0bXlHS29EcW9VRlNaTXFvZ295a2QtSWRUa2JTU2FWVURYRy1PM3pJOWFURXQxT0hQbXVrSWQ3TE5lWFp0Unc"
+  "gas:CBMiXkFVX3lxTE9BZHZEOG0wYWdxMlJZWkRWV0N3R2ZtMjc0bXlHS29EcW9VRlNaTXFvZ295a2QtSWRUa2JTU2FWVURYRy1PM3pJOWFURXQxT0hQbXVrSWQ3TE5lWFp0Unc",
+  "gas:CBMi5gFBVV95cUxNQU5oN3VMYjN1c3ZQWEVDcmhDX0pKMDBuUVhmczJIWEhLdUUwc3EtWkhzcVlySUdGY0ZFOUJTeFdZWTRHN0xFRGJsTlFMZmJ1aFdzVVc2RkxVdTRGVVVsUDN1TzJwWkRiT2Q4aWR4bDFZZ1BuYWhySWV2aUNRN2JpVlhMWDdaS3ZfcXdRQ3lrRy10SmhtdUhHcEZJMTRtRjliWFB4eXNCSnNkcUp1RXBoM19idnBvVnd6RjZWNVM3QlZKU1NJUGJmM3V3MnNWU01oZExRaC1KNHFuUmgwd2xQX2N3Y0xSUQ",
+  "gas:CBMiXkFVX3lxTE95VE10eHpPYkx0eHRqQ1lsSDFpZG5RR0VVZzd2Smh4SC10Z0J2dzRscVNKdVB1VWJqVmR2b2JVWTNOanFFWUNCM0NrWmEtTmFxZzlSTmtmNnBWQzEtbVE",
+  "gas:CBMiuwFBVV95cUxPUzBGV0FVUFg2VTRzTHVsNUtHS3dRMWdRSDgya0YybndydU5TNXU3c0t1dFlKZ285cENRVElhanRjZmtxMHgtMmVGX1owR0JJRDZ6YlRud3A2TXZCblo5aXRGNllpMUVvRFN1ZWRRUm54Tk9kSENUS055emVzVmh3bC1GTXJzM05FaGFXZ1pfVjhBYm9MWmlRTUFSTHFoM1VSSUhwOXBLVE5xM18wWFRqMmFNS2tnbHhURmNN",
+  "gas:CBMiaEFVX3lxTE1kV2RXSTJ3enptR2JSRHZFOFh1NkRnYmM5WXRXdl9VWUhDVzFXSmZ6QUhNSjNwQWs3ckVRYUNwczhWVWpWSGNGVHJzcEtOUDNjMU02SHNxRmh4MFM3M0xGS1lpelNZTEl6"
  ],
  "shows_last_day": "2026-11-21",
  "shows_init": "2026-10-22",
@@ -5336,7 +5342,9 @@
   "tg:disclosetv/22222",
   "tg:disclosetv/22221",
   "tg:disclosetv/22224",
-  "tg:disclosetv/22225"
+  "tg:disclosetv/22225",
+  "tg:disclosetv/22227",
+  "tg:disclosetv/22226"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -5929,7 +5937,8 @@
   "tg:insiderpaper/46057",
   "tg:insiderpaper/46056",
   "tg:insiderpaper/46062",
-  "tg:insiderpaper/46063"
+  "tg:insiderpaper/46063",
+  "tg:insiderpaper/46064"
  ],
  "opt_daily": "2026-11-20",
  "opt_flow_last": 1793045302.4056692,
@@ -6090,26 +6099,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/146137",
-  "tg:FinancialJuice/146136",
-  "tg:FinancialJuice/146135",
-  "tg:FinancialJuice/146134",
-  "tg:FinancialJuice/146133",
-  "tg:FinancialJuice/146132",
-  "tg:FinancialJuice/146131",
-  "tg:FinancialJuice/146130",
-  "tg:FinancialJuice/146129",
-  "tg:FinancialJuice/146128",
-  "tg:FinancialJuice/146127",
-  "tg:FinancialJuice/146228",
-  "tg:FinancialJuice/146227",
-  "tg:FinancialJuice/146226",
-  "tg:FinancialJuice/146225",
-  "tg:FinancialJuice/146224",
-  "tg:FinancialJuice/146223",
-  "tg:FinancialJuice/146222",
-  "tg:FinancialJuice/146221",
-  "tg:FinancialJuice/146220",
   "tg:FinancialJuice/146219",
   "tg:FinancialJuice/146218",
   "tg:FinancialJuice/146217",
@@ -6889,22 +6878,30 @@
   "tg:FinancialJuice/149163",
   "tg:FinancialJuice/149162",
   "tg:FinancialJuice/149161",
-  "tg:FinancialJuice/149160"
+  "tg:FinancialJuice/149160",
+  "tg:FinancialJuice/149206",
+  "tg:FinancialJuice/149205",
+  "tg:FinancialJuice/149204",
+  "tg:FinancialJuice/149203",
+  "tg:FinancialJuice/149202",
+  "tg:FinancialJuice/149201",
+  "tg:FinancialJuice/149200",
+  "tg:FinancialJuice/149199",
+  "tg:FinancialJuice/149198",
+  "tg:FinancialJuice/149197",
+  "tg:FinancialJuice/149196",
+  "tg:FinancialJuice/149195",
+  "tg:FinancialJuice/149194",
+  "tg:FinancialJuice/149193",
+  "tg:FinancialJuice/149192",
+  "tg:FinancialJuice/149191",
+  "tg:FinancialJuice/149190",
+  "tg:FinancialJuice/149189",
+  "tg:FinancialJuice/149188",
+  "tg:FinancialJuice/149187"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1794605569.2158804,
-   "13|3F|AD|DR|F报|KK|KR|K海|Me|NO|OW|Pl|RS|R等|SK|Se|So|W等|aP|at|ce|eN|er|et|fo|ic|la|ms|or|os|rm|ro|rv|s三|s等|ta|tf|vi|三季|仓K|仓S|力士|告显|增持|士A|季度|尔M|度建|建仓|报告|持英|显示|海力|清仓|特尔|示S|票增|等清|等股|股票|英特"
-  ],
-  [
-   1794605570.6348388,
-   "AA|AT|Ai|A本|Cu|C空|FA|TC|en|ir|nt|rC|re|rr|t美|ur|令系|信频|停飞|全美|命令|国联|局F|所至|据A|故障|本次|次全|率故|理局|空管|管理|管通|系A|美停|美国|联邦|航空|通信|邦航|障所|频率|飞命"
-  ],
-  [
-   1794605572.0555716,
-   "13|3F|Al|Ap|As|Ca|Ce|Co|Da|EO|F文|HP|La|Lo|Ma|Me|Mo|Ok|PE|Pl|Po|Ro|Si|Sy|Ti|Tw|Vi|Wh|aL|aP|aS|aV|ab|ad|ag|al|an|ap|ar|at|a微|a西|be|bs|cP|ca|ck|co|do|eR|el|em|en|er|es|et|e及|fo|ge|g建|ha|he|hi|iT|ic|il|im|in|io|it|kC|kt|k三|lM|la|le|li|lp|me|ms|na|no|nt|n清|oC|oc|og|oh|ol|on|or|ov|ow|pL|ph|pi|pp|rS|ra|re|rm|rv|r及|sC|sT|st|s与|s减|ta|te|tf|th|ti|t及|t大|t拉|va|vi|we|wi|ys|三季|与H|与苹|仓A|仓M|仓微|件波|公司|冲基|减持|加仓|及A|及D|及M|司A|司C|司高|基金|增持|士顿|大幅|姆研|季度|对冲|幅加|干公|度增|建仓|微软|惠与|意公|披露|拉姆|持M|持闪|据最|据苹|数据|文件|新披|最新|果根|根据|歌母|母公|波士|清仓|的1|相干|研究|究相|苹果|西部|谷歌|软惠|软清|迪谷|部数|金W|闪迪|露的|顿对|高意"
-  ],
   [
    1794605573.5372539,
    "一旦|中心|于通|交通|们将|信问|停飞|全国|关消|制中|及时|响所|围的|国交|国机|国联|国范|地面|场实|实施|对所|将及|局停|局对|影响|心联|息我|我们|所有|报由|施全|旦有|时通|有美|有航|机场|消息|理局|由于|的地|的相|相关|空管|管制|管理|美国|联邦|航空|航路|范围|路交|通信|通报|通管|通部|邦航|部长|长一|问题|面停|题影|飞的"
@@ -10092,61 +10089,21 @@
   [
    1795273055.9327564,
    "下为|不必|为政|人士|份允|份的|使用|允许|况下|减少|划减|华尔|原有|员在|员身|在不|士透|外部|宫正|对特|少对|尔街|工作|府工|府雇|弃原|必放|情人|情况|或投|投资|报据|据华|据知|放弃|政府|日报|有外|正计|殊政|特殊|用该|白宫|的使|的情|知情|私营|营部|薪酬|街日|计划|许私|该身|资的|身份|透露|部薪|部门|酬或|门雇|雇员|露白"
+  ],
+  [
+   1795294316.6165426,
+   "伟达|刑法|加州|在刑|察长|对英|州总|总检|查涵|检察|法问|涵盖|潜在|的调|盖潜|英伟|调查|达的|长对|问题"
+  ],
+  [
+   1795294318.2394927,
+   "AO|DA|NV|O芯|VD|一日|一领|下的|不同|与公|业面|中禁|中表|临更|为令|事刑|事条|事违|于初|五称|仁勋|仍处|令这|们参|任何|企业|众提|众的|伟达|何结|作出|供虚|信息|倘若|假信|公众|关禁|关芯|内这|况向|出相|刑事|刚宣|初步|前一|前仍|前首|加州|动这|勋就|包含|参考|可能|同时|同法|向公|否存|含在|启动|周五|售并|售情|国加|在内|在州|在核|在采|域有|基本|塔前|塔周|塔在|处于|多条|多项|存在|官黄|宣布|家芯|察长|对英|导投|尚未|就此|就相|州总|州法|州针|布启|布邦|席执|并就|形成|律中|律作|律框|律邦|总检|息有|情况|成任|我们|或前|执行|投资|提供|日刚|时在|是加|是否|更高|有可|有多|未形|本法|条不|条款|架是|查同|查是|查目|查调|核查|框架|检察|款民|款都|止误|此误|步阶|段尚|民事|法下|法律|片企|片销|犯多|的刑|的基|的条|的调|目前|相关|示我|禁令|禁止|称倘|结论|罗布|美国|考的|者与|者的|能触|芯片|若英|英伟|虚假|行为|行官|表示|规行|触犯|论邦|访中|该州|误导|调查|资者|达N|达或|这一|这家|这项|违规|邦塔|都包|采访|针对|销售|长罗|阶段|险该|面临|项加|项调|领域|风险|首席|高风|黄仁"
+  ],
+  [
+   1795294319.9342039,
+   "5亿|75|AI|De|I初|ar|ca|ec|rt|t交|下周|于下|亚马|交易|亿美|以7|元收|公司|创公|初创|初达|即将|可能|司D|周初|国金|将以|报亚|据英|收购|早可|时报|易最|最早|美元|能于|英国|融时|购A|达成|逊即|金融|马逊"
   ]
  ],
  "futu": [
-  "futu:1004760057",
-  "futu:1004760112",
-  "futu:1004760092",
-  "futu:1004760151",
-  "futu:1004765201",
-  "futu:1004764845",
-  "futu:1004764846",
-  "futu:1004764513",
-  "futu:1004764427",
-  "futu:1004764428",
-  "futu:1004764429",
-  "futu:1004764397",
-  "futu:1004764332",
-  "futu:1004764311",
-  "futu:1004764290",
-  "futu:1004764267",
-  "futu:1004763984",
-  "futu:1004675082",
-  "futu:1004763567",
-  "futu:1004763382",
-  "futu:1004763368",
-  "futu:1004763369",
-  "futu:1004763347",
-  "futu:1004763319",
-  "futu:1004763299",
-  "futu:1004763152",
-  "futu:1004762994",
-  "futu:1004762637",
-  "futu:1004762462",
-  "futu:1004762456",
-  "futu:1004762415",
-  "futu:1004762378",
-  "futu:1004762333",
-  "futu:1004762321",
-  "futu:1004762294",
-  "futu:1004762192",
-  "futu:1004762183",
-  "futu:1004762173",
-  "futu:1004762158",
-  "futu:1004762140",
-  "futu:1004762055",
-  "futu:1004762029",
-  "futu:1004761984",
-  "futu:1004762028",
-  "futu:1004761392",
-  "futu:1004761207",
-  "futu:1004761006",
-  "futu:1004760953",
-  "futu:1004760545",
-  "futu:1004760244",
-  "futu:1004760203",
-  "futu:1004760178",
   "futu:1004760150",
   "futu:1004760149",
   "futu:1004800413",
@@ -10894,25 +10851,61 @@
   "futu:1005257940",
   "futu:1005257821",
   "futu:1005257544",
-  "futu:1005257509"
+  "futu:1005257509",
+  "futu:1005273166",
+  "futu:1005273174",
+  "futu:1005274732",
+  "futu:1005274726",
+  "futu:1005274701",
+  "futu:1005274680",
+  "futu:1005274677",
+  "futu:1005274674",
+  "futu:1005274655",
+  "futu:1005274646",
+  "futu:1005274645",
+  "futu:1005274568",
+  "futu:1005274566",
+  "futu:1005274551",
+  "futu:1005274548",
+  "futu:1005274460",
+  "futu:1005274439",
+  "futu:1005274430",
+  "futu:1005274413",
+  "futu:1005274283",
+  "futu:1005274267",
+  "futu:1005274243",
+  "futu:1005274195",
+  "futu:1005274161",
+  "futu:1005274121",
+  "futu:1005274115",
+  "futu:1005274111",
+  "futu:1005274087",
+  "futu:1005274083",
+  "futu:1005274057",
+  "futu:1005274050",
+  "futu:1005273996",
+  "futu:1005273989",
+  "futu:1005273981",
+  "futu:1005273971",
+  "futu:1005273947",
+  "futu:1005273945",
+  "futu:1005273911",
+  "futu:1005273897",
+  "futu:1005273851",
+  "futu:1005273790",
+  "futu:1005273721",
+  "futu:1005273671",
+  "futu:1005273631",
+  "futu:1005273515",
+  "futu:1005273510",
+  "futu:1005273418",
+  "futu:1005273408",
+  "futu:1005273396",
+  "futu:1005273352",
+  "futu:1005273184",
+  "futu:1005273178"
  ],
  "news_recent": [
-  [
-   1794211787.7646723,
-   "invest korean nvidia point2 startup"
-  ],
-  [
-   1794211909.3229296,
-   "investments motif nvidia plans rlwrld tech upstage"
-  ],
-  [
-   1794216052.4373689,
-   "cartoon ceo dana depicting donald house president press secretary shares trump ufc video watch white"
-  ],
-  [
-   1794216972.8850062,
-   "$105 $124 $165 $340 $450 $nvda 2030 500 aletheia alone analyst billion buy capital center chang citing commitments computing concerns coreweave data downgraded estimates exposure financial financing growing hold including internal iren months nebius next nvidia ohio partner potential potentially price program project raises require rising risks stefan surged target tenfold tied turmoil withdrawn"
-  ],
   [
    1794217092.2474473,
    "$nvda alice allegations alleged announced authorities board calling ceo china chinese denial denies espionage executive follows foreign former groundless huang independent information intelligence international investigation involving jensen megaspeed nvidia operation providing rejected relationship services slander speculation sunday suspect targeted while"
@@ -14096,6 +14089,22 @@
   [
    1795273813.6657667,
    "broker deal fox going interview iran lasting news trump"
+  ],
+  [
+   1795294322.190497,
+   "card congress credit democratic fox incoming interview news rates together trump work"
+  ],
+  [
+   1795294325.0039394,
+   "deal fox going interview iran make news permanent trump"
+  ],
+  [
+   1795294327.6372263,
+   "cap card credit democrats donald interest president rates trump work"
+  ],
+  [
+   1795294329.925344,
+   "$tsla begins elon fsd musk officially out rolling tesla v15"
   ]
  ],
  "opt_daily_embed": {
