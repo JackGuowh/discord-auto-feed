@@ -86,15 +86,6 @@
   "rss:https://www.ftchinese.com/story/001111070"
  ],
  "truth": [
-  "truth:https://www.trumpstruth.org/statuses/42709",
-  "truth:https://www.trumpstruth.org/statuses/42708",
-  "truth:https://www.trumpstruth.org/statuses/42713",
-  "truth:https://www.trumpstruth.org/statuses/42712",
-  "truth:https://www.trumpstruth.org/statuses/42711",
-  "truth:https://www.trumpstruth.org/statuses/42710",
-  "truth:https://www.trumpstruth.org/statuses/42714",
-  "truth:https://www.trumpstruth.org/statuses/42715",
-  "truth:https://www.trumpstruth.org/statuses/42717",
   "truth:https://www.trumpstruth.org/statuses/42716",
   "truth:https://www.trumpstruth.org/statuses/42718",
   "truth:https://www.trumpstruth.org/statuses/42719",
@@ -885,7 +876,16 @@
   "truth:https://www.trumpstruth.org/statuses/43690",
   "truth:https://www.trumpstruth.org/statuses/43691",
   "truth:https://www.trumpstruth.org/statuses/43689",
-  "truth:https://www.trumpstruth.org/statuses/43688"
+  "truth:https://www.trumpstruth.org/statuses/43688",
+  "truth:https://www.trumpstruth.org/statuses/43708",
+  "truth:https://www.trumpstruth.org/statuses/43707",
+  "truth:https://www.trumpstruth.org/statuses/43706",
+  "truth:https://www.trumpstruth.org/statuses/43705",
+  "truth:https://www.trumpstruth.org/statuses/43704",
+  "truth:https://www.trumpstruth.org/statuses/43703",
+  "truth:https://www.trumpstruth.org/statuses/43702",
+  "truth:https://www.trumpstruth.org/statuses/43700",
+  "truth:https://www.trumpstruth.org/statuses/43701"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -1712,9 +1712,6 @@
   "wscn:3203745"
  ],
  "tg:WalterBloomberg": [
-  "tg:WalterBloomberg/37633",
-  "tg:WalterBloomberg/37637",
-  "tg:WalterBloomberg/37636",
   "tg:WalterBloomberg/37644",
   "tg:WalterBloomberg/37643",
   "tg:WalterBloomberg/37642",
@@ -2511,7 +2508,10 @@
   "tg:WalterBloomberg/38872",
   "tg:WalterBloomberg/38871",
   "tg:WalterBloomberg/38876",
-  "tg:WalterBloomberg/38875"
+  "tg:WalterBloomberg/38875",
+  "tg:WalterBloomberg/38879",
+  "tg:WalterBloomberg/38878",
+  "tg:WalterBloomberg/38877"
  ],
  "tg:WatcherGuru": [
   "tg:WatcherGuru/15589",
@@ -2984,7 +2984,12 @@
   "tg:WatcherGuru/16242",
   "tg:WatcherGuru/16246",
   "tg:WatcherGuru/16245",
-  "tg:WatcherGuru/16244"
+  "tg:WatcherGuru/16244",
+  "tg:WatcherGuru/16254",
+  "tg:WatcherGuru/16253",
+  "tg:WatcherGuru/16251",
+  "tg:WatcherGuru/16250",
+  "tg:WatcherGuru/16248"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -3160,7 +3165,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1795364418.404818,
+ "congress_last_check": 1795384681.437106,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3220,7 +3225,7 @@
   "movers_post:2026-11-20",
   "weekly:2026-11-22"
  ],
- "earnings_last_check": 1795365090.3105173,
+ "earnings_last_check": 1795385371.6563392,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3556,7 +3561,7 @@
   "er:2026-11-20:BJ",
   "er:2026-11-20:MOG.A"
  ],
- "gas_last_check": 1795364419.3514194,
+ "gas_last_check": 1795384681.9503765,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3622,12 +3627,6 @@
   "gas:https://www.cganet.com/new-handbook-chapters-coming-soon/"
  ],
  "gas:Google 新闻": [
-  "gas:CBMiygFBVV95cUxOQVBLeXpnZDA1dUpEb0tKcnFqV3RhZGQ2d25WcERvV3AzYzdveUdaSDVMM29ZbGVsSXk4ZEVucmxrbHkyOHg1VkpDT2lpbjREMWhybkhZbHdhNjhQX1hiYk5LZUwtM1VuV2dsTG13dGpsRTZxX0RFdEZqOGQ0OEFoSjN6UWNXRk1paXVnUFF0TXdkU01vaGJHU2RqM3ZiQm85YlJ2cEtzY01GVjBEcEoxZ0l5WTR2d0RISTdmeVZZSWtFUnNZZEw0LWt3",
-  "gas:CBMibkFVX3lxTE04bk16eHJrXzg1WmI4QnRwUzhGQ01aQlQwc1ItWDgxSjgxRHdvZDUtalBudnRQaGF6R2xQOTM1ek5BdWo3ZHptbFFjT1pyU2M5N1NYSjlWUGhnVDlkc2FiVFMzNTRoaEdWNlBNM3pn",
-  "gas:CBMi5wFBVV95cUxQejlndmpKZzB2UEIzSEZwZjNnT184NU94X251YWlCZVJJUmpTUlc2am1EbWg3Nm1ySzI3RVREZThLQzg0VEJ4SkU2cVNpekdyLTE2blUwZWdlejhjbnduVlVrbTlRTThqOUFEUy1BRzI4aGN5QVhQOXFNUFlWR1BuLWtTU0kyUWktbWM4eXJjN1pRQlFEbVMzajB1N2pRQ0pXZEhIZ3lrR2hucWQ1NzNyNlN5ZEl5RnR0MGtTbU5aR0pkanhpSjdIMkY5ai1rMVB6cnV4MGRIQWtrdXJuMHNjd0ktOXprRVE",
-  "gas:CBMi5wFBVV95cUxNNVI5eUFmdzFsREU5NXh0R0xOUUw1NjN0X3llOXlYTVlpY05OUWpMNjNaLUVIdzB2M0h0VnVnOURFOG8tWU9FX05DZkk4VmdRRE9WQVBOcFNJYmZQTGpWeDFDVDA0dEZpMW4tR0REOEhRcHplNDRYWTNqYlZPRzZzUXpDUi00Q0NEbnVTR2xDZnIwZG5sNFFFOEVrSmpjZ0ZhdjlCcU9oRVZWeFRTd090ZFRoUFhaZUFyN3F4czlMTVk3bmtrdENkaExoU2VaY1NadzR2YTFoR3VSQ1o0MThBMnJNdHUycjA",
-  "gas:CBMitAFBVV95cUxQMi1WbDdnd1N4S0EwTFNvV0RFWTg4ZVgwbWNjVEREVWJhY254eUROczkzcnpzMGswY180anF2VUVTS2VfUTlnU0hFODI5QVpRZnY5ejhlMmw3Z2VrUXp0ZmxyekFWTjF6bklIMFZPTFBfdjRxYU9ubmF2N0dacnZGQnZUSGhsZFYzUTVsVUFQZHdkVHFfOE91MTh2YXlBb2lnTXl4VnRUUW5yQ05PUU9NdU13MlE",
-  "gas:CBMiU0FVX3lxTE96dDFkakJtSjJsXzIzMVowRmtJV1BOY2o0Q0RtUVpHZEdKNVlxVjVXM1RUR212dU9EcGxjamxwQ2pCNzlvREd2aU5OQnJnbDZ0NjFr",
   "gas:CBMimgFBVV95cUxPYzNsNjhaWGpFeUhsTjlZTXZsY1ZnS05TZHdZem9MM3JFTU1RQlVsd1JtYVZOT18zYXlTSzNyZ0dTb0VKazdlOTU5WGtZc3pGWWlNYmFjbWhwZUhhWGRucTNOZEZQeTlFUXlpcnI4cmNFVXJXaFFzOUQwVl8xbDY2d3JqN3VWMXl2dlFCMGtoVWR2Vml3b2tPR0Z3",
   "gas:CBMitAFBVV95cUxOWFRUNGxGdUhodDRGLU55eGJXMUtaUzk2elFndGZJa1pKLTJydFVidWFDTTJFbEN5dnM1NHN3d2pETmlUUmpTd0pTWE8wM0JxZ3VFTUhUTlVaNlFWWnRPVS1yY3VKQTctMi1YaWdPZkRZMzNoTEpES2RHeW1iUjQzSk1VVGxadkNfWkRHOGxUQlZQS0FRb09saWpMWkI5c1hxZzZBckRodDNNMWwtRFNmRVRBSEs",
   "gas:CBMiUkFVX3lxTE4tWTY4UnZTeVdFdWJSRW1XUG1RSWVua09RNEZpYUNJOUR0MklQSjZINnVORDFHTnQtbVpLdVBlcjd0UGNSUnJmMVllTEJLYVZUeHc",
@@ -4421,7 +4420,13 @@
   "gas:CBMiiwFBVV95cUxPeHJKcnlxdnh4cXRyUDY5aE0tVThGWkJpTkVtU0Z5ZTBldGZBQkdxbXVidmFMNENRMFM5UmFMYTFyaUpiUWRtcTlSZ0pFNE1Qb1BYUWJSU2dJcFdkWE51M1hiQS1WVWVtT0U3N1RTVUZkN3dhLW00Y0hYWnFodEtFajJVbWI2cTlWX2dZ",
   "gas:CBMilgFBVV95cUxPWFFuU0lndFdmQUZWYnJsZThVby1YWWxtRlpEbUt3SnpLU2ctZGVjM2xUX2VvMTFOSVd3dERGeUNzYXAxZDZHMUlCdWpHOVN1c0VjZGw3M3NOTFc1ZW1vUkhoSlM4TmtEb1YwbHVza0I0OUg0aEIxcUJwdktKc2ZidXNrcVhfQUJmWFh6YjUyV2RFUzVHY2c",
   "gas:CBMi0AFBVV95cUxQUGtzZEJmVkN5YnowT3drVUcwdTN3UmRJR2ZkRzFGMlVQSmN0SlRQTVlkS21VU0VPbW9rOW5iZmYtWkZ4aVZmdzBCdE1MYXFkWDJWYVBxTXF3eFpZX0NwSEpRWldrWGktbG4zam9zVFNWTWt5dXdpWlJ2dWNjUHVTazBhR3ZITjBCZUctOFZPTjVRTFE0RXhzaW80RWNNbDk0c0p1cGJWOVFQR05mcHN3ZlItSGVIS2k5Skd5WDdidUpua0FnaFJCbFR3SFVia1RS",
-  "gas:CBMi2gFBVV95cUxQY1VkTHd1MHp1RmMwMEdvZVkwZGNoV1NsamRVQkV5dDB4YTRhXzdFYmdwaDhSbXhIa1BmSnZlM1dOLUcySWJNYWszdnZZN1U3T1BWYnFLOTBkdkFzT1lyTFYtRWJJaFdQMmRtLXRxVVNpYmpGcFZKV2kzVll1U3kwSWw1ZTFRZFVaN0FMdUZvNXNPcWhKUEVHUVZoVWR6TndvOHhBNTlwV1JwMnRXWmRXejAweldVekFvcXRUUlJZaTAzVTJDaW9GYTJ5Vi1vekVzei1kc1ZFaWF5Zw"
+  "gas:CBMi2gFBVV95cUxQY1VkTHd1MHp1RmMwMEdvZVkwZGNoV1NsamRVQkV5dDB4YTRhXzdFYmdwaDhSbXhIa1BmSnZlM1dOLUcySWJNYWszdnZZN1U3T1BWYnFLOTBkdkFzT1lyTFYtRWJJaFdQMmRtLXRxVVNpYmpGcFZKV2kzVll1U3kwSWw1ZTFRZFVaN0FMdUZvNXNPcWhKUEVHUVZoVWR6TndvOHhBNTlwV1JwMnRXWmRXejAweldVekFvcXRUUlJZaTAzVTJDaW9GYTJ5Vi1vekVzei1kc1ZFaWF5Zw",
+  "gas:CBMif0FVX3lxTFBiM0h2YjU1ZWhLcU92M2JCbTZvSUQ0cHN3ZVlsVzQtamNlMTJKUGdYcXUtTkxZUEV1blhEU2RMSVlHblFMa3NsdVFXV09SVFJwVHR3XzIyU2JOWGtwcEF5WHNWODV6dFN4NDFuOGd1RVB2d1Q0Q0NhWW9oYWVjWDQ",
+  "gas:CBMiuAFBVV95cUxOdTZ4MHV5TnNwMXV0Tmc0ZkpxNTdjQkZ1SF9HcEhRMUk5SVRrV3RudFpHaVE2VnlHakJxeHdvdTg4MGFxQ2psYWdQWm5MS0p6RUE4azlVYmZjM2NWZklKWjhmQ0s4Ujl5TTJvWnBXSFdrR1FmZEtqMFR1UFVLRUpTR0RSVURPQjJMRldFRVhmbk90UFV6OE1YSXNhTlFTQ093ZFhIWmdEaHVORWdvQ09KSEhKak9pNlFv",
+  "gas:CBMiekFVX3lxTFBPQ3lVcnJRakxlQXYzMTV3U0ZRRkJySGRUYzMtMXdFYkk0VjJ1YXZnTXVhUmt1WU50SjlHM1NPTUVuT0dhS0hUN1djUE1kV0Jxc0w1Ykx3NHpPQUhUMlFNNmw1Qnh6UmlucmU5cjl0bzhkMDY5Zi16UDBB",
+  "gas:CBMizgFBVV95cUxQTGluVlVJYl9pSUZ0S3Z0UXNublVLb0xQMGc4b014c3c1RjJMV0dTaTZiRWlWc01hRjZlTTE5VFcxNXdLa1lWSm1ncG4zWFRYdDRlRkh0ZUtBVlhZbFg4VG1pMVpWMFNUbUNqSHVRTEpncl9CeUlQdzNrSUVQUkNyWGE3elJtS1o0bXFleUFtbDdGTS1ZWko5NlRnN3ljQy05eXFIc2ZXSk5hMzl3TWpSd05NZU9MSC04RXlmTWVFekcyaXVrbms2TmZseU5WUQ",
+  "gas:CBMioAFBVV95cUxONWpfVks1NTByOUF1Sk8yT0dpa2RBUHBXeG9BRDg1UVFYaUtIQXdjM0hnMXRqc1VUY2htQ2IxWXNzalNReWhDbFRiR1NraG9QSnZBeVY5SkFIcm5XTWF1cFlVOFhNdWcydjJNem52c1A4NV9Pek41YVhtS3VuSjJyTjU0SERaQk5ROVdVRi15OE4wX1AxcnJ3QjlISGgxY004",
+  "gas:CBMipwFBVV95cUxPQjBNU1preENFY3pjOUpVMXQxai13R2dyOGsyQWJrWV9BWGJWSEY1ZHZzOENBWjRraFNvd0Y5V01BODFIaE5CbXRNZEx6SjJKU1RXdkVLVk5JV0lhdXcyV3J1WUFmVlFpdlhsM2c1MDlSQ0IzQTZnMFhHUlBxZVB0X1B3QUhOaVhCTDRXZnIwMUF6RmlEWkh1WUwtaWV3clFoeVZnR0Njdw"
  ],
  "shows_last_day": "2026-11-22",
  "shows_init": "2026-10-22",
@@ -5359,7 +5364,8 @@
   "tg:disclosetv/22229",
   "tg:disclosetv/22232",
   "tg:disclosetv/22231",
-  "tg:disclosetv/22230"
+  "tg:disclosetv/22230",
+  "tg:disclosetv/22233"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -6114,15 +6120,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/146249",
-  "tg:FinancialJuice/146248",
-  "tg:FinancialJuice/146247",
-  "tg:FinancialJuice/146246",
-  "tg:FinancialJuice/146245",
-  "tg:FinancialJuice/146244",
-  "tg:FinancialJuice/146243",
-  "tg:FinancialJuice/146242",
-  "tg:FinancialJuice/146241",
   "tg:FinancialJuice/146240",
   "tg:FinancialJuice/146239",
   "tg:FinancialJuice/146238",
@@ -6913,38 +6910,19 @@
   "tg:FinancialJuice/149215",
   "tg:FinancialJuice/149214",
   "tg:FinancialJuice/149213",
-  "tg:FinancialJuice/149212"
+  "tg:FinancialJuice/149212",
+  "tg:FinancialJuice/149231",
+  "tg:FinancialJuice/149230",
+  "tg:FinancialJuice/149229",
+  "tg:FinancialJuice/149228",
+  "tg:FinancialJuice/149227",
+  "tg:FinancialJuice/149226",
+  "tg:FinancialJuice/149225",
+  "tg:FinancialJuice/149224",
+  "tg:FinancialJuice/149223"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1794605626.2580574,
-   "00|01|03|04|09|0跌|1标|1纳|1美|20|25|2苹|39|4成|50|52|5美|75|87|91|个股|中英|交额|伟达|光科|公司|前个|司跌|国超|居前|微公|成交|技跌|指收|指跌|收涨|普5|果涨|标普|涨0|科技|纳指|美光|美国|股中|英伟|苹果|超微|跌0|跌2|跌8|达跌|道指|额居"
-  ],
-  [
-   1794605796.4000814,
-   "13|3F|Ac|Bi|Br|Ca|Ci|Di|En|F报|GB|Gi|Go|Gr|He|Hu|Io|LN|Ma|Mi|NG|Pe|Pl|QS|Re|Ri|Sa|Sk|So|Sp|Ta|Te|Tw|aH|ac|ad|ag|al|an|ap|ar|at|a及|bG|ce|ch|ck|ct|dC|da|de|ds|ea|ec|ee|em|en|er|es|ew|fo|gG|ge|gi|gy|g及|hG|he|hn|ia|ic|ie|il|in|io|ip|it|iv|ke|ks|ky|lM|la|ld|le|li|lo|lt|lu|mH|me|mi|ms|nA|nE|nQ|nR|na|ne|ng|ni|no|ns|nt|oC|od|og|ol|on|oo|or|ot|ou|ph|pi|po|p减|rL|rM|rT|ra|rc|rg|rk|rm|ro|rt|ru|rv|r及|r建|sC|sS|sT|so|s及|tP|ta|td|te|tf|th|ti|t三|ub|uk|up|ur|ut|va|ve|we|wi|wo|yP|yw|三季|仓D|仓I|体清|减持|半导|及B|及G|及H|及意|告显|增持|大幅|季度|导体|希捷|幅增|度大|建仓|意法|技R|报告|持T|持希|捷科|显示|法半|清仓|示S|科技"
-  ],
-  [
-   1794606036.441236,
-   "AA|A的|FA|不会|中的|仍然|令仍|会起|停飞|公司|内航|司表|合航|国内|国联|在空|在美|将不|将继|局F|已在|效期|新的|有效|期间|然有|班将|理局|的停|的国|的美|示在|空中|空公|空管|管理|继续|续飞|美国|美联|联合|联航|联邦|航班|航空|航航|表示|起飞|邦航|间新|飞令|飞已|飞行"
-  ],
-  [
-   1794606038.881691,
-   "AA|AL|A发|FA|LO|O正|UA|停飞|全国|发布|合航|围地|国联|国范|在应|地面|对F|布的|应对|正在|的全|空U|美国|联合|航空|范围|面停|飞令"
-  ],
-  [
-   1794606096.8316815,
-   "AL|LO|O已|UA|合航|国联|将继|已经|执行|班将|的航|空U|经起|继续|续执|美国|联合|航班|航空|起飞|飞的"
-  ],
-  [
-   1794621036.8718667,
-   "AI|CI|IO|I基|I安|I市|I投|Li|Ma|Mo|O沙|Sh|St|We|aS|ag|al|an|ca|ea|em|en|er|et|ey|ga|ge|hM|ha|hy|is|le|lt|me|nS|na|nl|nt|or|pe|rg|rs|sa|sc|s和|ta|th|tt|t尽|t表|t首|yW|yp|不会|不是|与收|业金|中心|中期|中获|丹利|主党|举中|也看|云服|人工|以及|们要|件公|会动|伟达|依然|保健|保持|健领|党在|全的|公司|公平|出选|分软|分配|利财|力即|加强|务和|务商|动力|动摇|动荡|医疗|即对|及更|及民|发的|司M|司同|同时|和医|和部|商h|国中|在科|在美|地分|场动|场对|域依|域的|基础|士丹|大摩|大规|她在|好电|安全|官C|富管|对A|对人|对英|导层|尽管|层动|工业|工智|市场|市的|席投|平地|度看|建设|开发|强对|心建|心开|心驱|忧不|成本|或数|技股|投资|担忧|拒绝|持精|据中|摇本|摩S|摩根|支出|收益|数据|施工|施的|时也|是加|是拒|智能|更公|服务|期选|本与|本支|本轮|机会|极度|核心|根士|模云|民主|民们|求的|沙莱|涨摩|然保|然极|牛市|特L|理公|电网|略青|疗保|的成|的投|的担|的是|的核|的监|的资|益而|监管|看好|看涨|睐超|础设|示市|科技|策略|管A|管以|管理|精选|绝A|网基|美国|而不|股领|胜的|能A|英伟|荡以|荡依|莱特|获胜|融服|表示|要求|规模|设她|设施|财富|资官|资或|资本|资机|超大|轮牛|软件|达领|选举|选民|选策|部分|配数|金融|青睐|领域|领导|首席|驱动"
-  ],
-  [
-   1794621038.4313967,
-   "AA|AR|AS|AT|C的|FA|I此|MA|RT|SI|SM|TC|T系|不是|与F|也不|于S|们与|停飞|合所|基于|并非|我们|所至|是该|次停|此次|的融|系统|统也|统所|至此|融合|该系|非基|非我|飞并"
-  ],
   [
    1794621039.90105,
    "AA|A出|FA|中交|交通|出现|制雷|及空|和无|国联|局F|故障|无线|涉及|现系|理局|电频|空中|空管|管制|管理|系统|线电|统故|美国|联邦|航空|达和|通管|邦航|障涉|雷达|频率"
@@ -10116,60 +10094,37 @@
   [
    1795364788.3128595,
    "12|2月|9月|一步|一系|下挫|下政|下调|不变|个月|为如|了一|了对|了支|事接|五市|亚广|交易|人工|人认|仓这|他同|他说|们已|价格|会犯|伦比|体系|使部|促使|储1|储9|储理|储若|储过|公司|再次|准利|几个|几周|出过|出金|分市|列鹰|利率|到平|到金|前在|力持|加息|动增|危及|压力|去几|及美|发表|变后|可能|司美|同时|名官|后多|告称|员下|员表|周五|周美|哥伦|国经|国财|在然|在美|场交|场大|场理|基准|境明|增长|多人|多名|大幅|如果|存在|官员|对美|工智|已显|已经|币政|市场|幅下|平仓|并指|广播|度收|弱迹|息的|我们|押注|持1|持基|持续|指出|挫人|据哥|据最|据进|接连|播公|支持|收紧|政策|数据|新通|时指|明显|易员|易押|是价|显收|显现|智能|最新|月再|月加|月我|月维|果美|根据|格压|森特|次加|此前|步收|比亚|注遭|派言|济并|然而|特表|特警|犯下|率不|环境|现脆|理事|理由|由是|的交|的立|的预|看到|示许|称美|立场|策可|策错|系列|系已|紧政|紧此|紧货|经济|经看|续存|维持|美国|美联|而周|联储|胀数|能会|能危|能驱|脆弱|若根|融体|融环|表了|表示|表达|言论|警告|认为|许多|论他|误他|说过|调了|象贝|贝森|财长|货币|达了|过去|过度|这促|进一|连发|迹象|通胀|遭到|部分|金融|错误|长的|长贝|预期|驱动|鹰派"
+  ],
+  [
+   1795384643.7123907,
+   "与平|关团|力恢|动化|努力|化系|团队|复离|平衡|恢复|正努|港航|班重|的自|相关|离港|空相|算的|系统|美航|自动|航班|航空|衡计|计算|达美|重量|量与|队正"
+  ],
+  [
+   1795384645.3903205,
+   "0这|11|1月|20|3日|6万|一步|万亿|下跌|不必|不断|不迅|严重|为民|主党|了2|交平|亿美|仅纳|他们|他更|以及|以来|们不|们的|会再|会进|但不|值已|元仅|克指|党及|党在|全是|其他|其反|再次|况只|利以|化但|及其|反增|发文|发超|取得|变政|只会|台发|唯报|因为|国家|国总|国股|在1|在不|在社|场相|增长|复论|大起|好消|如果|完全|家很|就下|就会|已蒸|市值|市市|平台|强大|当蹊|很快|得那|心我|必担|快就|总统|息正|恶化|情况|我们|报复|担心|指数|改变|政策|数就|文称|断涌|斯达|日取|是因|普在|更严|月3|朗普|来好|来美|果他|次强|正在|步恶|民主|消息|涌现|特朗|的国|的政|的胜|的问|相当|社交|称自|策情|策糟|糕透|糟糕|纳斯|统特|美元|美国|股市|胜利|自民|蒸发|论的|起来|超过|跌了|跷的|蹊跷|达克|迅速|过6|这完|进一|透顶|速改|那场|重的|长唯|问题|顶以|题如"
+  ],
+  [
+   1795384646.7144191,
+   "13|17|2小|31|32|36|4E|6任|7任|9号|CX|E发|F3|L1|NR|OL|O猎|PC|RO|SF|SP|SS|Sp|US|XO|XS|ac|ce|eX|pa|一发|下同|两次|仅3|从加|任务|创下|加州|务从|务发|升空|发射|台两|台升|号火|同一|周转|射仅|射台|射间|小时|州4|快周|搭载|时创|最快|次发|火箭|猎鹰|的最|空距|箭搭|纪录|距U|转纪|载N|间的|鹰9"
+  ],
+  [
+   1795384648.0505655,
+   "02|0分|10|15|20|22|23|2年|3为|42|5倍|6月|8满|98|一个|一年|三周|上周|不确|不过|业务|个战|个股|为一|为上|主经|买入|了逢|五飙|交易|人工|仍存|仍然|仓已|仓水|以来|但目|低买|低水|体投|体股|依然|倍美|偏好|偏高|储预|充分|入场|入的|入美|全球|其风|写道|冲基|净卖|净杠|减仓|减风|几项|出现|出空|出规|分1|分市|分接|则达|创造|利润|到2|削减|前仍|力反|力整|加息|务数|动市|动率|升至|单周|卖出|即衡|历史|反弹|发生|口该|可能|史极|周五|周出|周美|周规|味着|售潮|商业|团交|国个|国股|在不|在几|场出|场已|场时|场正|基本|基金|多头|多少|多空|够带|大幅|大阻|头买|头交|头卖|好的|存在|定性|对冲|将继|少利|尚未|工智|巨额|已大|已经|已连|已降|市场|市持|带来|幅削|平仍|平依|平基|平对|平高|年6|年以|广泛|弹所|当充|性入|性撤|恐慌|息而|意味|慌性|慌指|战术|所需|投资|抛售|持仓|指数|指标|据显|接近|推动|提醒|撤退|敞口|数周|数据|整体|时点|易的|易部|是多|显示|智能|更广|最低|最高|月以|有力|未发|未来|本面|术性|机不|杆率|杠杆|来多|来最|来能|极端|标已|模则|模是|正接|水平|泛投|波动|润仍|满分|潮创|点但|然偏|率即|率恐|现净|现有|球股|生高|略基|的1|的净|的单|的指|的更|的波|的股|的良|盛交|盛的|盛集|目前|相当|着推|确定|示全|票减|票市|票的|空头|空策|端水|第三|策略|纪商|经相|经纪|继续|续加|续第|美国|美联|美股|者恐|者持|而巨|联储|股市|股抛|股票|股空|能够|能尚|能投|至4|至9|良机|行主|行提|衡量|规模|计将|认为|该行|资未|资者|达到|过该|近一|近历|这意|连续|退可|造了|逢低|道对|部门|醒整|重大|量其|金已|金的|门写|门认|阻力|降至|险偏|险敞|集团|需的|面多|项重|预计|额人|风险|飙升|高水|高盛|高美|高这"
+  ],
+  [
+   1795384649.5072496,
+   "02|12|20|28|29|2月|8年|9年|Da|In|Ma|Ro|av|az|a表|dh|eM|en|es|hi|il|lI|ll|me|nd|nt|nv|ou|st|s首|tm|ts|un|ve|za|zz|一周|一系|上周|下周|不如|与其|专业|业基|中获|为对|乏坚|买入|买家|于加|于许|五年|些问|交易|人工|仍存|仍维|从可|仓位|仓结|他投|以及|以确|会但|但其|但当|位并|低点|信股|假期|储正|催化|先美|入因|入场|入机|其他|其次|其直|冲基|决的|决而|出看|列问|利好|到大|到解|前市|剧烈|力1|加息|动中|包括|化一|化因|卖出|即将|压力|去的|又没|及市|可能|同时|告诉|员建|周又|周市|周得|周期|周美|周那|和2|售对|回报|因假|因此|因素|国即|在下|在同|在太|在重|场仍|场对|场正|场环|场的|坚定|基金|境存|处于|复杂|多专|多悬|大规|太多|好催|好的|如通|存在|官D|定入|实际|客户|家缺|对2|对于|对冲|对较|将杠|将被|将进|尽管|工智|差异|已将|已经|市场|市已|席执|常是|年人|年低|年和|并已|并认|底R|底股|度悲|建议|异首|当前|得到|恐慌|息以|息周|悬而|悲观|慌通|户上|执行|抄底|投资|抛售|报的|括通|持仓|持相|接抄|新买|新质|无法|时消|明确|易员|易周|易部|是良|普遍|智能|最剧|最终|月加|有明|期其|期权|期而|未决|未来|机会|杂尽|权从|杆率|杠杆|来一|极度|构复|样的|模抛|次投|正在|正处|此高|没有|法在|波动|消化|点但|烈波|率降|环境|理由|理而|由高|疑这|的买|的交|的仓|的利|的恐|的最|的理|的重|的问|盛交|盛股|直接|相对|看跌|短的|确信|确的|示市|票不|票交|管对|系列|素买|终将|经理|经触|经过|结构|维持|缩短|缺乏|美国|美联|美股|者仍|者持|而未|而缩|而言|联储|股市|股票|股遭|胀压|能已|能投|至五|良好|获利|行官|表示|被迫|要差|观并|规模|解决|触底|言美|认为|议与|许多|诉客|质疑|资实|资者|跌期|较高|过卖|过去|这些|进入|迫重|通常|通胀|通过|遍极|遭到|那样|部门|都无|重新|重要|金普|金最|金经|门告|问题|际回|降至|难以|题包|题都|题难|首先|首席|高的|高盛"
+  ],
+  [
+   1795384822.736658,
+   "11|1月|48|49|7前|87|96|I初|MI|PM|业P|亚1|值4|全球|初值|利亚|制造|前值|大利|普全|月标|标普|澳大|球制|造业"
+  ],
+  [
+   1795384943.2230864,
+   "0个|0美|12|14|1月|1累|25|2月|2累|32|39|4加|50|57|5个|6加|75|77|7累|86|91|CM|E美|ME|不变|个基|为0|为3|为5|为8|为9|储1|储到|储观|利率|到明|加息|变的|基点|察美|年1|息2|息5|息7|持利|据C|明年|月维|概率|点的|率3|率不|率为|的概|累计|维持|美联|联储|观察|计加"
   ]
  ],
  "futu": [
-  "futu:1004831563",
-  "futu:1004830858",
-  "futu:1004830826",
-  "futu:1004829748",
-  "futu:1004829870",
-  "futu:1004829664",
-  "futu:1004829385",
-  "futu:1004829352",
-  "futu:1004828840",
-  "futu:1004894609",
-  "futu:1004894462",
-  "futu:1004895260",
-  "futu:1004896248",
-  "futu:1004895680",
-  "futu:1004896743",
-  "futu:1004896830",
-  "futu:1004897455",
-  "futu:1004896831",
-  "futu:1004897475",
-  "futu:1004905119",
-  "futu:1004904914",
-  "futu:1004904915",
-  "futu:1004904857",
-  "futu:1004904743",
-  "futu:1004904653",
-  "futu:1004904628",
-  "futu:1004904603",
-  "futu:1004904095",
-  "futu:1004904094",
-  "futu:1004903970",
-  "futu:1004903948",
-  "futu:1004903924",
-  "futu:1004903750",
-  "futu:1004903726",
-  "futu:1004903280",
-  "futu:1004903210",
-  "futu:1004903079",
-  "futu:1004902773",
-  "futu:1004902725",
-  "futu:1004902678",
-  "futu:1004902588",
-  "futu:1004902473",
-  "futu:1004902421",
-  "futu:1004902067",
-  "futu:1004902065",
-  "futu:1004901735",
-  "futu:1004901649",
-  "futu:1004901625",
-  "futu:1004901141",
-  "futu:1004900962",
-  "futu:1004900940",
   "futu:1004900897",
   "futu:1004900689",
   "futu:1004900651",
@@ -10918,37 +10873,60 @@
   "futu:1005282618",
   "futu:1005282411",
   "futu:1005282204",
-  "futu:1005282031"
+  "futu:1005282031",
+  "futu:1005285270",
+  "futu:1005288315",
+  "futu:1005288281",
+  "futu:1005288225",
+  "futu:1005288210",
+  "futu:1005288198",
+  "futu:1005288096",
+  "futu:1005288097",
+  "futu:1005288056",
+  "futu:1005287782",
+  "futu:1005287756",
+  "futu:1005287586",
+  "futu:1005287519",
+  "futu:1005287496",
+  "futu:1005287289",
+  "futu:1005287195",
+  "futu:1005287143",
+  "futu:1005286894",
+  "futu:1005286866",
+  "futu:1005286782",
+  "futu:1005286702",
+  "futu:1005286599",
+  "futu:1005286590",
+  "futu:1005286460",
+  "futu:1005286433",
+  "futu:1005286242",
+  "futu:1005286177",
+  "futu:1005286162",
+  "futu:1005286023",
+  "futu:1005285861",
+  "futu:1005285831",
+  "futu:1005285830",
+  "futu:1005285819",
+  "futu:1005285797",
+  "futu:1005285739",
+  "futu:1005285663",
+  "futu:1005285644",
+  "futu:1005285622",
+  "futu:1005285607",
+  "futu:1005285598",
+  "futu:1005285589",
+  "futu:1005285582",
+  "futu:1005285580",
+  "futu:1005285398",
+  "futu:1005285395",
+  "futu:1005285331",
+  "futu:1005285329",
+  "futu:1005285326",
+  "futu:1005285287",
+  "futu:1005285285",
+  "futu:1005285277"
  ],
  "news_recent": [
-  [
-   1794225232.7754366,
-   "drop nvidia premarket shares"
-  ],
-  [
-   1794225796.1817172,
-   "2027 500 8900 end expects global hit index outlook research ubs year"
-  ],
-  [
-   1794226149.2808266,
-   "again another bank bearish before benefiting bullish citi citing constructive decisively despite downgraded downgrades earnings equities europe european excluding expectations exposure fall further global investor lower meanwhile medium nasdaq neutral oil overweight positioning prices reduced remaining risks selling sentiment stable stocks tech technology term turning turns upgraded wants warns weakening"
-  ],
-  [
-   1794227568.4651823,
-   "$225 bbg billion cap drops market nvidia out pre wipes"
-  ],
-  [
-   1794227572.2658093,
-   "8tx google handle max specialized tasks tpu"
-  ],
-  [
-   1794227574.2437348,
-   "challenge google nvidia systems tpu two versions"
-  ],
-  [
-   1794227689.773143,
-   "$nvda affair board ceo chair chinese choices faces following former gary gensler huang investigation jensen nvidia sec spy tough"
-  ],
   [
    1794228069.458191,
    "$12 $135 $googl $nvda 2026 2028 8tx advanced alphabet anthropic apple around billion bloomberg certain challenges chip chips competitive computing cost customers efficiency escalates estimates google gpus greater include intelligence launching less major max meta nvidia offering openai oracle performance planning power purchases related reportedly sales secure specialized surge targeting tasks tpu tpus two war while workloads"
@@ -14120,6 +14098,34 @@
   [
    1795364387.9345393,
    "answers aware bessent business cbs committees confident determine level need nvidia secretary seeking swiftly treasury which"
+  ],
+  [
+   1795384651.275727,
+   "$andd $anuu access alerts anthropic bookmark disclosures etfs follow full https idiaowcd75 leverage leveraged long monday now public risk set shares short starts trading your ztrelsculi"
+  ],
+  [
+   1795384653.5741384,
+   "$tsla all best com elon https humanoid musk optimus product robot tesla time watcherguru"
+  ],
+  [
+   1795384655.5141609,
+   "blames com crashing democrats get https market only president stock trump watcherguru worse"
+  ],
+  [
+   1795384657.3410306,
+   "access advanced american china chips com confirms gained https intelligence watcherguru"
+  ],
+  [
+   1795384659.4099228,
+   "calls chief com development https limit openai scientist watcherguru"
+  ],
+  [
+   1795384661.368595,
+   "americans bkmne6xb59 bumps companies continue director disclose government here https intelligence may national outages prepare read road systems their upgrade warns while www"
+  ],
+  [
+   1795384762.9847343,
+   "$19 $57 100 500 amplify before billion bottom brutal but buying citing desk despite dip equities estimates extreme favors fed fragile further goldman high hikes leaving liquidity market month nasdaq near net nvidia october opportunities options outright past peak positioning possible potential put rate rebound remains sachs see selling selloff short since sold stock strategists street systematic thanksgiving their thin traders trading uncertain uncertainty vix volatility wall warn warns week"
   ]
  ],
  "opt_daily_embed": {
