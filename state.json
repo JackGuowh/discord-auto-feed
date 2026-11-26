@@ -86,12 +86,6 @@
   "rss:https://www.ftchinese.com/story/001111070"
  ],
  "truth": [
-  "truth:https://www.trumpstruth.org/statuses/42735",
-  "truth:https://www.trumpstruth.org/statuses/42736",
-  "truth:https://www.trumpstruth.org/statuses/42737",
-  "truth:https://www.trumpstruth.org/statuses/42738",
-  "truth:https://www.trumpstruth.org/statuses/42739",
-  "truth:https://www.trumpstruth.org/statuses/42740",
   "truth:https://www.trumpstruth.org/statuses/42741",
   "truth:https://www.trumpstruth.org/statuses/42742",
   "truth:https://www.trumpstruth.org/statuses/42743",
@@ -885,7 +879,13 @@
   "truth:https://www.trumpstruth.org/statuses/43731",
   "truth:https://www.trumpstruth.org/statuses/43730",
   "truth:https://www.trumpstruth.org/statuses/43729",
-  "truth:https://www.trumpstruth.org/statuses/43728"
+  "truth:https://www.trumpstruth.org/statuses/43728",
+  "truth:https://www.trumpstruth.org/statuses/43741",
+  "truth:https://www.trumpstruth.org/statuses/43740",
+  "truth:https://www.trumpstruth.org/statuses/43738",
+  "truth:https://www.trumpstruth.org/statuses/43736",
+  "truth:https://www.trumpstruth.org/statuses/43734",
+  "truth:https://www.trumpstruth.org/statuses/43733"
  ],
  "whitehouse": [
   "wh:https://www.whitehouse.gov/?p=53144",
@@ -910,32 +910,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3200046",
-  "wscn:3200115",
-  "wscn:3200114",
-  "wscn:3200113",
-  "wscn:3200112",
-  "wscn:3200111",
-  "wscn:3200107",
-  "wscn:3200105",
-  "wscn:3200103",
-  "wscn:3200102",
-  "wscn:3200100",
-  "wscn:3200095",
-  "wscn:3200138",
-  "wscn:3200131",
-  "wscn:3200128",
-  "wscn:3200148",
-  "wscn:3200147",
-  "wscn:3200146",
-  "wscn:3200145",
-  "wscn:3200144",
-  "wscn:3200183",
-  "wscn:3200223",
-  "wscn:3200222",
-  "wscn:3200215",
-  "wscn:3200214",
-  "wscn:3200213",
   "wscn:3200212",
   "wscn:3200208",
   "wscn:3200207",
@@ -1709,7 +1683,33 @@
   "wscn:3205944",
   "wscn:3205943",
   "wscn:3205942",
-  "wscn:3205941"
+  "wscn:3205941",
+  "wscn:3206475",
+  "wscn:3206464",
+  "wscn:3206435",
+  "wscn:3206335",
+  "wscn:3206334",
+  "wscn:3206265",
+  "wscn:3206263",
+  "wscn:3206260",
+  "wscn:3206231",
+  "wscn:3206228",
+  "wscn:3206225",
+  "wscn:3206223",
+  "wscn:3206211",
+  "wscn:3206210",
+  "wscn:3206202",
+  "wscn:3206197",
+  "wscn:3206183",
+  "wscn:3206182",
+  "wscn:3206177",
+  "wscn:3206176",
+  "wscn:3206174",
+  "wscn:3206159",
+  "wscn:3206126",
+  "wscn:3206114",
+  "wscn:3206113",
+  "wscn:3206112"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37644",
@@ -3045,7 +3045,9 @@
   "tg:WatcherGuru/16352",
   "tg:WatcherGuru/16351",
   "tg:WatcherGuru/16350",
-  "tg:WatcherGuru/16348"
+  "tg:WatcherGuru/16348",
+  "tg:WatcherGuru/16354",
+  "tg:WatcherGuru/16353"
  ],
  "tg:QuiverQuant": [
   "tg:Quiverquant/309",
@@ -3221,7 +3223,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1795664712.0822184,
+ "congress_last_check": 1795698939.560947,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3284,7 +3286,7 @@
   "movers_post:2026-11-23",
   "market_close:2026-11-25"
  ],
- "earnings_last_check": 1795665353.676288,
+ "earnings_last_check": 1795699629.665663,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3645,7 +3647,7 @@
   "er:2026-11-25:LI",
   "er:2026-11-25:BZ"
  ],
- "gas_last_check": 1795664714.1817913,
+ "gas_last_check": 1795698940.7602236,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3711,16 +3713,6 @@
   "gas:https://www.cganet.com/new-handbook-chapters-coming-soon/"
  ],
  "gas:Google 新闻": [
-  "gas:CBMinAFBVV95cUxQWUMwcy1CZVRma1dueXdIbGYxWGpmRWg2c2RwcERBM2NES2FLUnpFU1pxQmlxc0FpUFZRdUYxWUFCR2gzUVpBWjRmWDBxb0ppVzU2UUJlMzRmd1MwV3lvekFON3pPbVdUMUh4Y1RqOE1XeHlxeURhUlFmWU5tUTVBYnVzamVkTzJJbFZZY1dnTEVCcWlNdnV5d1kxTjU",
-  "gas:CBMimAFBVV95cUxNMTFYcWtBLURoQ29icUZqcUFBYmYyTDJnTjBCVGZpeGJLdEM0STM4WjF2SURtLXp5SlQxQzNVZml0UGd6TFBxaDV4Ym1LZWRZUmdPOTlCaVp2Q1MzcmZIeTJHOGljZ1FEQ1BFeVctbFNaRWFyNUtWbTJEUE9sb3YxSEFWVk5aQlFycGtTbXhLWHJYSkFtTXNyaA",
-  "gas:CBMikwFBVV95cUxQeTFkY3JSOVlTZG1MMkZIZ0o2NE5teWRhTE1YUmEwMlliX0FLX0pPdlJnQU1mb1U3Q3dZOXMtRWtnY1lCUXdHUnZuaDJSQWJENC1rVVEwUmpjdG9KckRRcFpXTGJIY3BYaUw1aWpOT0RnRWZPclR4LVBpYTk4cm5SbG13M0k1OUVxQTlMMWJfV1lybVE",
-  "gas:CBMipAFBVV95cUxPWnQ2Z3J2cGEyZHg0VlZSaFhtb0RPUmhjbmJiaXFJZ2pFU3dVX3VVNkRvT1poY2s0dFFnZW1oaDM5dS1vR2stQlQyeVhfTVdEQUFiYUVUTS0tMGlCMkU0TERUMTVRU1M0SHl3eUg5NF84OEdHeXBoVlJXbGs1Sng3VHNQWjBJeGduNFotY3hRU2pfLWtNWGlOYVQ1Wk5DaWx3ZVBKeQ",
-  "gas:CBMijAJBVV95cUxQdzBnSmxQeDBONTdDZm5fNFBPY0ZzbTNrbmZsTTd0T3JXWmZqaC1KSGxQRDdGNThiSkluTHktTEx5QjhKbmU2bHl0aWhMRGlJTVZmU0JjSmtWMnpySGViNld5UU5NeEsxa2ZsNzFzcy0xem0yeHlGOTlod215TzdFNkVmXzRGbktnbjVLV2lkNGliTEpkX2hjWmhENjRuZVV6cnBWRmZ5ajdKZlFzY1Z3RG9obzBXaGVUUlY5M1B2Q3pBTy1jMHZQd2xtLU41dmFERzNFUEhKYVRUUFVYcDZEQ0tTZTRrX1F5U0dqTkZSdlJKTVlRc3lKTXBEWFNPZGZwUlZaV25CemtsaDRW",
-  "gas:CBMi0AFBVV95cUxNT3dIY01JNUZWbU4xU1RNaVNLRkN6dlFzeTZrSXFUTlBFdjlaQ1dVbnowbnd0VG1kcU0tUjlEamQ3YmNVY3VDdFFza19NVktFaWJaaU1yUG55ZWFRMHhxQ2toN0xuSEVvZFN1TWlUTDl6RldmcktuSTczUnlGZEtwUWFOUmZkdVFNZWdISjY1ZDBvd3JrRzlJZUNaWFZUYy1vMVcxOUdnelFiN1NRYU9xcUFpeUMzbG5BTVN3Rjd0VW9EaGt1X3hLZnJzUFRMcHRF",
-  "gas:CBMinAFBVV95cUxOaE1xeHIxay1DbHpOYW5GUE55M0FlQWN6c19zSHI1NHhqNThZa015NXgxdDc0UTcwTG93R0RQdlNaZi1OVWU3a3ZucHZPS1k0QUNWOV8zd0k4cGo0b0VOaXkzYkZiOXpfczc1U3F0ZnBHR2VGRXkydXRnSUwzTC1NT3hlSFZSMUhLZDhsaDN5NkZoaS00cFZSWHJ0ZHY",
-  "gas:CBMiqAFBVV95cUxPNDVMTm40b3Y3VElEMVFxdjV6SXdwdWxGdWllUjJzVW9Gbnd6Yy1OdlB2WUZNZzNubVlLTkJ5cFRlRW9IR1BCZGlDcHd6VTA2TWRsQ2VBVGhXa1hkdENGbjVIZFFhZld5S3RWZ0VSRFZaQmt3dF9PZFFhVVEzQWFiMlJZeFpNTk5OYkZtdFRsemJSdFktWmQxQ3NLUHMwbHVtMjRXYUVvd1U",
-  "gas:CBMimwFBVV95cUxQRmRWanNfa3VOOW1DVlZ2U3pWcFdzWEJyc293RDBDRlkwVTFEd3lyV3U1ZHhIb3liN2ROM2p4QmZlQ0cxNUJFVWVHNlJWQXFUSS1lY2lnTnNtTmFtaTlEcENITHdVM0xVcUsxZWo2TE1lR2Exekh2eF9fUzh6R2JZMFJnbzdTWUFTLURldFNwa3p4VDZMc19CUDh4Zw",
-  "gas:CBMikgFBVV95cUxOb3JsRWdEWFh3V3NIbFpxeEJHcXduV19aVTdfWUsyNEhEbGhqOVlOWkE3emlOQlRFZjhadkVDMWNmM0htN0NhRDg4c0xidFBwU2dDV25wSUE1OGJTdUlzaUM4UG1haFBxNEdacEcwVWc1TzJDOWRQZWhGaUNaZmEwMmxCQ09iTWJSMERRbjloMXZhQQ",
   "gas:CBMinAFBVV95cUxNTU0zM0c5NS1DZzFFUFpBeEJoUzM1bjNaWnpESmVDSWloS2M5cGY4Z0dTMW5xa2JqeGNoUGd0cEFpNVpqZXpNbk1yUnN4ME0wLXhPRXV5NXMxc3VBZG5TWW5OdnBvbE5idGlGQWt6T2tsRVFjSC14UTRlall5aEJmRHRxR0ZWLS1TdElhQ0Zxb0cyMzZkd3l4QzBrQy0",
   "gas:CBMijgJBVV95cUxNWUwyM2xwX2VvYVZmRXV2TG9GX0NfcV9TZTJoRlNEaFBGSjk2M3hwYmkxelQzOWpaRF9ueV81YnQyazJFSm9BRDBFTlRmUTRCbm1qVmNaMHBscmd2dF9HM2ZmNmZabFBXSk5kUFU4OFR1ZEUtQVJRVHl4Nnl2bnBjSG9ZWkZSajFNQmFIZ0hCY1l0bndjcm50NEF4d1Q4Qk90eWJMRlhJd280NXVncmdaQTRMWHRwcW9pX2pMdl9qRHNBLVRNM2RVNGROU1lyWTU5YldWRko0NmY3ck5fMUEteFJaaGFaMHJSTVE4VHR0ZUR5Q1BTRXBMcldoWWlxRHBVeGV6dDBIenprNkVWSnc",
   "gas:CBMimwFBVV95cUxPUWZVMXFWTmVRcld2SzBfNnpFQldadkV0aVBuRWJxNDBpMEhCQWQ5ZmVOQ3UxVDhaOE0xbmpyZlVvbzUyUDV3aWoyeUNIRkRtWkVUWEljWjFPQW9qclJScHlHa1QzQVE5NmxMUU5LYXg5UnEwUkpoSnc1eXRhUGcyUURxOUZUVUl1SUJITHFvbEUtbHlNd2lrN1d1Zw",
@@ -4510,7 +4502,17 @@
   "gas:CBMingFBVV95cUxNUWNDLUNQM0NrLUhpNGhUaWFwcEdkcTRtR0FiWklzVVR3dVpZalYyeFU0RHEwdVVLQVhCSHZEcVlfSnZ1YmNfdGowbF9lY04zeTBrOHV4b1hvTnJXRGVVdTE0QnpnNzNTYXhKd1laZEhCb2ZHbVhvaTJhc1JLaGZhcjlwdkdraEthZGRfeHNxWkdTODgzLWhWNENWUkVVZw",
   "gas:CBMiuwFBVV95cUxQV3IzRHJUbElUYnk0OFRmQ19TeHlaZzd1Sm5WSC1yTDEtR2JTdjRVcFN6eVFoWlZwNzNnRE42ZmUydkRhRVRFTHRCUXR0WDRpZE5PY194NDZkQ1JaZnFsUkVnWk9tNmJVeXZYMWpaWHgyM2Y5Tkd4NmVJWmFob1paX0N3VGM2QTk2U2hBRW1xaTl2dEZHU3Q5MnBIWkFxOThMbG1vRmJNUFhheW5OclpVek1lSG5ULTlNc2hr",
   "gas:CBMikgFBVV95cUxORTZ1QmRhSUM0TnFuR1FLZlN3Tmx2Yy1sSlFkUVJZQVByXzBzOTh2YXkyUDR2bkNET0tnZng0ajZyWWZoNzQ0d2xhRHI5OTFBMVN5czNZZE0yN1FTejdJakY5WTF6Ynlheng2NWpKcDZkZUtndC1uekhlbGNIY3VlVHZuaXppYUFyenhsTlRMYWVuZw",
-  "gas:CBMiVEFVX3lxTE5yQlRpOW1IYjlaMS05bzYxRko2QWpRSnBzcHVoTjR1MDhyWEh3OEN5bGdiSXQwWVRFckx0b1ROaHMzY0RPZThYVzRxbmhBOTI1OU11OQ"
+  "gas:CBMiVEFVX3lxTE5yQlRpOW1IYjlaMS05bzYxRko2QWpRSnBzcHVoTjR1MDhyWEh3OEN5bGdiSXQwWVRFckx0b1ROaHMzY0RPZThYVzRxbmhBOTI1OU11OQ",
+  "gas:CBMiXkFVX3lxTE15TFFCYTJBVFFsVFZqblR3WlJqN0R3WDk5ajlMNWQzVVA4LXcxTGJHZlNSSmZyVVViUFdPeHo1Sy1BSE9zRnpMU1BkeTVrN041Z3ozWmdpTVEzdFJXd3c",
+  "gas:CBMimwFBVV95cUxPZmxlX3h0UnNTWUMtNlJHTHI5SkIxeVV6endjWjJiaWtuYkVQTDBkSWY1bVBkTVlrWHdDMVNIRkJlOEh1UlB4VEJzSGswMmxHZTNrU2FrSGxwVWtONTZqaU1ZeVVQXzZoN3dQOG4wTEszUmE2dUhvZGJPUzF3eGtuMkNEMTJlemoyY203dFBHUVhzUDlOQmpSUWNJSQ",
+  "gas:CBMitAFBVV95cUxQSUdmbFVPZFA0bGhXQlpJS3lTWkxWSXNFMlhxVWItWVR1aDhOMUNPSUFUMGJGVFhIcDJhcnFkd2hDc1NLcTctSXBMT2lSVzhmSE1DVzRqTE0wVGhtN3FYVVZiYm1NdFJlaWdvUU1RVDNzVEwzeHZXUkJEai1mT1BlWFRBbFVKaFVRWkpGb2tXbVE4SjdPTzNQellFcDFxUlExYzhZNXZlSFFGWVdBUmQ4UktPM2c",
+  "gas:CBMi-AFBVV95cUxOZGo2Mlh2YjAzWFlheHJtRU5YeHVYLVV6dXdJaVVxS2dLSWp4X2Z2LWEwdnB6SnV2TmlCZVhHSTEtMTE3UXdJczRxOTZBZVUtNG4xbFhZNmxUblR6SXJFS3RiYzg1NVpVQUtoMThPTzNNQU9SRGdkbHl1cmlCNkNpejhqcUJFblAtV1Juc3V3N2wwcWplMERWa0NZWGNRM3FzUjhxc3QtamxsZDBZRmZRT25EY0c2akxqTHJPYXZjaHlNellxTDBkWjhsSHZUWDc3OTBKV1dHZlg5eWR5VFhFLV80M0pYUFlOVFd0WC0zandqVm5zRnZhVg",
+  "gas:CBMirwFBVV95cUxPdUh3Wm02RExHSXlIblA3bXd0Y1lBVnBBaDNHc19WNERxX0pfXzJEaEM2VkppMGZLZEJ6YmtfT1dkUlh2Yk8xbV9tVThWYVYwWnRsNkYtLUxneHU2aUtPSmo1cTllYmkwY19valZMbklHSGZVUHBRTU85cmlmc0hBMlRHbUkxc0RyQXVRR3VMOGc0cHo0TWRsU1lydDlkbVMwMnNHRHFvcWJYMlRWRm93",
+  "gas:CBMieEFVX3lxTE8xc21LSGZCd3p3ZzR3RjFuMmMyU1JZNTVoaTQyVlR1VUNSeEVEcnN3OFFZRTRwMVdOMlJ0STFzMk9QSlFvS2UxQ0ZjMVhGRHd1Q3hUX2VZMTludndKOVpjUC13TU1oRzF0cksyTWpmNzdqMFNRQXZ4Mg",
+  "gas:CBMirAFBVV95cUxQVG5OWWplWGFjcjZWLXZlQUw5Q1NYTjRQS3JuTmMwWFVrRlhWTWd1S2VpRlRQYzlQM0QwdGU0S1piay11X1M4VXhLMWVBQmtvaUw1RmpoMGxLZFFFSDRpLW1zV05wUUU3ZlcxeXVYSW4tT0JaQUFQOEs0MHA2bmFoWlFBSG5yVEFaNWt2N0pYWVFBWGNBWm43NVlsMm9uUjFubVRqemJaM3hycmQ0",
+  "gas:CBMirAFBVV95cUxQZ1NpUWZXYzVzSlE4b0dSNWtZUmtTVDZWOGsxYktOd3JPUV9NMkJSeml0bEUxZS1fbjI4aEI0X2IxQUl3eFRFbmtwUEFQRlQzVGlBaTBpRUtaYVJGaDNDaWQ2UElteXpvMzhPZVo2cENid0hRUE9DS3lrcFZWZXFPY05Zb1EtVDJJUzlqWGdqSi03QVBlY0lQcEZoYTN6QllmaTJjRTZ2emI3cWsw",
+  "gas:CBMirgFBVV95cUxPa1NUMXlTM3JVSDdSTC13NUFHeEptM2FUNGlrUThXOXBOR2RPNjdwQnJSQ2w1YzktYkV6MGZMc2swd3RVbndtdlR2ZXhkbHF0bEswMmxFaW1ROHhQN0pfYzJYQ2Y0Y2JraEZWd1FxcWtzVmlydTJ3Q0VqODRBMVBieURJTURTRHFwWEdvYUhQUHkwcDFSX2NRQjl6UW1FUDBzYVJBNWRkQlpIZVRNb0E",
+  "gas:CBMiwAFBVV95cUxOZVdBbnhVOWowcXQxTV8yTWxWM2V1Zi1lcVdILTFUdGFzMlkyWVBFZXh4eVlvMnZLSEp6NHZfZlV4eTNwenRHbGdSQzdraU5USzBhZnFRZzJzM2tka0hVUTBUbHAzd3h6WTV6Zm5DWHFucmw4WUo2Uzh5U0RYZThqVklJTlVldy1TZC0zM1ZjWm4ycmVSOE40b3BZX0hlYm1GcVhaT181QXphQmRkV0JkellwX2ptV1NwMHQzai1Pa04"
  ],
  "shows_last_day": "2026-11-25",
  "shows_init": "2026-10-22",
@@ -5675,7 +5677,10 @@
   "tg:disclosetv/22252",
   "tg:disclosetv/22251",
   "tg:disclosetv/22250",
-  "tg:disclosetv/22249"
+  "tg:disclosetv/22249",
+  "tg:disclosetv/22258",
+  "tg:disclosetv/22257",
+  "tg:disclosetv/22256"
  ],
  "tg:insiderpaper": [
   "tg:insiderpaper/45467",
@@ -6341,7 +6346,18 @@
   "tg:insiderpaper/46152",
   "tg:insiderpaper/46151",
   "tg:insiderpaper/46150",
-  "tg:insiderpaper/46149"
+  "tg:insiderpaper/46149",
+  "tg:insiderpaper/46173",
+  "tg:insiderpaper/46172",
+  "tg:insiderpaper/46171",
+  "tg:insiderpaper/46170",
+  "tg:insiderpaper/46169",
+  "tg:insiderpaper/46168",
+  "tg:insiderpaper/46167",
+  "tg:insiderpaper/46166",
+  "tg:insiderpaper/46165",
+  "tg:insiderpaper/46164",
+  "tg:insiderpaper/46163"
  ],
  "opt_daily": "2026-11-25",
  "opt_flow_last": 1793045302.4056692,
@@ -6502,27 +6518,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/146897",
-  "tg:FinancialJuice/146896",
-  "tg:FinancialJuice/146895",
-  "tg:FinancialJuice/146894",
-  "tg:FinancialJuice/146893",
-  "tg:FinancialJuice/146892",
-  "tg:FinancialJuice/146891",
-  "tg:FinancialJuice/146890",
-  "tg:FinancialJuice/147003",
-  "tg:FinancialJuice/147004",
-  "tg:FinancialJuice/147005",
-  "tg:FinancialJuice/147009",
-  "tg:FinancialJuice/147008",
-  "tg:FinancialJuice/147007",
-  "tg:FinancialJuice/147006",
-  "tg:FinancialJuice/147012",
-  "tg:FinancialJuice/147011",
-  "tg:FinancialJuice/147010",
-  "tg:FinancialJuice/147032",
-  "tg:FinancialJuice/147031",
-  "tg:FinancialJuice/147030",
   "tg:FinancialJuice/147029",
   "tg:FinancialJuice/147028",
   "tg:FinancialJuice/147027",
@@ -7301,114 +7296,31 @@
   "tg:FinancialJuice/149840",
   "tg:FinancialJuice/149839",
   "tg:FinancialJuice/149838",
-  "tg:FinancialJuice/149837"
+  "tg:FinancialJuice/149837",
+  "tg:FinancialJuice/149892",
+  "tg:FinancialJuice/149912",
+  "tg:FinancialJuice/149911",
+  "tg:FinancialJuice/149910",
+  "tg:FinancialJuice/149909",
+  "tg:FinancialJuice/149908",
+  "tg:FinancialJuice/149907",
+  "tg:FinancialJuice/149906",
+  "tg:FinancialJuice/149905",
+  "tg:FinancialJuice/149904",
+  "tg:FinancialJuice/149903",
+  "tg:FinancialJuice/149902",
+  "tg:FinancialJuice/149901",
+  "tg:FinancialJuice/149900",
+  "tg:FinancialJuice/149899",
+  "tg:FinancialJuice/149898",
+  "tg:FinancialJuice/149897",
+  "tg:FinancialJuice/149896",
+  "tg:FinancialJuice/149895",
+  "tg:FinancialJuice/149894",
+  "tg:FinancialJuice/149893"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1794952110.6633813,
-   "00|05|07|0指|11|13|18|1个|3信|50|53|77|7电|7能|87|个板|信息|信板|全线|块全|块跌|息技|技术|技板|指数|收跌|数的|普5|术科|板块|标普|源板|电信|的1|科技|线收|能源|融板|跌0|跌1|跌金|金融"
-  ],
-  [
-   1794952112.650068,
-   "00|01|02|03|05|07|0E|0年|0指|10|11|13|14|16|17|1大|1恐|1月|1纳|1美|20|21|2罗|39|3日|3美|3黄|43|50|51|5标|62|68|6与|73|76|7日|7欧|9新|9美|ET|F做|F周|F巴|F收|F涨|F至|F跌|F领|TF|与小|二1|产E|产品|产类|价基|伦特|债2|债E|做多|元做|元指|克1|克莱|兴市|农产|可转|周二|品基|国债|国可|国国|国布|国房|地产|场E|基金|多收|多涨|多美|多跌|大类|大豆|小盘|巴克|市场|布伦|年E|恐慌|慌指|房地|指E|指数|收涨|收跌|数E|数做|数农|斯达|新兴|日元|日道|普5|月1|标普|欧元|油价|涨0|涨7|特油|盘股|类E|类资|素2|纳斯|罗素|美元|美国|美股|股大|股指|至多|莱美|豆基|资产|超1|跌0|跌1|跌美|跌超|转债|达克|道指|金E|金涨|金至|领跌|黄金"
-  ],
-  [
-   1794952114.1317704,
-   "11|14|17|1月|27|2点|36|43|48|62|74|7日|8报|二1|亚太|以来|价格|初以|动汽|博电|周二|回报|大跌|太盘|彭博|扩大|报2|报指|持续|指数|数跌|日彭|月1|来持|格回|汽车|点亚|电动|盘初|续扩|跌1|跌幅|车价"
-  ],
-  [
-   1794952117.232901,
-   "00|01|03|06|07|08|09|0亿|10|11|12|13|15|16|18|1亿|1分|20|23|25|26|27|2亿|31|33|39|3C|3亿|3同|47|49|4亿|4英|50|52|58|5亿|60|61|68|6亿|74|75|76|7亿|82|84|87|88|8亿|8美|8英|90|93|97|98|99|9N|9亿|9董|AI|Co|EP|Gr|Hy|I云|Ne|PS|S为|We|al|ap|av|bi|ca|cs|eW|ea|eb|er|e涨|e营|hi|ic|iu|le|or|pe|ph|ra|re|rs|sc|s涨|s营|us|ve|yp|一个|三季|业企|业营|个季|中位|中心|中间|为1|为2|为3|为9|之前|事会|云工|云服|亿1|亿美|价盘|企业|会批|伟达|位数|元A|元三|元之|元分|元季|元调|元超|元边|元预|准将|分析|利润|前一|务H|同比|后每|后毛|后涨|四季|回购|增幅|增长|大规|存3|季度|季环|将为|将股|工业|师预|幅指|幅预|库存|度G|度为|度库|度指|度数|度营|度计|度调|引中|引超|心营|批准|指引|据中|提高|收1|收4|收6|收8|收9|收季|收益|收超|数将|数据|整后|服务|期1|期7|期8|期9|期四|期的|期股|析师|模云|模提|每股|比增|毛利|润率|涨3|涨4|点将|率7|环比|的中|益E|盘后|票回|算网|算营|络营|缘计|网络|美元|股价|股收|股票|英伟|营收|董事|规模|计四|计算|调整|购规|超大|超预|边缘|达三|达盘|长1|长2|间点|预期|预计|高1"
-  ],
-  [
-   1794952118.6374145,
-   "04|05|0美|2前|30|32|43|53|AP|I会|I将|PI|业版|京时|会A|会员|前后|北京|协会|原油|发布|可在|后获|员最|周报|国石|在0|存周|将发|布行|库存|得数|报非|据详|提醒|数据|早可|时间|最早|油协|油库|版原|石油|美国|获得|行业|详情|醒北|间0|非A"
-  ],
-  [
-   1794952120.070155,
-   "Ru|Ve|aR|bi|er|in|n开|ra|ub|产品|们的|伟达|劲我|势头|品路|图进|头强|局势|展顺|开局|强劲|我们|的产|线图|英伟|路线|达V|进展|顺利"
-  ],
-  [
-   1794952121.5141604,
-   "CE|EO|Kr|OK|O黄|es|re|ss|s在|下路|临时|之上|于正|仁勋|伟达|况下|勋离|图处|在C|处于|开的|情况|时C|正轨|的情|离开|线图|英伟|路线|轨之|达临|黄仁"
-  ],
-  [
-   1794952122.9924538,
-   "0Q|10|Q报|伟达|周将|将披|报告|披露|数周|未来|来数|英伟|达未|露1"
-  ],
-  [
-   1794952124.4261036,
-   "00|0万|10|12|16|1万|22|27|2万|35|50|51|52|68|69|70|78|80|89|8万|91|96|AP|I原|I库|I成|I数|PI|一周|万桶|上周|业周|之前|会A|值2|值5|值8|分油|前一|前值|协会|原油|周8|周A|周报|周美|品油|国A|国上|国石|增超|存1|存3|存5|存增|库存|库欣|成品|报美|据显|数据|显示|桶上|桶之|桶前|桶美|桶馏|欣原|汽油|油协|油库|油汽|石油|示上|美国|行业|超5|馏分"
-  ],
-  [
-   1794952125.841425,
-   "17|26|4岁|54|6届|7日|一任|下午|为新|举正|举行|举马|了长|事务|于当|人选|以色|任以|任议|会举|会议|会选|体会|党提|党派|党议|全体|公开|军军|军前|军官|列各|列国|列空|列第|列议|利库|前以|前总|前政|功当|加迪|务部|午召|卡哈|参谋|及宗|发言|召开|各党|名央|名投|后举|员围|员阿|员马|和辩|哈纳|唱名|团议|围绕|国防|在正|地时|坦卡|埃森|夜以|天下|央视|奥哈|宗教|官及|导的|小时|尔奥|局等|届议|展开|岁曾|年5|库德|开了|开唱|开在|式投|当前|当地|当天|当选|德集|总参|成功|投票|接替|提名|政局|教事|数小|新一|新任|日深|时的|时间|曾任|替利|森科|正式|正直|派议|深夜|特领|现年|由以|的发|的正|直党|票前|票马|科特|空军|第2|等展|等职|米尔|纳为|纳全|纳成|纳现|纳由|绕议|职卡|色列|行全|行公|言和|议于|议会|议员|议选|议长|论随|谋长|辩论|达数|迪埃|选举|选当|选新|部长|长人|长加|长卡|长当|长接|长等|长达|间1|防军|阿米|随后|集团|领导|马坦"
-  ],
-  [
-   1794952127.3262153,
-   "AI|I版|Op|en|nA|pe|中的|主党|党调|司法|国司|在O|权纠|查美|民主|法部|版权|的角|纠纷|纷中|美国|角色|调查|部在"
-  ],
-  [
-   1794952129.8984902,
-   "AO|DA|NV|O其|VD|中包|交易|人士|会正|伟达|信息|公司|其中|券交|包括|华尔|司信|否误|员会|国证|在调|士称|委员|导投|尔街|息人|息披|投资|报消|披露|括该|据华|日报|易委|是否|查英|正在|消息|称美|美国|英伟|街日|证券|该公|误导|调查|资者|达N|露是"
-  ],
-  [
-   1794952131.3440716,
-   "00|02|04|07|0指|10|16|18|2纳|31|35|37|38|43|44|4S|4标|4联|4超|50|54|5英|64|66|6纳|6阿|74|76|77|89|8百|94|9京|AB|AN|AO|BA|BI|CI|CR|CX|DA|DO|DU|HN|ID|IO|JD|MC|MN|NH|NV|N跌|O涨|O跌|PC|RM|SM|SP|Sa|Sp|UN|UO|VD|XO|XS|ac|al|ce|eC|eX|es|fo|le|or|pa|rc|sf|东J|中国|二收|京东|伟达|健康|克中|初步|合健|周二|国金|巴B|巴巴|度B|康U|微电|指初|指数|指跌|收盘|收跌|数收|数跌|斯达|普5|标普|步收|涨3|电脑|百度|盘道|纳指|纳斯|美股|联合|股周|脑S|英伟|超微|跌0|跌1|跌3|跌4|跌5|跌7|跌9|达N|达克|道指|里巴|金龙|阿里|龙指"
-  ],
-  [
-   1794952132.840208,
-   "00|02|07|0指|10|16|1博|2光|2其|2纳|3L|3耐|4标|4美|4芯|50|64|74|Ci|Co|Cr|Lu|Sp|X涨|aC|ac|ce|do|eX|ed|en|er|he|ie|mC|me|na|nt|oh|o康|pa|re|tu|t涨|um|三大|上扬|个股|他个|低台|体收|信股|光科|光通|克综|克跌|其他|势小|博通|台积|合指|多数|大股|宁涨|小幅|幅上|康宁|扬C|技跌|指数|指集|收跌|数走|数跌|斯指|斯达|方面|普5|标普|涨超|片股|琼斯|电跌|科技|积电|纳斯|综合|美光|美股|耐克|股三|股多|股指|股方|股逆|芯片|走低|超2|超3|超6|跌0|跌1|跌超|跌近|跌道|达克|近1|近4|逆势|通信|通涨|道琼|集体|面S"
-  ],
-  [
-   1794952134.2605124,
-   "GO|OG|OO|OS|O谷|S系|iO|上线|于美|包现|国上|在i|已在|歌G|歌钱|现已|系统|统于|美国|谷歌|钱包"
-  ],
-  [
-   1794952135.7521923,
-   "GO|OG|OO|OS|Oi|S系|iO|不支|付功|功能|持触|支付|支持|歌G|碰支|系统|统不|触碰|谷歌"
-  ],
-  [
-   1794952137.2333753,
-   "3起|AA|AP|LO|O今|PL|中断|事件|今日|件得|到解|务中|已有|得到|断事|日已|有3|服务|果A|苹果|解决|起服"
-  ],
-  [
-   1794952138.6280982,
-   "02|09|0亿|10|11|15|1亿|20|27|3营|57|58|70|7财|8亿|91|AO|DA|NV|O2|Q3|VD|亿美|伟达|元去|元市|去年|同期|场预|市场|年Q|年同|收1|期1|期5|美元|英伟|营收|财年|达N|预期"
-  ],
-  [
-   1794952140.1376557,
-   "AO|DA|NV|O财|VD|一度|伟达|公布|升一|后盘|后短|布后|度涨|报公|拉升|涨超|盘后|短线|线拉|英伟|财报|超2|达N"
-  ],
-  [
-   1794952141.6011336,
-   "02|12|20|23|25|26|2月|3日|5美|6年|AO|DA|NV|O将|VD|于2|伟达|元的|发每|季度|将于|年1|度现|日派|月2|每股|派发|现金|的季|美元|股0|股息|英伟|达N|金股"
-  ],
-  [
-   1794952142.9979775,
-   "2N|CR|Co|Ne|O涨|RW|VO|WV|av|bi|eC|ea|eb|ew|iu|or|re|s涨|us|ve|we|上涨|云股|伟达|公布|后上|后美|国新|布后|报公|新云|涨C|涨超|盘后|美国|股盘|英伟|财报|超2|超3|达财"
-  ],
-  [
-   1794952144.4337518,
-   "02|0亿|20|27|60|7财|AO|DA|NV|O预|VD|亿美|伟达|余时|出将|剩余|将达|年剩|支出|时间|本支|美元|英伟|计2|财年|资本|达6|达N|间资|预计"
-  ],
-  [
-   1794952145.8235703,
-   "0亿|0月|10|11|18|25|5日|80|AO|DA|NV|O首|VD|与各|为1|亿美|伟达|保相|公司|关的|务官|口为|司与|各项|大总|官截|席财|总风|截至|担保|敞口|日公|最大|月2|的最|相关|美元|至1|英伟|财务|达N|险敞|项担|风险|首席"
-  ],
-  [
-   1794952147.2487586,
-   "00|0亿|0月|10|25|39|5日|90|AO|DA|NV|O首|VD|为3|产能|亿美|伟达|供应|公司|务官|及产|司未|各财|官截|席财|年的|应及|总额|截至|承诺|日公|月2|未来|来各|的供|美元|能承|至1|英伟|诺总|财务|财年|达N|额为|首席"
-  ],
-  [
-   1794952148.656438,
-   "00|0亿|20|AI|AO|DA|I云|NV|OV|Ru|VD|Ve|aR|bi|er|in|n平|ra|ub|且多|云基|云服|亿美|伟达|元化|元营|务商|劲且|及A|台环|商及|均贡|基础|增近|多元|大规|平台|强劲|态系|收超|新增|施生|服务|模云|比新|献强|环比|生态|础设|系统|统均|美元|英伟|营收|规模|设施|贡献|超大|达N|近2"
-  ],
-  [
-   1794952150.0620174,
-   "00|01|03|04|07|09|0跌|10|16|17|22|27|2美|3成|44|4标|4纳|4美|50|64|74|7微|92|个股|中英|交额|伟达|光科|公司|前个|司跌|国超|居前|微公|微软|成交|技跌|指收|指跌|收跌|普5|标普|科技|纳指|美光|美国|股中|英伟|超微|跌0|跌1|跌2|软跌|达跌|道指|额居"
-  ],
   [
    1794952151.4572086,
    "02|15|20|27|3营|5个|7财|AO|DA|NV|O2|Q3|VD|上限|个季|伟达|估上|出预|季度|年Q|度超|收连|第1|续第|英伟|营收|财年|超出|达N|连续|预估"
@@ -10504,60 +10416,113 @@
   [
    1795664752.5632522,
    "Sp|X股|ac|ce|eX|pa|两股|个孩|克美|国每|子都|孩子|将获|得两|斯克|每个|美国|股S|股票|获得|都将|马斯"
+  ],
+  [
+   1795698878.834966,
+   "00|0日|0月|0枚|10|16|19|1亿|21|25|30|50|5日|62|6亿|6战|9亿|F1|一项|不涉|丹麦|乌克|于向|亿多|亿美|从而|付不|以及|价值|任何|何美|供的|保障|值2|值6|元军|元的|元费|克兰|兰6|兰出|兰和|兰将|兰防|关服|关设|关贷|其应|军售|决定|准一|准向|准对|出售|划用|利时|利用|前和|力从|力美|加强|加拿|务声|务院|助资|升其|华社|及任|及欧|及相|及美|发表|向乌|和挪|和未|售5|售F|售将|售美|售计|国务|国和|国国|国政|国者|声明|备及|备总|多美|大德|威提|威的|威胁|完成|定批|对乌|对当|导弹|将利|将加|已决|应对|府资|弹及|强乌|当前|德国|总价|成此|战机|批准|护设|拿大|挪威|捐款|提供|提升|援助|支付|政府|新华|日发|日批|时丹|明说|月3|服务|未来|机保|来威|来完|来自|枚爱|次军|次采|欧盟|款以|款支|此次|比利|涉及|爱国|用于|用来|用由|由加|的军|的捐|的援|的能|盟相|相关|空能|维护|美元|美国|者导|而提|胁的|能力|自比|荷兰|表声|计划|设备|说乌|说已|购不|贷款|费用|资金|采购|金新|金来|金此|防空|院1|院2|院批|障维|项价|麦荷"
+  ],
+  [
+   1795698880.604192,
+   "00|03|0德|0月|0欧|10|12|15|20|28|29|2月|30|50|82|9日|Gf|K消|fK|一轮|下均|为北|了解|京时|以下|件微|价窗|休市|会议|信小|信心|全天|关注|内成|内请|北京|历了|发布|口2|启新|品油|因感|国1|国内|均为|天美|央行|定国|将开|小程|币政|市1|布1|序搜|开启|待定|微信|德国|心指|恩节|感恩|成品|指数|提醒|搜索|政策|数时|文件|新一|日内|日货|时间|更多|月2|月G|欧洲|油将|注以|洲央|消费|点关|的纪|程序|窗口|策会|索见|纪要|美股|者信|股因|节休|行发|要文|见闻|解更|议的|请重|调价|货币|费者|轮调|醒日|重点|间全|间待|闻历"
+  ],
+  [
+   1795698882.090235,
+   "00|03|07|0上|0年|12|13|19|20|25|26|2亿|2八|30|32|3理|42|5符|6G|6智|74|9恒|B化|CB|G要|PC|Sp|X股|ac|ce|eX|pa|一代|三部|上调|业态|业板|两位|两市|两股|个孩|中国|中性|为利|了三|云计|人工|亿元|从3|代通|位委|体走|余额|俄出|信网|元欧|先的|克美|八部|关服|冲高|准利|减少|出口|出欧|出海|创业|利率|到2|制制|制裁|加息|务出|务贸|务部|动云|化工|半日|单中|反对|口管|合预|员投|员田|商务|回落|团移|国商|国央|国每|型等|域服|培育|基准|大模|央行|妥有|委到|委员|子都|孩子|对马|寻求|将基|将玉|将获|少2|工智|工股|市融|平韩|年建|序推|建成|强恒|得两|微涨|快速|态6|性水|性能|总创|恒指|恒生|息认|想汽|成性|技指|投票|指冲|指半|指数|推动|提高|数涨|斯克|新一|新业|方将|日减|日本|日涨|早间|易新|昨日|智能|智谱|有序|服务|期两|本央|村直|来了|板指|树寻|模型|欢迎|欧方|欧盟|每个|水平|求快|汇总|汽车|沙集|沪深|派委|海培|涉俄|涨1|涨2|涨P|涨超|涨近|深两|清单|率从|率需|玉沙|理想|生科|田村|的新|盟涉|直树|相关|票反|科技|移出|稳妥|符合|等人|算大|管制|网沪|美国|股S|股票|股集|育人|能相|能领|至3|至中|获得|落微|融资|行将|行鹰|裁清|要来|要闻|计算|认为|调至|谱涨|贸易|资余|走强|超1|车涨|迎日|近1|通信|速加|部委|部欢|部门|都将|门稳|间要|闻汇|集体|集团|需提|韩国|预期|领先|领域|额昨|马斯|高回|高至|鹰派"
+  ],
+  [
+   1795698883.5382106,
+   "不允|东南|买家|亚出|亚新|亚的|他们|们的|伙伴|伟达|伴停|伴正|作伙|停向|停止|允许|公司|其合|出口|出货|制英|力遵|加坡|务器|努力|单发|南亚|印度|及其|发货|口限|可能|司已|合作|向东|告知|和印|和超|器可|器戴|器据|国和|国新|坡泰|守美|家英|将不|尔和|尼西|已告|度尼|微电|戴尔|报道|据报|新加|新浪|新的|时的|是暂|暂停|暂时|服务|来西|止向|正努|泰国|电脑|的买|的出|的新|的订|知合|知马|美国|能是|脑公|英伟|西亚|订单|许他|货服|货英|超微|达及|达将|达暂|达通|通知|道英|遵守|限制|马来"
+  ],
+  [
+   1795698885.0577688,
+   "02|0月|10|11|1月|20|25|4月|5年|AI|ET|F投|I交|I股|Ni|Pa|TF|al|an|ao|ea|ey|gi|gl|ig|ik|ir|ko|la|lm|lo|mo|ne|ni|og|ol|on|os|ou|re|rt|sP|tz|u为|y投|zo|一样|上写|下A|与过|两个|个月|为首|买盘|了创|了对|交易|人将|人持|人的|仓水|以N|份散|位低|低水|低迷|作后|例如|信号|入了|关税|内迎|写道|冲基|准1|创纪|利回|动下|包括|卖压|去风|反弹|号浮|后或|后投|吐去|向股|吸纳|告上|和实|和广|和散|售信|售卖|售阶|回吐|在1|在投|在报|在未|场布|场深|基金|大通|如2|实质|宣布|对冲|将在|将重|局A|市场|布后|布局|师在|年4|广度|度和|度都|式抛|弹以|弹投|录的|往的|情期|或疫|户投|户持|投入|投资|投降|抛售|报告|括杠|持仓|持续|推动|摩根|操作|散户|料A|料将|新进|易与|普遍|月1|月份|月关|月内|月普|期间|未来|杆E|杠杆|来两|来反|极低|样市|根大|段例|水位|水准|浮现|深度|现摩|略师|疫情|的投|的抛|的推|的策|的资|盘的|示在|票基|税宣|策略|纪录|纳了|续买|者向|股两|股料|股票|至极|获利|表示|质资|资人|资者|资金|跌至|过往|迎反|迎来|进场|迷和|通料|通表|遍获|道在|都跌|重新|金r|金包|金吸|金和|间一|阶段|降式|险操|风险|首的"
+  ],
+  [
+   1795698886.4833446,
+   "64|Ga|Tr|Xe|ad|at|a市|de|eG|et|e交|ra|te|tr|上涨|交易|价上|凌在|台较|在T|场收|市场|平台|收盘|易平|涨6|盘价|英飞|较X|飞凌"
+  ],
+  [
+   1795698888.0269287,
+   "2专|2据|2腾|4f|A类|DF|DS|Fl|Hy|SA|as|fl|h的|la|ly|sh|y2|y4|一代|上下|下文|专为|为D|介绍|代码|代草|元宣|元开|力大|及完|同步|和长|场景|型D|型和|大模|完整|宣布|布开|开源|意力|据介|整训|文场|新一|景设|权重|模型|步开|注意|混元|源D|源新|疏注|的权|码同|稀疏|稿模|类稀|练代|绍D|腾讯|草稿|计适|训练|讯混|设计|适配|配H|重及|长上"
+  ],
+  [
+   1795698889.4479167,
+   "00|02|0以|0元|10|12|1日|1月|20|27|2月|70|7年|AI|I模|一份|上默|为7|为总|为零|于今|今年|从2|以消|份腾|传方|位员|位试|使用|元子|元模|元默|先在|公司|内部|出申|分配|则上|则为|厂日|原则|可提|司非|员工|团非|在非|型如|型的|型需|型须|型额|型默|外部|外需|大厂|如需|子公|将于|岗位|工使|工原|工用|工的|年1|应额|度为|度分|度则|度按|度的|度计|总额|息所|所称|技术|披露|拟调|按照|据大|提出|整员|整将|方案|日爆|日率|日起|曝腾|月1|期间|术岗|案调|模型|求可|消息|混元|点期|点试|照网|爆披|率先|用A|用外|用自|申请|的1|的7|的一|的外|的额|相应|知腾|研混|称的|算外|网传|腾讯|自研|计算|认使|认总|认额|讯内|讯员|讯拟|讯集|试点|请据|请相|调整|调用|起员|通知|部模|部通|配从|间腾|集团|零额|需求|需申|需调|露的|非技|须申|额外|额度|默认"
+  ],
+  [
+   1795698890.9453824,
+   "12|2月|7日|Cr|F批|KN|NF|Un|di|ed|iC|it|ni|re|t已|一份|业银|东大|临时|举新|事会|于1|交割|代表|以改|件均|份声|会代|会以|会选|信银|入相|全部|兰金|关托|其收|准至|券账|前记|割所|召开|商业|国商|均已|声明|大会|完成|将于|已满|已获|已要|开临|彭博|得波|德国|成交|户彭|所需|托管|批准|换股|据一|收购|改选|新的|新股|日前|时股|明裕|月7|机构|条件|构K|根据|此其|求德|波兰|满足|的全|的换|的监|的证|监事|监管|相关|示已|管机|管银|约完|股东|股将|股要|至此|获得|融监|行U|行召|行新|行的|行表|行要|表根|表示|表裕|裕信|要求|要约|计裕|记入|证券|账户|购德|足预|选举|选监|部条|金融|银行|需的|预计"
+  ],
+  [
+   1795698892.568991,
+   "01|14|1关|1调|26|30|4个|6日|上来|上表|世贸|东在|严重|个经|中国|中方|为严|主义|举行|义行|事态|亚东|产能|人何|代表|会上|体加|何亚|例行|促美|保留|做法|公室|关注|关税|典型|内的|决反|决捍|决问|出对|切关|则中|利坚|到通|前宣|剩3|办公|加征|务部|包括|华社|协商|单边|卫自|反世|反对|发布|发言|取必|商务|商解|回到|国在|国等|国贸|国际|在2|在内|坏国|坚决|型的|宣布|室日|密切|对中|对包|对此|对美|对话|将密|展保|布产|布会|布拟|序严|当权|征3|必要|态进|拟议|括中|捍卫|措施|提出|敦促|新华|新闻|方3|方对|方将|方敦|方纠|施提|施的|日举|日前|易代|是典|权利|权益|来中|果发|查是|查结|正当|正确|正错|此坚|法回|注事|济体|济秩|留采|的1|的例|的单|的权|的正|益新|破坏|确轨|示美|秩序|税商|税针|等经|纠正|组织|织规|经济|结果|美国|美对|美方|能过|自身|行为|行新|行的|表办|表示|要措|规则|解决|言人|议措|话协|误做|调查|贸易|贸组|身正|轨道|边主|过剩|过对|进展|违反|通过|道上|部坚|部新|采取|重破|重违|针对|错误|问题|闻发|际经|题的"
+  ],
+  [
+   1795698893.9929721,
+   "0请|0这|20|40|一个|一方|一致|一轮|上协|不符|与此|两国|个伪|中国|中方|中美|为借|主持|了中|互惠|交部|产能|产自|人郭|他经|代表|以此|们已|任何|会彭|伪命|但美|体的|何一|何评|例行|倍至|借口|元首|公室|共同|共识|关税|关系|关问|其他|决有|划对|判破|利益|到如|前中|剩是|办公|加征|势中|华进|协商|协议|博社|卫自|及其|双方|反对|发展|发言|取必|口商|口进|可能|合任|同落|命题|品加|品的|品税|商品|商解|嘉昆|回应|国元|国及|国商|国宣|国谈|国贸|在平|场郭|基础|外交|天我|好两|如果|定发|实好|宣布|室称|对产|对以|对华|对此|将提|将继|尊重|展态|已经|布计|平等|应共|应在|应当|应美|弄双|强调|当共|当权|彭博|征新|必要|态势|惠的|成的|我们|战不|战贸|所谓|护中|持例|捍卫|据美|措施|提到|提问|提高|操弄|政治|新一|方利|方反|方将|方应|方提|方的|方立|方还|施捍|昆主|昆强|昆说|明了|易代|易战|昨天|是一|有何|有关|权益|果两|正当|此为|此前|此有|治操|济体|澎湃|率双|率可|率将|的协|的商|的基|的税|的重|益中|益郭|破裂|础上|社记|称对|税战|税据|税率|稳定|立场|符合|等尊|系稳|经济|经贸|经阐|继续|续采|维护|美双|美国|美方|美经|翻倍|者会|者提|能翻|能过|自中|自身|至2|至4|致但|落实|行政|行记|表办|裂该|要共|要措|解决|言人|计划|议一|记者|论昨|评论|识外|识维|该税|说澎|请问|调关|谈判|谓产|贸关|贸易|身正|轮关|达成|过剩|还提|这与|进口|进行|部发|部回|部对|郭嘉|采取|重互|重要|问外|问美|问题|阐明|题中|题所|首达|高中|高至"
+  ],
+  [
+   1795698895.4214098,
+   "00|0积|20|5折|6个|AI|AP|I和|I工|I平|I教|I权|PP|P产|P提|Qo|de|er|od|r2|r千|与阿|专属|个月|于教|云及|云相|云联|产品|付宝|件开|份认|优惠|会员|使用|供5|供6|供A|全国|公界|关产|关权|具及|内会|出A|出教|分支|力支|力资|办公|助手|千问|及千|及日|及算|及软|发千|取Q|取相|可通|可领|台与|台阿|合支|向全|员5|和算|品提|品教|国教|备课|学助|学备|完成|宝尊|宝推|宝面|对A|尊师|属权|工具|师A|师可|师完|师对|师惠|师推|常办|平台|并领|开发|惠师|惠满|惠用|成身|手专|折优|持全|持科|推出|提供|支付|支持|教学|教师|日常|月内|权益|次权|此次|求千|涵盖|源的|满足|用于|用需|界面|疑及|的使|益提|益此|益涵|益阿|盖Q|相关|研编|科研|积分|程及|答疑|算力|编程|联合|认证|证并|课答|资源|足教|身份|软件|过支|通过|里云|问A|阿里|需求|面向|领取"
+  ],
+  [
+   1795698896.8192122,
+   "Or|ce|el|l出|rc|业银|主席|事会|任监|会主|信银|出任|商业|国商|寻求|德国|求让|监事|行寻|行裕|裕信|让O|银行"
+  ],
+  [
+   1795698898.238069,
+   "29|46|62|9彭|业银|例将|信银|升至|后升|商业|国商|在换|完成|对德|将在|彭博|德国|成后|持股|换股|比例|的持|约4|约完|股比|股要|至约|行对|行的|裕信|要约|银行"
+  ],
+  [
+   1795698899.7390902,
+   "0天|0月|10|11|12|1日|1月|24|25|2月|30|4日|5日|一封|下属|不再|主义|义援|于1|于美|人员|人士|人道|件显|全更|关闭|再按|划于|到解|前被|务院|动应|助官|勤人|十名|半数|华社|发布|发给|受资|名外|名消|后正|启动|告新|员多|员将|员的|响美|因资|国务|国国|国饥|在年|士的|士称|士美|外勤|多名|天后|始于|子邮|安全|官员|封电|将于|将在|将裁|尚未|属机|布粮|年底|年度|序不|应急|底前|度拨|式离|引多|影响|急关|息人|报告|报道|拨款|按计|据路|援助|援引|收到|政年|数十|数外|新华|新报|日发|日援|日收|早期|显示|更新|月1|月2|月发|月的|期预|未确|本财|机构|构2|构因|构被|构饥|款该|正式|消息|由于|电子|的一|的本|的话|知3|短缺|确认|示由|社1|离职|称受|程序|粮食|系统|给人|统网|缺将|缺影|网超|美国|职该|荒早|荒预|被裁|被迫|裁员|裁据|解雇|警机|警系|计划|认始|话报|该机|财政|资金|超半|路透|迫启|透社|通知|道主|道数|邮件|金短|闭程|院下|院尚|雇通|预警|食安|饥荒"
+  ],
+  [
+   1795698901.153086,
+   "11|1月|25|5日|一个|个大|事会|事务|五角|产法|仁勋|介入|会施|伟达|何介|入英|冷战|出一|务推|动用|动黄|勋复|华盛|压英|向英|员提|员曾|国国|国防|在特|复职|大楼|大胆|如何|媒爆|官员|府讨|引冷|想援|战时|报1|报道|据华|推动|提出|提议|援引|政府|料五|施压|日报|时五|时期|时法|普政|曾提|月2|朗普|期的|案施|楼官|法向|法案|爆料|特朗|生产|用战|的美|盛顿|美国|美媒|职时|胆设|英伟|董事|角大|讨论|议动|论如|设想|达事|达据|达董|道在|邮报|防生|顿邮|黄仁"
+  ],
+  [
+   1795698902.5742579,
+   "02|0日|11|18|1月|20|27|7年|8日|上军|上海|两军|中美|为准|举措|举行|了2|了中|了坦|了改|事安|交流|人陈|介绍|会议|估了|作小|全形|全磋|全行|全问|军事|军在|况1|况讨|准则|则年|务实|势进|双方|发言|商定|商情|国防|在上|坦诚|大校|央视|安全|定了|实建|小组|就中|工作|年工|年度|度执|建设|形势|性的|情况|执行|措商|改进|新闻|方就|日中|日至|曦大|月1|校双|流评|海上|海举|海空|的举|的交|相遇|磋商|空安|空相|组会|绍中|美两|美海|至2|行为|行了|行会|行情|视军|言人|讨论|议国|议议|议题|论了|设性|评估|诚务|进中|进行|遇安|部介|部新|问题|闻发|防部|陈曦|题央|题的"
+  ],
+  [
+   1795698903.9875379,
+   "12|2月|6月|Sp|X成|X的|X股|ac|ce|eX|pa|一步|一的|一股|万倍|万分|下个|下进|两股|个孩|个月|中的|为多|之一|也将|于下|些目|人来|人的|人类|他本|们的|价值|份将|份此|但存|倍这|倍马|值也|值有|儿童|克1|克在|克表|全球|公司|其价|其艰|分之|利用|到当|到期|前全|前马|功实|司一|名儿|后转|向美|哪怕|因此|国每|国的|在实|在宣|在明|多行|太阳|如果|始向|子下|子转|子都|存在|孩子|它们|定期|实现|宣布|将于|将在|将获|将达|布美|帖子|年6|并利|建议|开始|当前|径因|得两|怕百|总量|成为|成功|我建|手中|持有|斯克|明年|星物|显然|月开|月转|月锁|有手|有望|望达|期到|期后|未来|本人|来S|来自|极其|果S|标显|此前|此我|步评|每个|每名|济总|济的|然极|物种|现它|现让|球经|用哪|百万|的价|的太|的孩|的帖|的百|的股|的路|目标|示美|票一|票未|票的|种并|称如|童都|类成|经济|继续|续持|美国|股S|股份|股来|股票|能量|自S|自他|自公|艰难|获得|行星|表示|让S|让人|让来|议继|论称|评论|路径|转让|达到|这些|进一|都将|量其|量的|锁定|阳能|难但|马斯"
+  ],
+  [
+   1795698905.3547792,
+   "00|01|0亿|1拟|30|一直|一道|上新|与中|业合|东推|中对|中推|中方|中美|为中|为尽|举行|了豁|于3|于扩|亚东|产品|产能|人何|人表|亿美|今天|们注|企业|会上|何亚|作提|例行|供相|保持|元对|免希|共同|关于|内部|切的|利于|利益|到美|剩3|加快|务部|动吉|动安|动对|单产|双方|发布|发言|可预|合中|合作|合安|吉隆|同推|品进|商务|商联|团队|在商|在就|地实|坡经|境符|大双|天举|央视|安排|定可|实施|实有|密切|对3|对稳|对等|将为|就该|尽快|布会|布的|希望|序与|延期|快内|快落|意到|我们|扩大|拟议|持着|排中|排尽|排继|推动|措施|提供|政策|新闻|方一|方企|方加|方发|方注|方的|方经|方认|方贸|施中|施商|施在|施央|易我|有利|望美|期将|期的|沟通|注意|清单|环境|的产|的例|的利|的政|的沟|益中|直在|相对|着密|磋商|示中|程序|税安|税清|稳定|符合|等降|策环|经贸|继续|续延|美中|美元|美双|美方|联合|能过|落地|落实|行了|行新|行的|表示|言人|认为|议措|该问|豁免|贸团|贸易|贸磋|过剩|进行|通关|道共|部今|部新|部望|部程|问题|闻发|队一|降税|隆坡|预期|题保"
+  ],
+  [
+   1795698906.942044,
+   "11|1月|26|6日|一代|一线|一群|与一|中马|为一|为员|云来|云现|云笑|交流|产在|享的|人员|人马|代芯|传平|位与|分享|创始|到平|加油|劲据|即马|发人|合影|员加|员工|哥员|哥在|哥最|在即|在工|大拇|头哥|始人|工位|工分|工加|工程|巴创|巴巴|师交|平头|年轻|影照|拇指|指为|据网|新一|日阿|最新|月2|来到|油鼓|流合|照片|片1|片中|片量|现身|的照|着竖|研发|程师|竖起|笑着|线研|网传|群年|芯片|起大|身为|轻工|里巴|量产|阿里|马云|鼓劲"
+  ],
+  [
+   1795698908.3597114,
+   "02|0月|10|1亿|20|27|31|7年|一期|一步|与饮|业百|东市|东新|东生|两年|事集|事食|二期|于2|产仅|产基|产将|产线|产食|亿元|仅两|仓储|代化|企业|储包|储存|元启|关设|再次|力澎|加码|务能|动山|动百|包装|化对|化薯|北华|华东|华北|原料|启动|品与|品山|团再|团宣|团投|地二|场的|基地|增现|套建|存等|宣布|对华|将进|山东|市场|布投|年1|年百|并配|建成|建设|强化|成投|投产|投资|料企|料储|新增|施项|明年|智能|月建|服务|期投|期项|次加|步强|澎湃|片生|现代|生产|百事|的服|目建|目预|相关|码山|等相|线并|继一|能仓|能力|薯片|装车|计于|计明|设施|设智|设继|资3|车间|进一|配套|间原|集团|项目|预计|食品|饮料"
+  ],
+  [
+   1795698909.8569925,
+   "AI|Ag|I人|I研|Qw|en|ge|nt|n北|n团|t和|we|与推|个岗|主要|人才|今年|从多|位涉|体A|全球|前Q|力度|加大|加码|北美|及模|名A|向全|吸纳|员目|和数|团队|在北|型研|处猎|多个|多处|多模|大招|头获|岗位|峰网|已吸|已开|年已|度主|开放|态智|悉阿|才雷|招聘|据等|推理|放多|数据|数百|方向|智能|模型|模态|正在|涉及|猎头|球顶|理多|百名|目前|码北|研究|究员|究训|等方|级A|纳数|练与|网从|美加|美团|美招|聘Q|聘力|能体|获悉|要面|训练|里加|里正|队今|队已|阿里|雷峰|面向|顶级"
+  ],
+  [
+   1795698911.330368,
+   "Cl|Cu|Lt|Ri|Zo|aC|ar|ch|dC|di|dy|d表|ha|ia|ic|k在|k表|k还|la|od|rd|rk|st|td|to|us|yL|y首|一发|一方|下加|业务|中表|了应|事件|交易|产托|人姓|人试|以及|们已|件地|件导|件并|侵公|侵其|信息|入侵|全事|全措|公司|公开|关监|关闭|其平|分客|分软|前的|加密|务联|包括|及少|发现|发生|取了|取的|可公|台后|台并|司Z|司发|司周|司平|名和|后采|员工|周一|和员|和电|团旗|图入|在声|地址|址C|声明|外的|够访|姓名|子公|子邮|安全|官R|实施|客户|密资|对措|导致|少数|工信|工的|已经|席执|平台|并实|并能|并通|应对|开获|彭博|息包|息泄|我们|户信|户和|户并|打旗|打集|托管|执行|括关|括可|据泄|据目|授权|措施|数客|数据|料以|方入|施C|施包|施额|旗下|明中|易彭|有人|有发|有限|未经|机构|权的|构根|构资|查没|根据|没有|泄露|渣打|现有|生安|生数|生未|电子|的一|的业|的交|的安|的客|的机|的调|监管|目前|相关|知相|示公|示我|示未|管公|管子|管机|系人|系客|经授|经联|联系|能够|致部|获取|行官|表示|访问|试图|调查|资产|资料|软件|还表|通知|邮件|部分|采取|闭部|问有|限的|集团|露Z|露渣|额外|首席"
+  ],
+  [
+   1795698913.6424234,
+   "AI|Da|I相|Re|Sc|av|ch|dR|de|ee|er|es|hr|id|od|ro|rs|s撰|s经|vi|一现|上而|下股|不能|与人|且仍|个市|中在|为在|主要|也只|人工|仍在|企且|会促|会是|低的|使美|便美|促使|停紧|储放|储暂|储真|充道|全面|关的|内通|出近|利率|到缓|升的|即便|去同|变政|变美|只会|同等|向股|周期|售主|售往|售潮|喘息|因美|国内|国国|在与|在实|在提|在攀|在过|场的|增长|外里|学家|实里|实际|家戴|宽政|崩盘|工智|市场|市所|市的|市表|并不|并支|往会|往往|很难|得到|得的|得过|德投|怕也|怕很|恐怕|息恐|戴维|所获|投资|抛售|指出|振经|提振|撑股|撰文|攀升|支撑|改变|放宽|政策|整个|文指|斯D|斯表|斯认|斯还|方向|施罗|旨在|昙花|是昙|显得|景下|智能|暂停|期而|期股|模的|此外|此轮|济增|济学|潮恐|然而|率显|现实|现然|疲软|的全|的喘|的抛|的改|的现|的疲|的股|的背|盘此|相关|真的|示在|票上|等规|策方|策旨|紧缩|经济|维里|缓解|缩周|罗德|美国|美联|而得|而此|而非|联储|股市|股票|胀高|背景|能A|能改|花一|获得|补充|表现|表示|要集|规模|解里|认为|资S|轮抛|软并|过低|过去|近期|还补|通胀|道即|里斯|长并|际利|难因|集中|非整|面崩|高企"
+  ],
+  [
+   1795698915.2144728,
+   "Ve|dh|el|en|ho|ld|n的|ov|ve|一定|一步|上嫉|不平|不是|中包|中双|中受|举措|了威|于荷|些能|产的|从中|他们|他盟|们并|们非|件技|价值|会表|但他|但目|位于|作关|作并|使荷|值的|做到|先进|公司|兰及|兰和|兰政|兰贸|兰费|关系|其中|其他|具价|内但|出口|则对|到在|制其|制多|制美|制造|制阿|前双|力他|力掌|加强|包括|协调|及其|及的|双方|反对|受益|口管|司所|司构|合作|周四|和阿|售的|四在|围舍|国加|国在|国并|国旨|国的|国进|在一|在自|在良|在议|在通|域外|境内|备的|备荷|外管|多边|大臣|好的|妒荷|威胁|嫉妒|定程|家欧|对先|对该|对这|将抵|将这|尔德|己境|希望|常希|平等|并不|并没|并称|应都|府反|府表|度上|强对|德斯|德霍|总部|成了|所拥|所涉|所生|技术|抵制|拟议|拥有|括总|掌握|措并|握在|政府|斯马|斯麦|方本|方的|旨在|易大|是费|最具|有做|有的|望将|本应|术管|术能|板美|构成|案所|案迫|欧洲|步限|没有|法案|洲最|涉及|片制|生产|的举|的公|的出|的合|的域|的技|的拟|的老|的芯|的阿|益但|盟国|目前|硬件|示将|示美|示荷|称美|程度|管制|管辖|系中|美国|老板|胁美|能从|能力|臣舍|自己|舍尔|良好|芬V|芬的|芯片|范围|荷兰|表示|规则|议会|议规|设备|该法|调法|贸易|费尔|辖范|边协|过硬|这些|这家|进一|进设|迫使|通过|造设|部位|都能|销售|阿斯|限制|霍芬|非常|马周|马表|麦公|麦所|麦销"
+  ],
+  [
+   1795699503.8250413,
+   "与大|中国|事任|事调|人事|任中|任可|任命|任武|任生|伟冰|伟汇|兼任|冰汇|分管|刘伟|副总|区域|区总|卢伟|发布|可穿|同时|向王|向集|命张|命陈|命集|团副|团发|团总|团高|国区|域总|大家|家电|小米|布最|张雷|态链|总经|总裁|总部|戴部|手机|报任|报同|报张|担任|整王|新人|时兼|时继|晓雁|最新|机部|武汉|汇报|汉区|波担|王晓|理向|生态|电部|穿戴|管生|米人|米集|级副|经理|继续|续兼|裁任|裁刘|裁卢|裁手|裁王|调整|部与|部向|部大|部小|部总|链部|陈波|雁分|雁汇|集团|雷同|雷担|高级"
   ]
  ],
  "futu": [
-  "futu:1005227251",
-  "futu:1005227217",
-  "futu:1005227174",
-  "futu:1005227097",
-  "futu:1005227073",
-  "futu:1005227024",
-  "futu:1005226907",
-  "futu:1005226833",
-  "futu:1005226821",
-  "futu:1005257169",
-  "futu:1005257122",
-  "futu:1005256795",
-  "futu:1005256424",
-  "futu:1005255987",
-  "futu:1005255674",
-  "futu:1005255668",
-  "futu:1005255615",
-  "futu:1005255275",
-  "futu:1005254927",
-  "futu:1005254902",
-  "futu:1005254638",
-  "futu:1005254447",
-  "futu:1005254414",
-  "futu:1005253547",
-  "futu:1005253490",
-  "futu:1005253478",
-  "futu:1005253394",
-  "futu:1005252827",
-  "futu:1005252452",
-  "futu:1005252421",
-  "futu:1005252360",
-  "futu:1005251269",
-  "futu:1005250564",
-  "futu:1005250539",
-  "futu:1005249697",
-  "futu:1005249470",
-  "futu:1005248734",
-  "futu:1005247569",
-  "futu:1005247541",
-  "futu:1005247385",
-  "futu:1005246590",
-  "futu:1005246450",
-  "futu:1005245755",
-  "futu:1005245375",
-  "futu:1005245352",
-  "futu:1005244867",
-  "futu:1005244339",
-  "futu:1005243414",
-  "futu:1005241989",
-  "futu:1005241822",
-  "futu:1005241789",
   "futu:1005240596",
   "futu:1005239145",
   "futu:1005238539",
@@ -11306,29 +11271,60 @@
   "futu:1005687397",
   "futu:1005686837",
   "futu:1005687244",
-  "futu:1005687192"
+  "futu:1005687192",
+  "futu:1005744836",
+  "futu:1005757454",
+  "futu:1005756569",
+  "futu:1005756052",
+  "futu:1005755992",
+  "futu:1005755864",
+  "futu:1005755821",
+  "futu:1005755388",
+  "futu:1005755318",
+  "futu:1005755020",
+  "futu:1005754691",
+  "futu:1005754336",
+  "futu:1005754259",
+  "futu:1005754112",
+  "futu:1005753995",
+  "futu:1005753793",
+  "futu:1005753572",
+  "futu:1005753487",
+  "futu:1005753488",
+  "futu:1005753481",
+  "futu:1005753231",
+  "futu:1005753221",
+  "futu:1005753209",
+  "futu:1005753200",
+  "futu:1005753165",
+  "futu:1005753158",
+  "futu:1005753142",
+  "futu:1005753134",
+  "futu:1005753109",
+  "futu:1005752970",
+  "futu:1005752499",
+  "futu:1005752468",
+  "futu:1005751918",
+  "futu:1005751145",
+  "futu:1005750116",
+  "futu:1005749964",
+  "futu:1005749539",
+  "futu:1005749497",
+  "futu:1005749217",
+  "futu:1005749167",
+  "futu:1005749087",
+  "futu:1005748951",
+  "futu:1005748498",
+  "futu:1005748152",
+  "futu:1005747573",
+  "futu:1005747426",
+  "futu:1005747249",
+  "futu:1005746838",
+  "futu:1005745658",
+  "futu:1005745522",
+  "futu:1005745367"
  ],
  "news_recent": [
-  [
-   1794340648.8067834,
-   "americans diesel ease fuel headed market official prices russian water which"
-  ],
-  [
-   1794340651.012057,
-   "anthropic before ipo microsoft office rivaling tools unveils"
-  ],
-  [
-   1794340654.2243192,
-   "500 down extend fall pct spx stocks"
-  ],
-  [
-   1794340656.719455,
-   "$42 010 above absorb adding auction back basis before bid billion bonds borrowing costs cover debt demand demanded equity fell high higher investor investors issued notes point pressure previous ratio sees signaling sold tailed tops treasury valuations weaker when year yield yields"
-  ],
-  [
-   1794340658.6482785,
-   "accounting address alleged american calls defense democratic espionage failure foreign full huang industry leader needed nvidia schumer senate tech troubling trump"
-  ],
   [
    1794340660.8855436,
    "$nvda according accused acting admitted affair all andrew attorney available believe board but ceo chinese company compromised cooperation cuomo espionage evidence examine executive firm former founder full governor helped hired hires huang investigate investigation jensen joon kim law led lipton national nvidia pledged puts reason scrutiny secrets security street times top under unprecedented wachtell wall who york"
@@ -14508,6 +14504,26 @@
   [
    1795664709.0641363,
    "bandwidth boost capacity effective high kioxia memory nvidia partner ssds"
+  ],
+  [
+   1795698917.6643906,
+   "$nvda chips containing countries following halt indonesia malaysia manufacturing nvidia orders partners servers shipments singapore thailand"
+  ],
+  [
+   1795698920.848969,
+   "breaking chips containing financial indonesia malaysia manufacturing nvidia partners reported servers shipping singapore stop thailand times told"
+  ],
+  [
+   1795698923.4676785,
+   "china com https insiderpaper measures necessary read tariffs warns"
+  ],
+  [
+   1795698926.3798661,
+   "com https insiderpaper japan read regrettable tariffs"
+  ],
+  [
+   1795698929.5777783,
+   "anymore can doubling economy expert gdp got growth hide mainstream massive media nearly predictions revised roaring shattering trump"
   ]
  ],
  "opt_daily_embed": {
@@ -14518,5 +14534,5 @@
    "text": "数据：Cboe / Yahoo Finance · 股票期权看跌/看涨比 > 0.8 偏恐慌，< 0.5 偏贪婪（仅供参考）"
   }
  },
- "opt_daily_posted": "2026-11-18"
+ "opt_daily_posted": "2026-11-26"
 }
