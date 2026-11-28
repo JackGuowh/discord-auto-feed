@@ -910,9 +910,6 @@
   "wh:https://www.whitehouse.gov/?p=52736"
  ],
  "wscn:us-stock-channel": [
-  "wscn:3200879",
-  "wscn:3200876",
-  "wscn:3200873",
   "wscn:3200869",
   "wscn:3200868",
   "wscn:3200867",
@@ -1709,7 +1706,10 @@
   "wscn:3207240",
   "wscn:3207239",
   "wscn:3207238",
-  "wscn:3207237"
+  "wscn:3207237",
+  "wscn:3207318",
+  "wscn:3207307",
+  "wscn:3207297"
  ],
  "tg:WalterBloomberg": [
   "tg:WalterBloomberg/37644",
@@ -3238,7 +3238,7 @@
   "uw:trump-habba-50-million-doj-contract-unacceptable-reuters",
   "uw:97-percent-homeowners-below-market-mortgage-rate-economist"
  ],
- "congress_last_check": 1795819706.1105964,
+ "congress_last_check": 1795840700.3357222,
  "scheduler": [
   "movers_pre:2026-10-22",
   "market_fg:2026-10-22",
@@ -3307,7 +3307,7 @@
   "market_close:2026-11-27",
   "movers_post:2026-11-27"
  ],
- "earnings_last_check": 1795820386.8765056,
+ "earnings_last_check": 1795841355.1856527,
  "earnings_posted": [
   "er:2026-10-21:TSLA",
   "er:2026-10-21:META",
@@ -3668,7 +3668,7 @@
   "er:2026-11-25:LI",
   "er:2026-11-25:BZ"
  ],
- "gas_last_check": 1795819707.0941324,
+ "gas_last_check": 1795840701.2626176,
  "gas:GAWDA Media": [
   "gas:https://gawdamedia.com/?p=25066",
   "gas:https://gawdamedia.com/?p=25063",
@@ -3734,8 +3734,6 @@
   "gas:https://www.cganet.com/new-handbook-chapters-coming-soon/"
  ],
  "gas:Google 新闻": [
-  "gas:CBMisAFBVV95cUxQSHEwRy1EOWQxa0hDMjFsejhFVDFsZk5RMTBkbVQxQy12TGVGWU5Vak9HVVNzWElvOTZXUU5aLWhiejZoZjU1V0otSHZGTXBvenZybFcwRmZRV0R6b0F4dF9wZWR5aEpKYVhkWFpiU2xtbUZjZzNwdHdqVUxfUmswU3ZSdloxU2Z1UERkdVJ6SFBSQVI1WlYyQXN5VG9zY2lHbzBHcmV0aG1ZcENLc1NaRtIBtgFBVV95cUxQc1d5UzIyQ2hjUE9NRE1JQUpSOWJEM2xLN0tJZWZCWHBSS3p5WmMyd0FrZGJKTnFpOWxLd21abmFBR2RGbDFrczh6Zm1xdjV6MHVmQ3JlM0tGOG5TWFdDSXJhMmFqeG9WaDJSMkRfU0tfcE0xZXNwRTA1LVhqWHp1amhiUzhDa3FpeUhUTHgwUm5VQ24zRWxTYmE2bF9fOGthTWstRk5RbWc4YmRqbXpVNEpHN2ZNZw",
-  "gas:CBMinwFBVV95cUxNRWY1ZEpDV1l5dnhsRTh1TXFoOGliYnZXQ1JSQ3NpT04ySlpoWHNkZXh5U2ZaT2ZDVlJPNDlyUENSbXBRMnRFNkdzcGZBWXJXeFN3eC1jWlJFR1MxaG1MSXNaRXVqVzAtV0J5VXJvdmhJODdsM2UybE1vUU5mSDRLVFBaU2Nua095aldkMG9KZ2ZhRXhLbGRkekR6Wmh5YWc",
   "gas:CBMihgFBVV95cUxOSnJIRkZmV3hPcDJ1Y3Q2bGpjMC1EZTlqYVVSaGQ3TEc2UEJpZVRzU2Y4ckhJY0FzZmYzVXJLbXluRjREQnM5YXBIUUFjNGNjTjduNGhJM3U4aVR3NElGVmJib3phMjRJRmJiV2ptYjBhOUdXS28xbkNNMmYtN2JCWDdXV0d3dw",
   "gas:CBMidEFVX3lxTFA5Rk1VZ0lQbmt1dmFWMUowMEFNNFFTUDBVWWdrdkVUbVRJSktSQVdyS243VDZ1SnYzSjNweVlIcEw0WkJsMFhqNGlJX1V0bkFzQng3SWEwaHVvTmlVcThOTk9xQnVrQU9DRk8zVmU3SnhkYWZH",
   "gas:CBMioAFBVV95cUxOaE5DUHAySWkxMWJtSEE3TjlOZGdLUmM1aUtwS0lER2JBY3MwUTNWdmRiWDhRaGhXcHQ3SUtXeWEtcmtoVFN1SGJRQlBYaW1XeUtQdHpfZXlrNHA5QmVCcTc5T2kzZkctZVVZbUtjQjRsZ1JPWHl2MTRkcW9IS1BSOFprMFY2SU9HaGhRMjhyV0V3MTJabmxqb1lsLTkyTVFr",
@@ -4533,7 +4531,9 @@
   "gas:CBMi2wFBVV95cUxPYURVTTc0aEhyN21GUzY2dkdZeFE3V0VMbDZLTHpqaTNjRUNkSWJCUzFzcndmRG5Iem1nVVhLVnZpMWJ5QjhDc0lQMUk3MVlkSFFjeXF3b1A1bmdlbWVVeHNHVWd1UzVkZXBxV3liN19DeUFLTFlILXdHa0RIZDlQUVM3UmVkWmQxVWtOQkExcW8wVDJOODd6TFMxY0xuNXhZWW81YTUwRmw1MWJCUkl4R2FGWmZtVkYzMEJPN3Z1Y3B2aUhrcC15Ym1XTTBJSE8yQ3FidzJ6Q285TlU",
   "gas:CBMizgFBVV95cUxNTDduczRWN2g2eS11czZEck9rMjBPcE5iNFFzRmJwVGhNby1EaFp0R2FFcGdGcEtoME1UakNmbVpvTHZiRTMxa055ODBLNzRBOUxSTWRHa2pJLThycFhKMzZxaGlYVmk4VVlUZDQ0TVZmTVdTcl90T1pBY3ptRWhPc0xGUktfVlgtdnBRdkxTSF95UzFkV3RYUE9MUTcxUXhnTEIyTk56ZFFjZnUyQ2plbHQ1Zmw3U1V2TV9zX3hXclFhOExGRjN4QTlkWnBlUQ",
   "gas:CBMisgFBVV95cUxNZU14YjV2cGhFZ3VqVEd6d3pfTVBQU29PbHBubi1odUhHOGxicVhhZlllRHk1azFfVlh2ZllBeFpzMXVJSm93VW5SelFIMzdNYlJwcjZHLXlYMUdIX1psMHI3Q0N0bVRTR2RabE91ZmpuV1hOdlN0ZHpzRlBHbXFvajVpQmQ2U09NSjN3YXN3R2poNG9rRERlWGlHLTZJekE4NjdZdG8tMEF0enQzVTBRN1Rn",
-  "gas:CBMiVEFVX3lxTE1GeWVoWjBkcDFvSmZiMndrVlJLbWEweVBscHA2dzZFbDZ6NF9LZnZpYUxsTzhVUVBCUGhsX01PY05zcUpOSW02dFY4MjRtcEdTSVdGMA"
+  "gas:CBMiVEFVX3lxTE1GeWVoWjBkcDFvSmZiMndrVlJLbWEweVBscHA2dzZFbDZ6NF9LZnZpYUxsTzhVUVBCUGhsX01PY05zcUpOSW02dFY4MjRtcEdTSVdGMA",
+  "gas:CBMiwwFBVV95cUxPSnJhbU05NjJ3T2Y4OWVIc1k4ZUhiVnlvSmJlblNLalBqd3BiMEtjT2pPNEYzTkRmMVhkZmdDZURtQWZVdjJta3Z5NTVQY1Q1WGdDUWZmRHBTcjg0cnJIakFZd3RBNExORnEtNE02N3VXT3F4UG8zTGRrMWNDSVY2Wi1MVV8xdEE0OE5TdXVlZ0Q5c2JGU3UtT2pDX0tPQ2g0NFo1QnZFa0pkcVJNRUNOTjBaODUzSVRoVXNfOG5hRWRZOEk",
+  "gas:CBMinAFBVV95cUxQVW1FZlIyNC1ZYUktOG1NM09BWG55NzlheVNhNGdPSk1tVVNkT0w1RFFkOHp6Mzh6UXJ3blN5UDBXYU1BbUFBTW1ndlRteENMTXZsTkUxLWstclZxaGJkZEtnaUZZWXI3Yko3dGlaVG1uNDk1aF8tN251MlJyNWs4UWZVYU1tTzFNTzcxOW90RV9VdzFJSjdaNmlCa2o"
  ],
  "shows_last_day": "2026-11-27",
  "shows_init": "2026-10-22",
@@ -6586,7 +6586,6 @@
   "ONDS": 16.1
  },
  "tg:financialjuice": [
-  "tg:FinancialJuice/147245",
   "tg:FinancialJuice/147244",
   "tg:FinancialJuice/147243",
   "tg:FinancialJuice/147242",
@@ -7385,22 +7384,11 @@
   "tg:FinancialJuice/150037",
   "tg:FinancialJuice/150036",
   "tg:FinancialJuice/150035",
-  "tg:FinancialJuice/150034"
+  "tg:FinancialJuice/150034",
+  "tg:FinancialJuice/150054"
  ],
  "shows_v4": 1,
  "news_recent_zh": [
-  [
-   1795035780.0351818,
-   "AA|AP|LO|O所|PL|务均|均正|常运|所有|有服|服务|果A|正常|苹果|运行"
-  ],
-  [
-   1795035781.4865785,
-   "00|02|04|0指|11|13|16|1标|23|26|28|2英|35|3纳|42|50|5爱|5闪|6哔|6纳|8A|AM|AO|BI|DA|DK|DO|IL|IO|IQ|KO|LI|MD|ND|NV|O大|O涨|O跌|QO|SN|VD|三收|中国|伟达|克中|初步|周三|哔哩|哩B|哩哔|国金|大跌|奇艺|指初|指数|指涨|收盘|收跌|数跌|斯达|普5|标普|步收|涨0|涨超|爱奇|盘道|纳指|纳斯|美股|股周|艺I|英伟|超4|超5|跌0|跌1|跌2|跌超|达N|达克|迪S|道指|金龙|闪迪|龙指"
-  ],
-  [
-   1795035838.4256887,
-   "00|02|04|0指|11|1A|1标|1英|1苹|23|2芯|3权|3纳|3美|42|4S|50|5博|AM|D涨|MD|Sp|X涨|ac|ce|eX|pa|一道|三大|不一|亚马|伟达|光科|克综|分化|化英|博通|合指|多数|大股|小幅|尔跌|幅跟|技股|技跌|指收|指数|收盘|数涨|数走|数跌|斯指|斯达|普5|权重|果小|标普|涨0|涨超|涨跌|涨近|片股|特尔|现分|琼斯|盘涨|科技|纳斯|综合|美光|美股|股三|股多|股指|股表|芯片|英伟|英特|苹果|表现|走高|超1|超3|超5|跌0|跌1|跌不|跌近|跟涨|达克|达跌|近1|近3|近4|逊涨|通涨|道琼|重科|马逊|高亚"
-  ],
   [
    1795055162.130718,
    "00|02|05|07|0点|11|12|15|16|18|19|1月|20|21|22|23|24|25|26|27|2日|2纽|32|36|37|3周|3报|3点|3美|42|45|48|49|50|52|53|54|55|57|58|5在|5年|5美|5跌|60|68|6报|6金|72|73|75|78|79|7报|7点|80|83|85|8原|8报|8日|93|95|9月|9美|AR|A金|CA|CO|EX|ME|OM|RC|X铜|一线|三1|下跌|与矿|业指|中最|于2|亚太|交所|交易|京时|以来|价跌|位3|低位|元现|元盎|元磅|全天|全球|初以|北京|原材|司C|司亚|周三|商指|国际|在全|在美|场全|城金|天交|太早|太盘|尾盘|属与|市场|幅下|年9|开盘|开采|微幅|态持|所A|报2|报3|报4|报5|持微|持稳|持续|指数|收跌|数收|数跌|料指|日盘|日纽|早盘|时段|时跳|时间|易的|最低|月1|月2|期货|材料|来持|来维|段交|水至|点一|点亚|状态|现货|球市|白银|的纽|的费|盎司|盘中|盘以|盘初|盘时|盘现|矿业|矿开|磅在|稳于|约5|约尾|约证|约铜|纽约|线北|线美|续下|维持|美元|美股|股开|股时|至2|证交|货白|货跌|货黄|费城|超3|跌1|跌3|跌4|跌5|跌状|跌约|跌至|跌超|跌逼|跳水|近2|逼近|采商|金价|金属|金矿|金跌|金银|铜期|铜跌|银指|银跌|间0|际金|黄金"
@@ -10588,28 +10576,21 @@
   [
    1795819646.4101036,
    "11|12|1日|1月|21|2月|4日|BB|B评|一个|上调|下我|下降|不变|不损|不断|与罗|两周|两年|个等|中表|为匈|主权|予该|二次|于1|于投|于缓|五维|亚和|亚相|仍处|从负|们预|低一|低评|供支|保未|信用|债务|元区|入欧|入的|全球|公布|内的|内获|内阁|减预|划采|利B|利不|利主|利债|利加|利在|利的|制度|削减|前与|加入|务评|动匈|助于|匈牙|区标|区的|取措|变这|同时|周五|周内|和塞|和惠|和财|善的|围内|国仍|国的|在两|在声|在欧|塞尔|增长|声明|处于|大规|字并|字稳|完善|定惠|定理|害经|对匈|导的|将于|将匈|将有|将确|尔维|尔领|尼亚|展望|布对|年预|并为|并最|度和|当较|彼得|得的|得马|总理|惠誉|我们|扎尔|投资|持下|持匈|损害|推动|措施|提供|撑这|支持|支撑|政框|政风|整穆|断完|施削|日公|日将|时不|明中|明还|是匈|是总|是该|普全|普周|普在|最低|最终|月2|月4|有助|望从|未来|权信|来两|极评|架将|标提|标普|框架|模流|次积|欧元|欧盟|步下|流入|济增|牙利|球评|理彼|理由|用评|由是|的信|的内|的制|的支|的最|的目|的第|的评|盟资|目前|目标|相当|确保|示匈|积极|称在|稳定|稳步|穆迪|第二|等级|算赤|级不|级低|级匈|级和|级将|级展|级标|级目|级给|级范|级调|终推|经济|给予|维亚|维持|缓解|罗马|至稳|范围|获得|表示|规模|解财|誉评|誉预|计划|计将|计这|评估|评级|该国|调整|调至|负面|财政|资级|资金|赤字|较穆|还称|这将|这是|迪于|迪评|采取|金大|长并|阁计|降声|险同|面上|预算|预计|领导|风险|马尼|马扎"
+  ],
+  [
+   1795840693.0564678,
+   "02|20|26|27|6版|7日|一代|与供|与具|业大|业智|业正|业迈|业适|为骨|互联|五层|产业|代智|以汽|体系|供应|公开|共性|关键|具身|准体|分行|创新|制造|力支|加快|化高|协同|南2|南以|同等|向央|向新|向行|国加|国汽|场景|型与|基础|备互|大模|央视|将有|层架|工业|工艺|应用|应链|建汽|建设|开这|式公|式创|征求|快构|性关|意见|我国|技术|指南|据集|撑我|支撑|数据|新一|新指|新模|新细|新闻|方向|日汽|景新|智能|有力|术应|构为|构建|架构|架聚|标准|模型|模式|正式|求意|汽车|流与|点方|焦智|版征|物流|理智|用场|础共|稿向|等重|管理|系2|系建|细分|联工|聚焦|能制|能化|能物|能装|艺管|行业|装备|见稿|视新|设指|质量|身智|车产|车智|车行|迈向|这将|适配|造基|造新|造标|配五|重点|量数|链协|键技|集工|骨架|高质"
+  ],
+  [
+   1795840694.8030868,
+   "Bo|Gr|kB|ok|ot|ro|s时|ts|t分|t来|t然|t的|t目|一个|一整|一样|专门|个B|个管|人类|以让|们的|会开|体系|作它|作就|你可|你搭|你给|使用|像人|克G|克在|公司|具有|出一|分配|创建|协调|单个|可以|司一|司体|后你|员工|和协|器B|在使|大量|失彼|套完|如果|始顾|它们|它就|完整|就会|就像|工一|工作|建具|建出|开始|彼G|搭建|整套|整的|斯克|时重|是像|是让|有专|来监|果你|标是|样创|样如|此失|然后|理器|用G|的B|的公|的工|的是|的目|监督|目标|督和|管理|类公|类员|系马|给单|色的|要的|角色|让一|让你|调它|配大|重要|量工|门角|顾此|马斯"
+  ],
+  [
+   1795841112.6848407,
+   "01|02|05|08|09|0月|10|11|12|13|15|19|1万|1亿|20|26|28|2其|2利|2收|30|32|33|3利|3成|3销|41|4亿|4收|53|54|58|5万|64|67|6乘|6年|6销|7亿|80|86|89|8亿|8销|90|91|9亿|9成|万台|业利|东树|中1|乘联|产2|产3|亿元|会崔|元增|元降|入1|入9|入增|其中|分会|利润|发文|台同|同比|售利|售收|增1|增3|崔东|年1|成本|收入|文称|月汽|月的|本8|本9|本增|树1|树发|比降|汽车|润1|润2|润率|润降|率1|率3|生产|的汽|称2|联分|行业|车生|车行|销售|降1|降2|降3|降4|降5|降8"
   ]
  ],
  "futu": [
-  "futu:1005282031",
-  "futu:1005285270",
-  "futu:1005288315",
-  "futu:1005288281",
-  "futu:1005288225",
-  "futu:1005288210",
-  "futu:1005288198",
-  "futu:1005288096",
-  "futu:1005288097",
-  "futu:1005288056",
-  "futu:1005287782",
-  "futu:1005287756",
-  "futu:1005287586",
-  "futu:1005287519",
-  "futu:1005287496",
-  "futu:1005287289",
-  "futu:1005287195",
-  "futu:1005287143",
-  "futu:1005286894",
   "futu:1005286866",
   "futu:1005286782",
   "futu:1005286702",
@@ -11390,7 +11371,26 @@
   "futu:1005866653",
   "futu:1005865833",
   "futu:1005865790",
-  "futu:1005865760"
+  "futu:1005865760",
+  "futu:1005892677",
+  "futu:1005892632",
+  "futu:1005891916",
+  "futu:1005891434",
+  "futu:1005891276",
+  "futu:1005890658",
+  "futu:1005890640",
+  "futu:1005890477",
+  "futu:1005890286",
+  "futu:1005890006",
+  "futu:1005889761",
+  "futu:1005889596",
+  "futu:1005888580",
+  "futu:1005888379",
+  "futu:1005886445",
+  "futu:1005886301",
+  "futu:1005885555",
+  "futu:1005885408",
+  "futu:1005884559"
  ],
  "news_recent": [
   [
